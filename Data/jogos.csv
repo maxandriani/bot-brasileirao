@@ -1,0 +1,381 @@
+Rodada,Local,Data,Numero,Vencedor,TimeA,TotalGolsTimeA,TimeB,TotalGolsTimeB
+1,Arena Castelão - Fortaleza - CE,08/08/2020 19:00:00,9,Athletico Paranaense - PR,Fortaleza - CE,0,Athletico Paranaense - PR,2
+1,Couto Pereira - Curitiba - PR,08/08/2020 19:30:00,8,Internacional - RS,Coritiba - PR,0,Internacional - RS,1
+1,Ilha do Retiro - Recife - PE,08/08/2020 21:00:00,7,Sport - PE,Sport - PE,3,Ceará - CE,2
+1,Maracanã - Rio de Janeiro - RJ,08/09/2020 16:00:00,1,Atlético - MG,Flamengo - RJ,0,Atlético - MG,1
+1,Vila Belmiro - Santos - SP,08/09/2020 16:00:00,4,,Santos - SP,1,Red Bull Bragantino - SP,1
+1,Arena do Grêmio - Porto Alegre - RS,08/09/2020 19:00:00,6,Grêmio - RS,Grêmio - RS,1,Fluminense - RJ,0
+1,Nilton Santos - Rio de Janeiro - RJ,09/30/2020 21:30:00,2,Bahia - BA,Botafogo - RJ,1,Bahia - BA,2
+1,Neo Química Arena - Sao Paulo - SP,09/30/2020 21:30:00,5,,Corinthians - SP,0,Atlético - GO,0
+1,Hailé Pinheiro - Goiania - GO,12/03/2020 19:00:00,10,São Paulo - SP,Goiás - GO,0,São Paulo - SP,3
+1,Allianz Parque - Sao Paulo - SP,01/26/2021 20:00:00,3,,Palmeiras - SP,1,Vasco da Gama - RJ,1
+2,Nabi Abi Chedid - Braganca Paulista - SP,08/12/2020 19:15:00,14,,Red Bull Bragantino - SP,1,Botafogo - RJ,1
+2,Arena da Baixada - Curitiba - PR,08/12/2020 19:15:00,18,Athletico Paranaense - PR,Athletico Paranaense - PR,2,Goiás - GO,1
+2,Mineirão - Belo Horizonte - MG,08/12/2020 19:15:00,15,Atlético - MG,Atlético - MG,3,Corinthians - SP,2
+2,Olímpico Pedro Ludovico - Goiania - GO,08/12/2020 20:30:00,20,Atlético - GO,Atlético - GO,3,Flamengo - RJ,0
+2,Pituaçu - Salvador - BA,08/12/2020 20:30:00,17,Bahia - BA,Bahia - BA,1,Coritiba - PR,0
+2,Arena Castelão - Fortaleza - CE,08/12/2020 21:30:00,19,,Ceará - CE,1,Grêmio - RS,1
+2,Maracanã - Rio de Janeiro - RJ,08/12/2020 21:30:00,11,,Fluminense - RJ,1,Palmeiras - SP,1
+2,Morumbi - Sao Paulo - SP,08/13/2020 19:15:00,13,São Paulo - SP,São Paulo - SP,1,Fortaleza - CE,0
+2,Beira-Rio - Porto Alegre - RS,08/13/2020 19:30:00,16,Internacional - RS,Internacional - RS,2,Santos - SP,0
+2,São Januário - Rio de Janeiro - RJ,08/13/2020 20:00:00,12,Vasco da Gama - RJ,Vasco da Gama - RJ,2,Sport - PE,0
+3,Arena do Grêmio - Porto Alegre - RS,08/15/2020 19:00:00,26,,Grêmio - RS,0,Corinthians - SP,0
+3,Couto Pereira - Curitiba - PR,08/15/2020 19:30:00,28,Flamengo - RJ,Coritiba - PR,0,Flamengo - RJ,1
+3,Allianz Parque - Sao Paulo - SP,08/15/2020 21:30:00,23,,Palmeiras - SP,1,Goiás - GO,1
+3,Mineirão - Belo Horizonte - MG,08/16/2020 11:00:00,25,Atlético - MG,Atlético - MG,2,Ceará - CE,0
+3,São Januário - Rio de Janeiro - RJ,08/16/2020 16:00:00,22,Vasco da Gama - RJ,Vasco da Gama - RJ,2,São Paulo - SP,1
+3,Pituaçu - Salvador - BA,08/16/2020 16:00:00,27,Bahia - BA,Bahia - BA,2,Red Bull Bragantino - SP,1
+3,Maracanã - Rio de Janeiro - RJ,08/16/2020 18:00:00,21,Fluminense - RJ,Fluminense - RJ,2,Internacional - RS,1
+3,Olímpico Pedro Ludovico - Goiania - GO,08/16/2020 19:00:00,30,,Atlético - GO,1,Sport - PE,1
+3,Arena Castelão - Fortaleza - CE,08/16/2020 19:30:00,29,,Fortaleza - CE,0,Botafogo - RJ,0
+3,Vila Belmiro - Santos - SP,08/16/2020 19:45:00,24,Santos - SP,Santos - SP,3,Athletico Paranaense - PR,1
+4,Maracanã - Rio de Janeiro - RJ,08/19/2020 19:15:00,31,,Flamengo - RJ,1,Grêmio - RS,1
+4,Nabi Abi Chedid - Braganca Paulista - SP,08/19/2020 19:15:00,34,Red Bull Bragantino - SP,Red Bull Bragantino - SP,2,Fluminense - RJ,1
+4,Arena da Baixada - Curitiba - PR,08/19/2020 19:30:00,38,Palmeiras - SP,Athletico Paranaense - PR,0,Palmeiras - SP,1
+4,Hailé Pinheiro - Goiania - GO,08/19/2020 20:30:00,40,Fortaleza - CE,Goiás - GO,1,Fortaleza - CE,3
+4,Beira-Rio - Porto Alegre - RS,08/19/2020 20:30:00,36,Internacional - RS,Internacional - RS,3,Atlético - GO,0
+4,Nilton Santos - Rio de Janeiro - RJ,08/19/2020 21:30:00,32,Botafogo - RJ,Botafogo - RJ,2,Atlético - MG,1
+4,Neo Química Arena - Sao Paulo - SP,08/19/2020 21:30:00,35,Corinthians - SP,Corinthians - SP,3,Coritiba - PR,1
+4,Ilha do Retiro - Recife - PE,08/20/2020 19:15:00,37,Santos - SP,Sport - PE,0,Santos - SP,1
+4,Morumbi - Sao Paulo - SP,08/20/2020 20:00:00,33,,São Paulo - SP,1,Bahia - BA,1
+4,Arena Castelão - Fortaleza - CE,08/20/2020 20:00:00,39,Vasco da Gama - RJ,Ceará - CE,0,Vasco da Gama - RJ,3
+5,Arena da Baixada - Curitiba - PR,08/22/2020 16:00:00,48,Fluminense - RJ,Athletico Paranaense - PR,0,Fluminense - RJ,1
+5,Beira-Rio - Porto Alegre - RS,08/22/2020 19:00:00,46,Internacional - RS,Internacional - RS,1,Atlético - MG,0
+5,Hailé Pinheiro - Goiania - GO,08/22/2020 21:00:00,50,Goiás - GO,Goiás - GO,2,Atlético - GO,0
+5,Maracanã - Rio de Janeiro - RJ,08/23/2020 11:00:00,41,,Flamengo - RJ,1,Botafogo - RJ,1
+5,São Januário - Rio de Janeiro - RJ,08/23/2020 16:00:00,42,,Vasco da Gama - RJ,0,Grêmio - RS,0
+5,Morumbi - Sao Paulo - SP,08/23/2020 16:00:00,43,Palmeiras - SP,Palmeiras - SP,2,Santos - SP,1
+5,Nabi Abi Chedid - Braganca Paulista - SP,08/23/2020 16:00:00,44,Coritiba - PR,Red Bull Bragantino - SP,1,Coritiba - PR,2
+5,Ilha do Retiro - Recife - PE,08/23/2020 19:00:00,47,São Paulo - SP,Sport - PE,0,São Paulo - SP,1
+5,Arena Castelão - Fortaleza - CE,08/23/2020 20:00:00,49,Ceará - CE,Ceará - CE,2,Bahia - BA,0
+5,Neo Química Arena - Sao Paulo - SP,08/26/2020 21:30:00,45,,Corinthians - SP,1,Fortaleza - CE,1
+6,Nilton Santos - Rio de Janeiro - RJ,08/29/2020 17:00:00,52,Internacional - RS,Botafogo - RJ,0,Internacional - RS,2
+6,Maracanã - Rio de Janeiro - RJ,08/29/2020 19:00:00,51,Fluminense - RJ,Fluminense - RJ,2,Vasco da Gama - RJ,1
+6,Pituaçu - Salvador - BA,08/29/2020 19:00:00,57,,Bahia - BA,1,Palmeiras - SP,1
+6,Arena Castelão - Fortaleza - CE,08/29/2020 21:00:00,59,Fortaleza - CE,Fortaleza - CE,3,Red Bull Bragantino - SP,0
+6,Morumbi - Sao Paulo - SP,08/30/2020 11:00:00,53,São Paulo - SP,São Paulo - SP,2,Corinthians - SP,1
+6,Vila Belmiro - Santos - SP,08/30/2020 16:00:00,54,Flamengo - RJ,Santos - SP,0,Flamengo - RJ,1
+6,Couto Pereira - Curitiba - PR,08/30/2020 16:00:00,58,Coritiba - PR,Coritiba - PR,1,Sport - PE,0
+6,Olímpico Pedro Ludovico - Goiania - GO,08/30/2020 18:00:00,60,Ceará - CE,Atlético - GO,0,Ceará - CE,2
+6,Mineirão - Belo Horizonte - MG,11/18/2020 19:00:00,55,Athletico Paranaense - PR,Atlético - MG,0,Athletico Paranaense - PR,2
+6,Arena do Grêmio - Porto Alegre - RS,11/30/2020 18:00:00,56,Grêmio - RS,Grêmio - RS,2,Goiás - GO,1
+7,Arena Castelão - Fortaleza - CE,09/02/2020 19:00:00,69,Ceará - CE,Ceará - CE,1,Fortaleza - CE,0
+7,Maracanã - Rio de Janeiro - RJ,09/02/2020 19:15:00,61,,Fluminense - RJ,1,Atlético - GO,1
+7,Hailé Pinheiro - Goiania - GO,09/02/2020 19:15:00,70,Corinthians - SP,Goiás - GO,1,Corinthians - SP,2
+7,Arena da Baixada - Curitiba - PR,09/02/2020 20:30:00,68,,Athletico Paranaense - PR,1,Red Bull Bragantino - SP,1
+7,Pituaçu - Salvador - BA,09/02/2020 20:30:00,67,Flamengo - RJ,Bahia - BA,3,Flamengo - RJ,5
+7,Nilton Santos - Rio de Janeiro - RJ,09/02/2020 20:30:00,62,,Botafogo - RJ,0,Coritiba - PR,0
+7,Allianz Parque - Sao Paulo - SP,09/02/2020 21:30:00,63,,Palmeiras - SP,1,Internacional - RS,1
+7,Vila Belmiro - Santos - SP,09/02/2020 21:30:00,64,,Santos - SP,2,Vasco da Gama - RJ,2
+7,Arena do Grêmio - Porto Alegre - RS,09/03/2020 19:00:00,66,Sport - PE,Grêmio - RS,1,Sport - PE,2
+7,Mineirão - Belo Horizonte - MG,09/03/2020 20:00:00,65,Atlético - MG,Atlético - MG,3,São Paulo - SP,0
+8,Maracanã - Rio de Janeiro - RJ,09/05/2020 17:00:00,71,Flamengo - RJ,Flamengo - RJ,2,Fortaleza - CE,1
+8,Neo Química Arena - Sao Paulo - SP,09/05/2020 19:00:00,75,,Corinthians - SP,2,Botafogo - RJ,2
+8,Arena Castelão - Fortaleza - CE,09/05/2020 21:00:00,79,Santos - SP,Ceará - CE,0,Santos - SP,1
+8,Nabi Abi Chedid - Braganca Paulista - SP,09/06/2020 11:00:00,74,Palmeiras - SP,Red Bull Bragantino - SP,1,Palmeiras - SP,2
+8,Beira-Rio - Porto Alegre - RS,09/06/2020 16:00:00,76,,Internacional - RS,2,Bahia - BA,2
+8,Morumbi - Sao Paulo - SP,09/06/2020 16:00:00,73,São Paulo - SP,São Paulo - SP,3,Fluminense - RJ,1
+8,São Januário - Rio de Janeiro - RJ,09/06/2020 18:00:00,72,Vasco da Gama - RJ,Vasco da Gama - RJ,1,Athletico Paranaense - PR,0
+8,Olímpico Pedro Ludovico - Goiania - GO,09/06/2020 19:00:00,80,,Atlético - GO,1,Grêmio - RS,1
+8,Couto Pereira - Curitiba - PR,09/06/2020 20:30:00,78,Atlético - MG,Coritiba - PR,0,Atlético - MG,1
+8,Ilha do Retiro - Recife - PE,09/06/2020 20:30:00,77,Sport - PE,Sport - PE,2,Goiás - GO,1
+9,Arena da Baixada - Curitiba - PR,09/09/2020 17:30:00,88,,Athletico Paranaense - PR,1,Botafogo - RJ,1
+9,Hailé Pinheiro - Goiania - GO,09/09/2020 18:00:00,90,,Goiás - GO,3,Coritiba - PR,3
+9,Arena Castelão - Fortaleza - CE,09/09/2020 18:00:00,89,Fortaleza - CE,Fortaleza - CE,1,Sport - PE,0
+9,Morumbi - Sao Paulo - SP,09/09/2020 19:15:00,83,,São Paulo - SP,1,Red Bull Bragantino - SP,1
+9,Maracanã - Rio de Janeiro - RJ,09/09/2020 21:30:00,81,Flamengo - RJ,Fluminense - RJ,1,Flamengo - RJ,2
+9,Vila Belmiro - Santos - SP,09/09/2020 21:30:00,84,Santos - SP,Santos - SP,3,Atlético - MG,1
+9,Neo Química Arena - Sao Paulo - SP,09/10/2020 19:15:00,85,Palmeiras - SP,Corinthians - SP,0,Palmeiras - SP,2
+9,Beira-Rio - Porto Alegre - RS,09/10/2020 19:15:00,86,Internacional - RS,Internacional - RS,2,Ceará - CE,0
+9,Pituaçu - Salvador - BA,09/10/2020 19:15:00,87,Grêmio - RS,Bahia - BA,0,Grêmio - RS,2
+9,São Januário - Rio de Janeiro - RJ,09/10/2020 21:00:00,82,Atlético - GO,Vasco da Gama - RJ,1,Atlético - GO,2
+10,Arena da Baixada - Curitiba - PR,09/12/2020 16:30:00,98,Athletico Paranaense - PR,Athletico Paranaense - PR,1,Coritiba - PR,0
+10,Vila Belmiro - Santos - SP,09/12/2020 19:00:00,94,,Santos - SP,2,São Paulo - SP,2
+10,Maracanã - Rio de Janeiro - RJ,09/13/2020 16:00:00,91,Fluminense - RJ,Fluminense - RJ,2,Corinthians - SP,1
+10,Arena do Grêmio - Porto Alegre - RS,09/13/2020 16:00:00,96,,Grêmio - RS,1,Fortaleza - CE,1
+10,Mineirão - Belo Horizonte - MG,09/13/2020 18:00:00,95,Atlético - MG,Atlético - MG,2,Red Bull Bragantino - SP,1
+10,Pituaçu - Salvador - BA,09/13/2020 18:00:00,97,Atlético - GO,Bahia - BA,0,Atlético - GO,1
+10,Arena Castelão - Fortaleza - CE,09/13/2020 18:00:00,99,Ceará - CE,Ceará - CE,2,Flamengo - RJ,0
+10,Hailé Pinheiro - Goiania - GO,09/13/2020 18:00:00,100,Goiás - GO,Goiás - GO,1,Internacional - RS,0
+10,Allianz Parque - Sao Paulo - SP,09/13/2020 19:45:00,93,,Palmeiras - SP,2,Sport - PE,2
+10,Nilton Santos - Rio de Janeiro - RJ,09/13/2020 20:30:00,92,Vasco da Gama - RJ,Botafogo - RJ,2,Vasco da Gama - RJ,3
+11,Morumbi - Sao Paulo - SP,08/26/2020 19:00:00,103,São Paulo - SP,São Paulo - SP,1,Athletico Paranaense - PR,0
+11,Neo Química Arena - Sao Paulo - SP,09/16/2020 21:30:00,105,Corinthians - SP,Corinthians - SP,3,Bahia - BA,2
+11,Arena Castelão - Fortaleza - CE,09/19/2020 19:00:00,109,Fortaleza - CE,Fortaleza - CE,1,Internacional - RS,0
+11,Nabi Abi Chedid - Braganca Paulista - SP,09/19/2020 19:00:00,104,Red Bull Bragantino - SP,Red Bull Bragantino - SP,4,Ceará - CE,2
+11,Olímpico Pedro Ludovico - Goiania - GO,09/19/2020 21:00:00,110,Atlético - MG,Atlético - GO,3,Atlético - MG,4
+11,Arena do Grêmio - Porto Alegre - RS,09/20/2020 16:00:00,106,,Grêmio - RS,1,Palmeiras - SP,1
+11,Couto Pereira - Curitiba - PR,09/20/2020 16:00:00,108,Coritiba - PR,Coritiba - PR,1,Vasco da Gama - RJ,0
+11,Nilton Santos - Rio de Janeiro - RJ,09/20/2020 18:15:00,102,,Botafogo - RJ,0,Santos - SP,0
+11,Ilha do Retiro - Recife - PE,09/20/2020 20:30:00,107,Sport - PE,Sport - PE,1,Fluminense - RJ,0
+11,Maracanã - Rio de Janeiro - RJ,10/13/2020 18:00:00,101,Flamengo - RJ,Flamengo - RJ,2,Goiás - GO,1
+12,Ilha do Retiro - Recife - PE,09/23/2020 21:30:00,117,Sport - PE,Sport - PE,1,Corinthians - SP,0
+12,Beira-Rio - Porto Alegre - RS,09/26/2020 19:00:00,116,,Internacional - RS,1,São Paulo - SP,1
+12,Arena da Baixada - Curitiba - PR,09/26/2020 19:00:00,118,Athletico Paranaense - PR,Athletico Paranaense - PR,1,Bahia - BA,0
+12,Mineirão - Belo Horizonte - MG,09/26/2020 21:00:00,115,Atlético - MG,Atlético - MG,3,Grêmio - RS,1
+12,São Januário - Rio de Janeiro - RJ,09/27/2020 11:00:00,112,,Vasco da Gama - RJ,1,Red Bull Bragantino - SP,1
+12,Allianz Parque - Sao Paulo - SP,09/27/2020 16:00:00,113,,Palmeiras - SP,1,Flamengo - RJ,1
+12,Arena Castelão - Fortaleza - CE,09/27/2020 18:15:00,119,,Ceará - CE,2,Goiás - GO,2
+12,Olímpico Pedro Ludovico - Goiania - GO,09/27/2020 18:15:00,120,,Atlético - GO,1,Botafogo - RJ,1
+12,Vila Belmiro - Santos - SP,09/27/2020 20:30:00,114,,Santos - SP,1,Fortaleza - CE,1
+12,Nilton Santos - Rio de Janeiro - RJ,09/28/2020 20:00:00,111,Fluminense - RJ,Fluminense - RJ,4,Coritiba - PR,0
+13,Arena do Grêmio - Porto Alegre - RS,10/03/2020 17:00:00,126,,Grêmio - RS,1,Internacional - RS,1
+13,Allianz Parque - Sao Paulo - SP,10/03/2020 19:00:00,123,Palmeiras - SP,Palmeiras - SP,2,Ceará - CE,1
+13,Nabi Abi Chedid - Braganca Paulista - SP,10/03/2020 21:00:00,124,,Red Bull Bragantino - SP,0,Corinthians - SP,0
+13,Nilton Santos - Rio de Janeiro - RJ,10/04/2020 11:00:00,122,,Botafogo - RJ,1,Fluminense - RJ,1
+13,Couto Pereira - Curitiba - PR,10/04/2020 16:00:00,128,,Coritiba - PR,1,São Paulo - SP,1
+13,Maracanã - Rio de Janeiro - RJ,10/04/2020 16:00:00,121,Flamengo - RJ,Flamengo - RJ,3,Athletico Paranaense - PR,1
+13,Pituaçu - Salvador - BA,10/04/2020 18:15:00,127,Sport - PE,Bahia - BA,1,Sport - PE,2
+13,Arena Castelão - Fortaleza - CE,10/04/2020 18:15:00,129,,Fortaleza - CE,0,Atlético - GO,0
+13,Hailé Pinheiro - Goiania - GO,10/04/2020 18:15:00,130,Santos - SP,Goiás - GO,2,Santos - SP,3
+13,Mineirão - Belo Horizonte - MG,10/04/2020 20:30:00,125,Atlético - MG,Atlético - MG,4,Vasco da Gama - RJ,1
+14,Neo Química Arena - Sao Paulo - SP,10/07/2020 19:00:00,135,,Corinthians - SP,1,Santos - SP,1
+14,Maracanã - Rio de Janeiro - RJ,10/07/2020 19:15:00,131,Flamengo - RJ,Flamengo - RJ,3,Sport - PE,0
+14,Pituaçu - Salvador - BA,10/07/2020 19:15:00,137,Bahia - BA,Bahia - BA,3,Vasco da Gama - RJ,0
+14,Arena do Grêmio - Porto Alegre - RS,10/07/2020 19:15:00,136,Grêmio - RS,Grêmio - RS,2,Coritiba - PR,1
+14,Morumbi - Sao Paulo - SP,10/07/2020 20:30:00,133,São Paulo - SP,São Paulo - SP,3,Atlético - GO,0
+14,Hailé Pinheiro - Goiania - GO,10/07/2020 20:30:00,140,Fluminense - RJ,Goiás - GO,2,Fluminense - RJ,4
+14,Nilton Santos - Rio de Janeiro - RJ,10/07/2020 21:30:00,132,Botafogo - RJ,Botafogo - RJ,2,Palmeiras - SP,1
+14,Arena Castelão - Fortaleza - CE,10/07/2020 21:30:00,139,Fortaleza - CE,Fortaleza - CE,2,Atlético - MG,1
+14,Arena da Baixada - Curitiba - PR,10/08/2020 19:00:00,138,,Athletico Paranaense - PR,0,Ceará - CE,0
+14,Nabi Abi Chedid - Braganca Paulista - SP,10/08/2020 21:00:00,134,Internacional - RS,Red Bull Bragantino - SP,0,Internacional - RS,2
+15,São Januário - Rio de Janeiro - RJ,10/10/2020 17:00:00,142,Flamengo - RJ,Vasco da Gama - RJ,1,Flamengo - RJ,2
+15,Allianz Parque - Sao Paulo - SP,10/10/2020 19:00:00,143,São Paulo - SP,Palmeiras - SP,0,São Paulo - SP,2
+15,Couto Pereira - Curitiba - PR,10/10/2020 19:00:00,148,,Coritiba - PR,0,Fortaleza - CE,0
+15,Mineirão - Belo Horizonte - MG,10/10/2020 21:00:00,145,Atlético - MG,Atlético - MG,3,Goiás - GO,0
+15,Vila Belmiro - Santos - SP,10/11/2020 16:00:00,144,Santos - SP,Santos - SP,2,Grêmio - RS,1
+15,Maracanã - Rio de Janeiro - RJ,10/11/2020 16:00:00,141,Fluminense - RJ,Fluminense - RJ,1,Bahia - BA,0
+15,Olímpico Pedro Ludovico - Goiania - GO,10/11/2020 18:15:00,150,Atlético - GO,Atlético - GO,2,Red Bull Bragantino - SP,1
+15,Ilha do Retiro - Recife - PE,10/11/2020 18:15:00,147,Botafogo - RJ,Sport - PE,1,Botafogo - RJ,2
+15,Beira-Rio - Porto Alegre - RS,10/11/2020 20:30:00,146,Internacional - RS,Internacional - RS,2,Athletico Paranaense - PR,1
+15,Arena Castelão - Fortaleza - CE,10/11/2020 20:30:00,149,Ceará - CE,Ceará - CE,2,Corinthians - SP,1
+16,Allianz Parque - Sao Paulo - SP,10/14/2020 18:00:00,153,Coritiba - PR,Palmeiras - SP,1,Coritiba - PR,3
+16,Arena do Grêmio - Porto Alegre - RS,10/14/2020 19:15:00,156,Grêmio - RS,Grêmio - RS,3,Botafogo - RJ,1
+16,Vila Belmiro - Santos - SP,10/14/2020 20:30:00,154,Atlético - GO,Santos - SP,0,Atlético - GO,1
+16,Arena da Baixada - Curitiba - PR,10/14/2020 21:30:00,158,Corinthians - SP,Athletico Paranaense - PR,0,Corinthians - SP,1
+16,Mineirão - Belo Horizonte - MG,10/14/2020 21:30:00,155,,Atlético - MG,1,Fluminense - RJ,1
+16,Ilha do Retiro - Recife - PE,10/14/2020 21:30:00,157,Internacional - RS,Sport - PE,3,Internacional - RS,5
+16,Maracanã - Rio de Janeiro - RJ,10/15/2020 20:00:00,151,,Flamengo - RJ,1,Red Bull Bragantino - SP,1
+16,Hailé Pinheiro - Goiania - GO,10/16/2020 20:00:00,160,,Goiás - GO,1,Bahia - BA,1
+16,São Januário - Rio de Janeiro - RJ,11/19/2020 19:00:00,152,,Vasco da Gama - RJ,0,Fortaleza - CE,0
+16,Arena Castelão - Fortaleza - CE,11/25/2020 19:15:00,159,,Ceará - CE,1,São Paulo - SP,1
+17,Olímpico Pedro Ludovico - Goiania - GO,10/17/2020 19:00:00,170,,Atlético - GO,1,Athletico Paranaense - PR,1
+17,Maracanã - Rio de Janeiro - RJ,10/17/2020 19:00:00,161,,Fluminense - RJ,2,Ceará - CE,2
+17,Couto Pereira - Curitiba - PR,10/17/2020 19:00:00,168,Santos - SP,Coritiba - PR,1,Santos - SP,2
+17,Morumbi - Sao Paulo - SP,10/17/2020 21:00:00,163,,São Paulo - SP,0,Grêmio - RS,0
+17,Neo Química Arena - Sao Paulo - SP,10/18/2020 16:00:00,165,Flamengo - RJ,Corinthians - SP,1,Flamengo - RJ,5
+17,Beira-Rio - Porto Alegre - RS,10/18/2020 18:15:00,166,Internacional - RS,Internacional - RS,2,Vasco da Gama - RJ,0
+17,Nabi Abi Chedid - Braganca Paulista - SP,10/18/2020 20:30:00,164,Red Bull Bragantino - SP,Red Bull Bragantino - SP,2,Sport - PE,0
+17,Arena Castelão - Fortaleza - CE,10/18/2020 20:30:00,169,Fortaleza - CE,Fortaleza - CE,2,Palmeiras - SP,0
+17,Pituaçu - Salvador - BA,10/19/2020 20:00:00,167,Bahia - BA,Bahia - BA,3,Atlético - MG,1
+17,Nilton Santos - Rio de Janeiro - RJ,10/19/2020 20:00:00,162,,Botafogo - RJ,0,Goiás - GO,0
+18,São Januário - Rio de Janeiro - RJ,10/21/2020 21:30:00,172,Corinthians - SP,Vasco da Gama - RJ,1,Corinthians - SP,2
+18,Nabi Abi Chedid - Braganca Paulista - SP,10/24/2020 17:00:00,174,Red Bull Bragantino - SP,Red Bull Bragantino - SP,2,Goiás - GO,0
+18,Arena Castelão - Fortaleza - CE,10/24/2020 19:00:00,179,Ceará - CE,Ceará - CE,2,Coritiba - PR,1
+18,Mineirão - Belo Horizonte - MG,10/24/2020 21:00:00,175,,Atlético - MG,0,Sport - PE,0
+18,Olímpico Pedro Ludovico - Goiania - GO,10/25/2020 16:00:00,180,Palmeiras - SP,Atlético - GO,0,Palmeiras - SP,3
+18,Maracanã - Rio de Janeiro - RJ,10/25/2020 16:00:00,171,Fluminense - RJ,Fluminense - RJ,3,Santos - SP,1
+18,Arena da Baixada - Curitiba - PR,10/25/2020 18:15:00,178,Grêmio - RS,Athletico Paranaense - PR,1,Grêmio - RS,2
+18,Beira-Rio - Porto Alegre - RS,10/25/2020 18:15:00,176,,Internacional - RS,2,Flamengo - RJ,2
+18,Arena Fonte Nova - Salvador - BA,11/11/2020 18:45:00,177,Bahia - BA,Bahia - BA,2,Fortaleza - CE,1
+18,Morumbi - Sao Paulo - SP,12/09/2020 21:30:00,173,São Paulo - SP,São Paulo - SP,4,Botafogo - RJ,0
+19,Nilton Santos - Rio de Janeiro - RJ,10/31/2020 17:00:00,182,,Botafogo - RJ,2,Ceará - CE,2
+19,Neo Química Arena - Sao Paulo - SP,10/31/2020 19:00:00,185,Corinthians - SP,Corinthians - SP,1,Internacional - RS,0
+19,Couto Pereira - Curitiba - PR,10/31/2020 19:00:00,188,Coritiba - PR,Coritiba - PR,1,Atlético - GO,0
+19,Arena Castelão - Fortaleza - CE,10/31/2020 21:00:00,189,Fluminense - RJ,Fortaleza - CE,0,Fluminense - RJ,1
+19,Ilha do Retiro - Recife - PE,11/01/2020 16:00:00,187,Sport - PE,Sport - PE,1,Athletico Paranaense - PR,0
+19,Maracanã - Rio de Janeiro - RJ,11/01/2020 16:00:00,181,São Paulo - SP,Flamengo - RJ,1,São Paulo - SP,4
+19,Vila Belmiro - Santos - SP,11/01/2020 18:15:00,184,Santos - SP,Santos - SP,3,Bahia - BA,1
+19,Hailé Pinheiro - Goiania - GO,11/01/2020 20:30:00,190,,Goiás - GO,1,Vasco da Gama - RJ,1
+19,Allianz Parque - Sao Paulo - SP,11/02/2020 17:00:00,183,Palmeiras - SP,Palmeiras - SP,3,Atlético - MG,0
+19,Arena do Grêmio - Porto Alegre - RS,11/02/2020 20:00:00,186,Grêmio - RS,Grêmio - RS,2,Red Bull Bragantino - SP,1
+20,Arena da Baixada - Curitiba - PR,11/07/2020 18:00:00,198,Athletico Paranaense - PR,Athletico Paranaense - PR,2,Fortaleza - CE,1
+20,Morumbi - Sao Paulo - SP,11/07/2020 19:00:00,193,São Paulo - SP,São Paulo - SP,2,Goiás - GO,1
+20,Olímpico Pedro Ludovico - Goiania - GO,11/07/2020 21:00:00,200,,Atlético - GO,1,Corinthians - SP,1
+20,Beira-Rio - Porto Alegre - RS,11/08/2020 16:00:00,196,,Internacional - RS,2,Coritiba - PR,2
+20,São Januário - Rio de Janeiro - RJ,11/08/2020 16:00:00,192,Palmeiras - SP,Vasco da Gama - RJ,0,Palmeiras - SP,1
+20,Nabi Abi Chedid - Braganca Paulista - SP,11/08/2020 18:15:00,194,,Red Bull Bragantino - SP,1,Santos - SP,1
+20,Mineirão - Belo Horizonte - MG,11/08/2020 18:15:00,195,Atlético - MG,Atlético - MG,4,Flamengo - RJ,0
+20,Arena Fonte Nova - Salvador - BA,11/08/2020 18:15:00,197,Bahia - BA,Bahia - BA,1,Botafogo - RJ,0
+20,Arena Castelão - Fortaleza - CE,11/08/2020 20:30:00,199,,Ceará - CE,0,Sport - PE,0
+20,Maracanã - Rio de Janeiro - RJ,11/08/2020 20:30:00,191,Grêmio - RS,Fluminense - RJ,0,Grêmio - RS,1
+21,Ilha do Retiro - Recife - PE,11/14/2020 16:30:00,207,Vasco da Gama - RJ,Sport - PE,0,Vasco da Gama - RJ,2
+21,Vila Belmiro - Santos - SP,11/14/2020 16:30:00,204,Santos - SP,Santos - SP,2,Internacional - RS,0
+21,Hailé Pinheiro - Goiania - GO,11/14/2020 17:00:00,210,Athletico Paranaense - PR,Goiás - GO,0,Athletico Paranaense - PR,1
+21,Arena do Grêmio - Porto Alegre - RS,11/14/2020 19:00:00,206,Grêmio - RS,Grêmio - RS,4,Ceará - CE,2
+21,Arena Castelão - Fortaleza - CE,11/14/2020 19:00:00,209,São Paulo - SP,Fortaleza - CE,2,São Paulo - SP,3
+21,Neo Química Arena - Sao Paulo - SP,11/14/2020 19:00:00,205,Atlético - MG,Corinthians - SP,1,Atlético - MG,2
+21,Maracanã - Rio de Janeiro - RJ,11/14/2020 21:30:00,201,,Flamengo - RJ,1,Atlético - GO,1
+21,Allianz Parque - Sao Paulo - SP,11/14/2020 21:30:00,203,Palmeiras - SP,Palmeiras - SP,2,Fluminense - RJ,0
+21,Couto Pereira - Curitiba - PR,11/16/2020 18:00:00,208,Bahia - BA,Coritiba - PR,1,Bahia - BA,2
+21,Nilton Santos - Rio de Janeiro - RJ,11/16/2020 20:00:00,202,Red Bull Bragantino - SP,Botafogo - RJ,1,Red Bull Bragantino - SP,2
+22,Nabi Abi Chedid - Braganca Paulista - SP,11/20/2020 20:00:00,214,Red Bull Bragantino - SP,Red Bull Bragantino - SP,4,Bahia - BA,0
+22,Arena da Baixada - Curitiba - PR,11/21/2020 19:00:00,218,Athletico Paranaense - PR,Athletico Paranaense - PR,1,Santos - SP,0
+22,Maracanã - Rio de Janeiro - RJ,11/21/2020 19:00:00,211,Flamengo - RJ,Flamengo - RJ,3,Coritiba - PR,1
+22,Hailé Pinheiro - Goiania - GO,11/21/2020 21:00:00,220,Goiás - GO,Goiás - GO,1,Palmeiras - SP,0
+22,Morumbi - Sao Paulo - SP,11/22/2020 16:00:00,213,,São Paulo - SP,1,Vasco da Gama - RJ,1
+22,Arena Castelão - Fortaleza - CE,11/22/2020 16:00:00,219,,Ceará - CE,2,Atlético - MG,2
+22,Nilton Santos - Rio de Janeiro - RJ,11/22/2020 18:15:00,212,Fortaleza - CE,Botafogo - RJ,1,Fortaleza - CE,2
+22,Beira-Rio - Porto Alegre - RS,11/22/2020 18:15:00,216,Fluminense - RJ,Internacional - RS,1,Fluminense - RJ,2
+22,Neo Química Arena - Sao Paulo - SP,11/22/2020 20:30:00,215,,Corinthians - SP,0,Grêmio - RS,0
+22,Ilha do Retiro - Recife - PE,11/23/2020 20:00:00,217,Atlético - GO,Sport - PE,0,Atlético - GO,1
+23,Mineirão - Belo Horizonte - MG,11/25/2020 21:30:00,225,Atlético - MG,Atlético - MG,2,Botafogo - RJ,1
+23,Couto Pereira - Curitiba - PR,11/25/2020 21:30:00,228,Corinthians - SP,Coritiba - PR,0,Corinthians - SP,1
+23,Arena Castelão - Fortaleza - CE,11/26/2020 20:00:00,229,,Fortaleza - CE,1,Goiás - GO,1
+23,Allianz Parque - Sao Paulo - SP,11/28/2020 17:00:00,223,Palmeiras - SP,Palmeiras - SP,3,Athletico Paranaense - PR,0
+23,Vila Belmiro - Santos - SP,11/28/2020 17:00:00,224,Santos - SP,Santos - SP,4,Sport - PE,2
+23,Arena Fonte Nova - Salvador - BA,11/28/2020 19:00:00,227,São Paulo - SP,Bahia - BA,1,São Paulo - SP,3
+23,Antônio Accioly - Goiania - GO,11/28/2020 21:00:00,230,,Atlético - GO,0,Internacional - RS,0
+23,São Januário - Rio de Janeiro - RJ,11/30/2020 18:00:00,222,Ceará - CE,Vasco da Gama - RJ,1,Ceará - CE,4
+23,Maracanã - Rio de Janeiro - RJ,11/30/2020 20:00:00,221,,Fluminense - RJ,0,Red Bull Bragantino - SP,0
+23,Arena do Grêmio - Porto Alegre - RS,01/28/2021 20:00:00,226,Flamengo - RJ,Grêmio - RS,2,Flamengo - RJ,4
+24,Arena Castelão - Fortaleza - CE,12/02/2020 21:30:00,239,,Fortaleza - CE,0,Corinthians - SP,0
+24,Nilton Santos - Rio de Janeiro - RJ,12/05/2020 17:00:00,232,Flamengo - RJ,Botafogo - RJ,0,Flamengo - RJ,1
+24,Vila Belmiro - Santos - SP,12/05/2020 17:00:00,234,,Santos - SP,2,Palmeiras - SP,2
+24,Maracanã - Rio de Janeiro - RJ,12/05/2020 19:00:00,231,Fluminense - RJ,Fluminense - RJ,3,Athletico Paranaense - PR,1
+24,Arena Fonte Nova - Salvador - BA,12/05/2020 19:00:00,237,Ceará - CE,Bahia - BA,0,Ceará - CE,2
+24,Couto Pereira - Curitiba - PR,12/05/2020 21:00:00,238,,Coritiba - PR,0,Red Bull Bragantino - SP,0
+24,Arena do Grêmio - Porto Alegre - RS,12/06/2020 16:00:00,236,Grêmio - RS,Grêmio - RS,4,Vasco da Gama - RJ,0
+24,Morumbi - Sao Paulo - SP,12/06/2020 16:00:00,233,São Paulo - SP,São Paulo - SP,1,Sport - PE,0
+24,Mineirão - Belo Horizonte - MG,12/06/2020 18:15:00,235,,Atlético - MG,2,Internacional - RS,2
+24,Antônio Accioly - Goiania - GO,12/07/2020 20:00:00,240,Goiás - GO,Atlético - GO,0,Goiás - GO,1
+25,Nabi Abi Chedid - Braganca Paulista - SP,12/12/2020 17:00:00,244,Red Bull Bragantino - SP,Red Bull Bragantino - SP,2,Fortaleza - CE,1
+25,Arena da Baixada - Curitiba - PR,12/12/2020 17:00:00,248,Atlético - MG,Athletico Paranaense - PR,0,Atlético - MG,1
+25,Allianz Parque - Sao Paulo - SP,12/12/2020 19:00:00,243,Palmeiras - SP,Palmeiras - SP,3,Bahia - BA,0
+25,Beira-Rio - Porto Alegre - RS,12/12/2020 19:00:00,246,Internacional - RS,Internacional - RS,2,Botafogo - RJ,1
+25,Arena Castelão - Fortaleza - CE,12/12/2020 21:00:00,249,Atlético - GO,Ceará - CE,1,Atlético - GO,2
+25,Hailé Pinheiro - Goiania - GO,12/12/2020 21:00:00,250,,Goiás - GO,0,Grêmio - RS,0
+25,Maracanã - Rio de Janeiro - RJ,12/13/2020 16:00:00,241,Flamengo - RJ,Flamengo - RJ,4,Santos - SP,1
+25,Neo Química Arena - Sao Paulo - SP,12/13/2020 18:15:00,245,Corinthians - SP,Corinthians - SP,1,São Paulo - SP,0
+25,Ilha do Retiro - Recife - PE,12/13/2020 18:15:00,247,Sport - PE,Sport - PE,1,Coritiba - PR,0
+25,São Januário - Rio de Janeiro - RJ,12/13/2020 20:30:00,242,,Vasco da Gama - RJ,1,Fluminense - RJ,1
+26,Morumbi - Sao Paulo - SP,12/16/2020 21:30:00,253,São Paulo - SP,São Paulo - SP,3,Atlético - MG,0
+26,Antônio Accioly - Goiania - GO,12/16/2020 21:30:00,260,Atlético - GO,Atlético - GO,2,Fluminense - RJ,1
+26,Ilha do Retiro - Recife - PE,12/19/2020 19:00:00,257,,Sport - PE,1,Grêmio - RS,1
+26,Beira-Rio - Porto Alegre - RS,12/19/2020 21:00:00,256,Internacional - RS,Internacional - RS,2,Palmeiras - SP,0
+26,Couto Pereira - Curitiba - PR,12/19/2020 21:00:00,258,Botafogo - RJ,Coritiba - PR,1,Botafogo - RJ,2
+26,Nabi Abi Chedid - Braganca Paulista - SP,12/20/2020 16:00:00,254,Athletico Paranaense - PR,Red Bull Bragantino - SP,0,Athletico Paranaense - PR,1
+26,São Januário - Rio de Janeiro - RJ,12/20/2020 16:00:00,252,Vasco da Gama - RJ,Vasco da Gama - RJ,1,Santos - SP,0
+26,Maracanã - Rio de Janeiro - RJ,12/20/2020 18:15:00,251,Flamengo - RJ,Flamengo - RJ,4,Bahia - BA,3
+26,Arena Castelão - Fortaleza - CE,12/20/2020 20:30:00,259,Ceará - CE,Fortaleza - CE,0,Ceará - CE,2
+26,Neo Química Arena - Sao Paulo - SP,12/21/2020 20:00:00,255,Corinthians - SP,Corinthians - SP,2,Goiás - GO,1
+27,Mineirão - Belo Horizonte - MG,12/26/2020 17:00:00,265,Atlético - MG,Atlético - MG,2,Coritiba - PR,0
+27,Arena Castelão - Fortaleza - CE,12/26/2020 19:00:00,269,,Fortaleza - CE,0,Flamengo - RJ,0
+27,Hailé Pinheiro - Goiania - GO,12/26/2020 19:00:00,270,Goiás - GO,Goiás - GO,1,Sport - PE,0
+27,Maracanã - Rio de Janeiro - RJ,12/26/2020 21:00:00,261,São Paulo - SP,Fluminense - RJ,1,São Paulo - SP,2
+27,Nilton Santos - Rio de Janeiro - RJ,12/27/2020 16:00:00,262,Corinthians - SP,Botafogo - RJ,0,Corinthians - SP,2
+27,Arena Fonte Nova - Salvador - BA,12/27/2020 16:00:00,267,Internacional - RS,Bahia - BA,1,Internacional - RS,2
+27,Allianz Parque - Sao Paulo - SP,12/27/2020 18:15:00,263,Palmeiras - SP,Palmeiras - SP,1,Red Bull Bragantino - SP,0
+27,Vila Belmiro - Santos - SP,12/27/2020 18:15:00,264,,Santos - SP,1,Ceará - CE,1
+27,Arena da Baixada - Curitiba - PR,12/27/2020 18:15:00,268,Athletico Paranaense - PR,Athletico Paranaense - PR,3,Vasco da Gama - RJ,0
+27,Arena do Grêmio - Porto Alegre - RS,12/27/2020 20:30:00,266,Grêmio - RS,Grêmio - RS,2,Atlético - GO,1
+28,Nilton Santos - Rio de Janeiro - RJ,01/06/2021 19:15:00,272,Athletico Paranaense - PR,Botafogo - RJ,0,Athletico Paranaense - PR,2
+28,Arena do Grêmio - Porto Alegre - RS,01/06/2021 19:15:00,276,Grêmio - RS,Grêmio - RS,2,Bahia - BA,1
+28,Couto Pereira - Curitiba - PR,01/06/2021 20:30:00,278,Goiás - GO,Coritiba - PR,1,Goiás - GO,2
+28,Ilha do Retiro - Recife - PE,01/06/2021 20:30:00,277,Sport - PE,Sport - PE,1,Fortaleza - CE,0
+28,Maracanã - Rio de Janeiro - RJ,01/06/2021 21:30:00,271,Fluminense - RJ,Flamengo - RJ,1,Fluminense - RJ,2
+28,Nabi Abi Chedid - Braganca Paulista - SP,01/06/2021 21:30:00,274,Red Bull Bragantino - SP,Red Bull Bragantino - SP,4,São Paulo - SP,2
+28,Arena Castelão - Fortaleza - CE,01/07/2021 19:00:00,279,Internacional - RS,Ceará - CE,0,Internacional - RS,2
+28,Antônio Accioly - Goiania - GO,01/07/2021 21:00:00,280,,Atlético - GO,0,Vasco da Gama - RJ,0
+28,Allianz Parque - Sao Paulo - SP,01/18/2021 19:00:00,273,Palmeiras - SP,Palmeiras - SP,4,Corinthians - SP,0
+28,Mineirão - Belo Horizonte - MG,01/26/2021 20:00:00,275,Atlético - MG,Atlético - MG,2,Santos - SP,0
+29,Couto Pereira - Curitiba - PR,01/09/2021 19:00:00,288,,Coritiba - PR,0,Athletico Paranaense - PR,0
+29,Ilha do Retiro - Recife - PE,01/09/2021 19:00:00,287,Palmeiras - SP,Sport - PE,0,Palmeiras - SP,1
+29,Arena Castelão - Fortaleza - CE,01/09/2021 21:00:00,289,,Fortaleza - CE,0,Grêmio - RS,0
+29,Maracanã - Rio de Janeiro - RJ,01/10/2021 16:00:00,281,Ceará - CE,Flamengo - RJ,0,Ceará - CE,2
+29,Morumbi - Sao Paulo - SP,01/10/2021 16:00:00,283,Santos - SP,São Paulo - SP,0,Santos - SP,1
+29,Beira-Rio - Porto Alegre - RS,01/10/2021 18:15:00,286,Internacional - RS,Internacional - RS,1,Goiás - GO,0
+29,Antônio Accioly - Goiania - GO,01/10/2021 18:15:00,290,,Atlético - GO,1,Bahia - BA,1
+29,São Januário - Rio de Janeiro - RJ,01/10/2021 20:30:00,282,Vasco da Gama - RJ,Vasco da Gama - RJ,3,Botafogo - RJ,0
+29,Nabi Abi Chedid - Braganca Paulista - SP,01/11/2021 20:00:00,284,,Red Bull Bragantino - SP,2,Atlético - MG,2
+29,Neo Química Arena - Sao Paulo - SP,01/13/2021 21:30:00,285,Corinthians - SP,Corinthians - SP,5,Fluminense - RJ,0
+30,Allianz Parque - Sao Paulo - SP,01/15/2021 21:30:00,293,,Palmeiras - SP,1,Grêmio - RS,1
+30,Nilton Santos - Rio de Janeiro - RJ,01/16/2021 19:00:00,291,Fluminense - RJ,Fluminense - RJ,1,Sport - PE,0
+30,São Januário - Rio de Janeiro - RJ,01/16/2021 21:00:00,292,Coritiba - PR,Vasco da Gama - RJ,0,Coritiba - PR,1
+30,Vila Belmiro - Santos - SP,01/17/2021 16:00:00,294,Santos - SP,Santos - SP,2,Botafogo - RJ,1
+30,Arena da Baixada - Curitiba - PR,01/17/2021 16:00:00,298,,Athletico Paranaense - PR,1,São Paulo - SP,1
+30,Mineirão - Belo Horizonte - MG,01/17/2021 18:15:00,295,Atlético - MG,Atlético - MG,3,Atlético - GO,1
+30,Beira-Rio - Porto Alegre - RS,01/17/2021 20:30:00,296,Internacional - RS,Internacional - RS,4,Fortaleza - CE,2
+30,Arena Castelão - Fortaleza - CE,01/17/2021 20:30:00,299,Red Bull Bragantino - SP,Ceará - CE,1,Red Bull Bragantino - SP,2
+30,Hailé Pinheiro - Goiania - GO,01/18/2021 20:00:00,300,Flamengo - RJ,Goiás - GO,0,Flamengo - RJ,3
+30,Arena Fonte Nova - Salvador - BA,01/28/2021 19:00:00,297,Bahia - BA,Bahia - BA,2,Corinthians - SP,1
+31,Nilton Santos - Rio de Janeiro - RJ,01/20/2021 17:00:00,302,Atlético - GO,Botafogo - RJ,1,Atlético - GO,3
+31,Arena Fonte Nova - Salvador - BA,01/20/2021 18:00:00,307,Bahia - BA,Bahia - BA,1,Athletico Paranaense - PR,0
+31,Arena do Grêmio - Porto Alegre - RS,01/20/2021 19:15:00,306,,Grêmio - RS,1,Atlético - MG,1
+31,Couto Pereira - Curitiba - PR,01/20/2021 20:30:00,308,,Coritiba - PR,3,Fluminense - RJ,3
+31,Morumbi - Sao Paulo - SP,01/20/2021 21:30:00,303,Internacional - RS,São Paulo - SP,1,Internacional - RS,5
+31,Nabi Abi Chedid - Braganca Paulista - SP,01/20/2021 21:30:00,304,Red Bull Bragantino - SP,Red Bull Bragantino - SP,4,Vasco da Gama - RJ,1
+31,Hailé Pinheiro - Goiania - GO,01/21/2021 19:00:00,310,Ceará - CE,Goiás - GO,0,Ceará - CE,4
+31,Arena Castelão - Fortaleza - CE,01/21/2021 19:00:00,309,Fortaleza - CE,Fortaleza - CE,2,Santos - SP,0
+31,Mané Garrincha - Brasilia - DF,01/21/2021 19:00:00,301,Flamengo - RJ,Flamengo - RJ,2,Palmeiras - SP,0
+31,Neo Química Arena - Sao Paulo - SP,01/21/2021 21:00:00,305,Corinthians - SP,Corinthians - SP,3,Sport - PE,0
+32,Morumbi - Sao Paulo - SP,01/23/2021 19:00:00,313,,São Paulo - SP,1,Coritiba - PR,1
+32,São Januário - Rio de Janeiro - RJ,01/23/2021 21:00:00,312,Vasco da Gama - RJ,Vasco da Gama - RJ,3,Atlético - MG,2
+32,Arena da Baixada - Curitiba - PR,01/24/2021 16:00:00,318,Athletico Paranaense - PR,Athletico Paranaense - PR,2,Flamengo - RJ,1
+32,Arena Castelão - Fortaleza - CE,01/24/2021 16:00:00,319,Ceará - CE,Ceará - CE,2,Palmeiras - SP,1
+32,Beira-Rio - Porto Alegre - RS,01/24/2021 16:00:00,316,Internacional - RS,Internacional - RS,2,Grêmio - RS,1
+32,Ilha do Retiro - Recife - PE,01/24/2021 18:15:00,317,Sport - PE,Sport - PE,2,Bahia - BA,0
+32,Antônio Accioly - Goiania - GO,01/24/2021 18:15:00,320,Atlético - GO,Atlético - GO,2,Fortaleza - CE,0
+32,Vila Belmiro - Santos - SP,01/24/2021 18:15:00,314,Goiás - GO,Santos - SP,3,Goiás - GO,4
+32,São Januário - Rio de Janeiro - RJ,01/24/2021 20:30:00,311,Fluminense - RJ,Fluminense - RJ,2,Botafogo - RJ,0
+32,Neo Química Arena - Sao Paulo - SP,01/25/2021 20:00:00,315,Red Bull Bragantino - SP,Corinthians - SP,0,Red Bull Bragantino - SP,2
+33,Couto Pereira - Curitiba - PR,01/31/2021 16:00:00,328,,Coritiba - PR,1,Grêmio - RS,1
+33,Arena Castelão - Fortaleza - CE,01/31/2021 16:00:00,329,Athletico Paranaense - PR,Ceará - CE,0,Athletico Paranaense - PR,2
+33,Antônio Accioly - Goiania - GO,01/31/2021 16:00:00,330,Atlético - GO,Atlético - GO,2,São Paulo - SP,1
+33,São Januário - Rio de Janeiro - RJ,01/31/2021 16:00:00,322,,Vasco da Gama - RJ,0,Bahia - BA,0
+33,Mineirão - Belo Horizonte - MG,01/31/2021 17:00:00,325,Atlético - MG,Atlético - MG,2,Fortaleza - CE,0
+33,Beira-Rio - Porto Alegre - RS,01/31/2021 18:15:00,326,Internacional - RS,Internacional - RS,2,Red Bull Bragantino - SP,1
+33,Nilton Santos - Rio de Janeiro - RJ,01/31/2021 20:30:00,321,Fluminense - RJ,Fluminense - RJ,3,Goiás - GO,0
+33,Ilha do Retiro - Recife - PE,02/01/2021 20:00:00,327,Flamengo - RJ,Sport - PE,0,Flamengo - RJ,3
+33,Allianz Parque - Sao Paulo - SP,02/02/2021 16:00:00,323,,Palmeiras - SP,1,Botafogo - RJ,1
+33,Vila Belmiro - Santos - SP,02/17/2021 19:00:00,324,Santos - SP,Santos - SP,1,Corinthians - SP,0
+34,Arena do Grêmio - Porto Alegre - RS,02/03/2021 16:00:00,336,,Grêmio - RS,3,Santos - SP,3
+34,Nabi Abi Chedid - Braganca Paulista - SP,02/03/2021 19:15:00,334,Red Bull Bragantino - SP,Red Bull Bragantino - SP,2,Atlético - GO,0
+34,Arena Fonte Nova - Salvador - BA,02/03/2021 21:30:00,337,Fluminense - RJ,Bahia - BA,0,Fluminense - RJ,1
+34,Hailé Pinheiro - Goiania - GO,02/03/2021 21:30:00,340,Goiás - GO,Goiás - GO,1,Atlético - MG,0
+34,Neo Química Arena - Sao Paulo - SP,02/03/2021 21:30:00,335,Corinthians - SP,Corinthians - SP,2,Ceará - CE,1
+34,Arena Castelão - Fortaleza - CE,02/04/2021 18:30:00,339,Fortaleza - CE,Fortaleza - CE,3,Coritiba - PR,1
+34,Maracanã - Rio de Janeiro - RJ,02/04/2021 21:00:00,331,Flamengo - RJ,Flamengo - RJ,2,Vasco da Gama - RJ,0
+34,Arena da Baixada - Curitiba - PR,02/04/2021 21:00:00,338,,Athletico Paranaense - PR,0,Internacional - RS,0
+34,Nilton Santos - Rio de Janeiro - RJ,02/05/2021 20:00:00,332,Sport - PE,Botafogo - RJ,0,Sport - PE,1
+34,Morumbi - Sao Paulo - SP,02/19/2021 21:30:00,333,,São Paulo - SP,1,Palmeiras - SP,1
+35,Arena Fonte Nova - Salvador - BA,02/06/2021 19:00:00,347,,Bahia - BA,3,Goiás - GO,3
+35,Antônio Accioly - Goiania - GO,02/06/2021 21:00:00,350,,Atlético - GO,1,Santos - SP,1
+35,Nabi Abi Chedid - Braganca Paulista - SP,02/07/2021 20:30:00,344,,Red Bull Bragantino - SP,1,Flamengo - RJ,1
+35,Nilton Santos - Rio de Janeiro - RJ,02/08/2021 20:00:00,342,Grêmio - RS,Botafogo - RJ,2,Grêmio - RS,5
+35,Beira-Rio - Porto Alegre - RS,02/10/2021 19:00:00,346,Sport - PE,Internacional - RS,1,Sport - PE,2
+35,Arena Castelão - Fortaleza - CE,02/10/2021 19:15:00,349,Fortaleza - CE,Fortaleza - CE,3,Vasco da Gama - RJ,0
+35,Morumbi - Sao Paulo - SP,02/10/2021 21:00:00,343,,São Paulo - SP,1,Ceará - CE,1
+35,Neo Química Arena - Sao Paulo - SP,02/10/2021 21:30:00,345,,Corinthians - SP,3,Athletico Paranaense - PR,3
+35,Maracanã - Rio de Janeiro - RJ,02/10/2021 21:30:00,341,,Fluminense - RJ,0,Atlético - MG,0
+35,Couto Pereira - Curitiba - PR,02/17/2021 19:30:00,348,Coritiba - PR,Coritiba - PR,1,Palmeiras - SP,0
+36,Hailé Pinheiro - Goiania - GO,02/13/2021 17:00:00,360,Goiás - GO,Goiás - GO,2,Botafogo - RJ,0
+36,Mineirão - Belo Horizonte - MG,02/13/2021 19:00:00,355,,Atlético - MG,1,Bahia - BA,1
+36,Vila Belmiro - Santos - SP,02/13/2021 19:00:00,354,Santos - SP,Santos - SP,2,Coritiba - PR,0
+36,São Januário - Rio de Janeiro - RJ,02/14/2021 16:00:00,352,Internacional - RS,Vasco da Gama - RJ,0,Internacional - RS,2
+36,Maracanã - Rio de Janeiro - RJ,02/14/2021 16:00:00,351,Flamengo - RJ,Flamengo - RJ,2,Corinthians - SP,1
+36,Allianz Parque - Sao Paulo - SP,02/14/2021 18:15:00,353,Palmeiras - SP,Palmeiras - SP,3,Fortaleza - CE,0
+36,Arena da Baixada - Curitiba - PR,02/14/2021 18:15:00,358,Athletico Paranaense - PR,Athletico Paranaense - PR,2,Atlético - GO,1
+36,Arena do Grêmio - Porto Alegre - RS,02/14/2021 20:30:00,356,São Paulo - SP,Grêmio - RS,1,São Paulo - SP,2
+36,Arena Castelão - Fortaleza - CE,02/15/2021 18:00:00,359,Fluminense - RJ,Ceará - CE,1,Fluminense - RJ,3
+36,Ilha do Retiro - Recife - PE,02/15/2021 20:00:00,357,,Sport - PE,0,Red Bull Bragantino - SP,0
+37,Couto Pereira - Curitiba - PR,02/20/2021 18:30:00,368,Ceará - CE,Coritiba - PR,0,Ceará - CE,2
+37,Arena Castelão - Fortaleza - CE,02/20/2021 21:00:00,369,Bahia - BA,Fortaleza - CE,0,Bahia - BA,4
+37,Maracanã - Rio de Janeiro - RJ,02/21/2021 16:00:00,361,Flamengo - RJ,Flamengo - RJ,2,Internacional - RS,1
+37,Neo Química Arena - Sao Paulo - SP,02/21/2021 16:00:00,365,,Corinthians - SP,0,Vasco da Gama - RJ,0
+37,Ilha do Retiro - Recife - PE,02/21/2021 16:00:00,367,Atlético - MG,Sport - PE,2,Atlético - MG,3
+37,Vila Belmiro - Santos - SP,02/21/2021 18:15:00,364,,Santos - SP,1,Fluminense - RJ,1
+37,Arena do Grêmio - Porto Alegre - RS,02/21/2021 18:15:00,366,Grêmio - RS,Grêmio - RS,1,Athletico Paranaense - PR,0
+37,Hailé Pinheiro - Goiania - GO,02/21/2021 20:30:00,370,,Goiás - GO,0,Red Bull Bragantino - SP,0
+37,Allianz Parque - Sao Paulo - SP,02/22/2021 18:00:00,363,,Palmeiras - SP,1,Atlético - GO,1
+37,Nilton Santos - Rio de Janeiro - RJ,02/22/2021 20:00:00,362,Botafogo - RJ,Botafogo - RJ,1,São Paulo - SP,0
+38,Maracanã - Rio de Janeiro - RJ,02/25/2021 21:30:00,371,Fluminense - RJ,Fluminense - RJ,2,Fortaleza - CE,0
+38,São Januário - Rio de Janeiro - RJ,02/25/2021 21:30:00,372,Vasco da Gama - RJ,Vasco da Gama - RJ,3,Goiás - GO,2
+38,Morumbi - Sao Paulo - SP,02/25/2021 21:30:00,373,São Paulo - SP,São Paulo - SP,2,Flamengo - RJ,1
+38,Nabi Abi Chedid - Braganca Paulista - SP,02/25/2021 21:30:00,374,Red Bull Bragantino - SP,Red Bull Bragantino - SP,1,Grêmio - RS,0
+38,Mineirão - Belo Horizonte - MG,02/25/2021 21:30:00,375,Atlético - MG,Atlético - MG,2,Palmeiras - SP,0
+38,Beira-Rio - Porto Alegre - RS,02/25/2021 21:30:00,376,,Internacional - RS,0,Corinthians - SP,0
+38,Arena Fonte Nova - Salvador - BA,02/25/2021 21:30:00,377,Bahia - BA,Bahia - BA,2,Santos - SP,0
+38,Arena da Baixada - Curitiba - PR,02/25/2021 21:30:00,378,Athletico Paranaense - PR,Athletico Paranaense - PR,2,Sport - PE,0
+38,Arena Castelão - Fortaleza - CE,02/25/2021 21:30:00,379,Ceará - CE,Ceará - CE,2,Botafogo - RJ,1
+38,Antônio Accioly - Goiania - GO,02/25/2021 21:30:00,380,Atlético - GO,Atlético - GO,3,Coritiba - PR,1

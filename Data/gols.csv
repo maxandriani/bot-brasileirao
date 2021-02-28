@@ -1,0 +1,945 @@
+Rodada,JogoLocal,JogoData,JogoNumero,Time,Jogador,Tempo,Periodo
+1,Arena Castelão - Fortaleza - CE,08/08/2020 19:00:00,9,Athletico Paranaense - PR,Vitinho,21,Primeiro
+1,Arena Castelão - Fortaleza - CE,08/08/2020 19:00:00,9,Athletico Paranaense - PR,Cittadini,47,Primeiro
+1,Couto Pereira - Curitiba - PR,08/08/2020 19:30:00,8,Internacional - RS,Guerrero,26,Segundo
+1,Ilha do Retiro - Recife - PE,08/08/2020 21:00:00,7,Sport - PE,Elton,20,Primeiro
+1,Ilha do Retiro - Recife - PE,08/08/2020 21:00:00,7,Sport - PE,Elton,33,Primeiro
+1,Ilha do Retiro - Recife - PE,08/08/2020 21:00:00,7,Sport - PE,Jonatan Gomez,42,Primeiro
+1,Ilha do Retiro - Recife - PE,08/08/2020 21:00:00,7,Ceará - CE,CLEBER,35,Primeiro
+1,Ilha do Retiro - Recife - PE,08/08/2020 21:00:00,7,Ceará - CE,Jacare,11,Segundo
+1,Maracanã - Rio de Janeiro - RJ,08/09/2020 16:00:00,1,Atlético - MG,Filipe Luís,23,Primeiro
+1,Vila Belmiro - Santos - SP,08/09/2020 16:00:00,4,Santos - SP,Marinho,19,Segundo
+1,Vila Belmiro - Santos - SP,08/09/2020 16:00:00,4,Red Bull Bragantino - SP,Claudinho,47,Segundo
+1,Arena do Grêmio - Porto Alegre - RS,08/09/2020 19:00:00,6,Grêmio - RS,Diego Souza,44,Primeiro
+1,Nilton Santos - Rio de Janeiro - RJ,09/30/2020 21:30:00,2,Botafogo - RJ,Pedro Raul,46,Segundo
+1,Nilton Santos - Rio de Janeiro - RJ,09/30/2020 21:30:00,2,Bahia - BA,Gilberto,42,Primeiro
+1,Nilton Santos - Rio de Janeiro - RJ,09/30/2020 21:30:00,2,Bahia - BA,Elber,39,Segundo
+1,Hailé Pinheiro - Goiania - GO,12/03/2020 19:00:00,10,São Paulo - SP,Igor Gomes,19,Primeiro
+1,Hailé Pinheiro - Goiania - GO,12/03/2020 19:00:00,10,São Paulo - SP,Brenner,3,Segundo
+1,Hailé Pinheiro - Goiania - GO,12/03/2020 19:00:00,10,São Paulo - SP,Hernanes,37,Segundo
+1,Allianz Parque - Sao Paulo - SP,01/26/2021 20:00:00,3,Palmeiras - SP,Breno,30,Primeiro
+1,Allianz Parque - Sao Paulo - SP,01/26/2021 20:00:00,3,Vasco da Gama - RJ,Martin Benitez,35,Primeiro
+2,Nabi Abi Chedid - Braganca Paulista - SP,08/12/2020 19:15:00,14,Red Bull Bragantino - SP,Alerrandro,6,Primeiro
+2,Nabi Abi Chedid - Braganca Paulista - SP,08/12/2020 19:15:00,14,Botafogo - RJ,Macae,19,Segundo
+2,Arena da Baixada - Curitiba - PR,08/12/2020 19:15:00,18,Athletico Paranaense - PR,Vitinho,31,Primeiro
+2,Arena da Baixada - Curitiba - PR,08/12/2020 19:15:00,18,Athletico Paranaense - PR,Carlos Eduardo,30,Segundo
+2,Arena da Baixada - Curitiba - PR,08/12/2020 19:15:00,18,Goiás - GO,Bessa,57,Primeiro
+2,Mineirão - Belo Horizonte - MG,08/12/2020 19:15:00,15,Atlético - MG,Hyoran,7,Segundo
+2,Mineirão - Belo Horizonte - MG,08/12/2020 19:15:00,15,Atlético - MG,Hyoran,11,Segundo
+2,Mineirão - Belo Horizonte - MG,08/12/2020 19:15:00,15,Atlético - MG,Nathan,16,Segundo
+2,Mineirão - Belo Horizonte - MG,08/12/2020 19:15:00,15,Corinthians - SP,Jo,12,Primeiro
+2,Mineirão - Belo Horizonte - MG,08/12/2020 19:15:00,15,Corinthians - SP,Angelo Araos,29,Primeiro
+2,Olímpico Pedro Ludovico - Goiania - GO,08/12/2020 20:30:00,20,Atlético - GO,Hyuri,14,Primeiro
+2,Olímpico Pedro Ludovico - Goiania - GO,08/12/2020 20:30:00,20,Atlético - GO,Jorginho,31,Primeiro
+2,Olímpico Pedro Ludovico - Goiania - GO,08/12/2020 20:30:00,20,Atlético - GO,Gustavo Ferrareis,16,Segundo
+2,Pituaçu - Salvador - BA,08/12/2020 20:30:00,17,Bahia - BA,Rodriguinho,39,Primeiro
+2,Arena Castelão - Fortaleza - CE,08/12/2020 21:30:00,19,Ceará - CE,CLEBER,43,Primeiro
+2,Arena Castelão - Fortaleza - CE,08/12/2020 21:30:00,19,Grêmio - RS,Thaciano,26,Segundo
+2,Maracanã - Rio de Janeiro - RJ,08/12/2020 21:30:00,11,Fluminense - RJ,Evanilson,39,Primeiro
+2,Maracanã - Rio de Janeiro - RJ,08/12/2020 21:30:00,11,Palmeiras - SP,Luiz Adriano,14,Primeiro
+2,Morumbi - Sao Paulo - SP,08/13/2020 19:15:00,13,São Paulo - SP,Dani Alves,42,Primeiro
+2,Beira-Rio - Porto Alegre - RS,08/13/2020 19:30:00,16,Internacional - RS,Guerrero,11,Segundo
+2,Beira-Rio - Porto Alegre - RS,08/13/2020 19:30:00,16,Internacional - RS,Edenilson,42,Segundo
+2,São Januário - Rio de Janeiro - RJ,08/13/2020 20:00:00,12,Vasco da Gama - RJ,Fellipe,8,Primeiro
+2,São Januário - Rio de Janeiro - RJ,08/13/2020 20:00:00,12,Vasco da Gama - RJ,Fellipe,32,Primeiro
+3,Couto Pereira - Curitiba - PR,08/15/2020 19:30:00,28,Flamengo - RJ,De Arrascaeta,28,Primeiro
+3,Allianz Parque - Sao Paulo - SP,08/15/2020 21:30:00,23,Palmeiras - SP,GUSTAVO GOMEZ,17,Primeiro
+3,Allianz Parque - Sao Paulo - SP,08/15/2020 21:30:00,23,Goiás - GO,Rafael Vaz,39,Primeiro
+3,Mineirão - Belo Horizonte - MG,08/16/2020 11:00:00,25,Atlético - MG,Marrony,27,Segundo
+3,Mineirão - Belo Horizonte - MG,08/16/2020 11:00:00,25,Atlético - MG,Marrony,46,Segundo
+3,São Januário - Rio de Janeiro - RJ,08/16/2020 16:00:00,22,Vasco da Gama - RJ,German Cano,17,Segundo
+3,São Januário - Rio de Janeiro - RJ,08/16/2020 16:00:00,22,Vasco da Gama - RJ,German Cano,29,Segundo
+3,São Januário - Rio de Janeiro - RJ,08/16/2020 16:00:00,22,São Paulo - SP,Reinaldo,51,Segundo
+3,Pituaçu - Salvador - BA,08/16/2020 16:00:00,27,Bahia - BA,Juninho,25,Segundo
+3,Pituaçu - Salvador - BA,08/16/2020 16:00:00,27,Bahia - BA,Ernando,47,Segundo
+3,Pituaçu - Salvador - BA,08/16/2020 16:00:00,27,Red Bull Bragantino - SP,Ortiz,32,Segundo
+3,Maracanã - Rio de Janeiro - RJ,08/16/2020 18:00:00,21,Fluminense - RJ,Nenê,38,Primeiro
+3,Maracanã - Rio de Janeiro - RJ,08/16/2020 18:00:00,21,Fluminense - RJ,Nenê,31,Segundo
+3,Maracanã - Rio de Janeiro - RJ,08/16/2020 18:00:00,21,Internacional - RS,Guerrero,27,Primeiro
+3,Olímpico Pedro Ludovico - Goiania - GO,08/16/2020 19:00:00,30,Atlético - GO,Jorginho,13,Primeiro
+3,Olímpico Pedro Ludovico - Goiania - GO,08/16/2020 19:00:00,30,Sport - PE,Iago,48,Segundo
+3,Vila Belmiro - Santos - SP,08/16/2020 19:45:00,24,Santos - SP,Yeferson Soteldo,28,Primeiro
+3,Vila Belmiro - Santos - SP,08/16/2020 19:45:00,24,Santos - SP,Felipe,41,Primeiro
+3,Vila Belmiro - Santos - SP,08/16/2020 19:45:00,24,Santos - SP,Marinho,37,Segundo
+3,Vila Belmiro - Santos - SP,08/16/2020 19:45:00,24,Athletico Paranaense - PR,Abner Vinicius,43,Segundo
+4,Maracanã - Rio de Janeiro - RJ,08/19/2020 19:15:00,31,Flamengo - RJ,Gabriel Barbosa,43,Segundo
+4,Maracanã - Rio de Janeiro - RJ,08/19/2020 19:15:00,31,Grêmio - RS,Pepe,44,Primeiro
+4,Nabi Abi Chedid - Braganca Paulista - SP,08/19/2020 19:15:00,34,Red Bull Bragantino - SP,Alerrandro,1,Primeiro
+4,Nabi Abi Chedid - Braganca Paulista - SP,08/19/2020 19:15:00,34,Red Bull Bragantino - SP,Luis Phelipe,37,Segundo
+4,Nabi Abi Chedid - Braganca Paulista - SP,08/19/2020 19:15:00,34,Fluminense - RJ,Nenê,2,Primeiro
+4,Arena da Baixada - Curitiba - PR,08/19/2020 19:30:00,38,Palmeiras - SP,Raphael Veiga,46,Segundo
+4,Hailé Pinheiro - Goiania - GO,08/19/2020 20:30:00,40,Goiás - GO,Jefferson Junio,34,Segundo
+4,Hailé Pinheiro - Goiania - GO,08/19/2020 20:30:00,40,Fortaleza - CE,Wellington Paulista,8,Primeiro
+4,Hailé Pinheiro - Goiania - GO,08/19/2020 20:30:00,40,Fortaleza - CE,Bruno,14,Segundo
+4,Hailé Pinheiro - Goiania - GO,08/19/2020 20:30:00,40,Fortaleza - CE,Yuri Cesar,24,Segundo
+4,Beira-Rio - Porto Alegre - RS,08/19/2020 20:30:00,36,Internacional - RS,MUSTO,6,Segundo
+4,Beira-Rio - Porto Alegre - RS,08/19/2020 20:30:00,36,Internacional - RS,Thiago Galhardo,23,Segundo
+4,Beira-Rio - Porto Alegre - RS,08/19/2020 20:30:00,36,Internacional - RS,Thiago Galhardo,44,Segundo
+4,Nilton Santos - Rio de Janeiro - RJ,08/19/2020 21:30:00,32,Botafogo - RJ,Luiz Fernando,26,Primeiro
+4,Nilton Santos - Rio de Janeiro - RJ,08/19/2020 21:30:00,32,Botafogo - RJ,Caio,42,Segundo
+4,Nilton Santos - Rio de Janeiro - RJ,08/19/2020 21:30:00,32,Atlético - MG,Igor,51,Segundo
+4,Neo Química Arena - Sao Paulo - SP,08/19/2020 21:30:00,35,Corinthians - SP,Leo,37,Primeiro
+4,Neo Química Arena - Sao Paulo - SP,08/19/2020 21:30:00,35,Corinthians - SP,Jo,3,Segundo
+4,Neo Química Arena - Sao Paulo - SP,08/19/2020 21:30:00,35,Corinthians - SP,Mosquito,41,Segundo
+4,Neo Química Arena - Sao Paulo - SP,08/19/2020 21:30:00,35,Coritiba - PR,Sassa,41,Primeiro
+4,Ilha do Retiro - Recife - PE,08/20/2020 19:15:00,37,Santos - SP,Marinho,30,Segundo
+4,Morumbi - Sao Paulo - SP,08/20/2020 20:00:00,33,São Paulo - SP,Luciano,40,Segundo
+4,Morumbi - Sao Paulo - SP,08/20/2020 20:00:00,33,Bahia - BA,Rossi,21,Primeiro
+4,Arena Castelão - Fortaleza - CE,08/20/2020 20:00:00,39,Vasco da Gama - RJ,German Cano,23,Segundo
+4,Arena Castelão - Fortaleza - CE,08/20/2020 20:00:00,39,Vasco da Gama - RJ,Fellipe,32,Segundo
+4,Arena Castelão - Fortaleza - CE,08/20/2020 20:00:00,39,Vasco da Gama - RJ,Lucas Ribamar,48,Segundo
+5,Arena da Baixada - Curitiba - PR,08/22/2020 16:00:00,48,Fluminense - RJ,Felipe Aguilar,48,Primeiro
+5,Beira-Rio - Porto Alegre - RS,08/22/2020 19:00:00,46,Internacional - RS,Thiago Galhardo,7,Primeiro
+5,Hailé Pinheiro - Goiania - GO,08/22/2020 21:00:00,50,Goiás - GO,Bessa,21,Primeiro
+5,Hailé Pinheiro - Goiania - GO,08/22/2020 21:00:00,50,Goiás - GO,Victor Andrade,49,Segundo
+5,Maracanã - Rio de Janeiro - RJ,08/23/2020 11:00:00,41,Flamengo - RJ,Gabriel Barbosa,51,Segundo
+5,Maracanã - Rio de Janeiro - RJ,08/23/2020 11:00:00,41,Botafogo - RJ,Pedro Raul,48,Segundo
+5,Morumbi - Sao Paulo - SP,08/23/2020 16:00:00,43,Palmeiras - SP,Luiz Adriano,45,Primeiro
+5,Morumbi - Sao Paulo - SP,08/23/2020 16:00:00,43,Palmeiras - SP,Patrick de Paula,27,Segundo
+5,Morumbi - Sao Paulo - SP,08/23/2020 16:00:00,43,Santos - SP,Ramires,2,Segundo
+5,Nabi Abi Chedid - Braganca Paulista - SP,08/23/2020 16:00:00,44,Red Bull Bragantino - SP,Alerrandro,44,Primeiro
+5,Nabi Abi Chedid - Braganca Paulista - SP,08/23/2020 16:00:00,44,Coritiba - PR,Sabino,47,Primeiro
+5,Nabi Abi Chedid - Braganca Paulista - SP,08/23/2020 16:00:00,44,Coritiba - PR,Robson,7,Segundo
+5,Ilha do Retiro - Recife - PE,08/23/2020 19:00:00,47,São Paulo - SP,Pablo,5,Primeiro
+5,Arena Castelão - Fortaleza - CE,08/23/2020 20:00:00,49,Ceará - CE,CLEBER,11,Primeiro
+5,Arena Castelão - Fortaleza - CE,08/23/2020 20:00:00,49,Ceará - CE,Mateus Gonçalves,30,Segundo
+5,Neo Química Arena - Sao Paulo - SP,08/26/2020 21:30:00,45,Corinthians - SP,Luan,30,Segundo
+5,Neo Química Arena - Sao Paulo - SP,08/26/2020 21:30:00,45,Fortaleza - CE,Romarinho,17,Segundo
+6,Nilton Santos - Rio de Janeiro - RJ,08/29/2020 17:00:00,52,Internacional - RS,Thiago Galhardo,5,Primeiro
+6,Nilton Santos - Rio de Janeiro - RJ,08/29/2020 17:00:00,52,Internacional - RS,Gabriel,28,Primeiro
+6,Maracanã - Rio de Janeiro - RJ,08/29/2020 19:00:00,51,Fluminense - RJ,Dodi,3,Primeiro
+6,Maracanã - Rio de Janeiro - RJ,08/29/2020 19:00:00,51,Fluminense - RJ,Fred,35,Segundo
+6,Maracanã - Rio de Janeiro - RJ,08/29/2020 19:00:00,51,Vasco da Gama - RJ,Talles Magno,40,Segundo
+6,Pituaçu - Salvador - BA,08/29/2020 19:00:00,57,Bahia - BA,Marco Antonio,50,Segundo
+6,Pituaçu - Salvador - BA,08/29/2020 19:00:00,57,Palmeiras - SP,Ze Rafael,32,Segundo
+6,Arena Castelão - Fortaleza - CE,08/29/2020 21:00:00,59,Fortaleza - CE,Wellington Paulista,38,Primeiro
+6,Arena Castelão - Fortaleza - CE,08/29/2020 21:00:00,59,Fortaleza - CE,Romarinho,14,Segundo
+6,Arena Castelão - Fortaleza - CE,08/29/2020 21:00:00,59,Fortaleza - CE,Wellington Paulista,41,Segundo
+6,Morumbi - Sao Paulo - SP,08/30/2020 11:00:00,53,São Paulo - SP,Hernanes,13,Primeiro
+6,Morumbi - Sao Paulo - SP,08/30/2020 11:00:00,53,São Paulo - SP,Brenner,47,Segundo
+6,Morumbi - Sao Paulo - SP,08/30/2020 11:00:00,53,Corinthians - SP,Ramiro,35,Primeiro
+6,Vila Belmiro - Santos - SP,08/30/2020 16:00:00,54,Flamengo - RJ,Gabriel Barbosa,50,Primeiro
+6,Couto Pereira - Curitiba - PR,08/30/2020 16:00:00,58,Coritiba - PR,Sabino,49,Segundo
+6,Olímpico Pedro Ludovico - Goiania - GO,08/30/2020 18:00:00,60,Ceará - CE,Vinicius,19,Segundo
+6,Olímpico Pedro Ludovico - Goiania - GO,08/30/2020 18:00:00,60,Ceará - CE,Lima,51,Segundo
+6,Mineirão - Belo Horizonte - MG,11/18/2020 19:00:00,55,Athletico Paranaense - PR,Christian,34,Primeiro
+6,Mineirão - Belo Horizonte - MG,11/18/2020 19:00:00,55,Athletico Paranaense - PR,Nikao,45,Primeiro
+6,Arena do Grêmio - Porto Alegre - RS,11/30/2020 18:00:00,56,Grêmio - RS,Jean Pyerre,18,Primeiro
+6,Arena do Grêmio - Porto Alegre - RS,11/30/2020 18:00:00,56,Grêmio - RS,Maicon,21,Segundo
+6,Arena do Grêmio - Porto Alegre - RS,11/30/2020 18:00:00,56,Goiás - GO,Joao Marcos,24,Segundo
+7,Arena Castelão - Fortaleza - CE,09/02/2020 19:00:00,69,Ceará - CE,Vinicius,45,Primeiro
+7,Maracanã - Rio de Janeiro - RJ,09/02/2020 19:15:00,61,Fluminense - RJ,Evanilson,6,Primeiro
+7,Maracanã - Rio de Janeiro - RJ,09/02/2020 19:15:00,61,Atlético - GO,Renato Kayzer,33,Segundo
+7,Hailé Pinheiro - Goiania - GO,09/02/2020 19:15:00,70,Goiás - GO,Vinicius Lopes,20,Segundo
+7,Hailé Pinheiro - Goiania - GO,09/02/2020 19:15:00,70,Corinthians - SP,Fabio Sanches,27,Primeiro
+7,Hailé Pinheiro - Goiania - GO,09/02/2020 19:15:00,70,Corinthians - SP,Danilo,45,Segundo
+7,Arena da Baixada - Curitiba - PR,09/02/2020 20:30:00,68,Athletico Paranaense - PR,Geuvanio,17,Primeiro
+7,Arena da Baixada - Curitiba - PR,09/02/2020 20:30:00,68,Red Bull Bragantino - SP,Claudinho,28,Primeiro
+7,Pituaçu - Salvador - BA,09/02/2020 20:30:00,67,Bahia - BA,Rodriguinho,31,Primeiro
+7,Pituaçu - Salvador - BA,09/02/2020 20:30:00,67,Bahia - BA,Elber,41,Primeiro
+7,Pituaçu - Salvador - BA,09/02/2020 20:30:00,67,Bahia - BA,Daniel,44,Segundo
+7,Pituaçu - Salvador - BA,09/02/2020 20:30:00,67,Flamengo - RJ,Pedro,1,Primeiro
+7,Pituaçu - Salvador - BA,09/02/2020 20:30:00,67,Flamengo - RJ,Pedro,15,Primeiro
+7,Pituaçu - Salvador - BA,09/02/2020 20:30:00,67,Flamengo - RJ,De Arrascaeta,36,Primeiro
+7,Pituaçu - Salvador - BA,09/02/2020 20:30:00,67,Flamengo - RJ,Everton Ribeiro,3,Segundo
+7,Pituaçu - Salvador - BA,09/02/2020 20:30:00,67,Flamengo - RJ,De Arrascaeta,6,Segundo
+7,Allianz Parque - Sao Paulo - SP,09/02/2020 21:30:00,63,Palmeiras - SP,Luiz Adriano,48,Segundo
+7,Allianz Parque - Sao Paulo - SP,09/02/2020 21:30:00,63,Internacional - RS,Thiago Galhardo,46,Segundo
+7,Vila Belmiro - Santos - SP,09/02/2020 21:30:00,64,Santos - SP,Lucas Verissimo,21,Primeiro
+7,Vila Belmiro - Santos - SP,09/02/2020 21:30:00,64,Santos - SP,Marinho,13,Segundo
+7,Vila Belmiro - Santos - SP,09/02/2020 21:30:00,64,Vasco da Gama - RJ,Fellipe,41,Primeiro
+7,Vila Belmiro - Santos - SP,09/02/2020 21:30:00,64,Vasco da Gama - RJ,German Cano,27,Segundo
+7,Arena do Grêmio - Porto Alegre - RS,09/03/2020 19:00:00,66,Grêmio - RS,Pepe,32,Segundo
+7,Arena do Grêmio - Porto Alegre - RS,09/03/2020 19:00:00,66,Sport - PE,Patric,5,Primeiro
+7,Arena do Grêmio - Porto Alegre - RS,09/03/2020 19:00:00,66,Sport - PE,Iago,28,Segundo
+7,Mineirão - Belo Horizonte - MG,09/03/2020 20:00:00,65,Atlético - MG,Alan Franco,34,Primeiro
+7,Mineirão - Belo Horizonte - MG,09/03/2020 20:00:00,65,Atlético - MG,Alan Franco,43,Primeiro
+7,Mineirão - Belo Horizonte - MG,09/03/2020 20:00:00,65,Atlético - MG,Jair,13,Segundo
+8,Maracanã - Rio de Janeiro - RJ,09/05/2020 17:00:00,71,Flamengo - RJ,Everton Ribeiro,5,Primeiro
+8,Maracanã - Rio de Janeiro - RJ,09/05/2020 17:00:00,71,Flamengo - RJ,Gabriel Barbosa,42,Segundo
+8,Maracanã - Rio de Janeiro - RJ,09/05/2020 17:00:00,71,Fortaleza - CE,Juninho,13,Primeiro
+8,Neo Química Arena - Sao Paulo - SP,09/05/2020 19:00:00,75,Corinthians - SP,Fagner,11,Primeiro
+8,Neo Química Arena - Sao Paulo - SP,09/05/2020 19:00:00,75,Corinthians - SP,Jo,47,Segundo
+8,Neo Química Arena - Sao Paulo - SP,09/05/2020 19:00:00,75,Botafogo - RJ,Bruno Nazario,21,Primeiro
+8,Neo Química Arena - Sao Paulo - SP,09/05/2020 19:00:00,75,Botafogo - RJ,Kalou,29,Segundo
+8,Arena Castelão - Fortaleza - CE,09/05/2020 21:00:00,79,Santos - SP,Felipe,8,Primeiro
+8,Nabi Abi Chedid - Braganca Paulista - SP,09/06/2020 11:00:00,74,Red Bull Bragantino - SP,Claudinho,9,Segundo
+8,Nabi Abi Chedid - Braganca Paulista - SP,09/06/2020 11:00:00,74,Palmeiras - SP,Gabriel Veron,23,Segundo
+8,Nabi Abi Chedid - Braganca Paulista - SP,09/06/2020 11:00:00,74,Palmeiras - SP,Willian,48,Segundo
+8,Beira-Rio - Porto Alegre - RS,09/06/2020 16:00:00,76,Internacional - RS,Patrick,27,Primeiro
+8,Beira-Rio - Porto Alegre - RS,09/06/2020 16:00:00,76,Internacional - RS,Thiago Galhardo,22,Segundo
+8,Beira-Rio - Porto Alegre - RS,09/06/2020 16:00:00,76,Bahia - BA,Rodriguinho,19,Primeiro
+8,Beira-Rio - Porto Alegre - RS,09/06/2020 16:00:00,76,Bahia - BA,Clayson,51,Segundo
+8,Morumbi - Sao Paulo - SP,09/06/2020 16:00:00,73,São Paulo - SP,Brenner,4,Segundo
+8,Morumbi - Sao Paulo - SP,09/06/2020 16:00:00,73,São Paulo - SP,Luciano,8,Segundo
+8,Morumbi - Sao Paulo - SP,09/06/2020 16:00:00,73,São Paulo - SP,Vitor Bueno,46,Segundo
+8,Morumbi - Sao Paulo - SP,09/06/2020 16:00:00,73,Fluminense - RJ,Wellington Silva,39,Primeiro
+8,São Januário - Rio de Janeiro - RJ,09/06/2020 18:00:00,72,Vasco da Gama - RJ,German Cano,7,Primeiro
+8,Olímpico Pedro Ludovico - Goiania - GO,09/06/2020 19:00:00,80,Atlético - GO,Edson,10,Primeiro
+8,Olímpico Pedro Ludovico - Goiania - GO,09/06/2020 19:00:00,80,Grêmio - RS,Isaque,40,Primeiro
+8,Couto Pereira - Curitiba - PR,09/06/2020 20:30:00,78,Atlético - MG,Eduardo Sasha,32,Primeiro
+8,Ilha do Retiro - Recife - PE,09/06/2020 20:30:00,77,Sport - PE,Leandro Barcia,14,Segundo
+8,Ilha do Retiro - Recife - PE,09/06/2020 20:30:00,77,Sport - PE,Marquinhos,31,Segundo
+8,Ilha do Retiro - Recife - PE,09/06/2020 20:30:00,77,Goiás - GO,Elton,22,Segundo
+9,Arena da Baixada - Curitiba - PR,09/09/2020 17:30:00,88,Athletico Paranaense - PR,Ravanelli,42,Segundo
+9,Arena da Baixada - Curitiba - PR,09/09/2020 17:30:00,88,Botafogo - RJ,Victor,35,Segundo
+9,Hailé Pinheiro - Goiania - GO,09/09/2020 18:00:00,90,Goiás - GO,Rafael Moura,45,Primeiro
+9,Hailé Pinheiro - Goiania - GO,09/09/2020 18:00:00,90,Goiás - GO,Ignácio Jara,36,Segundo
+9,Hailé Pinheiro - Goiania - GO,09/09/2020 18:00:00,90,Goiás - GO,Sabino,37,Segundo
+9,Hailé Pinheiro - Goiania - GO,09/09/2020 18:00:00,90,Coritiba - PR,Robson,12,Primeiro
+9,Hailé Pinheiro - Goiania - GO,09/09/2020 18:00:00,90,Coritiba - PR," Matheus",37,Primeiro
+9,Hailé Pinheiro - Goiania - GO,09/09/2020 18:00:00,90,Coritiba - PR,Sabino,50,Segundo
+9,Arena Castelão - Fortaleza - CE,09/09/2020 18:00:00,89,Fortaleza - CE,Wellington Paulista,8,Segundo
+9,Morumbi - Sao Paulo - SP,09/09/2020 19:15:00,83,São Paulo - SP,Luciano,32,Segundo
+9,Morumbi - Sao Paulo - SP,09/09/2020 19:15:00,83,Red Bull Bragantino - SP,Raul,7,Segundo
+9,Maracanã - Rio de Janeiro - RJ,09/09/2020 21:30:00,81,Fluminense - RJ,Digão,47,Segundo
+9,Maracanã - Rio de Janeiro - RJ,09/09/2020 21:30:00,81,Flamengo - RJ,Filipe Luís,7,Primeiro
+9,Maracanã - Rio de Janeiro - RJ,09/09/2020 21:30:00,81,Flamengo - RJ,Gabriel Barbosa,33,Primeiro
+9,Vila Belmiro - Santos - SP,09/09/2020 21:30:00,84,Santos - SP,Arthur,21,Primeiro
+9,Vila Belmiro - Santos - SP,09/09/2020 21:30:00,84,Santos - SP,Marinho,38,Primeiro
+9,Vila Belmiro - Santos - SP,09/09/2020 21:30:00,84,Santos - SP,Marinho,52,Segundo
+9,Vila Belmiro - Santos - SP,09/09/2020 21:30:00,84,Atlético - MG,Alan Franco,35,Primeiro
+9,Neo Química Arena - Sao Paulo - SP,09/10/2020 19:15:00,85,Palmeiras - SP,Luiz Adriano,42,Primeiro
+9,Neo Química Arena - Sao Paulo - SP,09/10/2020 19:15:00,85,Palmeiras - SP,Gabriel Veron,19,Segundo
+9,Beira-Rio - Porto Alegre - RS,09/10/2020 19:15:00,86,Internacional - RS,Thiago Galhardo,43,Primeiro
+9,Beira-Rio - Porto Alegre - RS,09/10/2020 19:15:00,86,Internacional - RS,Thiago Galhardo,30,Segundo
+9,Pituaçu - Salvador - BA,09/10/2020 19:15:00,87,Grêmio - RS,Alisson,24,Primeiro
+9,Pituaçu - Salvador - BA,09/10/2020 19:15:00,87,Grêmio - RS,Darlan,8,Segundo
+9,São Januário - Rio de Janeiro - RJ,09/10/2020 21:00:00,82,Vasco da Gama - RJ,German Cano,16,Segundo
+9,São Januário - Rio de Janeiro - RJ,09/10/2020 21:00:00,82,Atlético - GO,Renato Kayzer,18,Segundo
+9,São Januário - Rio de Janeiro - RJ,09/10/2020 21:00:00,82,Atlético - GO,Renato Kayzer,28,Segundo
+10,Arena da Baixada - Curitiba - PR,09/12/2020 16:30:00,98,Athletico Paranaense - PR,Fabinho,11,Primeiro
+10,Vila Belmiro - Santos - SP,09/12/2020 19:00:00,94,Santos - SP,Madson,29,Primeiro
+10,Vila Belmiro - Santos - SP,09/12/2020 19:00:00,94,Santos - SP,Marinho,29,Segundo
+10,Vila Belmiro - Santos - SP,09/12/2020 19:00:00,94,São Paulo - SP,Gabriel,7,Primeiro
+10,Vila Belmiro - Santos - SP,09/12/2020 19:00:00,94,São Paulo - SP,Gabriel,38,Primeiro
+10,Maracanã - Rio de Janeiro - RJ,09/13/2020 16:00:00,91,Fluminense - RJ,Nenê,7,Primeiro
+10,Maracanã - Rio de Janeiro - RJ,09/13/2020 16:00:00,91,Fluminense - RJ,Nenê,43,Segundo
+10,Maracanã - Rio de Janeiro - RJ,09/13/2020 16:00:00,91,Corinthians - SP,Mateus,50,Segundo
+10,Arena do Grêmio - Porto Alegre - RS,09/13/2020 16:00:00,96,Grêmio - RS,Diego Souza,4,Segundo
+10,Arena do Grêmio - Porto Alegre - RS,09/13/2020 16:00:00,96,Fortaleza - CE,Osvaldo,15,Primeiro
+10,Mineirão - Belo Horizonte - MG,09/13/2020 18:00:00,95,Atlético - MG,Rever,29,Primeiro
+10,Mineirão - Belo Horizonte - MG,09/13/2020 18:00:00,95,Atlético - MG,Savarino,42,Segundo
+10,Mineirão - Belo Horizonte - MG,09/13/2020 18:00:00,95,Red Bull Bragantino - SP,Alerrandro,3,Segundo
+10,Pituaçu - Salvador - BA,09/13/2020 18:00:00,97,Atlético - GO,Jean,39,Primeiro
+10,Arena Castelão - Fortaleza - CE,09/13/2020 18:00:00,99,Ceará - CE,Luiz,4,Segundo
+10,Arena Castelão - Fortaleza - CE,09/13/2020 18:00:00,99,Ceará - CE,Charles,10,Segundo
+10,Hailé Pinheiro - Goiania - GO,09/13/2020 18:00:00,100,Goiás - GO,Vinicius Lopes,44,Primeiro
+10,Allianz Parque - Sao Paulo - SP,09/13/2020 19:45:00,93,Palmeiras - SP,Willian,28,Primeiro
+10,Allianz Parque - Sao Paulo - SP,09/13/2020 19:45:00,93,Palmeiras - SP,Ze Rafael,41,Primeiro
+10,Allianz Parque - Sao Paulo - SP,09/13/2020 19:45:00,93,Sport - PE,Iago,12,Primeiro
+10,Allianz Parque - Sao Paulo - SP,09/13/2020 19:45:00,93,Sport - PE,Lucas,18,Segundo
+10,Nilton Santos - Rio de Janeiro - RJ,09/13/2020 20:30:00,92,Botafogo - RJ,Macae,4,Segundo
+10,Nilton Santos - Rio de Janeiro - RJ,09/13/2020 20:30:00,92,Botafogo - RJ,Macae,37,Segundo
+10,Nilton Santos - Rio de Janeiro - RJ,09/13/2020 20:30:00,92,Vasco da Gama - RJ,Lucas Ribamar,34,Primeiro
+10,Nilton Santos - Rio de Janeiro - RJ,09/13/2020 20:30:00,92,Vasco da Gama - RJ,German Cano,25,Segundo
+10,Nilton Santos - Rio de Janeiro - RJ,09/13/2020 20:30:00,92,Vasco da Gama - RJ,Ygor,27,Segundo
+11,Morumbi - Sao Paulo - SP,08/26/2020 19:00:00,103,São Paulo - SP,Luciano,20,Segundo
+11,Neo Química Arena - Sao Paulo - SP,09/16/2020 21:30:00,105,Corinthians - SP,Otero,16,Primeiro
+11,Neo Química Arena - Sao Paulo - SP,09/16/2020 21:30:00,105,Corinthians - SP,Roni,33,Primeiro
+11,Neo Química Arena - Sao Paulo - SP,09/16/2020 21:30:00,105,Corinthians - SP,Gil,16,Segundo
+11,Neo Química Arena - Sao Paulo - SP,09/16/2020 21:30:00,105,Bahia - BA,Nino Paraiba,35,Primeiro
+11,Neo Química Arena - Sao Paulo - SP,09/16/2020 21:30:00,105,Bahia - BA,Matheus Saldanha,43,Segundo
+11,Arena Castelão - Fortaleza - CE,09/19/2020 19:00:00,109,Fortaleza - CE,Luis,20,Segundo
+11,Nabi Abi Chedid - Braganca Paulista - SP,09/19/2020 19:00:00,104,Red Bull Bragantino - SP,Ortiz,4,Primeiro
+11,Nabi Abi Chedid - Braganca Paulista - SP,09/19/2020 19:00:00,104,Red Bull Bragantino - SP,Bruno,23,Primeiro
+11,Nabi Abi Chedid - Braganca Paulista - SP,09/19/2020 19:00:00,104,Red Bull Bragantino - SP,Alerrandro,45,Primeiro
+11,Nabi Abi Chedid - Braganca Paulista - SP,09/19/2020 19:00:00,104,Red Bull Bragantino - SP,Lucas,17,Segundo
+11,Nabi Abi Chedid - Braganca Paulista - SP,09/19/2020 19:00:00,104,Ceará - CE,Vinicius,19,Primeiro
+11,Nabi Abi Chedid - Braganca Paulista - SP,09/19/2020 19:00:00,104,Ceará - CE,Wescley,43,Segundo
+11,Olímpico Pedro Ludovico - Goiania - GO,09/19/2020 21:00:00,110,Atlético - GO,Lucas Oliveira,20,Primeiro
+11,Olímpico Pedro Ludovico - Goiania - GO,09/19/2020 21:00:00,110,Atlético - GO,Gustavo Ferrareis,9,Segundo
+11,Olímpico Pedro Ludovico - Goiania - GO,09/19/2020 21:00:00,110,Atlético - GO,Gilvan,48,Segundo
+11,Olímpico Pedro Ludovico - Goiania - GO,09/19/2020 21:00:00,110,Atlético - MG,Keno,7,Segundo
+11,Olímpico Pedro Ludovico - Goiania - GO,09/19/2020 21:00:00,110,Atlético - MG,Nathan,14,Segundo
+11,Olímpico Pedro Ludovico - Goiania - GO,09/19/2020 21:00:00,110,Atlético - MG,Keno,19,Segundo
+11,Olímpico Pedro Ludovico - Goiania - GO,09/19/2020 21:00:00,110,Atlético - MG,Keno,32,Segundo
+11,Arena do Grêmio - Porto Alegre - RS,09/20/2020 16:00:00,106,Grêmio - RS,Ferreira,47,Segundo
+11,Arena do Grêmio - Porto Alegre - RS,09/20/2020 16:00:00,106,Palmeiras - SP,Raphael Veiga,25,Segundo
+11,Couto Pereira - Curitiba - PR,09/20/2020 16:00:00,108,Coritiba - PR,Robson,44,Segundo
+11,Ilha do Retiro - Recife - PE,09/20/2020 20:30:00,107,Sport - PE,Hernane,12,Primeiro
+11,Maracanã - Rio de Janeiro - RJ,10/13/2020 18:00:00,101,Flamengo - RJ,Pedro,38,Primeiro
+11,Maracanã - Rio de Janeiro - RJ,10/13/2020 18:00:00,101,Flamengo - RJ,Pedro,50,Segundo
+11,Maracanã - Rio de Janeiro - RJ,10/13/2020 18:00:00,101,Goiás - GO,Vinicius Lopes,12,Primeiro
+12,Ilha do Retiro - Recife - PE,09/23/2020 21:30:00,117,Sport - PE,Iago,36,Primeiro
+12,Beira-Rio - Porto Alegre - RS,09/26/2020 19:00:00,116,Internacional - RS,Thiago Galhardo,19,Primeiro
+12,Beira-Rio - Porto Alegre - RS,09/26/2020 19:00:00,116,São Paulo - SP,Luciano,25,Primeiro
+12,Arena da Baixada - Curitiba - PR,09/26/2020 19:00:00,118,Athletico Paranaense - PR,Christian,25,Segundo
+12,Mineirão - Belo Horizonte - MG,09/26/2020 21:00:00,115,Atlético - MG,Keno,10,Primeiro
+12,Mineirão - Belo Horizonte - MG,09/26/2020 21:00:00,115,Atlético - MG,Keno,5,Segundo
+12,Mineirão - Belo Horizonte - MG,09/26/2020 21:00:00,115,Atlético - MG,Keno,20,Segundo
+12,Mineirão - Belo Horizonte - MG,09/26/2020 21:00:00,115,Grêmio - RS,Isaque,9,Segundo
+12,São Januário - Rio de Janeiro - RJ,09/27/2020 11:00:00,112,Vasco da Gama - RJ,Vinicius,4,Segundo
+12,São Januário - Rio de Janeiro - RJ,09/27/2020 11:00:00,112,Red Bull Bragantino - SP,Lucas,5,Segundo
+12,Allianz Parque - Sao Paulo - SP,09/27/2020 16:00:00,113,Palmeiras - SP,Patrick de Paula,9,Segundo
+12,Allianz Parque - Sao Paulo - SP,09/27/2020 16:00:00,113,Flamengo - RJ,Pedro,11,Segundo
+12,Arena Castelão - Fortaleza - CE,09/27/2020 18:15:00,119,Ceará - CE,Charles,7,Segundo
+12,Arena Castelão - Fortaleza - CE,09/27/2020 18:15:00,119,Ceará - CE,Vinicius,28,Segundo
+12,Arena Castelão - Fortaleza - CE,09/27/2020 18:15:00,119,Goiás - GO,Rafael Moura,2,Primeiro
+12,Arena Castelão - Fortaleza - CE,09/27/2020 18:15:00,119,Goiás - GO,David Duarte,47,Segundo
+12,Olímpico Pedro Ludovico - Goiania - GO,09/27/2020 18:15:00,120,Atlético - GO,Hyuri,4,Segundo
+12,Olímpico Pedro Ludovico - Goiania - GO,09/27/2020 18:15:00,120,Botafogo - RJ,Victor,44,Primeiro
+12,Vila Belmiro - Santos - SP,09/27/2020 20:30:00,114,Santos - SP,Madson,41,Primeiro
+12,Vila Belmiro - Santos - SP,09/27/2020 20:30:00,114,Fortaleza - CE,Gabriel,2,Segundo
+12,Nilton Santos - Rio de Janeiro - RJ,09/28/2020 20:00:00,111,Fluminense - RJ,Michel Araujo,7,Primeiro
+12,Nilton Santos - Rio de Janeiro - RJ,09/28/2020 20:00:00,111,Fluminense - RJ,Felippe Cardoso,16,Segundo
+12,Nilton Santos - Rio de Janeiro - RJ,09/28/2020 20:00:00,111,Fluminense - RJ,Nino,26,Segundo
+12,Nilton Santos - Rio de Janeiro - RJ,09/28/2020 20:00:00,111,Fluminense - RJ,PH GANSO,42,Segundo
+13,Arena do Grêmio - Porto Alegre - RS,10/03/2020 17:00:00,126,Grêmio - RS,Pepe,8,Segundo
+13,Arena do Grêmio - Porto Alegre - RS,10/03/2020 17:00:00,126,Internacional - RS,Thiago Galhardo,29,Segundo
+13,Allianz Parque - Sao Paulo - SP,10/03/2020 19:00:00,123,Palmeiras - SP,Raphael Veiga,9,Primeiro
+13,Allianz Parque - Sao Paulo - SP,10/03/2020 19:00:00,123,Palmeiras - SP,Willian,36,Segundo
+13,Allianz Parque - Sao Paulo - SP,10/03/2020 19:00:00,123,Ceará - CE,Brock,17,Primeiro
+13,Nilton Santos - Rio de Janeiro - RJ,10/04/2020 11:00:00,122,Botafogo - RJ,Caio,27,Segundo
+13,Nilton Santos - Rio de Janeiro - RJ,10/04/2020 11:00:00,122,Fluminense - RJ,Kevin,40,Primeiro
+13,Couto Pereira - Curitiba - PR,10/04/2020 16:00:00,128,Coritiba - PR,Robson,5,Primeiro
+13,Couto Pereira - Curitiba - PR,10/04/2020 16:00:00,128,São Paulo - SP,Reinaldo,23,Segundo
+13,Maracanã - Rio de Janeiro - RJ,10/04/2020 16:00:00,121,Flamengo - RJ,Pedro,10,Segundo
+13,Maracanã - Rio de Janeiro - RJ,10/04/2020 16:00:00,121,Flamengo - RJ,Bruno Henrique,13,Segundo
+13,Maracanã - Rio de Janeiro - RJ,10/04/2020 16:00:00,121,Flamengo - RJ,Everton Ribeiro,31,Segundo
+13,Maracanã - Rio de Janeiro - RJ,10/04/2020 16:00:00,121,Athletico Paranaense - PR,Renato Kayzer,21,Segundo
+13,Pituaçu - Salvador - BA,10/04/2020 18:15:00,127,Bahia - BA,Matheus Saldanha,31,Segundo
+13,Pituaçu - Salvador - BA,10/04/2020 18:15:00,127,Sport - PE,Hernane,40,Primeiro
+13,Pituaçu - Salvador - BA,10/04/2020 18:15:00,127,Sport - PE,Marcos,9,Segundo
+13,Hailé Pinheiro - Goiania - GO,10/04/2020 18:15:00,130,Goiás - GO,Vinicius Lopes,4,Primeiro
+13,Hailé Pinheiro - Goiania - GO,10/04/2020 18:15:00,130,Goiás - GO,Victor Andrade,39,Segundo
+13,Hailé Pinheiro - Goiania - GO,10/04/2020 18:15:00,130,Santos - SP,Marinho,18,Primeiro
+13,Hailé Pinheiro - Goiania - GO,10/04/2020 18:15:00,130,Santos - SP,Jefferson Junio,9,Segundo
+13,Hailé Pinheiro - Goiania - GO,10/04/2020 18:15:00,130,Santos - SP,Marcos Leonardo,31,Segundo
+13,Mineirão - Belo Horizonte - MG,10/04/2020 20:30:00,125,Atlético - MG,Guilherme Arana,13,Primeiro
+13,Mineirão - Belo Horizonte - MG,10/04/2020 20:30:00,125,Atlético - MG,Savarino,18,Primeiro
+13,Mineirão - Belo Horizonte - MG,10/04/2020 20:30:00,125,Atlético - MG,Guga,28,Primeiro
+13,Mineirão - Belo Horizonte - MG,10/04/2020 20:30:00,125,Atlético - MG,Keno,37,Primeiro
+13,Mineirão - Belo Horizonte - MG,10/04/2020 20:30:00,125,Vasco da Gama - RJ,Martin Benitez,8,Primeiro
+14,Neo Química Arena - Sao Paulo - SP,10/07/2020 19:00:00,135,Corinthians - SP,Danilo,45,Primeiro
+14,Neo Química Arena - Sao Paulo - SP,10/07/2020 19:00:00,135,Santos - SP,Madson,11,Primeiro
+14,Maracanã - Rio de Janeiro - RJ,10/07/2020 19:15:00,131,Flamengo - RJ,Pedro,6,Segundo
+14,Maracanã - Rio de Janeiro - RJ,10/07/2020 19:15:00,131,Flamengo - RJ,Gustavo,9,Segundo
+14,Maracanã - Rio de Janeiro - RJ,10/07/2020 19:15:00,131,Flamengo - RJ,Pedro,15,Segundo
+14,Pituaçu - Salvador - BA,10/07/2020 19:15:00,137,Bahia - BA,Rossi,10,Primeiro
+14,Pituaçu - Salvador - BA,10/07/2020 19:15:00,137,Bahia - BA,Gilberto,31,Primeiro
+14,Pituaçu - Salvador - BA,10/07/2020 19:15:00,137,Bahia - BA,Clayson,45,Primeiro
+14,Arena do Grêmio - Porto Alegre - RS,10/07/2020 19:15:00,136,Grêmio - RS,Luiz Fernando,3,Primeiro
+14,Arena do Grêmio - Porto Alegre - RS,10/07/2020 19:15:00,136,Grêmio - RS,David Braz,10,Primeiro
+14,Arena do Grêmio - Porto Alegre - RS,10/07/2020 19:15:00,136,Coritiba - PR,Nathan Silva,26,Segundo
+14,Morumbi - Sao Paulo - SP,10/07/2020 20:30:00,133,São Paulo - SP,Brenner,46,Primeiro
+14,Morumbi - Sao Paulo - SP,10/07/2020 20:30:00,133,São Paulo - SP,Gabriel,19,Segundo
+14,Morumbi - Sao Paulo - SP,10/07/2020 20:30:00,133,São Paulo - SP,Brenner,25,Segundo
+14,Hailé Pinheiro - Goiania - GO,10/07/2020 20:30:00,140,Goiás - GO,Rafael Moura,22,Primeiro
+14,Hailé Pinheiro - Goiania - GO,10/07/2020 20:30:00,140,Goiás - GO,Rafael Moura,22,Segundo
+14,Hailé Pinheiro - Goiania - GO,10/07/2020 20:30:00,140,Fluminense - RJ,Yago Felipe,40,Primeiro
+14,Hailé Pinheiro - Goiania - GO,10/07/2020 20:30:00,140,Fluminense - RJ,Fred,7,Segundo
+14,Hailé Pinheiro - Goiania - GO,10/07/2020 20:30:00,140,Fluminense - RJ,Nenê,24,Segundo
+14,Hailé Pinheiro - Goiania - GO,10/07/2020 20:30:00,140,Fluminense - RJ,Digão,30,Segundo
+14,Nilton Santos - Rio de Janeiro - RJ,10/07/2020 21:30:00,132,Botafogo - RJ,Pedro Raul,1,Segundo
+14,Nilton Santos - Rio de Janeiro - RJ,10/07/2020 21:30:00,132,Botafogo - RJ,Caio,6,Segundo
+14,Nilton Santos - Rio de Janeiro - RJ,10/07/2020 21:30:00,132,Palmeiras - SP,Willian,31,Segundo
+14,Arena Castelão - Fortaleza - CE,10/07/2020 21:30:00,139,Fortaleza - CE,David,36,Primeiro
+14,Arena Castelão - Fortaleza - CE,10/07/2020 21:30:00,139,Fortaleza - CE,Bruno,39,Segundo
+14,Arena Castelão - Fortaleza - CE,10/07/2020 21:30:00,139,Atlético - MG,Eduardo Sasha,41,Primeiro
+14,Nabi Abi Chedid - Braganca Paulista - SP,10/08/2020 21:00:00,134,Internacional - RS,Thiago Galhardo,17,Primeiro
+14,Nabi Abi Chedid - Braganca Paulista - SP,10/08/2020 21:00:00,134,Internacional - RS,Thiago Galhardo,25,Primeiro
+15,São Januário - Rio de Janeiro - RJ,10/10/2020 17:00:00,142,Vasco da Gama - RJ,Talles Magno,9,Primeiro
+15,São Januário - Rio de Janeiro - RJ,10/10/2020 17:00:00,142,Flamengo - RJ,Leo Pereira,2,Segundo
+15,São Januário - Rio de Janeiro - RJ,10/10/2020 17:00:00,142,Flamengo - RJ,Bruno Henrique,25,Segundo
+15,Allianz Parque - Sao Paulo - SP,10/10/2020 19:00:00,143,São Paulo - SP,Reinaldo,10,Segundo
+15,Allianz Parque - Sao Paulo - SP,10/10/2020 19:00:00,143,São Paulo - SP,Vitor Bueno,47,Segundo
+15,Mineirão - Belo Horizonte - MG,10/10/2020 21:00:00,145,Atlético - MG,Keno,41,Primeiro
+15,Mineirão - Belo Horizonte - MG,10/10/2020 21:00:00,145,Atlético - MG,Nathan,46,Primeiro
+15,Mineirão - Belo Horizonte - MG,10/10/2020 21:00:00,145,Atlético - MG,Marrony,46,Segundo
+15,Vila Belmiro - Santos - SP,10/11/2020 16:00:00,144,Santos - SP,Marinho,19,Primeiro
+15,Vila Belmiro - Santos - SP,10/11/2020 16:00:00,144,Santos - SP,Marinho,34,Segundo
+15,Vila Belmiro - Santos - SP,10/11/2020 16:00:00,144,Grêmio - RS,Diego Souza,27,Segundo
+15,Maracanã - Rio de Janeiro - RJ,10/11/2020 16:00:00,141,Fluminense - RJ,Nenê,26,Segundo
+15,Olímpico Pedro Ludovico - Goiania - GO,10/11/2020 18:15:00,150,Atlético - GO,Janderson,27,Primeiro
+15,Olímpico Pedro Ludovico - Goiania - GO,10/11/2020 18:15:00,150,Atlético - GO,Matheus Bossa,45,Segundo
+15,Olímpico Pedro Ludovico - Goiania - GO,10/11/2020 18:15:00,150,Red Bull Bragantino - SP,Claudinho,20,Primeiro
+15,Ilha do Retiro - Recife - PE,10/11/2020 18:15:00,147,Sport - PE,Thiago Neves,10,Segundo
+15,Ilha do Retiro - Recife - PE,10/11/2020 18:15:00,147,Botafogo - RJ,Honda,29,Primeiro
+15,Ilha do Retiro - Recife - PE,10/11/2020 18:15:00,147,Botafogo - RJ,Caio,45,Primeiro
+15,Beira-Rio - Porto Alegre - RS,10/11/2020 20:30:00,146,Internacional - RS,Thiago Galhardo,6,Primeiro
+15,Beira-Rio - Porto Alegre - RS,10/11/2020 20:30:00,146,Internacional - RS,Abel,36,Primeiro
+15,Beira-Rio - Porto Alegre - RS,10/11/2020 20:30:00,146,Athletico Paranaense - PR,Renato Kayzer,41,Primeiro
+15,Arena Castelão - Fortaleza - CE,10/11/2020 20:30:00,149,Ceará - CE,Gil,33,Primeiro
+15,Arena Castelão - Fortaleza - CE,10/11/2020 20:30:00,149,Ceará - CE,Fernando,45,Segundo
+15,Arena Castelão - Fortaleza - CE,10/11/2020 20:30:00,149,Corinthians - SP,Leo,15,Primeiro
+16,Allianz Parque - Sao Paulo - SP,10/14/2020 18:00:00,153,Palmeiras - SP,Gabriel Veron,37,Primeiro
+16,Allianz Parque - Sao Paulo - SP,10/14/2020 18:00:00,153,Coritiba - PR,Robson,7,Primeiro
+16,Allianz Parque - Sao Paulo - SP,10/14/2020 18:00:00,153,Coritiba - PR,Robson,24,Primeiro
+16,Allianz Parque - Sao Paulo - SP,10/14/2020 18:00:00,153,Coritiba - PR,Giovanni Augusto,19,Segundo
+16,Arena do Grêmio - Porto Alegre - RS,10/14/2020 19:15:00,156,Grêmio - RS,Diego Souza,33,Primeiro
+16,Arena do Grêmio - Porto Alegre - RS,10/14/2020 19:15:00,156,Grêmio - RS,Pepe,2,Segundo
+16,Arena do Grêmio - Porto Alegre - RS,10/14/2020 19:15:00,156,Grêmio - RS,Pepe,20,Segundo
+16,Arena do Grêmio - Porto Alegre - RS,10/14/2020 19:15:00,156,Botafogo - RJ,Macae,42,Primeiro
+16,Vila Belmiro - Santos - SP,10/14/2020 20:30:00,154,Atlético - GO,Chico,22,Segundo
+16,Arena da Baixada - Curitiba - PR,10/14/2020 21:30:00,158,Corinthians - SP,Everaldo,50,Segundo
+16,Mineirão - Belo Horizonte - MG,10/14/2020 21:30:00,155,Atlético - MG,Guilherme Arana,6,Segundo
+16,Mineirão - Belo Horizonte - MG,10/14/2020 21:30:00,155,Fluminense - RJ,Caio Paulista,19,Primeiro
+16,Ilha do Retiro - Recife - PE,10/14/2020 21:30:00,157,Sport - PE,Marquinhos,43,Primeiro
+16,Ilha do Retiro - Recife - PE,10/14/2020 21:30:00,157,Sport - PE,Leandro Barcia,10,Segundo
+16,Ilha do Retiro - Recife - PE,10/14/2020 21:30:00,157,Sport - PE,MIKAEL,45,Segundo
+16,Ilha do Retiro - Recife - PE,10/14/2020 21:30:00,157,Internacional - RS,Patrick,34,Primeiro
+16,Ilha do Retiro - Recife - PE,10/14/2020 21:30:00,157,Internacional - RS,Adryelson,39,Primeiro
+16,Ilha do Retiro - Recife - PE,10/14/2020 21:30:00,157,Internacional - RS,Moledo,7,Segundo
+16,Ilha do Retiro - Recife - PE,10/14/2020 21:30:00,157,Internacional - RS,Patrick,30,Segundo
+16,Ilha do Retiro - Recife - PE,10/14/2020 21:30:00,157,Internacional - RS,Yuri Alberto,35,Segundo
+16,Maracanã - Rio de Janeiro - RJ,10/15/2020 20:00:00,151,Flamengo - RJ,Lincoln,24,Primeiro
+16,Maracanã - Rio de Janeiro - RJ,10/15/2020 20:00:00,151,Red Bull Bragantino - SP,Claudinho,1,Segundo
+16,Hailé Pinheiro - Goiania - GO,10/16/2020 20:00:00,160,Goiás - GO,Vinicius Lopes,3,Segundo
+16,Hailé Pinheiro - Goiania - GO,10/16/2020 20:00:00,160,Bahia - BA,Fessin,49,Segundo
+16,Arena Castelão - Fortaleza - CE,11/25/2020 19:15:00,159,Ceará - CE,Leo Chu,1,Segundo
+16,Arena Castelão - Fortaleza - CE,11/25/2020 19:15:00,159,São Paulo - SP,Diego,10,Primeiro
+17,Olímpico Pedro Ludovico - Goiania - GO,10/17/2020 19:00:00,170,Atlético - GO,Zé Roberto,46,Primeiro
+17,Olímpico Pedro Ludovico - Goiania - GO,10/17/2020 19:00:00,170,Athletico Paranaense - PR,Cittadini,15,Segundo
+17,Maracanã - Rio de Janeiro - RJ,10/17/2020 19:00:00,161,Fluminense - RJ,Luiz Henrique,12,Primeiro
+17,Maracanã - Rio de Janeiro - RJ,10/17/2020 19:00:00,161,Fluminense - RJ,Danilo Barcelos,45,Segundo
+17,Maracanã - Rio de Janeiro - RJ,10/17/2020 19:00:00,161,Ceará - CE,Hudson,41,Primeiro
+17,Maracanã - Rio de Janeiro - RJ,10/17/2020 19:00:00,161,Ceará - CE,Vinicius,32,Segundo
+17,Couto Pereira - Curitiba - PR,10/17/2020 19:00:00,168,Coritiba - PR,Giovanni Augusto,29,Segundo
+17,Couto Pereira - Curitiba - PR,10/17/2020 19:00:00,168,Santos - SP,Kaio Jorge,5,Primeiro
+17,Couto Pereira - Curitiba - PR,10/17/2020 19:00:00,168,Santos - SP,Yeferson Soteldo,26,Primeiro
+17,Neo Química Arena - Sao Paulo - SP,10/18/2020 16:00:00,165,Corinthians - SP,Gil,29,Segundo
+17,Neo Química Arena - Sao Paulo - SP,10/18/2020 16:00:00,165,Flamengo - RJ,Everton Ribeiro,31,Primeiro
+17,Neo Química Arena - Sao Paulo - SP,10/18/2020 16:00:00,165,Flamengo - RJ,Vitinho,7,Segundo
+17,Neo Química Arena - Sao Paulo - SP,10/18/2020 16:00:00,165,Flamengo - RJ,Natan,12,Segundo
+17,Neo Química Arena - Sao Paulo - SP,10/18/2020 16:00:00,165,Flamengo - RJ,Bruno Henrique,26,Segundo
+17,Neo Química Arena - Sao Paulo - SP,10/18/2020 16:00:00,165,Flamengo - RJ,Diego,40,Segundo
+17,Beira-Rio - Porto Alegre - RS,10/18/2020 18:15:00,166,Internacional - RS,Edenilson,24,Primeiro
+17,Beira-Rio - Porto Alegre - RS,10/18/2020 18:15:00,166,Internacional - RS,Thiago Galhardo,38,Primeiro
+17,Nabi Abi Chedid - Braganca Paulista - SP,10/18/2020 20:30:00,164,Red Bull Bragantino - SP,Ricardo,5,Segundo
+17,Nabi Abi Chedid - Braganca Paulista - SP,10/18/2020 20:30:00,164,Red Bull Bragantino - SP,Claudinho,15,Segundo
+17,Arena Castelão - Fortaleza - CE,10/18/2020 20:30:00,169,Fortaleza - CE,David,34,Primeiro
+17,Arena Castelão - Fortaleza - CE,10/18/2020 20:30:00,169,Fortaleza - CE,David,41,Primeiro
+17,Pituaçu - Salvador - BA,10/19/2020 20:00:00,167,Bahia - BA,Daniel,23,Segundo
+17,Pituaçu - Salvador - BA,10/19/2020 20:00:00,167,Bahia - BA,Gilberto,34,Segundo
+17,Pituaçu - Salvador - BA,10/19/2020 20:00:00,167,Bahia - BA,Gilberto,43,Segundo
+17,Pituaçu - Salvador - BA,10/19/2020 20:00:00,167,Atlético - MG,Savarino,20,Primeiro
+18,São Januário - Rio de Janeiro - RJ,10/21/2020 21:30:00,172,Vasco da Gama - RJ,Lucas Ribamar,27,Segundo
+18,São Januário - Rio de Janeiro - RJ,10/21/2020 21:30:00,172,Corinthians - SP,Gustavo Mantuan,22,Primeiro
+18,São Januário - Rio de Janeiro - RJ,10/21/2020 21:30:00,172,Corinthians - SP,Everaldo,44,Segundo
+18,Nabi Abi Chedid - Braganca Paulista - SP,10/24/2020 17:00:00,174,Red Bull Bragantino - SP,Ytalo,46,Primeiro
+18,Nabi Abi Chedid - Braganca Paulista - SP,10/24/2020 17:00:00,174,Red Bull Bragantino - SP,Claudinho,37,Segundo
+18,Arena Castelão - Fortaleza - CE,10/24/2020 19:00:00,179,Ceará - CE,Vinicius,29,Primeiro
+18,Arena Castelão - Fortaleza - CE,10/24/2020 19:00:00,179,Ceará - CE,Eduardo,6,Segundo
+18,Arena Castelão - Fortaleza - CE,10/24/2020 19:00:00,179,Coritiba - PR,Rodrigo Muniz,2,Primeiro
+18,Olímpico Pedro Ludovico - Goiania - GO,10/25/2020 16:00:00,180,Palmeiras - SP,Wesley Ribeiro Silva,19,Primeiro
+18,Olímpico Pedro Ludovico - Goiania - GO,10/25/2020 16:00:00,180,Palmeiras - SP,Luiz Adriano,9,Segundo
+18,Olímpico Pedro Ludovico - Goiania - GO,10/25/2020 16:00:00,180,Palmeiras - SP,Luiz Adriano,19,Segundo
+18,Maracanã - Rio de Janeiro - RJ,10/25/2020 16:00:00,171,Fluminense - RJ,Luccas Claro,28,Primeiro
+18,Maracanã - Rio de Janeiro - RJ,10/25/2020 16:00:00,171,Fluminense - RJ,Nino,10,Segundo
+18,Maracanã - Rio de Janeiro - RJ,10/25/2020 16:00:00,171,Fluminense - RJ,Marcos Paulo,47,Segundo
+18,Maracanã - Rio de Janeiro - RJ,10/25/2020 16:00:00,171,Santos - SP,Marinho,35,Segundo
+18,Arena da Baixada - Curitiba - PR,10/25/2020 18:15:00,178,Athletico Paranaense - PR,Carlos Eduardo,43,Primeiro
+18,Arena da Baixada - Curitiba - PR,10/25/2020 18:15:00,178,Grêmio - RS,Thiago Heleno,10,Segundo
+18,Arena da Baixada - Curitiba - PR,10/25/2020 18:15:00,178,Grêmio - RS,Ferreira,43,Segundo
+18,Beira-Rio - Porto Alegre - RS,10/25/2020 18:15:00,176,Internacional - RS,Abel,6,Primeiro
+18,Beira-Rio - Porto Alegre - RS,10/25/2020 18:15:00,176,Internacional - RS,Thiago Galhardo,24,Primeiro
+18,Beira-Rio - Porto Alegre - RS,10/25/2020 18:15:00,176,Flamengo - RJ,Pedro,10,Primeiro
+18,Beira-Rio - Porto Alegre - RS,10/25/2020 18:15:00,176,Flamengo - RJ,Everton Ribeiro,49,Segundo
+18,Arena Fonte Nova - Salvador - BA,11/11/2020 18:45:00,177,Bahia - BA,Juninho,24,Primeiro
+18,Arena Fonte Nova - Salvador - BA,11/11/2020 18:45:00,177,Bahia - BA,Gilberto,25,Segundo
+18,Arena Fonte Nova - Salvador - BA,11/11/2020 18:45:00,177,Fortaleza - CE,Bergson,19,Segundo
+18,Morumbi - Sao Paulo - SP,12/09/2020 21:30:00,173,São Paulo - SP,Brenner,9,Primeiro
+18,Morumbi - Sao Paulo - SP,12/09/2020 21:30:00,173,São Paulo - SP,Brenner,26,Primeiro
+18,Morumbi - Sao Paulo - SP,12/09/2020 21:30:00,173,São Paulo - SP,Reinaldo,47,Primeiro
+18,Morumbi - Sao Paulo - SP,12/09/2020 21:30:00,173,São Paulo - SP,Hernanes,44,Segundo
+19,Nilton Santos - Rio de Janeiro - RJ,10/31/2020 17:00:00,182,Botafogo - RJ,Honda,16,Primeiro
+19,Nilton Santos - Rio de Janeiro - RJ,10/31/2020 17:00:00,182,Botafogo - RJ,Macae,27,Primeiro
+19,Nilton Santos - Rio de Janeiro - RJ,10/31/2020 17:00:00,182,Ceará - CE,CLEBER,23,Primeiro
+19,Nilton Santos - Rio de Janeiro - RJ,10/31/2020 17:00:00,182,Ceará - CE,Leandro,5,Segundo
+19,Neo Química Arena - Sao Paulo - SP,10/31/2020 19:00:00,185,Corinthians - SP,Matheus,33,Primeiro
+19,Couto Pereira - Curitiba - PR,10/31/2020 19:00:00,188,Coritiba - PR," Galdezani",7,Primeiro
+19,Arena Castelão - Fortaleza - CE,10/31/2020 21:00:00,189,Fluminense - RJ,Wellington Silva,29,Segundo
+19,Ilha do Retiro - Recife - PE,11/01/2020 16:00:00,187,Sport - PE,Thiago Neves,7,Segundo
+19,Maracanã - Rio de Janeiro - RJ,11/01/2020 16:00:00,181,Flamengo - RJ,Pedro,5,Primeiro
+19,Maracanã - Rio de Janeiro - RJ,11/01/2020 16:00:00,181,São Paulo - SP,Tche Tche,16,Primeiro
+19,Maracanã - Rio de Janeiro - RJ,11/01/2020 16:00:00,181,São Paulo - SP,Brenner,45,Primeiro
+19,Maracanã - Rio de Janeiro - RJ,11/01/2020 16:00:00,181,São Paulo - SP,Reinaldo,13,Segundo
+19,Maracanã - Rio de Janeiro - RJ,11/01/2020 16:00:00,181,São Paulo - SP,Luciano,36,Segundo
+19,Vila Belmiro - Santos - SP,11/01/2020 18:15:00,184,Santos - SP,Madson,9,Primeiro
+19,Vila Belmiro - Santos - SP,11/01/2020 18:15:00,184,Santos - SP,Marinho,26,Primeiro
+19,Vila Belmiro - Santos - SP,11/01/2020 18:15:00,184,Santos - SP,Jobson Souza,36,Primeiro
+19,Vila Belmiro - Santos - SP,11/01/2020 18:15:00,184,Bahia - BA,Daniel,27,Primeiro
+19,Hailé Pinheiro - Goiania - GO,11/01/2020 20:30:00,190,Goiás - GO,Shaylon,12,Segundo
+19,Hailé Pinheiro - Goiania - GO,11/01/2020 20:30:00,190,Vasco da Gama - RJ,Leonardo,16,Primeiro
+19,Allianz Parque - Sao Paulo - SP,11/02/2020 17:00:00,183,Palmeiras - SP,Raphael Veiga,18,Primeiro
+19,Allianz Parque - Sao Paulo - SP,11/02/2020 17:00:00,183,Palmeiras - SP,Rony,24,Segundo
+19,Allianz Parque - Sao Paulo - SP,11/02/2020 17:00:00,183,Palmeiras - SP,Wesley Ribeiro Silva,31,Segundo
+19,Arena do Grêmio - Porto Alegre - RS,11/02/2020 20:00:00,186,Grêmio - RS,David Braz,23,Segundo
+19,Arena do Grêmio - Porto Alegre - RS,11/02/2020 20:00:00,186,Grêmio - RS,Orejuela,26,Segundo
+19,Arena do Grêmio - Porto Alegre - RS,11/02/2020 20:00:00,186,Red Bull Bragantino - SP,Jan Hurtado,32,Segundo
+20,Arena da Baixada - Curitiba - PR,11/07/2020 18:00:00,198,Athletico Paranaense - PR,Carlos Eduardo,17,Segundo
+20,Arena da Baixada - Curitiba - PR,11/07/2020 18:00:00,198,Athletico Paranaense - PR,Renato Kayzer,47,Segundo
+20,Arena da Baixada - Curitiba - PR,11/07/2020 18:00:00,198,Fortaleza - CE,Bergson,18,Primeiro
+20,Morumbi - Sao Paulo - SP,11/07/2020 19:00:00,193,São Paulo - SP,Brenner,24,Primeiro
+20,Morumbi - Sao Paulo - SP,11/07/2020 19:00:00,193,São Paulo - SP,Igor Gomes,33,Segundo
+20,Morumbi - Sao Paulo - SP,11/07/2020 19:00:00,193,Goiás - GO,Fernandao,19,Primeiro
+20,Olímpico Pedro Ludovico - Goiania - GO,11/07/2020 21:00:00,200,Atlético - GO,Lucas Oliveira,42,Primeiro
+20,Olímpico Pedro Ludovico - Goiania - GO,11/07/2020 21:00:00,200,Corinthians - SP,Fabio Santos,11,Segundo
+20,Beira-Rio - Porto Alegre - RS,11/08/2020 16:00:00,196,Internacional - RS,Yuri Alberto,31,Primeiro
+20,Beira-Rio - Porto Alegre - RS,11/08/2020 16:00:00,196,Internacional - RS,Nonato,13,Segundo
+20,Beira-Rio - Porto Alegre - RS,11/08/2020 16:00:00,196,Coritiba - PR,Giovanni Augusto,2,Segundo
+20,Beira-Rio - Porto Alegre - RS,11/08/2020 16:00:00,196,Coritiba - PR,Sabino,28,Segundo
+20,São Januário - Rio de Janeiro - RJ,11/08/2020 16:00:00,192,Palmeiras - SP,Luiz Adriano,27,Segundo
+20,Nabi Abi Chedid - Braganca Paulista - SP,11/08/2020 18:15:00,194,Red Bull Bragantino - SP,Ortiz,50,Segundo
+20,Nabi Abi Chedid - Braganca Paulista - SP,11/08/2020 18:15:00,194,Santos - SP,Ortiz,18,Segundo
+20,Mineirão - Belo Horizonte - MG,11/08/2020 18:15:00,195,Atlético - MG,Gustavo,3,Primeiro
+20,Mineirão - Belo Horizonte - MG,11/08/2020 18:15:00,195,Atlético - MG,Keno,7,Primeiro
+20,Mineirão - Belo Horizonte - MG,11/08/2020 18:15:00,195,Atlético - MG,Eduardo Sasha,13,Segundo
+20,Mineirão - Belo Horizonte - MG,11/08/2020 18:15:00,195,Atlético - MG,Zaracho,37,Segundo
+20,Arena Fonte Nova - Salvador - BA,11/08/2020 18:15:00,197,Bahia - BA,Rodriguinho,51,Segundo
+20,Maracanã - Rio de Janeiro - RJ,11/08/2020 20:30:00,191,Grêmio - RS,Pepe,27,Primeiro
+21,Ilha do Retiro - Recife - PE,11/14/2020 16:30:00,207,Vasco da Gama - RJ,German Cano,25,Primeiro
+21,Ilha do Retiro - Recife - PE,11/14/2020 16:30:00,207,Vasco da Gama - RJ,German Cano,6,Segundo
+21,Vila Belmiro - Santos - SP,11/14/2020 16:30:00,204,Santos - SP,Ivonei,13,Segundo
+21,Vila Belmiro - Santos - SP,11/14/2020 16:30:00,204,Santos - SP,Kaio Jorge,23,Segundo
+21,Hailé Pinheiro - Goiania - GO,11/14/2020 17:00:00,210,Athletico Paranaense - PR,Renato Kayzer,19,Primeiro
+21,Arena do Grêmio - Porto Alegre - RS,11/14/2020 19:00:00,206,Grêmio - RS,Jean Pyerre,19,Primeiro
+21,Arena do Grêmio - Porto Alegre - RS,11/14/2020 19:00:00,206,Grêmio - RS,Pepe,32,Primeiro
+21,Arena do Grêmio - Porto Alegre - RS,11/14/2020 19:00:00,206,Grêmio - RS,Diego Souza,39,Primeiro
+21,Arena do Grêmio - Porto Alegre - RS,11/14/2020 19:00:00,206,Grêmio - RS,Churin,24,Segundo
+21,Arena do Grêmio - Porto Alegre - RS,11/14/2020 19:00:00,206,Ceará - CE,Kelvyn,36,Primeiro
+21,Arena do Grêmio - Porto Alegre - RS,11/14/2020 19:00:00,206,Ceará - CE,Tiago,45,Segundo
+21,Arena Castelão - Fortaleza - CE,11/14/2020 19:00:00,209,Fortaleza - CE,David,11,Primeiro
+21,Arena Castelão - Fortaleza - CE,11/14/2020 19:00:00,209,Fortaleza - CE,Wellington Paulista,28,Segundo
+21,Arena Castelão - Fortaleza - CE,11/14/2020 19:00:00,209,São Paulo - SP,Gabriel,40,Primeiro
+21,Arena Castelão - Fortaleza - CE,11/14/2020 19:00:00,209,São Paulo - SP,Luciano,15,Segundo
+21,Arena Castelão - Fortaleza - CE,11/14/2020 19:00:00,209,São Paulo - SP,Luciano,36,Segundo
+21,Neo Química Arena - Sao Paulo - SP,11/14/2020 19:00:00,205,Corinthians - SP,Matheus,5,Primeiro
+21,Neo Química Arena - Sao Paulo - SP,11/14/2020 19:00:00,205,Atlético - MG,Guilherme Arana,15,Segundo
+21,Neo Química Arena - Sao Paulo - SP,11/14/2020 19:00:00,205,Atlético - MG,Marrony,38,Segundo
+21,Maracanã - Rio de Janeiro - RJ,11/14/2020 21:30:00,201,Flamengo - RJ,Bruno Henrique,44,Primeiro
+21,Maracanã - Rio de Janeiro - RJ,11/14/2020 21:30:00,201,Atlético - GO,Zé Roberto,13,Segundo
+21,Allianz Parque - Sao Paulo - SP,11/14/2020 21:30:00,203,Palmeiras - SP,Raphael Veiga,6,Segundo
+21,Allianz Parque - Sao Paulo - SP,11/14/2020 21:30:00,203,Palmeiras - SP,Raphael Veiga,14,Segundo
+21,Couto Pereira - Curitiba - PR,11/16/2020 18:00:00,208,Coritiba - PR,Giovanni Augusto,2,Primeiro
+21,Couto Pereira - Curitiba - PR,11/16/2020 18:00:00,208,Bahia - BA,Elber,36,Primeiro
+21,Couto Pereira - Curitiba - PR,11/16/2020 18:00:00,208,Bahia - BA,Zeca,27,Segundo
+21,Nilton Santos - Rio de Janeiro - RJ,11/16/2020 20:00:00,202,Botafogo - RJ,Macae,43,Primeiro
+21,Nilton Santos - Rio de Janeiro - RJ,11/16/2020 20:00:00,202,Red Bull Bragantino - SP,Ytalo,45,Primeiro
+21,Nilton Santos - Rio de Janeiro - RJ,11/16/2020 20:00:00,202,Red Bull Bragantino - SP,Claudinho,40,Segundo
+22,Nabi Abi Chedid - Braganca Paulista - SP,11/20/2020 20:00:00,214,Red Bull Bragantino - SP,Claudinho,4,Primeiro
+22,Nabi Abi Chedid - Braganca Paulista - SP,11/20/2020 20:00:00,214,Red Bull Bragantino - SP,Claudinho,10,Primeiro
+22,Nabi Abi Chedid - Braganca Paulista - SP,11/20/2020 20:00:00,214,Red Bull Bragantino - SP,Ytalo,21,Primeiro
+22,Nabi Abi Chedid - Braganca Paulista - SP,11/20/2020 20:00:00,214,Red Bull Bragantino - SP,Hélio Junio,6,Segundo
+22,Arena da Baixada - Curitiba - PR,11/21/2020 19:00:00,218,Athletico Paranaense - PR,Thiago Heleno,30,Segundo
+22,Maracanã - Rio de Janeiro - RJ,11/21/2020 19:00:00,211,Flamengo - RJ,Bruno Henrique,3,Primeiro
+22,Maracanã - Rio de Janeiro - RJ,11/21/2020 19:00:00,211,Flamengo - RJ,De Arrascaeta,27,Primeiro
+22,Maracanã - Rio de Janeiro - RJ,11/21/2020 19:00:00,211,Flamengo - RJ,Rene,30,Segundo
+22,Maracanã - Rio de Janeiro - RJ,11/21/2020 19:00:00,211,Coritiba - PR,Mattheus Oliveira,47,Segundo
+22,Hailé Pinheiro - Goiania - GO,11/21/2020 21:00:00,220,Goiás - GO,Miguel Figueira,47,Segundo
+22,Morumbi - Sao Paulo - SP,11/22/2020 16:00:00,213,São Paulo - SP,Luciano,33,Primeiro
+22,Morumbi - Sao Paulo - SP,11/22/2020 16:00:00,213,Vasco da Gama - RJ,German Cano,18,Primeiro
+22,Arena Castelão - Fortaleza - CE,11/22/2020 16:00:00,219,Ceará - CE,Lima,2,Segundo
+22,Arena Castelão - Fortaleza - CE,11/22/2020 16:00:00,219,Ceará - CE,Felipe Vizeu,11,Segundo
+22,Arena Castelão - Fortaleza - CE,11/22/2020 16:00:00,219,Atlético - MG,Eduardo Sasha,28,Primeiro
+22,Arena Castelão - Fortaleza - CE,11/22/2020 16:00:00,219,Atlético - MG,Keno,28,Segundo
+22,Nilton Santos - Rio de Janeiro - RJ,11/22/2020 18:15:00,212,Botafogo - RJ,Warley,36,Segundo
+22,Nilton Santos - Rio de Janeiro - RJ,11/22/2020 18:15:00,212,Fortaleza - CE,Bergson,16,Segundo
+22,Nilton Santos - Rio de Janeiro - RJ,11/22/2020 18:15:00,212,Fortaleza - CE,David,33,Segundo
+22,Beira-Rio - Porto Alegre - RS,11/22/2020 18:15:00,216,Internacional - RS,Mauricio,14,Primeiro
+22,Beira-Rio - Porto Alegre - RS,11/22/2020 18:15:00,216,Fluminense - RJ,Lucca,12,Segundo
+22,Beira-Rio - Porto Alegre - RS,11/22/2020 18:15:00,216,Fluminense - RJ,Caio Paulista,35,Segundo
+22,Ilha do Retiro - Recife - PE,11/23/2020 20:00:00,217,Atlético - GO,Janderson,15,Segundo
+23,Mineirão - Belo Horizonte - MG,11/25/2020 21:30:00,225,Atlético - MG,Savarino,16,Primeiro
+23,Mineirão - Belo Horizonte - MG,11/25/2020 21:30:00,225,Atlético - MG,Eduardo Sasha,4,Segundo
+23,Mineirão - Belo Horizonte - MG,11/25/2020 21:30:00,225,Botafogo - RJ,Marcelo,8,Segundo
+23,Couto Pereira - Curitiba - PR,11/25/2020 21:30:00,228,Corinthians - SP,Fabio Santos,20,Primeiro
+23,Arena Castelão - Fortaleza - CE,11/26/2020 20:00:00,229,Fortaleza - CE,Wellington Paulista,16,Segundo
+23,Arena Castelão - Fortaleza - CE,11/26/2020 20:00:00,229,Goiás - GO,Fernandao,24,Primeiro
+23,Allianz Parque - Sao Paulo - SP,11/28/2020 17:00:00,223,Palmeiras - SP,Patrick de Paula,7,Primeiro
+23,Allianz Parque - Sao Paulo - SP,11/28/2020 17:00:00,223,Palmeiras - SP,Rony,33,Primeiro
+23,Allianz Parque - Sao Paulo - SP,11/28/2020 17:00:00,223,Palmeiras - SP,Rony,4,Segundo
+23,Vila Belmiro - Santos - SP,11/28/2020 17:00:00,224,Santos - SP,Marinho,6,Primeiro
+23,Vila Belmiro - Santos - SP,11/28/2020 17:00:00,224,Santos - SP,Lucas,12,Primeiro
+23,Vila Belmiro - Santos - SP,11/28/2020 17:00:00,224,Santos - SP,Bruno Henrique,25,Segundo
+23,Vila Belmiro - Santos - SP,11/28/2020 17:00:00,224,Santos - SP,Yeferson Soteldo,36,Segundo
+23,Vila Belmiro - Santos - SP,11/28/2020 17:00:00,224,Sport - PE,Marquinhos,27,Primeiro
+23,Vila Belmiro - Santos - SP,11/28/2020 17:00:00,224,Sport - PE,Leandro Barcia,45,Primeiro
+23,Arena Fonte Nova - Salvador - BA,11/28/2020 19:00:00,227,Bahia - BA,Clayson,35,Segundo
+23,Arena Fonte Nova - Salvador - BA,11/28/2020 19:00:00,227,São Paulo - SP,Luciano,6,Segundo
+23,Arena Fonte Nova - Salvador - BA,11/28/2020 19:00:00,227,São Paulo - SP,Arboleda,20,Segundo
+23,Arena Fonte Nova - Salvador - BA,11/28/2020 19:00:00,227,São Paulo - SP,Luciano,28,Segundo
+23,São Januário - Rio de Janeiro - RJ,11/30/2020 18:00:00,222,Vasco da Gama - RJ,Lucas Ribamar,20,Segundo
+23,São Januário - Rio de Janeiro - RJ,11/30/2020 18:00:00,222,Ceará - CE,Pedrinho,3,Primeiro
+23,São Januário - Rio de Janeiro - RJ,11/30/2020 18:00:00,222,Ceará - CE,CLEBER,26,Primeiro
+23,São Januário - Rio de Janeiro - RJ,11/30/2020 18:00:00,222,Ceará - CE,Saulo,34,Segundo
+23,São Januário - Rio de Janeiro - RJ,11/30/2020 18:00:00,222,Ceará - CE,Vinicius,44,Segundo
+23,Arena do Grêmio - Porto Alegre - RS,01/28/2021 20:00:00,226,Grêmio - RS,Diego Souza,40,Primeiro
+23,Arena do Grêmio - Porto Alegre - RS,01/28/2021 20:00:00,226,Grêmio - RS,Diego Souza,39,Segundo
+23,Arena do Grêmio - Porto Alegre - RS,01/28/2021 20:00:00,226,Flamengo - RJ,Everton Ribeiro,12,Segundo
+23,Arena do Grêmio - Porto Alegre - RS,01/28/2021 20:00:00,226,Flamengo - RJ,Gabriel Barbosa,14,Segundo
+23,Arena do Grêmio - Porto Alegre - RS,01/28/2021 20:00:00,226,Flamengo - RJ,De Arrascaeta,21,Segundo
+23,Arena do Grêmio - Porto Alegre - RS,01/28/2021 20:00:00,226,Flamengo - RJ,Isla,47,Segundo
+24,Nilton Santos - Rio de Janeiro - RJ,12/05/2020 17:00:00,232,Flamengo - RJ,Everton Ribeiro,10,Segundo
+24,Vila Belmiro - Santos - SP,12/05/2020 17:00:00,234,Santos - SP,Diego,38,Primeiro
+24,Vila Belmiro - Santos - SP,12/05/2020 17:00:00,234,Santos - SP,Marinho,25,Segundo
+24,Vila Belmiro - Santos - SP,12/05/2020 17:00:00,234,Palmeiras - SP,Raphael Veiga,11,Segundo
+24,Vila Belmiro - Santos - SP,12/05/2020 17:00:00,234,Palmeiras - SP,Willian,18,Segundo
+24,Maracanã - Rio de Janeiro - RJ,12/05/2020 19:00:00,231,Fluminense - RJ,Nenê,27,Primeiro
+24,Maracanã - Rio de Janeiro - RJ,12/05/2020 19:00:00,231,Fluminense - RJ,Marcos Paulo,27,Segundo
+24,Maracanã - Rio de Janeiro - RJ,12/05/2020 19:00:00,231,Fluminense - RJ,Marcos Paulo,29,Segundo
+24,Maracanã - Rio de Janeiro - RJ,12/05/2020 19:00:00,231,Athletico Paranaense - PR,Cittadini,10,Primeiro
+24,Arena Fonte Nova - Salvador - BA,12/05/2020 19:00:00,237,Ceará - CE,Vinicius,37,Segundo
+24,Arena Fonte Nova - Salvador - BA,12/05/2020 19:00:00,237,Ceará - CE,Saulo,49,Segundo
+24,Arena do Grêmio - Porto Alegre - RS,12/06/2020 16:00:00,236,Grêmio - RS,Diego Souza,41,Primeiro
+24,Arena do Grêmio - Porto Alegre - RS,12/06/2020 16:00:00,236,Grêmio - RS,Diego Souza,7,Segundo
+24,Arena do Grêmio - Porto Alegre - RS,12/06/2020 16:00:00,236,Grêmio - RS,Cesar Pinares,9,Segundo
+24,Arena do Grêmio - Porto Alegre - RS,12/06/2020 16:00:00,236,Grêmio - RS,Lucas Silva,47,Segundo
+24,Morumbi - Sao Paulo - SP,12/06/2020 16:00:00,233,São Paulo - SP,Luciano,13,Primeiro
+24,Mineirão - Belo Horizonte - MG,12/06/2020 18:15:00,235,Atlético - MG,MUSTO,10,Primeiro
+24,Mineirão - Belo Horizonte - MG,12/06/2020 18:15:00,235,Atlético - MG,Hyoran,15,Segundo
+24,Mineirão - Belo Horizonte - MG,12/06/2020 18:15:00,235,Internacional - RS,Yuri Alberto,8,Primeiro
+24,Mineirão - Belo Horizonte - MG,12/06/2020 18:15:00,235,Internacional - RS,João Peglow,42,Segundo
+24,Antônio Accioly - Goiania - GO,12/07/2020 20:00:00,240,Goiás - GO,Rafael Moura,25,Primeiro
+25,Nabi Abi Chedid - Braganca Paulista - SP,12/12/2020 17:00:00,244,Red Bull Bragantino - SP,Luan Candido,12,Primeiro
+25,Nabi Abi Chedid - Braganca Paulista - SP,12/12/2020 17:00:00,244,Red Bull Bragantino - SP,Thonny Anderson,42,Segundo
+25,Nabi Abi Chedid - Braganca Paulista - SP,12/12/2020 17:00:00,244,Fortaleza - CE,Juninho,45,Primeiro
+25,Arena da Baixada - Curitiba - PR,12/12/2020 17:00:00,248,Atlético - MG,Vargas,43,Primeiro
+25,Allianz Parque - Sao Paulo - SP,12/12/2020 19:00:00,243,Palmeiras - SP,Willian,6,Primeiro
+25,Allianz Parque - Sao Paulo - SP,12/12/2020 19:00:00,243,Palmeiras - SP,Raphael Veiga,35,Primeiro
+25,Allianz Parque - Sao Paulo - SP,12/12/2020 19:00:00,243,Palmeiras - SP,Rony,42,Primeiro
+25,Beira-Rio - Porto Alegre - RS,12/12/2020 19:00:00,246,Internacional - RS,Patrick,36,Primeiro
+25,Beira-Rio - Porto Alegre - RS,12/12/2020 19:00:00,246,Internacional - RS,Yuri Alberto,24,Segundo
+25,Beira-Rio - Porto Alegre - RS,12/12/2020 19:00:00,246,Botafogo - RJ,Pedro Raul,27,Primeiro
+25,Arena Castelão - Fortaleza - CE,12/12/2020 21:00:00,249,Ceará - CE,Leo Chu,15,Segundo
+25,Arena Castelão - Fortaleza - CE,12/12/2020 21:00:00,249,Atlético - GO,Jean,33,Segundo
+25,Arena Castelão - Fortaleza - CE,12/12/2020 21:00:00,249,Atlético - GO,Roberson,44,Segundo
+25,Maracanã - Rio de Janeiro - RJ,12/13/2020 16:00:00,241,Flamengo - RJ,Gerson,42,Primeiro
+25,Maracanã - Rio de Janeiro - RJ,12/13/2020 16:00:00,241,Flamengo - RJ,Gabriel Barbosa,4,Segundo
+25,Maracanã - Rio de Janeiro - RJ,12/13/2020 16:00:00,241,Flamengo - RJ,Filipe Luís,12,Segundo
+25,Maracanã - Rio de Janeiro - RJ,12/13/2020 16:00:00,241,Flamengo - RJ,Gabriel Barbosa,25,Segundo
+25,Maracanã - Rio de Janeiro - RJ,12/13/2020 16:00:00,241,Santos - SP,Bruno Henrique,29,Segundo
+25,Neo Química Arena - Sao Paulo - SP,12/13/2020 18:15:00,245,Corinthians - SP,Otero,25,Primeiro
+25,Ilha do Retiro - Recife - PE,12/13/2020 18:15:00,247,Sport - PE,Thiago Neves,37,Primeiro
+25,São Januário - Rio de Janeiro - RJ,12/13/2020 20:30:00,242,Vasco da Gama - RJ,German Cano,47,Segundo
+25,São Januário - Rio de Janeiro - RJ,12/13/2020 20:30:00,242,Fluminense - RJ,Wellington Silva,10,Primeiro
+26,Morumbi - Sao Paulo - SP,12/16/2020 21:30:00,253,São Paulo - SP,Igor Gomes,24,Primeiro
+26,Morumbi - Sao Paulo - SP,12/16/2020 21:30:00,253,São Paulo - SP,Gabriel,38,Segundo
+26,Morumbi - Sao Paulo - SP,12/16/2020 21:30:00,253,São Paulo - SP,Jonas Toró,46,Segundo
+26,Antônio Accioly - Goiania - GO,12/16/2020 21:30:00,260,Atlético - GO,Wellington Rato,43,Primeiro
+26,Antônio Accioly - Goiania - GO,12/16/2020 21:30:00,260,Atlético - GO,Jean,42,Segundo
+26,Antônio Accioly - Goiania - GO,12/16/2020 21:30:00,260,Fluminense - RJ,Felippe Cardoso,47,Segundo
+26,Ilha do Retiro - Recife - PE,12/19/2020 19:00:00,257,Sport - PE,Luan,9,Primeiro
+26,Ilha do Retiro - Recife - PE,12/19/2020 19:00:00,257,Grêmio - RS,Pepe,27,Segundo
+26,Beira-Rio - Porto Alegre - RS,12/19/2020 21:00:00,256,Internacional - RS,Edenilson,10,Primeiro
+26,Beira-Rio - Porto Alegre - RS,12/19/2020 21:00:00,256,Internacional - RS,Yuri Alberto,37,Segundo
+26,Couto Pereira - Curitiba - PR,12/19/2020 21:00:00,258,Coritiba - PR,Neilton,26,Primeiro
+26,Couto Pereira - Curitiba - PR,12/19/2020 21:00:00,258,Botafogo - RJ,Pedro Raul,30,Segundo
+26,Couto Pereira - Curitiba - PR,12/19/2020 21:00:00,258,Botafogo - RJ,Pedro Raul,36,Segundo
+26,Nabi Abi Chedid - Braganca Paulista - SP,12/20/2020 16:00:00,254,Athletico Paranaense - PR,Renato Kayzer,26,Primeiro
+26,São Januário - Rio de Janeiro - RJ,12/20/2020 16:00:00,252,Vasco da Gama - RJ,Carlos Vinicius,8,Primeiro
+26,Maracanã - Rio de Janeiro - RJ,12/20/2020 18:15:00,251,Flamengo - RJ,Bruno Henrique,4,Primeiro
+26,Maracanã - Rio de Janeiro - RJ,12/20/2020 18:15:00,251,Flamengo - RJ,Isla,32,Primeiro
+26,Maracanã - Rio de Janeiro - RJ,12/20/2020 18:15:00,251,Flamengo - RJ,Pedro,36,Segundo
+26,Maracanã - Rio de Janeiro - RJ,12/20/2020 18:15:00,251,Flamengo - RJ,Vitinho,44,Segundo
+26,Maracanã - Rio de Janeiro - RJ,12/20/2020 18:15:00,251,Bahia - BA,Indio,6,Segundo
+26,Maracanã - Rio de Janeiro - RJ,12/20/2020 18:15:00,251,Bahia - BA,Gilberto,10,Segundo
+26,Maracanã - Rio de Janeiro - RJ,12/20/2020 18:15:00,251,Bahia - BA,Gilberto,13,Segundo
+26,Arena Castelão - Fortaleza - CE,12/20/2020 20:30:00,259,Ceará - CE,Lima,1,Segundo
+26,Arena Castelão - Fortaleza - CE,12/20/2020 20:30:00,259,Ceará - CE,CLEBER,9,Segundo
+26,Neo Química Arena - Sao Paulo - SP,12/21/2020 20:00:00,255,Corinthians - SP,Mosquito,13,Primeiro
+26,Neo Química Arena - Sao Paulo - SP,12/21/2020 20:00:00,255,Corinthians - SP,Jo,5,Segundo
+26,Neo Química Arena - Sao Paulo - SP,12/21/2020 20:00:00,255,Goiás - GO,Fernandao,3,Primeiro
+27,Mineirão - Belo Horizonte - MG,12/26/2020 17:00:00,265,Atlético - MG,Hyoran,21,Segundo
+27,Mineirão - Belo Horizonte - MG,12/26/2020 17:00:00,265,Atlético - MG,Eduardo Sasha,37,Segundo
+27,Hailé Pinheiro - Goiania - GO,12/26/2020 19:00:00,270,Goiás - GO,Fernandao,4,Primeiro
+27,Maracanã - Rio de Janeiro - RJ,12/26/2020 21:00:00,261,Fluminense - RJ,Fred,7,Segundo
+27,Maracanã - Rio de Janeiro - RJ,12/26/2020 21:00:00,261,São Paulo - SP,Brenner,14,Primeiro
+27,Maracanã - Rio de Janeiro - RJ,12/26/2020 21:00:00,261,São Paulo - SP,Brenner,28,Segundo
+27,Nilton Santos - Rio de Janeiro - RJ,12/27/2020 16:00:00,262,Corinthians - SP,Cazares,34,Primeiro
+27,Nilton Santos - Rio de Janeiro - RJ,12/27/2020 16:00:00,262,Corinthians - SP,Mateus,49,Segundo
+27,Arena Fonte Nova - Salvador - BA,12/27/2020 16:00:00,267,Bahia - BA,Indio,23,Segundo
+27,Arena Fonte Nova - Salvador - BA,12/27/2020 16:00:00,267,Internacional - RS,Rodrigo Dourado,45,Primeiro
+27,Arena Fonte Nova - Salvador - BA,12/27/2020 16:00:00,267,Internacional - RS,Thiago Galhardo,3,Segundo
+27,Allianz Parque - Sao Paulo - SP,12/27/2020 18:15:00,263,Palmeiras - SP,Luiz Adriano,27,Primeiro
+27,Vila Belmiro - Santos - SP,12/27/2020 18:15:00,264,Santos - SP,Marinho,11,Primeiro
+27,Vila Belmiro - Santos - SP,12/27/2020 18:15:00,264,Ceará - CE,Samuel,36,Primeiro
+27,Arena da Baixada - Curitiba - PR,12/27/2020 18:15:00,268,Athletico Paranaense - PR,Nikao,9,Primeiro
+27,Arena da Baixada - Curitiba - PR,12/27/2020 18:15:00,268,Athletico Paranaense - PR,Carlos Eduardo,37,Primeiro
+27,Arena da Baixada - Curitiba - PR,12/27/2020 18:15:00,268,Athletico Paranaense - PR,Carlos Eduardo,15,Segundo
+27,Arena do Grêmio - Porto Alegre - RS,12/27/2020 20:30:00,266,Grêmio - RS,Dudu,43,Primeiro
+27,Arena do Grêmio - Porto Alegre - RS,12/27/2020 20:30:00,266,Grêmio - RS,Churin,19,Segundo
+27,Arena do Grêmio - Porto Alegre - RS,12/27/2020 20:30:00,266,Atlético - GO,Gustavo Ferrareis,11,Segundo
+28,Nilton Santos - Rio de Janeiro - RJ,01/06/2021 19:15:00,272,Athletico Paranaense - PR,Renato Kayzer,30,Primeiro
+28,Nilton Santos - Rio de Janeiro - RJ,01/06/2021 19:15:00,272,Athletico Paranaense - PR,Cittadini,3,Segundo
+28,Arena do Grêmio - Porto Alegre - RS,01/06/2021 19:15:00,276,Grêmio - RS,Vanderson,16,Primeiro
+28,Arena do Grêmio - Porto Alegre - RS,01/06/2021 19:15:00,276,Grêmio - RS,Diego Souza,9,Segundo
+28,Arena do Grêmio - Porto Alegre - RS,01/06/2021 19:15:00,276,Bahia - BA,Anderson,1,Segundo
+28,Couto Pereira - Curitiba - PR,01/06/2021 20:30:00,278,Coritiba - PR,Robson,14,Segundo
+28,Couto Pereira - Curitiba - PR,01/06/2021 20:30:00,278,Goiás - GO,Fabio Sanches,20,Primeiro
+28,Couto Pereira - Curitiba - PR,01/06/2021 20:30:00,278,Goiás - GO,Rafael Moura,29,Primeiro
+28,Ilha do Retiro - Recife - PE,01/06/2021 20:30:00,277,Sport - PE,Thiago Neves,9,Primeiro
+28,Maracanã - Rio de Janeiro - RJ,01/06/2021 21:30:00,271,Flamengo - RJ,De Arrascaeta,40,Primeiro
+28,Maracanã - Rio de Janeiro - RJ,01/06/2021 21:30:00,271,Fluminense - RJ,Luccas Claro,11,Segundo
+28,Maracanã - Rio de Janeiro - RJ,01/06/2021 21:30:00,271,Fluminense - RJ,Yago Felipe,48,Segundo
+28,Nabi Abi Chedid - Braganca Paulista - SP,01/06/2021 21:30:00,274,Red Bull Bragantino - SP,Claudinho,3,Primeiro
+28,Nabi Abi Chedid - Braganca Paulista - SP,01/06/2021 21:30:00,274,Red Bull Bragantino - SP,Raul,13,Primeiro
+28,Nabi Abi Chedid - Braganca Paulista - SP,01/06/2021 21:30:00,274,Red Bull Bragantino - SP,Fabricio Bruno,17,Primeiro
+28,Nabi Abi Chedid - Braganca Paulista - SP,01/06/2021 21:30:00,274,Red Bull Bragantino - SP,Artur,44,Primeiro
+28,Nabi Abi Chedid - Braganca Paulista - SP,01/06/2021 21:30:00,274,São Paulo - SP,Tche Tche,15,Primeiro
+28,Nabi Abi Chedid - Braganca Paulista - SP,01/06/2021 21:30:00,274,São Paulo - SP,Gonzalo Carneiro,49,Segundo
+28,Arena Castelão - Fortaleza - CE,01/07/2021 19:00:00,279,Internacional - RS,Caio,7,Segundo
+28,Arena Castelão - Fortaleza - CE,01/07/2021 19:00:00,279,Internacional - RS,Yuri Alberto,32,Segundo
+28,Allianz Parque - Sao Paulo - SP,01/18/2021 19:00:00,273,Palmeiras - SP,Raphael Veiga,34,Primeiro
+28,Allianz Parque - Sao Paulo - SP,01/18/2021 19:00:00,273,Palmeiras - SP,Luiz Adriano,45,Primeiro
+28,Allianz Parque - Sao Paulo - SP,01/18/2021 19:00:00,273,Palmeiras - SP,Raphael Veiga,3,Segundo
+28,Allianz Parque - Sao Paulo - SP,01/18/2021 19:00:00,273,Palmeiras - SP,Luiz Adriano,22,Segundo
+28,Mineirão - Belo Horizonte - MG,01/26/2021 20:00:00,275,Atlético - MG,Savarino,2,Primeiro
+28,Mineirão - Belo Horizonte - MG,01/26/2021 20:00:00,275,Atlético - MG,Savarino,18,Primeiro
+29,Ilha do Retiro - Recife - PE,01/09/2021 19:00:00,287,Palmeiras - SP,Willian,27,Primeiro
+29,Maracanã - Rio de Janeiro - RJ,01/10/2021 16:00:00,281,Ceará - CE,Vinicius,12,Primeiro
+29,Maracanã - Rio de Janeiro - RJ,01/10/2021 16:00:00,281,Ceará - CE,Kelvyn,44,Segundo
+29,Morumbi - Sao Paulo - SP,01/10/2021 16:00:00,283,Santos - SP,Jobson Souza,1,Segundo
+29,Beira-Rio - Porto Alegre - RS,01/10/2021 18:15:00,286,Internacional - RS,Praxedes,42,Primeiro
+29,Antônio Accioly - Goiania - GO,01/10/2021 18:15:00,290,Atlético - GO,Pereira,6,Primeiro
+29,Antônio Accioly - Goiania - GO,01/10/2021 18:15:00,290,Bahia - BA,Gabriel Novaes,29,Segundo
+29,São Januário - Rio de Janeiro - RJ,01/10/2021 20:30:00,282,Vasco da Gama - RJ,Talles Magno,21,Primeiro
+29,São Januário - Rio de Janeiro - RJ,01/10/2021 20:30:00,282,Vasco da Gama - RJ,Andrey,32,Segundo
+29,São Januário - Rio de Janeiro - RJ,01/10/2021 20:30:00,282,Vasco da Gama - RJ,Yago,51,Segundo
+29,Nabi Abi Chedid - Braganca Paulista - SP,01/11/2021 20:00:00,284,Red Bull Bragantino - SP,Ricardo,46,Primeiro
+29,Nabi Abi Chedid - Braganca Paulista - SP,01/11/2021 20:00:00,284,Red Bull Bragantino - SP,Edimar,21,Segundo
+29,Nabi Abi Chedid - Braganca Paulista - SP,01/11/2021 20:00:00,284,Atlético - MG,Savarino,9,Segundo
+29,Nabi Abi Chedid - Braganca Paulista - SP,01/11/2021 20:00:00,284,Atlético - MG,Hyoran,54,Segundo
+29,Neo Química Arena - Sao Paulo - SP,01/13/2021 21:30:00,285,Corinthians - SP,Jo,25,Primeiro
+29,Neo Química Arena - Sao Paulo - SP,01/13/2021 21:30:00,285,Corinthians - SP,Cazares,10,Segundo
+29,Neo Química Arena - Sao Paulo - SP,01/13/2021 21:30:00,285,Corinthians - SP,Fagner,16,Segundo
+29,Neo Química Arena - Sao Paulo - SP,01/13/2021 21:30:00,285,Corinthians - SP,Mateus,21,Segundo
+29,Neo Química Arena - Sao Paulo - SP,01/13/2021 21:30:00,285,Corinthians - SP,Luan,45,Segundo
+30,Allianz Parque - Sao Paulo - SP,01/15/2021 21:30:00,293,Palmeiras - SP,Raphael Veiga,32,Primeiro
+30,Allianz Parque - Sao Paulo - SP,01/15/2021 21:30:00,293,Grêmio - RS,Diego Souza,42,Segundo
+30,Nilton Santos - Rio de Janeiro - RJ,01/16/2021 19:00:00,291,Fluminense - RJ,Patric,4,Segundo
+30,São Januário - Rio de Janeiro - RJ,01/16/2021 21:00:00,292,Coritiba - PR,Hugo Moura,43,Primeiro
+30,Vila Belmiro - Santos - SP,01/17/2021 16:00:00,294,Santos - SP,Yeferson Soteldo,3,Primeiro
+30,Vila Belmiro - Santos - SP,01/17/2021 16:00:00,294,Santos - SP,Bruno Henrique,36,Segundo
+30,Vila Belmiro - Santos - SP,01/17/2021 16:00:00,294,Botafogo - RJ,Pedro Raul,46,Primeiro
+30,Arena da Baixada - Curitiba - PR,01/17/2021 16:00:00,298,Athletico Paranaense - PR,Renato Kayzer,38,Primeiro
+30,Arena da Baixada - Curitiba - PR,01/17/2021 16:00:00,298,São Paulo - SP,Tche Tche,15,Segundo
+30,Mineirão - Belo Horizonte - MG,01/17/2021 18:15:00,295,Atlético - MG,Hyoran,13,Primeiro
+30,Mineirão - Belo Horizonte - MG,01/17/2021 18:15:00,295,Atlético - MG,Júnior Alonso,42,Primeiro
+30,Mineirão - Belo Horizonte - MG,01/17/2021 18:15:00,295,Atlético - MG,Jair,16,Segundo
+30,Mineirão - Belo Horizonte - MG,01/17/2021 18:15:00,295,Atlético - GO,Janderson,29,Segundo
+30,Beira-Rio - Porto Alegre - RS,01/17/2021 20:30:00,296,Internacional - RS,Yuri Alberto,3,Primeiro
+30,Beira-Rio - Porto Alegre - RS,01/17/2021 20:30:00,296,Internacional - RS,Rodrigo Dourado,9,Primeiro
+30,Beira-Rio - Porto Alegre - RS,01/17/2021 20:30:00,296,Internacional - RS,João Peglow,26,Segundo
+30,Beira-Rio - Porto Alegre - RS,01/17/2021 20:30:00,296,Internacional - RS,Carlinho,31,Segundo
+30,Beira-Rio - Porto Alegre - RS,01/17/2021 20:30:00,296,Fortaleza - CE,Wellington Paulista,13,Primeiro
+30,Beira-Rio - Porto Alegre - RS,01/17/2021 20:30:00,296,Fortaleza - CE,Romarinho,10,Segundo
+30,Arena Castelão - Fortaleza - CE,01/17/2021 20:30:00,299,Ceará - CE,Lima,17,Segundo
+30,Arena Castelão - Fortaleza - CE,01/17/2021 20:30:00,299,Red Bull Bragantino - SP,Claudinho,10,Segundo
+30,Arena Castelão - Fortaleza - CE,01/17/2021 20:30:00,299,Red Bull Bragantino - SP,Claudinho,51,Segundo
+30,Hailé Pinheiro - Goiania - GO,01/18/2021 20:00:00,300,Flamengo - RJ,De Arrascaeta,41,Primeiro
+30,Hailé Pinheiro - Goiania - GO,01/18/2021 20:00:00,300,Flamengo - RJ,Gabriel Barbosa,17,Segundo
+30,Hailé Pinheiro - Goiania - GO,01/18/2021 20:00:00,300,Flamengo - RJ,Pedro,49,Segundo
+30,Arena Fonte Nova - Salvador - BA,01/28/2021 19:00:00,297,Bahia - BA,Gilberto,31,Primeiro
+30,Arena Fonte Nova - Salvador - BA,01/28/2021 19:00:00,297,Bahia - BA,Indio,49,Primeiro
+30,Arena Fonte Nova - Salvador - BA,01/28/2021 19:00:00,297,Corinthians - SP,Gabriel,25,Segundo
+31,Nilton Santos - Rio de Janeiro - RJ,01/20/2021 17:00:00,302,Botafogo - RJ,Macae,17,Segundo
+31,Nilton Santos - Rio de Janeiro - RJ,01/20/2021 17:00:00,302,Atlético - GO,Danilo Magalhães,20,Segundo
+31,Nilton Santos - Rio de Janeiro - RJ,01/20/2021 17:00:00,302,Atlético - GO,Zé Roberto,33,Segundo
+31,Nilton Santos - Rio de Janeiro - RJ,01/20/2021 17:00:00,302,Atlético - GO,Vitor Leque,47,Segundo
+31,Arena Fonte Nova - Salvador - BA,01/20/2021 18:00:00,307,Bahia - BA,Thiago,19,Segundo
+31,Arena do Grêmio - Porto Alegre - RS,01/20/2021 19:15:00,306,Grêmio - RS,Everton,40,Segundo
+31,Arena do Grêmio - Porto Alegre - RS,01/20/2021 19:15:00,306,Atlético - MG,Hyoran,31,Primeiro
+31,Couto Pereira - Curitiba - PR,01/20/2021 20:30:00,308,Coritiba - PR,Luiz Schlocobier,2,Primeiro
+31,Couto Pereira - Curitiba - PR,01/20/2021 20:30:00,308,Coritiba - PR,Natanael Milouski,32,Primeiro
+31,Couto Pereira - Curitiba - PR,01/20/2021 20:30:00,308,Coritiba - PR,Robson,30,Segundo
+31,Couto Pereira - Curitiba - PR,01/20/2021 20:30:00,308,Fluminense - RJ,John Kennedy,13,Segundo
+31,Couto Pereira - Curitiba - PR,01/20/2021 20:30:00,308,Fluminense - RJ,Fred,26,Segundo
+31,Couto Pereira - Curitiba - PR,01/20/2021 20:30:00,308,Fluminense - RJ,Caio Paulista,45,Segundo
+31,Morumbi - Sao Paulo - SP,01/20/2021 21:30:00,303,São Paulo - SP,Luciano,35,Primeiro
+31,Morumbi - Sao Paulo - SP,01/20/2021 21:30:00,303,Internacional - RS,Victor Cuesta,7,Primeiro
+31,Morumbi - Sao Paulo - SP,01/20/2021 21:30:00,303,Internacional - RS,Caio,24,Primeiro
+31,Morumbi - Sao Paulo - SP,01/20/2021 21:30:00,303,Internacional - RS,Yuri Alberto,15,Segundo
+31,Morumbi - Sao Paulo - SP,01/20/2021 21:30:00,303,Internacional - RS,Yuri Alberto,20,Segundo
+31,Morumbi - Sao Paulo - SP,01/20/2021 21:30:00,303,Internacional - RS,Yuri Alberto,22,Segundo
+31,Nabi Abi Chedid - Braganca Paulista - SP,01/20/2021 21:30:00,304,Red Bull Bragantino - SP,Eric Ramires,15,Primeiro
+31,Nabi Abi Chedid - Braganca Paulista - SP,01/20/2021 21:30:00,304,Red Bull Bragantino - SP,Claudinho,26,Segundo
+31,Nabi Abi Chedid - Braganca Paulista - SP,01/20/2021 21:30:00,304,Red Bull Bragantino - SP,Claudinho,41,Segundo
+31,Nabi Abi Chedid - Braganca Paulista - SP,01/20/2021 21:30:00,304,Red Bull Bragantino - SP,Jan Hurtado,47,Segundo
+31,Nabi Abi Chedid - Braganca Paulista - SP,01/20/2021 21:30:00,304,Vasco da Gama - RJ,Gabriel Fortes,32,Segundo
+31,Hailé Pinheiro - Goiania - GO,01/21/2021 19:00:00,310,Ceará - CE,Lima,17,Primeiro
+31,Hailé Pinheiro - Goiania - GO,01/21/2021 19:00:00,310,Ceará - CE,Fernando,47,Primeiro
+31,Hailé Pinheiro - Goiania - GO,01/21/2021 19:00:00,310,Ceará - CE,Vinicius,6,Segundo
+31,Hailé Pinheiro - Goiania - GO,01/21/2021 19:00:00,310,Ceará - CE,Vinicius,17,Segundo
+31,Arena Castelão - Fortaleza - CE,01/21/2021 19:00:00,309,Fortaleza - CE,Juninho,2,Segundo
+31,Arena Castelão - Fortaleza - CE,01/21/2021 19:00:00,309,Fortaleza - CE,Wellington Paulista,20,Segundo
+31,Mané Garrincha - Brasilia - DF,01/21/2021 19:00:00,301,Flamengo - RJ,Luan Garcia,45,Primeiro
+31,Mané Garrincha - Brasilia - DF,01/21/2021 19:00:00,301,Flamengo - RJ,Joao,37,Segundo
+31,Neo Química Arena - Sao Paulo - SP,01/21/2021 21:00:00,305,Corinthians - SP,Mosquito,33,Primeiro
+31,Neo Química Arena - Sao Paulo - SP,01/21/2021 21:00:00,305,Corinthians - SP,Mateus,2,Segundo
+31,Neo Química Arena - Sao Paulo - SP,01/21/2021 21:00:00,305,Corinthians - SP,Jo,34,Segundo
+32,Morumbi - Sao Paulo - SP,01/23/2021 19:00:00,313,São Paulo - SP,Luciano,13,Segundo
+32,Morumbi - Sao Paulo - SP,01/23/2021 19:00:00,313,Coritiba - PR,Sarrafiore,36,Segundo
+32,São Januário - Rio de Janeiro - RJ,01/23/2021 21:00:00,312,Vasco da Gama - RJ,German Cano,17,Primeiro
+32,São Januário - Rio de Janeiro - RJ,01/23/2021 21:00:00,312,Vasco da Gama - RJ,Yago,32,Primeiro
+32,São Januário - Rio de Janeiro - RJ,01/23/2021 21:00:00,312,Vasco da Gama - RJ,German Cano,13,Segundo
+32,São Januário - Rio de Janeiro - RJ,01/23/2021 21:00:00,312,Atlético - MG,Hyoran,22,Segundo
+32,São Januário - Rio de Janeiro - RJ,01/23/2021 21:00:00,312,Atlético - MG,Eduardo Sasha,48,Segundo
+32,Arena da Baixada - Curitiba - PR,01/24/2021 16:00:00,318,Athletico Paranaense - PR,Abner Vinicius,25,Primeiro
+32,Arena da Baixada - Curitiba - PR,01/24/2021 16:00:00,318,Athletico Paranaense - PR,Renato Kayzer,38,Segundo
+32,Arena da Baixada - Curitiba - PR,01/24/2021 16:00:00,318,Flamengo - RJ,Gustavo,33,Primeiro
+32,Arena Castelão - Fortaleza - CE,01/24/2021 16:00:00,319,Ceará - CE,Lima,9,Primeiro
+32,Arena Castelão - Fortaleza - CE,01/24/2021 16:00:00,319,Ceará - CE,Vinicius,29,Primeiro
+32,Arena Castelão - Fortaleza - CE,01/24/2021 16:00:00,319,Palmeiras - SP,Gabriel Veron,33,Primeiro
+32,Beira-Rio - Porto Alegre - RS,01/24/2021 16:00:00,316,Internacional - RS,Abel,44,Segundo
+32,Beira-Rio - Porto Alegre - RS,01/24/2021 16:00:00,316,Internacional - RS,Edenilson,52,Segundo
+32,Beira-Rio - Porto Alegre - RS,01/24/2021 16:00:00,316,Grêmio - RS,Jean Pyerre,30,Segundo
+32,Ilha do Retiro - Recife - PE,01/24/2021 18:15:00,317,Sport - PE,Thiago Neves,27,Segundo
+32,Ilha do Retiro - Recife - PE,01/24/2021 18:15:00,317,Sport - PE,Iago,40,Segundo
+32,Antônio Accioly - Goiania - GO,01/24/2021 18:15:00,320,Atlético - GO,Jean,40,Primeiro
+32,Antônio Accioly - Goiania - GO,01/24/2021 18:15:00,320,Atlético - GO,Natanael,35,Segundo
+32,Vila Belmiro - Santos - SP,01/24/2021 18:15:00,314,Santos - SP,Lucas,6,Primeiro
+32,Vila Belmiro - Santos - SP,01/24/2021 18:15:00,314,Santos - SP,Kaio Jorge,37,Primeiro
+32,Vila Belmiro - Santos - SP,01/24/2021 18:15:00,314,Santos - SP,Marinho,41,Segundo
+32,Vila Belmiro - Santos - SP,01/24/2021 18:15:00,314,Goiás - GO,Rafael Moura,9,Segundo
+32,Vila Belmiro - Santos - SP,01/24/2021 18:15:00,314,Goiás - GO,David Duarte,14,Segundo
+32,Vila Belmiro - Santos - SP,01/24/2021 18:15:00,314,Goiás - GO,Fernandao,30,Segundo
+32,Vila Belmiro - Santos - SP,01/24/2021 18:15:00,314,Goiás - GO,Rafael Moura,31,Segundo
+32,São Januário - Rio de Janeiro - RJ,01/24/2021 20:30:00,311,Fluminense - RJ,Lucca,21,Segundo
+32,São Januário - Rio de Janeiro - RJ,01/24/2021 20:30:00,311,Fluminense - RJ,Wellington Silva,51,Segundo
+32,Neo Química Arena - Sao Paulo - SP,01/25/2021 20:00:00,315,Red Bull Bragantino - SP,Hélio Junio,2,Primeiro
+32,Neo Química Arena - Sao Paulo - SP,01/25/2021 20:00:00,315,Red Bull Bragantino - SP,Claudinho,41,Primeiro
+33,Couto Pereira - Curitiba - PR,01/31/2021 16:00:00,328,Coritiba - PR,Wilson,27,Segundo
+33,Couto Pereira - Curitiba - PR,01/31/2021 16:00:00,328,Grêmio - RS," Miranda",19,Primeiro
+33,Arena Castelão - Fortaleza - CE,01/31/2021 16:00:00,329,Athletico Paranaense - PR,Carlos Eduardo,39,Segundo
+33,Arena Castelão - Fortaleza - CE,01/31/2021 16:00:00,329,Athletico Paranaense - PR,Carlos Eduardo,47,Segundo
+33,Antônio Accioly - Goiania - GO,01/31/2021 16:00:00,330,Atlético - GO,Natanael,20,Primeiro
+33,Antônio Accioly - Goiania - GO,01/31/2021 16:00:00,330,Atlético - GO,Vitor Leque,41,Segundo
+33,Antônio Accioly - Goiania - GO,01/31/2021 16:00:00,330,São Paulo - SP,Reinaldo,39,Primeiro
+33,Mineirão - Belo Horizonte - MG,01/31/2021 17:00:00,325,Atlético - MG,Guilherme Arana,11,Segundo
+33,Mineirão - Belo Horizonte - MG,01/31/2021 17:00:00,325,Atlético - MG,Vargas,22,Segundo
+33,Beira-Rio - Porto Alegre - RS,01/31/2021 18:15:00,326,Internacional - RS,Patrick,4,Primeiro
+33,Beira-Rio - Porto Alegre - RS,01/31/2021 18:15:00,326,Internacional - RS,Edenilson,12,Segundo
+33,Beira-Rio - Porto Alegre - RS,01/31/2021 18:15:00,326,Red Bull Bragantino - SP,Hélio Junio,15,Primeiro
+33,Nilton Santos - Rio de Janeiro - RJ,01/31/2021 20:30:00,321,Fluminense - RJ,Nino,17,Primeiro
+33,Nilton Santos - Rio de Janeiro - RJ,01/31/2021 20:30:00,321,Fluminense - RJ,Martinelli,25,Primeiro
+33,Nilton Santos - Rio de Janeiro - RJ,01/31/2021 20:30:00,321,Fluminense - RJ,Martinelli,36,Primeiro
+33,Ilha do Retiro - Recife - PE,02/01/2021 20:00:00,327,Flamengo - RJ,Gabriel Barbosa,3,Primeiro
+33,Ilha do Retiro - Recife - PE,02/01/2021 20:00:00,327,Flamengo - RJ,Bruno Henrique,18,Primeiro
+33,Ilha do Retiro - Recife - PE,02/01/2021 20:00:00,327,Flamengo - RJ,Pedro,50,Segundo
+33,Allianz Parque - Sao Paulo - SP,02/02/2021 16:00:00,323,Palmeiras - SP,Emerson,15,Primeiro
+33,Allianz Parque - Sao Paulo - SP,02/02/2021 16:00:00,323,Botafogo - RJ,Rafael Navarro,14,Segundo
+33,Vila Belmiro - Santos - SP,02/17/2021 19:00:00,324,Santos - SP,Marcos Leonardo,9,Segundo
+34,Arena do Grêmio - Porto Alegre - RS,02/03/2021 16:00:00,336,Grêmio - RS,Diego Souza,36,Primeiro
+34,Arena do Grêmio - Porto Alegre - RS,02/03/2021 16:00:00,336,Grêmio - RS,Jean Pyerre,1,Segundo
+34,Arena do Grêmio - Porto Alegre - RS,02/03/2021 16:00:00,336,Grêmio - RS,Pepe,7,Segundo
+34,Arena do Grêmio - Porto Alegre - RS,02/03/2021 16:00:00,336,Santos - SP,Kaio Jorge,7,Primeiro
+34,Arena do Grêmio - Porto Alegre - RS,02/03/2021 16:00:00,336,Santos - SP,Arthur,22,Segundo
+34,Arena do Grêmio - Porto Alegre - RS,02/03/2021 16:00:00,336,Santos - SP,Madson,50,Segundo
+34,Nabi Abi Chedid - Braganca Paulista - SP,02/03/2021 19:15:00,334,Red Bull Bragantino - SP,Ytalo,10,Segundo
+34,Nabi Abi Chedid - Braganca Paulista - SP,02/03/2021 19:15:00,334,Red Bull Bragantino - SP,Claudinho,48,Segundo
+34,Arena Fonte Nova - Salvador - BA,02/03/2021 21:30:00,337,Fluminense - RJ,Luiz Henrique,32,Primeiro
+34,Hailé Pinheiro - Goiania - GO,02/03/2021 21:30:00,340,Goiás - GO,Índio,27,Primeiro
+34,Neo Química Arena - Sao Paulo - SP,02/03/2021 21:30:00,335,Corinthians - SP,Fabio Santos,20,Primeiro
+34,Neo Química Arena - Sao Paulo - SP,02/03/2021 21:30:00,335,Corinthians - SP,Leo,28,Primeiro
+34,Neo Química Arena - Sao Paulo - SP,02/03/2021 21:30:00,335,Ceará - CE,Fabinho,15,Primeiro
+34,Arena Castelão - Fortaleza - CE,02/04/2021 18:30:00,339,Fortaleza - CE,Nathan Silva,42,Primeiro
+34,Arena Castelão - Fortaleza - CE,02/04/2021 18:30:00,339,Fortaleza - CE,David,43,Primeiro
+34,Arena Castelão - Fortaleza - CE,02/04/2021 18:30:00,339,Fortaleza - CE,Wellington Paulista,38,Segundo
+34,Arena Castelão - Fortaleza - CE,02/04/2021 18:30:00,339,Coritiba - PR,Ricardo Oliveira,27,Primeiro
+34,Maracanã - Rio de Janeiro - RJ,02/04/2021 21:00:00,331,Flamengo - RJ,Gabriel Barbosa,45,Primeiro
+34,Maracanã - Rio de Janeiro - RJ,02/04/2021 21:00:00,331,Flamengo - RJ,Bruno Henrique,31,Segundo
+34,Nilton Santos - Rio de Janeiro - RJ,02/05/2021 20:00:00,332,Sport - PE,Iago,24,Primeiro
+34,Morumbi - Sao Paulo - SP,02/19/2021 21:30:00,333,São Paulo - SP,Luciano,29,Segundo
+34,Morumbi - Sao Paulo - SP,02/19/2021 21:30:00,333,Palmeiras - SP,Rony,48,Segundo
+35,Arena Fonte Nova - Salvador - BA,02/06/2021 19:00:00,347,Bahia - BA,Gilberto,26,Primeiro
+35,Arena Fonte Nova - Salvador - BA,02/06/2021 19:00:00,347,Bahia - BA,Gabriel Novaes,48,Primeiro
+35,Arena Fonte Nova - Salvador - BA,02/06/2021 19:00:00,347,Bahia - BA,Alesson,33,Segundo
+35,Arena Fonte Nova - Salvador - BA,02/06/2021 19:00:00,347,Goiás - GO,Fernandao,18,Primeiro
+35,Arena Fonte Nova - Salvador - BA,02/06/2021 19:00:00,347,Goiás - GO,Vinicius Lopes,3,Segundo
+35,Arena Fonte Nova - Salvador - BA,02/06/2021 19:00:00,347,Goiás - GO,Fernandao,49,Segundo
+35,Antônio Accioly - Goiania - GO,02/06/2021 21:00:00,350,Atlético - GO,Jean,33,Primeiro
+35,Antônio Accioly - Goiania - GO,02/06/2021 21:00:00,350,Santos - SP,Marcos Leonardo,33,Segundo
+35,Nabi Abi Chedid - Braganca Paulista - SP,02/07/2021 20:30:00,344,Red Bull Bragantino - SP,Ytalo,17,Segundo
+35,Nabi Abi Chedid - Braganca Paulista - SP,02/07/2021 20:30:00,344,Flamengo - RJ,Gabriel Barbosa,34,Primeiro
+35,Nilton Santos - Rio de Janeiro - RJ,02/08/2021 20:00:00,342,Botafogo - RJ,Rafael Navarro,10,Segundo
+35,Nilton Santos - Rio de Janeiro - RJ,02/08/2021 20:00:00,342,Botafogo - RJ,Macae,36,Segundo
+35,Nilton Santos - Rio de Janeiro - RJ,02/08/2021 20:00:00,342,Grêmio - RS,Alisson,6,Primeiro
+35,Nilton Santos - Rio de Janeiro - RJ,02/08/2021 20:00:00,342,Grêmio - RS,Jean Pyerre,16,Primeiro
+35,Nilton Santos - Rio de Janeiro - RJ,02/08/2021 20:00:00,342,Grêmio - RS,Churin,8,Segundo
+35,Nilton Santos - Rio de Janeiro - RJ,02/08/2021 20:00:00,342,Grêmio - RS,Matheus Henrique,28,Segundo
+35,Nilton Santos - Rio de Janeiro - RJ,02/08/2021 20:00:00,342,Grêmio - RS,Matheus Henrique,33,Segundo
+35,Beira-Rio - Porto Alegre - RS,02/10/2021 19:00:00,346,Internacional - RS,Patrick,40,Primeiro
+35,Beira-Rio - Porto Alegre - RS,02/10/2021 19:00:00,346,Sport - PE,Marcos,36,Primeiro
+35,Beira-Rio - Porto Alegre - RS,02/10/2021 19:00:00,346,Sport - PE,Luan,49,Primeiro
+35,Arena Castelão - Fortaleza - CE,02/10/2021 19:15:00,349,Fortaleza - CE,Igor,6,Primeiro
+35,Arena Castelão - Fortaleza - CE,02/10/2021 19:15:00,349,Fortaleza - CE,David,43,Primeiro
+35,Arena Castelão - Fortaleza - CE,02/10/2021 19:15:00,349,Fortaleza - CE,Romarinho,17,Segundo
+35,Morumbi - Sao Paulo - SP,02/10/2021 21:00:00,343,São Paulo - SP,Luciano,51,Segundo
+35,Morumbi - Sao Paulo - SP,02/10/2021 21:00:00,343,Ceará - CE,Leo Chu,48,Segundo
+35,Neo Química Arena - Sao Paulo - SP,02/10/2021 21:30:00,345,Corinthians - SP,Mosquito,2,Primeiro
+35,Neo Química Arena - Sao Paulo - SP,02/10/2021 21:30:00,345,Corinthians - SP,Gabriel,17,Primeiro
+35,Neo Química Arena - Sao Paulo - SP,02/10/2021 21:30:00,345,Corinthians - SP,Mosquito,10,Segundo
+35,Neo Química Arena - Sao Paulo - SP,02/10/2021 21:30:00,345,Athletico Paranaense - PR,Abner Vinicius,13,Primeiro
+35,Neo Química Arena - Sao Paulo - SP,02/10/2021 21:30:00,345,Athletico Paranaense - PR,Canesin,34,Primeiro
+35,Neo Química Arena - Sao Paulo - SP,02/10/2021 21:30:00,345,Athletico Paranaense - PR,Vitinho,27,Segundo
+35,Couto Pereira - Curitiba - PR,02/17/2021 19:30:00,348,Coritiba - PR,Jonathan,42,Segundo
+36,Hailé Pinheiro - Goiania - GO,02/13/2021 17:00:00,360,Goiás - GO,Rafael Moura,7,Primeiro
+36,Hailé Pinheiro - Goiania - GO,02/13/2021 17:00:00,360,Goiás - GO,Fernandao,18,Segundo
+36,Mineirão - Belo Horizonte - MG,02/13/2021 19:00:00,355,Atlético - MG,Eduardo Sasha,19,Primeiro
+36,Mineirão - Belo Horizonte - MG,02/13/2021 19:00:00,355,Bahia - BA,Rossi,1,Segundo
+36,Vila Belmiro - Santos - SP,02/13/2021 19:00:00,354,Santos - SP,Marinho,36,Primeiro
+36,Vila Belmiro - Santos - SP,02/13/2021 19:00:00,354,Santos - SP,Marcos Leonardo,41,Segundo
+36,São Januário - Rio de Janeiro - RJ,02/14/2021 16:00:00,352,Internacional - RS,Rodrigo Dourado,9,Primeiro
+36,São Januário - Rio de Janeiro - RJ,02/14/2021 16:00:00,352,Internacional - RS,Thiago Galhardo,50,Segundo
+36,Maracanã - Rio de Janeiro - RJ,02/14/2021 16:00:00,351,Flamengo - RJ,Willian Arão,9,Primeiro
+36,Maracanã - Rio de Janeiro - RJ,02/14/2021 16:00:00,351,Flamengo - RJ,Gabriel Barbosa,10,Segundo
+36,Maracanã - Rio de Janeiro - RJ,02/14/2021 16:00:00,351,Corinthians - SP,Leo,19,Primeiro
+36,Allianz Parque - Sao Paulo - SP,02/14/2021 18:15:00,353,Palmeiras - SP,Gustavo Scarpa,19,Primeiro
+36,Allianz Parque - Sao Paulo - SP,02/14/2021 18:15:00,353,Palmeiras - SP,Lucas Lima,25,Primeiro
+36,Allianz Parque - Sao Paulo - SP,02/14/2021 18:15:00,353,Palmeiras - SP,Breno,38,Primeiro
+36,Arena da Baixada - Curitiba - PR,02/14/2021 18:15:00,358,Athletico Paranaense - PR,Vitinho,17,Segundo
+36,Arena da Baixada - Curitiba - PR,02/14/2021 18:15:00,358,Athletico Paranaense - PR,Thiago Heleno,47,Segundo
+36,Arena da Baixada - Curitiba - PR,02/14/2021 18:15:00,358,Atlético - GO,Roberson,25,Segundo
+36,Arena do Grêmio - Porto Alegre - RS,02/14/2021 20:30:00,356,Grêmio - RS,Diego Souza,32,Primeiro
+36,Arena do Grêmio - Porto Alegre - RS,02/14/2021 20:30:00,356,São Paulo - SP,Tche Tche,18,Segundo
+36,Arena do Grêmio - Porto Alegre - RS,02/14/2021 20:30:00,356,São Paulo - SP,Luciano,22,Segundo
+36,Arena Castelão - Fortaleza - CE,02/15/2021 18:00:00,359,Ceará - CE,Vinicius,32,Segundo
+36,Arena Castelão - Fortaleza - CE,02/15/2021 18:00:00,359,Fluminense - RJ,John Kennedy,44,Primeiro
+36,Arena Castelão - Fortaleza - CE,02/15/2021 18:00:00,359,Fluminense - RJ,Martinelli,13,Segundo
+36,Arena Castelão - Fortaleza - CE,02/15/2021 18:00:00,359,Fluminense - RJ,Samuel,42,Segundo
+37,Couto Pereira - Curitiba - PR,02/20/2021 18:30:00,368,Ceará - CE,Felipe Vizeu,6,Segundo
+37,Couto Pereira - Curitiba - PR,02/20/2021 18:30:00,368,Ceará - CE,Saulo,28,Segundo
+37,Arena Castelão - Fortaleza - CE,02/20/2021 21:00:00,369,Bahia - BA,Rodriguinho,7,Primeiro
+37,Arena Castelão - Fortaleza - CE,02/20/2021 21:00:00,369,Bahia - BA,Rodriguinho,16,Segundo
+37,Arena Castelão - Fortaleza - CE,02/20/2021 21:00:00,369,Bahia - BA,Rodriguinho,20,Segundo
+37,Arena Castelão - Fortaleza - CE,02/20/2021 21:00:00,369,Bahia - BA,Rossi,35,Segundo
+37,Maracanã - Rio de Janeiro - RJ,02/21/2021 16:00:00,361,Flamengo - RJ,De Arrascaeta,28,Primeiro
+37,Maracanã - Rio de Janeiro - RJ,02/21/2021 16:00:00,361,Flamengo - RJ,Gabriel Barbosa,17,Segundo
+37,Maracanã - Rio de Janeiro - RJ,02/21/2021 16:00:00,361,Internacional - RS,Edenilson,11,Primeiro
+37,Ilha do Retiro - Recife - PE,02/21/2021 16:00:00,367,Sport - PE,Luan,32,Primeiro
+37,Ilha do Retiro - Recife - PE,02/21/2021 16:00:00,367,Sport - PE,Thiago Neves,41,Segundo
+37,Ilha do Retiro - Recife - PE,02/21/2021 16:00:00,367,Atlético - MG,Jair,6,Primeiro
+37,Ilha do Retiro - Recife - PE,02/21/2021 16:00:00,367,Atlético - MG," Thyere",4,Segundo
+37,Ilha do Retiro - Recife - PE,02/21/2021 16:00:00,367,Atlético - MG,Marrony,53,Segundo
+37,Vila Belmiro - Santos - SP,02/21/2021 18:15:00,364,Santos - SP,Sousa,42,Segundo
+37,Vila Belmiro - Santos - SP,02/21/2021 18:15:00,364,Fluminense - RJ,Lucca,16,Primeiro
+37,Arena do Grêmio - Porto Alegre - RS,02/21/2021 18:15:00,366,Grêmio - RS,Thaciano,31,Segundo
+37,Allianz Parque - Sao Paulo - SP,02/22/2021 18:00:00,363,Palmeiras - SP,VINA,21,Primeiro
+37,Allianz Parque - Sao Paulo - SP,02/22/2021 18:00:00,363,Atlético - GO,Matheus Vargas,42,Primeiro
+37,Nilton Santos - Rio de Janeiro - RJ,02/22/2021 20:00:00,362,Botafogo - RJ,Macae,12,Segundo
+38,Maracanã - Rio de Janeiro - RJ,02/25/2021 21:30:00,371,Fluminense - RJ,Fred,20,Primeiro
+38,Maracanã - Rio de Janeiro - RJ,02/25/2021 21:30:00,371,Fluminense - RJ,Matheus Ferraz,15,Segundo
+38,São Januário - Rio de Janeiro - RJ,02/25/2021 21:30:00,372,Vasco da Gama - RJ,German Cano,14,Primeiro
+38,São Januário - Rio de Janeiro - RJ,02/25/2021 21:30:00,372,Vasco da Gama - RJ,Ricardo,4,Segundo
+38,São Januário - Rio de Janeiro - RJ,02/25/2021 21:30:00,372,Vasco da Gama - RJ,Ricardo,46,Segundo
+38,São Januário - Rio de Janeiro - RJ,02/25/2021 21:30:00,372,Goiás - GO,Fernandao,25,Primeiro
+38,São Januário - Rio de Janeiro - RJ,02/25/2021 21:30:00,372,Goiás - GO,Fernandao,51,Primeiro
+38,Morumbi - Sao Paulo - SP,02/25/2021 21:30:00,373,São Paulo - SP,Luciano,49,Primeiro
+38,Morumbi - Sao Paulo - SP,02/25/2021 21:30:00,373,São Paulo - SP,Pablo,13,Segundo
+38,Morumbi - Sao Paulo - SP,02/25/2021 21:30:00,373,Flamengo - RJ,Bruno Henrique,6,Segundo
+38,Nabi Abi Chedid - Braganca Paulista - SP,02/25/2021 21:30:00,374,Red Bull Bragantino - SP,Claudinho,7,Segundo
+38,Mineirão - Belo Horizonte - MG,02/25/2021 21:30:00,375,Atlético - MG,Jair,33,Segundo
+38,Mineirão - Belo Horizonte - MG,02/25/2021 21:30:00,375,Atlético - MG,Eduardo Sasha,43,Segundo
+38,Arena Fonte Nova - Salvador - BA,02/25/2021 21:30:00,377,Bahia - BA,Rossi,14,Primeiro
+38,Arena Fonte Nova - Salvador - BA,02/25/2021 21:30:00,377,Bahia - BA,Alesson,46,Segundo
+38,Arena da Baixada - Curitiba - PR,02/25/2021 21:30:00,378,Athletico Paranaense - PR,Nikao,7,Primeiro
+38,Arena da Baixada - Curitiba - PR,02/25/2021 21:30:00,378,Athletico Paranaense - PR,Cittadini,40,Segundo
+38,Arena Castelão - Fortaleza - CE,02/25/2021 21:30:00,379,Ceará - CE,Pedrinho,17,Primeiro
+38,Arena Castelão - Fortaleza - CE,02/25/2021 21:30:00,379,Ceará - CE,Saulo,48,Segundo
+38,Arena Castelão - Fortaleza - CE,02/25/2021 21:30:00,379,Botafogo - RJ,Macae,11,Segundo
+38,Antônio Accioly - Goiania - GO,02/25/2021 21:30:00,380,Atlético - GO,Gilvan,3,Primeiro
+38,Antônio Accioly - Goiania - GO,02/25/2021 21:30:00,380,Atlético - GO,Wellington Rato,33,Primeiro
+38,Antônio Accioly - Goiania - GO,02/25/2021 21:30:00,380,Atlético - GO,Guilherme Biro,47,Primeiro
+38,Antônio Accioly - Goiania - GO,02/25/2021 21:30:00,380,Coritiba - PR,Ricardo Oliveira,17,Segundo
