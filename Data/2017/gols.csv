@@ -1,0 +1,923 @@
+1,Maracanã - Rio de Janeiro - RJ,05/13/2017 16:00:00,2,Flamengo - RJ,Matheus Savio,23,Primeiro
+1,Maracanã - Rio de Janeiro - RJ,05/13/2017 16:00:00,2,Atlético - MG,Elias,13,Segundo
+1,Arena Corinthians - Sao Paulo - SP,05/13/2017 19:00:00,4,Corinthians - SP,Jo,21,Primeiro
+1,Arena Corinthians - Sao Paulo - SP,05/13/2017 19:00:00,4,Chapecoense - SC,Wellington Paulista,11,Segundo
+1,Maracanã - Rio de Janeiro - RJ,05/14/2017 11:00:00,1,Fluminense - RJ,Henrique Dourado,3,Primeiro
+1,Maracanã - Rio de Janeiro - RJ,05/14/2017 11:00:00,1,Fluminense - RJ,Henrique Dourado,48,Primeiro
+1,Maracanã - Rio de Janeiro - RJ,05/14/2017 11:00:00,1,Fluminense - RJ,Sornoza,12,Segundo
+1,Maracanã - Rio de Janeiro - RJ,05/14/2017 11:00:00,1,Santos - SP,Victor Ferraz,38,Primeiro
+1,Maracanã - Rio de Janeiro - RJ,05/14/2017 11:00:00,1,Santos - SP,Vladimir Hernandez,42,Segundo
+1,Allianz Parque - Sao Paulo - SP,05/14/2017 16:00:00,3,Palmeiras - SP,Jean,6,Primeiro
+1,Allianz Parque - Sao Paulo - SP,05/14/2017 16:00:00,3,Palmeiras - SP,Guerra,40,Primeiro
+1,Allianz Parque - Sao Paulo - SP,05/14/2017 16:00:00,3,Palmeiras - SP,Borja,1,Segundo
+1,Allianz Parque - Sao Paulo - SP,05/14/2017 16:00:00,3,Palmeiras - SP,Borja,34,Segundo
+1,Mineirão - Belo Horizonte - MG,05/14/2017 16:00:00,5,Cruzeiro - MG,Ábila,2,Segundo
+1,Arena Fonte Nova - Salvador - BA,05/14/2017 16:00:00,8,Bahia - BA,Tiago,33,Primeiro
+1,Arena Fonte Nova - Salvador - BA,05/14/2017 16:00:00,8,Bahia - BA,Ze Rafael,40,Primeiro
+1,Arena Fonte Nova - Salvador - BA,05/14/2017 16:00:00,8,Bahia - BA,Regis,42,Primeiro
+1,Arena Fonte Nova - Salvador - BA,05/14/2017 16:00:00,8,Bahia - BA,Edigar Junio,43,Primeiro
+1,Arena Fonte Nova - Salvador - BA,05/14/2017 16:00:00,8,Bahia - BA,Regis,46,Primeiro
+1,Arena Fonte Nova - Salvador - BA,05/14/2017 16:00:00,8,Bahia - BA,Edson,26,Segundo
+1,Arena Fonte Nova - Salvador - BA,05/14/2017 16:00:00,8,Atlético - PR,Guilherme,14,Primeiro
+1,Arena Fonte Nova - Salvador - BA,05/14/2017 16:00:00,8,Atlético - PR,Marcos,37,Primeiro
+1,Moisés Lucarelli - Campinas - SP,05/14/2017 16:00:00,9,Ponte Preta - SP,Lucca,39,Primeiro
+1,Moisés Lucarelli - Campinas - SP,05/14/2017 16:00:00,9,Ponte Preta - SP,Nino Paraiba,44,Primeiro
+1,Moisés Lucarelli - Campinas - SP,05/14/2017 16:00:00,9,Ponte Preta - SP,Clayson,27,Segundo
+1,Moisés Lucarelli - Campinas - SP,05/14/2017 16:00:00,9,Ponte Preta - SP,Clayson,47,Segundo
+1,Arena do Grêmio - Porto Alegre - RS,05/14/2017 19:00:00,7,Grêmio - RS,Ramiro,45,Primeiro
+1,Arena do Grêmio - Porto Alegre - RS,05/14/2017 19:00:00,7,Grêmio - RS,Ramiro,9,Segundo
+1,Couto Pereira - Curitiba - PR,05/15/2017 20:00:00,6,Coritiba - PR,H. Almeida,31,Primeiro
+1,Couto Pereira - Curitiba - PR,05/15/2017 20:00:00,6,Coritiba - PR,Neto Berola,35,Primeiro
+1,Couto Pereira - Curitiba - PR,05/15/2017 20:00:00,6,Coritiba - PR,Tomas Bastos,21,Segundo
+1,Couto Pereira - Curitiba - PR,05/15/2017 20:00:00,6,Coritiba - PR,Tomas Bastos,25,Segundo
+1,Couto Pereira - Curitiba - PR,05/15/2017 20:00:00,6,Atlético - GO,Walter,17,Segundo
+2,Vila Belmiro - Santos - SP,05/20/2017 16:00:00,13,Santos - SP,David Braz,7,Primeiro
+2,Serra Dourada - Goiania - GO,05/20/2017 19:00:00,19,Flamengo - RJ,Everton,40,Primeiro
+2,Serra Dourada - Goiania - GO,05/20/2017 19:00:00,19,Flamengo - RJ,Leandro Damiao,5,Segundo
+2,Serra Dourada - Goiania - GO,05/20/2017 19:00:00,19,Flamengo - RJ,Rodinei,20,Segundo
+2,Arena Condá - Chapeco - SC,05/20/2017 19:00:00,20,Chapecoense - SC,Luiz Antonio,27,Segundo
+2,São Januário - Rio de Janeiro - RJ,05/21/2017 11:00:00,12,Vasco da Gama - RJ,Yago,8,Segundo
+2,São Januário - Rio de Janeiro - RJ,05/21/2017 11:00:00,12,Vasco da Gama - RJ,Luis Fabiano,30,Segundo
+2,São Januário - Rio de Janeiro - RJ,05/21/2017 11:00:00,12,Bahia - BA,Gustavo,37,Segundo
+2,Independência - Belo Horizonte - MG,05/21/2017 16:00:00,15,Atlético - MG,Gabriel Costa Franca,40,Primeiro
+2,Independência - Belo Horizonte - MG,05/21/2017 16:00:00,15,Fluminense - RJ,Henrique Dourado,36,Primeiro
+2,Independência - Belo Horizonte - MG,05/21/2017 16:00:00,15,Fluminense - RJ,Richarlison,38,Primeiro
+2,Arena da Baixada - Curitiba - PR,05/21/2017 16:00:00,16,Grêmio - RS,Luan,1,Segundo
+2,Arena da Baixada - Curitiba - PR,05/21/2017 16:00:00,16,Grêmio - RS,Lucas Barrios,13,Segundo
+2,Arena Fonte Nova - Salvador - BA,05/21/2017 16:00:00,18,Corinthians - SP,Jo,29,Segundo
+2,Nilton Santos - Rio de Janeiro - RJ,05/21/2017 18:00:00,11,Botafogo - RJ,Bruno Silva,20,Primeiro
+2,Nilton Santos - Rio de Janeiro - RJ,05/21/2017 18:00:00,11,Botafogo - RJ,Rodrigo,20,Segundo
+2,Ilha do Retiro - Recife - PE,05/21/2017 19:00:00,17,Sport - PE,Diego Souza,33,Primeiro
+2,Ilha do Retiro - Recife - PE,05/21/2017 19:00:00,17,Cruzeiro - MG,Alisson,19,Primeiro
+2,Morumbi - Sao Paulo - SP,05/22/2017 20:00:00,14,São Paulo - SP,Lucas Pratto,11,Primeiro
+2,Morumbi - Sao Paulo - SP,05/22/2017 20:00:00,14,São Paulo - SP,Luiz,45,Segundo
+3,São Januário - Rio de Janeiro - RJ,05/27/2017 16:00:00,22,Vasco da Gama - RJ,Luis Fabiano,24,Primeiro
+3,São Januário - Rio de Janeiro - RJ,05/27/2017 16:00:00,22,Vasco da Gama - RJ,Manga,29,Segundo
+3,São Januário - Rio de Janeiro - RJ,05/27/2017 16:00:00,22,Vasco da Gama - RJ,Nenê,48,Segundo
+3,São Januário - Rio de Janeiro - RJ,05/27/2017 16:00:00,22,Fluminense - RJ,Henrique Dourado,13,Segundo
+3,São Januário - Rio de Janeiro - RJ,05/27/2017 16:00:00,22,Fluminense - RJ,Henrique Dourado,20,Segundo
+3,Morumbi - Sao Paulo - SP,05/27/2017 19:00:00,24,São Paulo - SP,Lucas Pratto,16,Segundo
+3,Morumbi - Sao Paulo - SP,05/27/2017 19:00:00,24,São Paulo - SP,Luiz,38,Segundo
+3,Arena Fonte Nova - Salvador - BA,05/27/2017 21:00:00,28,Coritiba - PR,Rildo,26,Segundo
+3,Independência - Belo Horizonte - MG,05/28/2017 11:00:00,25,Atlético - MG,Robinho,36,Primeiro
+3,Independência - Belo Horizonte - MG,05/28/2017 11:00:00,25,Atlético - MG,Rafael Moura,35,Segundo
+3,Independência - Belo Horizonte - MG,05/28/2017 11:00:00,25,Ponte Preta - SP,Lucca,3,Segundo
+3,Independência - Belo Horizonte - MG,05/28/2017 11:00:00,25,Ponte Preta - SP,Lucca,5,Segundo
+3,Arena da Baixada - Curitiba - PR,05/28/2017 16:00:00,26,Atlético - PR,Thiago Heleno,10,Segundo
+3,Arena da Baixada - Curitiba - PR,05/28/2017 16:00:00,26,Flamengo - RJ,Mancuello,24,Primeiro
+3,Vila Belmiro - Santos - SP,05/28/2017 16:00:00,23,Cruzeiro - MG,Thiago Neves,37,Segundo
+3,Serra Dourada - Goiania - GO,05/28/2017 16:00:00,29,Corinthians - SP,Rodrigo Sam,27,Primeiro
+3,Ilha do Retiro - Recife - PE,05/28/2017 18:00:00,27,Sport - PE,Andre Felipe,34,Primeiro
+3,Ilha do Retiro - Recife - PE,05/28/2017 18:00:00,27,Sport - PE,Matheus Ferraz,19,Segundo
+3,Ilha do Retiro - Recife - PE,05/28/2017 18:00:00,27,Sport - PE,Andre Felipe,28,Segundo
+3,Ilha do Retiro - Recife - PE,05/28/2017 18:00:00,27,Sport - PE,Andre Felipe,38,Segundo
+3,Ilha do Retiro - Recife - PE,05/28/2017 18:00:00,27,Grêmio - RS,Fernandinho,5,Primeiro
+3,Ilha do Retiro - Recife - PE,05/28/2017 18:00:00,27,Grêmio - RS,R. Thyere,17,Primeiro
+3,Ilha do Retiro - Recife - PE,05/28/2017 18:00:00,27,Grêmio - RS,Fernandinho,41,Segundo
+3,Nilton Santos - Rio de Janeiro - RJ,05/28/2017 19:00:00,21,Botafogo - RJ,Bruno Silva,43,Primeiro
+3,Arena Condá - Chapeco - SC,05/29/2017 20:00:00,30,Chapecoense - SC,Wellington Paulista,16,Primeiro
+3,Arena Condá - Chapeco - SC,05/29/2017 20:00:00,30,Chapecoense - SC,Reinaldo,37,Primeiro
+4,Couto Pereira - Curitiba - PR,06/03/2017 16:00:00,36,Coritiba - PR,Marcio,16,Segundo
+4,Maracanã - Rio de Janeiro - RJ,06/03/2017 18:00:00,31,Fluminense - RJ,Richarlison,32,Primeiro
+4,Maracanã - Rio de Janeiro - RJ,06/03/2017 18:00:00,31,Fluminense - RJ,Henrique Dourado,5,Segundo
+4,Maracanã - Rio de Janeiro - RJ,06/03/2017 18:00:00,31,Vitória - BA,Kieza,20,Segundo
+4,Arena Corinthians - Sao Paulo - SP,06/03/2017 19:00:00,34,Corinthians - SP,Angel Romero,24,Segundo
+4,Arena Corinthians - Sao Paulo - SP,06/03/2017 19:00:00,34,Corinthians - SP,Jo,29,Segundo
+4,Ressacada - Florianopolis - SC,06/04/2017 11:00:00,40,Avaí - SC,Romulo,33,Primeiro
+4,Moisés Lucarelli - Campinas - SP,06/04/2017 16:00:00,39,Ponte Preta - SP,Lucca,5,Segundo
+4,Arena do Grêmio - Porto Alegre - RS,06/04/2017 16:00:00,37,Grêmio - RS,Lucas Barrios,38,Primeiro
+4,Arena do Grêmio - Porto Alegre - RS,06/04/2017 16:00:00,37,Grêmio - RS,Luan,47,Segundo
+4,Mineirão - Belo Horizonte - MG,06/04/2017 19:00:00,35,Chapecoense - SC,Wellington Paulista,27,Primeiro
+4,Mineirão - Belo Horizonte - MG,06/04/2017 19:00:00,35,Chapecoense - SC,Douglas Groli,2,Segundo
+4,Arena Fonte Nova - Salvador - BA,06/05/2017 20:00:00,38,Bahia - BA,Rene Junior,15,Primeiro
+4,Arena Fonte Nova - Salvador - BA,06/05/2017 20:00:00,38,Bahia - BA,Vinicius,41,Primeiro
+4,Arena Fonte Nova - Salvador - BA,06/05/2017 20:00:00,38,Bahia - BA,Gustavo Ferrareis,27,Segundo
+5,Maracanã - Rio de Janeiro - RJ,06/06/2017 20:00:00,41,Fluminense - RJ,Reginaldo,32,Primeiro
+5,Maracanã - Rio de Janeiro - RJ,06/06/2017 20:00:00,41,Atlético - PR,Pablo,7,Primeiro
+5,Independência - Belo Horizonte - MG,06/07/2017 19:30:00,45,Atlético - MG,Fred,16,Primeiro
+5,Couto Pereira - Curitiba - PR,06/07/2017 19:30:00,46,Coritiba - PR,M. Galdezani,6,Segundo
+5,Pacaembu - Sao Paulo - SP,06/07/2017 21:00:00,43,Santos - SP,Victor Ferraz,50,Segundo
+5,Ilha do Retiro - Recife - PE,06/07/2017 21:45:00,47,Sport - PE,Osvaldo,10,Segundo
+5,Ilha do Retiro - Recife - PE,06/07/2017 21:45:00,47,Sport - PE,Thomas,38,Segundo
+5,São Januário - Rio de Janeiro - RJ,06/07/2017 21:45:00,42,Vasco da Gama - RJ,Luis Fabiano,1,Segundo
+5,São Januário - Rio de Janeiro - RJ,06/07/2017 21:45:00,42,Vasco da Gama - RJ,Luis Fabiano,2,Segundo
+5,São Januário - Rio de Janeiro - RJ,06/07/2017 21:45:00,42,Corinthians - SP,Marquinhos Gabriel,3,Primeiro
+5,São Januário - Rio de Janeiro - RJ,06/07/2017 21:45:00,42,Corinthians - SP,Jo,38,Primeiro
+5,São Januário - Rio de Janeiro - RJ,06/07/2017 21:45:00,42,Corinthians - SP,Maycon,13,Segundo
+5,São Januário - Rio de Janeiro - RJ,06/07/2017 21:45:00,42,Corinthians - SP,Clayton,39,Segundo
+5,São Januário - Rio de Janeiro - RJ,06/07/2017 21:45:00,42,Corinthians - SP,Clayton,47,Segundo
+5,Olímpico Pedro Ludovico - Goiania - GO,06/08/2017 19:30:00,49,Atlético - GO,Everaldo,36,Primeiro
+5,Olímpico Pedro Ludovico - Goiania - GO,06/08/2017 19:30:00,49,Atlético - GO,Everaldo,44,Primeiro
+5,Olímpico Pedro Ludovico - Goiania - GO,06/08/2017 19:30:00,49,Atlético - GO,Luiz Fernando,31,Segundo
+5,Morumbi - Sao Paulo - SP,06/08/2017 19:30:00,44,São Paulo - SP,Antonio,19,Segundo
+5,Morumbi - Sao Paulo - SP,06/08/2017 19:30:00,44,São Paulo - SP,Lucas Pratto,47,Segundo
+5,Arena Condá - Chapeco - SC,06/08/2017 20:00:00,50,Chapecoense - SC,Luiz Antonio,34,Primeiro
+5,Arena Condá - Chapeco - SC,06/08/2017 20:00:00,50,Chapecoense - SC,Reinaldo,27,Segundo
+5,Arena Condá - Chapeco - SC,06/08/2017 20:00:00,50,Chapecoense - SC,Arthur Caike,44,Segundo
+5,Arena Condá - Chapeco - SC,06/08/2017 20:00:00,50,Grêmio - RS,Michel,20,Primeiro
+5,Arena Condá - Chapeco - SC,06/08/2017 20:00:00,50,Grêmio - RS,Michel,26,Primeiro
+5,Arena Condá - Chapeco - SC,06/08/2017 20:00:00,50,Grêmio - RS,Everton,14,Segundo
+5,Arena Condá - Chapeco - SC,06/08/2017 20:00:00,50,Grêmio - RS,Everton,15,Segundo
+5,Arena Condá - Chapeco - SC,06/08/2017 20:00:00,50,Grêmio - RS,Everton,35,Segundo
+5,Arena Condá - Chapeco - SC,06/08/2017 20:00:00,50,Grêmio - RS,Luan,45,Segundo
+5,Arena Fonte Nova - Salvador - BA,06/08/2017 21:00:00,48,Bahia - BA,Edigar Junio,18,Primeiro
+6,Allianz Parque - Sao Paulo - SP,06/10/2017 16:00:00,53,Palmeiras - SP,Guerra,9,Primeiro
+6,Allianz Parque - Sao Paulo - SP,06/10/2017 16:00:00,53,Palmeiras - SP,Keno,40,Primeiro
+6,Allianz Parque - Sao Paulo - SP,06/10/2017 16:00:00,53,Palmeiras - SP,Roger Guedes,48,Segundo
+6,Allianz Parque - Sao Paulo - SP,06/10/2017 16:00:00,53,Fluminense - RJ,Henrique Dourado,18,Primeiro
+6,São Januário - Rio de Janeiro - RJ,06/10/2017 19:00:00,52,Vasco da Gama - RJ,Luis Fabiano,17,Segundo
+6,São Januário - Rio de Janeiro - RJ,06/10/2017 19:00:00,52,Vasco da Gama - RJ,Douglas Luiz,45,Segundo
+6,São Januário - Rio de Janeiro - RJ,06/10/2017 19:00:00,52,Sport - PE,Andre Felipe,48,Segundo
+6,Nilton Santos - Rio de Janeiro - RJ,06/11/2017 11:00:00,51,Botafogo - RJ,Roger,22,Primeiro
+6,Nilton Santos - Rio de Janeiro - RJ,06/11/2017 11:00:00,51,Botafogo - RJ,Carli,20,Segundo
+6,Nilton Santos - Rio de Janeiro - RJ,06/11/2017 11:00:00,51,Coritiba - PR,K. Giacomazzi,7,Primeiro
+6,Nilton Santos - Rio de Janeiro - RJ,06/11/2017 11:00:00,51,Coritiba - PR,H. Almeida,9,Segundo
+6,Arena Corinthians - Sao Paulo - SP,06/11/2017 16:00:00,54,Corinthians - SP,Angel Romero,6,Primeiro
+6,Arena Corinthians - Sao Paulo - SP,06/11/2017 16:00:00,54,Corinthians - SP,Gabriel,40,Primeiro
+6,Arena Corinthians - Sao Paulo - SP,06/11/2017 16:00:00,54,Corinthians - SP,Jadson,18,Segundo
+6,Arena Corinthians - Sao Paulo - SP,06/11/2017 16:00:00,54,São Paulo - SP,Gilberto,17,Primeiro
+6,Arena Corinthians - Sao Paulo - SP,06/11/2017 16:00:00,54,São Paulo - SP,Wellington Nem,38,Segundo
+6,Manoel Barradas - Salvador - BA,06/11/2017 16:00:00,58,Vitória - BA,Kieza,19,Primeiro
+6,Manoel Barradas - Salvador - BA,06/11/2017 16:00:00,58,Vitória - BA,Neilton,20,Segundo
+6,Moisés Lucarelli - Campinas - SP,06/11/2017 16:00:00,59,Ponte Preta - SP,Renato Caja,15,Primeiro
+6,Moisés Lucarelli - Campinas - SP,06/11/2017 16:00:00,59,Ponte Preta - SP,Lucca,25,Primeiro
+6,Moisés Lucarelli - Campinas - SP,06/11/2017 16:00:00,59,Ponte Preta - SP,Naldo,15,Segundo
+6,Moisés Lucarelli - Campinas - SP,06/11/2017 16:00:00,59,Chapecoense - SC,Osman Junior,26,Segundo
+6,Moisés Lucarelli - Campinas - SP,06/11/2017 16:00:00,59,Chapecoense - SC,Rossi,27,Segundo
+6,Ressacada - Florianopolis - SC,06/11/2017 16:00:00,60,Avaí - SC,Romulo,11,Segundo
+6,Ressacada - Florianopolis - SC,06/11/2017 16:00:00,60,Flamengo - RJ,Leandro Damiao,15,Segundo
+6,Mineirão - Belo Horizonte - MG,06/11/2017 18:30:00,55,Cruzeiro - MG,Ábila,16,Segundo
+6,Mineirão - Belo Horizonte - MG,06/11/2017 18:30:00,55,Cruzeiro - MG,Ábila,34,Segundo
+6,Arena da Baixada - Curitiba - PR,06/11/2017 19:00:00,56,Santos - SP,Kayke,27,Primeiro
+6,Arena da Baixada - Curitiba - PR,06/11/2017 19:00:00,56,Santos - SP,Kayke,36,Primeiro
+6,Arena do Grêmio - Porto Alegre - RS,06/12/2017 20:00:00,57,Grêmio - RS,Cortez,40,Segundo
+7,Independência - Belo Horizonte - MG,06/14/2017 19:30:00,65,Atlético - PR,Sidcley,45,Segundo
+7,Olímpico Pedro Ludovico - Goiania - GO,06/14/2017 19:30:00,69,Atlético - GO,Jorginho,17,Primeiro
+7,Olímpico Pedro Ludovico - Goiania - GO,06/14/2017 19:30:00,69,Atlético - GO,Everaldo,47,Primeiro
+7,Olímpico Pedro Ludovico - Goiania - GO,06/14/2017 19:30:00,69,Atlético - GO,Everaldo,46,Segundo
+7,Olímpico Pedro Ludovico - Goiania - GO,06/14/2017 19:30:00,69,Avaí - SC,Juan,25,Primeiro
+7,Manoel Barradas - Salvador - BA,06/14/2017 19:30:00,68,Vitória - BA,Gabriel Xavier,4,Segundo
+7,Manoel Barradas - Salvador - BA,06/14/2017 19:30:00,68,Vitória - BA,Kieza,30,Segundo
+7,Manoel Barradas - Salvador - BA,06/14/2017 19:30:00,68,Botafogo - RJ,Bruno Silva,30,Primeiro
+7,Manoel Barradas - Salvador - BA,06/14/2017 19:30:00,68,Botafogo - RJ,Bruno Silva,41,Primeiro
+7,Luso Brasileiro - Rio de Janeiro - RJ,06/14/2017 21:00:00,62,Flamengo - RJ,Rever,47,Primeiro
+7,Luso Brasileiro - Rio de Janeiro - RJ,06/14/2017 21:00:00,62,Flamengo - RJ,Leandro Damiao,14,Segundo
+7,Arena Corinthians - Sao Paulo - SP,06/14/2017 21:45:00,64,Corinthians - SP,Balbuena,42,Primeiro
+7,Vila Belmiro - Santos - SP,06/14/2017 21:45:00,63,Santos - SP,Kayke,6,Segundo
+7,Arena Condá - Chapeco - SC,06/14/2017 21:45:00,70,Chapecoense - SC,Andrei,28,Primeiro
+7,Arena Condá - Chapeco - SC,06/14/2017 21:45:00,70,Chapecoense - SC,Arthur Caike,15,Segundo
+7,Arena Condá - Chapeco - SC,06/14/2017 21:45:00,70,Vasco da Gama - RJ,Jean,41,Primeiro
+7,Maracanã - Rio de Janeiro - RJ,06/15/2017 21:00:00,61,Grêmio - RS,Edilson,7,Primeiro
+7,Maracanã - Rio de Janeiro - RJ,06/15/2017 21:00:00,61,Grêmio - RS,Luan,34,Segundo
+8,Olímpico Pedro Ludovico - Goiania - GO,06/17/2017 16:00:00,79,Atlético - PR,Sidcley,3,Primeiro
+8,São Januário - Rio de Janeiro - RJ,06/17/2017 19:00:00,72,Vasco da Gama - RJ,Yago,20,Primeiro
+8,Morumbi - Sao Paulo - SP,06/18/2017 16:00:00,74,São Paulo - SP,Marcinho,1,Segundo
+8,Morumbi - Sao Paulo - SP,06/18/2017 16:00:00,74,Atlético - MG,Cazares,7,Primeiro
+8,Morumbi - Sao Paulo - SP,06/18/2017 16:00:00,74,Atlético - MG,Rafael Moura,35,Segundo
+8,Arena Fonte Nova - Salvador - BA,06/18/2017 16:00:00,78,Bahia - BA,Vinicius,44,Primeiro
+8,Arena Fonte Nova - Salvador - BA,06/18/2017 16:00:00,78,Bahia - BA,Joao Paulo,38,Segundo
+8,Arena Fonte Nova - Salvador - BA,06/18/2017 16:00:00,78,Palmeiras - SP,Roger Guedes,17,Primeiro
+8,Arena Fonte Nova - Salvador - BA,06/18/2017 16:00:00,78,Palmeiras - SP,Keno,2,Segundo
+8,Arena Fonte Nova - Salvador - BA,06/18/2017 16:00:00,78,Palmeiras - SP,Yerri Mina,37,Segundo
+8,Arena Fonte Nova - Salvador - BA,06/18/2017 16:00:00,78,Palmeiras - SP,Willian,46,Segundo
+8,Maracanã - Rio de Janeiro - RJ,06/18/2017 16:00:00,71,Fluminense - RJ,Wendel,36,Primeiro
+8,Maracanã - Rio de Janeiro - RJ,06/18/2017 16:00:00,71,Fluminense - RJ,Henrique Dourado,35,Segundo
+8,Maracanã - Rio de Janeiro - RJ,06/18/2017 16:00:00,71,Flamengo - RJ,Diego,10,Segundo
+8,Maracanã - Rio de Janeiro - RJ,06/18/2017 16:00:00,71,Flamengo - RJ,Trauco,49,Segundo
+8,Arena Condá - Chapeco - SC,06/18/2017 16:00:00,80,Botafogo - RJ,Roger,28,Primeiro
+8,Arena Condá - Chapeco - SC,06/18/2017 16:00:00,80,Botafogo - RJ,Pimpao,8,Segundo
+8,Ilha do Retiro - Recife - PE,06/18/2017 19:00:00,77,Sport - PE,Diego Souza,45,Primeiro
+8,Ilha do Retiro - Recife - PE,06/18/2017 19:00:00,77,Vitória - BA,Uillian Correia,17,Primeiro
+8,Ilha do Retiro - Recife - PE,06/18/2017 19:00:00,77,Vitória - BA,Kanu,37,Primeiro
+8,Ilha do Retiro - Recife - PE,06/18/2017 19:00:00,77,Vitória - BA,Andre Lima,33,Segundo
+8,Mineirão - Belo Horizonte - MG,06/19/2017 20:00:00,75,Cruzeiro - MG,Thiago Neves,45,Primeiro
+8,Mineirão - Belo Horizonte - MG,06/19/2017 20:00:00,75,Cruzeiro - MG,Rafael Sobis,3,Segundo
+8,Mineirão - Belo Horizonte - MG,06/19/2017 20:00:00,75,Cruzeiro - MG,Robinho,17,Segundo
+8,Mineirão - Belo Horizonte - MG,06/19/2017 20:00:00,75,Grêmio - RS,Everton,16,Primeiro
+8,Mineirão - Belo Horizonte - MG,06/19/2017 20:00:00,75,Grêmio - RS,Michel,41,Primeiro
+8,Mineirão - Belo Horizonte - MG,06/19/2017 20:00:00,75,Grêmio - RS,Ramiro,15,Segundo
+9,Manoel Barradas - Salvador - BA,06/21/2017 19:30:00,88,Santos - SP,Copete,33,Primeiro
+9,Manoel Barradas - Salvador - BA,06/21/2017 19:30:00,88,Santos - SP,Copete,31,Segundo
+9,Nilton Santos - Rio de Janeiro - RJ,06/21/2017 21:00:00,81,Botafogo - RJ,Roger,4,Primeiro
+9,Nilton Santos - Rio de Janeiro - RJ,06/21/2017 21:00:00,81,Botafogo - RJ,Victor,48,Primeiro
+9,Nilton Santos - Rio de Janeiro - RJ,06/21/2017 21:00:00,81,Botafogo - RJ,Roger,15,Segundo
+9,Nilton Santos - Rio de Janeiro - RJ,06/21/2017 21:00:00,81,Vasco da Gama - RJ,Caio Monteiro,39,Segundo
+9,Allianz Parque - Sao Paulo - SP,06/21/2017 21:00:00,83,Palmeiras - SP,Borja,46,Primeiro
+9,Ressacada - Florianopolis - SC,06/21/2017 21:45:00,90,Fluminense - RJ,Henrique Dourado,28,Primeiro
+9,Ressacada - Florianopolis - SC,06/21/2017 21:45:00,90,Fluminense - RJ,Maicon,33,Primeiro
+9,Ressacada - Florianopolis - SC,06/21/2017 21:45:00,90,Fluminense - RJ,Mascarenhas,13,Segundo
+9,Independência - Belo Horizonte - MG,06/21/2017 21:45:00,85,Atlético - MG,Felipe,21,Primeiro
+9,Independência - Belo Horizonte - MG,06/21/2017 21:45:00,85,Atlético - MG,Fred,39,Primeiro
+9,Independência - Belo Horizonte - MG,06/21/2017 21:45:00,85,Sport - PE,Osvaldo,16,Primeiro
+9,Independência - Belo Horizonte - MG,06/21/2017 21:45:00,85,Sport - PE,Diego Souza,19,Segundo
+9,Arena da Baixada - Curitiba - PR,06/21/2017 21:45:00,86,Atlético - PR,Wanderson,4,Primeiro
+9,Moisés Lucarelli - Campinas - SP,06/22/2017 19:30:00,89,Ponte Preta - SP,Lucca,36,Primeiro
+9,Arena Corinthians - Sao Paulo - SP,06/22/2017 19:30:00,84,Corinthians - SP,Jo,24,Primeiro
+9,Arena Corinthians - Sao Paulo - SP,06/22/2017 19:30:00,84,Corinthians - SP,Balbuena,34,Segundo
+9,Arena Corinthians - Sao Paulo - SP,06/22/2017 19:30:00,84,Corinthians - SP,Marquinhos Gabriel,48,Segundo
+9,Arena do Grêmio - Porto Alegre - RS,06/22/2017 21:00:00,87,Grêmio - RS,Pedro Rocha,9,Primeiro
+9,Arena do Grêmio - Porto Alegre - RS,06/22/2017 21:00:00,87,Grêmio - RS,Fernandinho,40,Segundo
+9,Luso Brasileiro - Rio de Janeiro - RJ,06/22/2017 21:00:00,82,Flamengo - RJ,Diego,13,Primeiro
+9,Luso Brasileiro - Rio de Janeiro - RJ,06/22/2017 21:00:00,82,Flamengo - RJ,Guerrero,18,Primeiro
+9,Luso Brasileiro - Rio de Janeiro - RJ,06/22/2017 21:00:00,82,Flamengo - RJ,Guerrero,29,Segundo
+9,Luso Brasileiro - Rio de Janeiro - RJ,06/22/2017 21:00:00,82,Flamengo - RJ,Diego,33,Segundo
+9,Luso Brasileiro - Rio de Janeiro - RJ,06/22/2017 21:00:00,82,Flamengo - RJ,Guerrero,36,Segundo
+9,Luso Brasileiro - Rio de Janeiro - RJ,06/22/2017 21:00:00,82,Chapecoense - SC,Victor Ramos,10,Segundo
+10,Vila Belmiro - Santos - SP,06/24/2017 19:00:00,93,Sport - PE,Osvaldo,35,Segundo
+10,São Januário - Rio de Janeiro - RJ,06/25/2017 11:00:00,92,Vasco da Gama - RJ,Nenê,27,Primeiro
+10,Moisés Lucarelli - Campinas - SP,06/25/2017 16:00:00,99,Ponte Preta - SP,Lucca,40,Primeiro
+10,Moisés Lucarelli - Campinas - SP,06/25/2017 16:00:00,99,Palmeiras - SP,Guerra,39,Primeiro
+10,Moisés Lucarelli - Campinas - SP,06/25/2017 16:00:00,99,Palmeiras - SP,Guerra,45,Primeiro
+10,Arena do Grêmio - Porto Alegre - RS,06/25/2017 16:00:00,97,Corinthians - SP,Jadson,6,Segundo
+10,Arena da Baixada - Curitiba - PR,06/25/2017 16:00:00,96,Atlético - PR,Wanderson,42,Primeiro
+10,Arena da Baixada - Curitiba - PR,06/25/2017 16:00:00,96,Atlético - PR,Nikao,8,Segundo
+10,Arena da Baixada - Curitiba - PR,06/25/2017 16:00:00,96,Atlético - PR,Ederson,11,Segundo
+10,Arena da Baixada - Curitiba - PR,06/25/2017 16:00:00,96,Atlético - PR,Rossetto,35,Segundo
+10,Arena da Baixada - Curitiba - PR,06/25/2017 16:00:00,96,Vitória - BA,Fred,17,Primeiro
+10,Mineirão - Belo Horizonte - MG,06/25/2017 16:00:00,95,Cruzeiro - MG,Thiago Neves,38,Primeiro
+10,Mineirão - Belo Horizonte - MG,06/25/2017 16:00:00,95,Cruzeiro - MG,Rafael Sobis,19,Segundo
+10,Morumbi - Sao Paulo - SP,06/25/2017 16:00:00,94,São Paulo - SP,Jucilei,6,Primeiro
+10,Morumbi - Sao Paulo - SP,06/25/2017 16:00:00,94,Fluminense - RJ,Wendel,6,Segundo
+10,Arena Fonte Nova - Salvador - BA,06/25/2017 18:30:00,98,Flamengo - RJ,Berrio,28,Segundo
+10,Arena Condá - Chapeco - SC,06/25/2017 19:00:00,100,Atlético - MG,Marlone,11,Primeiro
+10,Nilton Santos - Rio de Janeiro - RJ,06/26/2017 20:00:00,91,Avaí - SC,Joel,5,Primeiro
+10,Nilton Santos - Rio de Janeiro - RJ,06/26/2017 20:00:00,91,Avaí - SC,Joel,16,Primeiro
+11,Pacaembu - Sao Paulo - SP,07/01/2017 16:00:00,103,Palmeiras - SP,Machado,33,Segundo
+11,Olímpico Pedro Ludovico - Goiania - GO,07/01/2017 19:00:00,109,Atlético - GO,Andrigo,12,Primeiro
+11,Olímpico Pedro Ludovico - Goiania - GO,07/01/2017 19:00:00,109,Santos - SP,Thiago Maia,24,Segundo
+11,Luso Brasileiro - Rio de Janeiro - RJ,07/02/2017 16:00:00,102,Flamengo - RJ,Guerrero,37,Primeiro
+11,Luso Brasileiro - Rio de Janeiro - RJ,07/02/2017 16:00:00,102,Flamengo - RJ,Diego,41,Primeiro
+11,Arena Corinthians - Sao Paulo - SP,07/02/2017 16:00:00,104,Corinthians - SP,Jo,34,Segundo
+11,Independência - Belo Horizonte - MG,07/02/2017 16:00:00,105,Atlético - MG,Cazares,47,Primeiro
+11,Independência - Belo Horizonte - MG,07/02/2017 16:00:00,105,Atlético - MG,Fred,50,Primeiro
+11,Independência - Belo Horizonte - MG,07/02/2017 16:00:00,105,Atlético - MG,Fred,34,Segundo
+11,Independência - Belo Horizonte - MG,07/02/2017 16:00:00,105,Cruzeiro - MG,Thiago Neves,6,Primeiro
+11,Ilha do Retiro - Recife - PE,07/02/2017 16:00:00,107,Sport - PE,Diego Souza,30,Segundo
+11,Durival Britto - Curitiba - PR,07/02/2017 19:00:00,106,Coritiba - PR,K. Giacomazzi,22,Segundo
+11,Durival Britto - Curitiba - PR,07/02/2017 19:00:00,106,Coritiba - PR,K. Giacomazzi,43,Segundo
+11,Durival Britto - Curitiba - PR,07/02/2017 19:00:00,106,Vasco da Gama - RJ,Thalles,20,Primeiro
+11,Durival Britto - Curitiba - PR,07/02/2017 19:00:00,106,Vasco da Gama - RJ,Wagner,46,Segundo
+11,Giulite Coutinho - Mesquita - RJ,07/03/2017 20:00:00,101,Fluminense - RJ,Richarlison,1,Primeiro
+11,Giulite Coutinho - Mesquita - RJ,07/03/2017 20:00:00,101,Fluminense - RJ,Pedro,24,Segundo
+11,Giulite Coutinho - Mesquita - RJ,07/03/2017 20:00:00,101,Fluminense - RJ,Marcos Jr,47,Segundo
+11,Giulite Coutinho - Mesquita - RJ,07/03/2017 20:00:00,101,Chapecoense - SC,Rossi,13,Primeiro
+11,Giulite Coutinho - Mesquita - RJ,07/03/2017 20:00:00,101,Chapecoense - SC,Arthur Caike,41,Primeiro
+11,Giulite Coutinho - Mesquita - RJ,07/03/2017 20:00:00,101,Chapecoense - SC,Arthur Caike,36,Segundo
+12,Olímpico Pedro Ludovico - Goiania - GO,07/08/2017 16:00:00,119,Atlético - GO,Andrigo,24,Segundo
+12,Olímpico Pedro Ludovico - Goiania - GO,07/08/2017 16:00:00,119,Vitória - BA,Andre Lima,36,Primeiro
+12,Olímpico Pedro Ludovico - Goiania - GO,07/08/2017 16:00:00,119,Vitória - BA,Uillian Correia,42,Segundo
+12,São Januário - Rio de Janeiro - RJ,07/08/2017 18:00:00,112,Flamengo - RJ,Everton,19,Segundo
+12,Arena Corinthians - Sao Paulo - SP,07/08/2017 19:00:00,114,Corinthians - SP,Jadson,46,Primeiro
+12,Arena Corinthians - Sao Paulo - SP,07/08/2017 19:00:00,114,Corinthians - SP,Jo,2,Segundo
+12,Arena Condá - Chapeco - SC,07/09/2017 11:00:00,120,Chapecoense - SC,Lucas Marques,16,Primeiro
+12,Arena Condá - Chapeco - SC,07/09/2017 11:00:00,120,Atlético - PR,Sidcley,1,Primeiro
+12,Mineirão - Belo Horizonte - MG,07/09/2017 16:00:00,115,Cruzeiro - MG,Thiago Neves,32,Primeiro
+12,Mineirão - Belo Horizonte - MG,07/09/2017 16:00:00,115,Cruzeiro - MG,Hudson,42,Primeiro
+12,Mineirão - Belo Horizonte - MG,07/09/2017 16:00:00,115,Cruzeiro - MG,Elber,47,Segundo
+12,Mineirão - Belo Horizonte - MG,07/09/2017 16:00:00,115,Palmeiras - SP,Willian,17,Segundo
+12,Arena do Grêmio - Porto Alegre - RS,07/09/2017 16:00:00,117,Avaí - SC,Simião,28,Segundo
+12,Arena do Grêmio - Porto Alegre - RS,07/09/2017 16:00:00,117,Avaí - SC,Junior Dutra,39,Segundo
+12,Arena Fonte Nova - Salvador - BA,07/09/2017 16:00:00,118,Bahia - BA,Joao Paulo,40,Segundo
+12,Arena Fonte Nova - Salvador - BA,07/09/2017 16:00:00,118,Fluminense - RJ,Wellington Silva,11,Primeiro
+12,Vila Belmiro - Santos - SP,07/09/2017 19:00:00,113,Santos - SP,Copete,44,Primeiro
+12,Vila Belmiro - Santos - SP,07/09/2017 19:00:00,113,Santos - SP,Copete,8,Segundo
+12,Vila Belmiro - Santos - SP,07/09/2017 19:00:00,113,Santos - SP,Copete,21,Segundo
+12,Vila Belmiro - Santos - SP,07/09/2017 19:00:00,113,São Paulo - SP,Shaylon,30,Segundo
+12,Vila Belmiro - Santos - SP,07/09/2017 19:00:00,113,São Paulo - SP,Arboleda,41,Segundo
+12,Nilton Santos - Rio de Janeiro - RJ,07/09/2017 19:00:00,111,Botafogo - RJ,Roger,48,Segundo
+12,Nilton Santos - Rio de Janeiro - RJ,07/09/2017 19:00:00,111,Atlético - MG,Marlone,22,Primeiro
+12,Couto Pereira - Curitiba - PR,07/10/2017 20:00:00,116,Sport - PE,Mena,18,Primeiro
+12,Couto Pereira - Curitiba - PR,07/10/2017 20:00:00,116,Sport - PE,Rogerio,39,Segundo
+12,Couto Pereira - Curitiba - PR,07/10/2017 20:00:00,116,Sport - PE,W. Maia,46,Segundo
+13,Moisés Lucarelli - Campinas - SP,07/12/2017 19:30:00,129,Bahia - BA,Rodrigao,3,Primeiro
+13,Moisés Lucarelli - Campinas - SP,07/12/2017 19:30:00,129,Bahia - BA,Rodrigao,9,Segundo
+13,Moisés Lucarelli - Campinas - SP,07/12/2017 19:30:00,129,Bahia - BA,Rene Junior,39,Segundo
+13,Independência - Belo Horizonte - MG,07/12/2017 19:30:00,125,Santos - SP,Daniel Guedes,49,Segundo
+13,Maracanã - Rio de Janeiro - RJ,07/12/2017 21:00:00,121,Botafogo - RJ,Roger,38,Primeiro
+13,Allianz Parque - Sao Paulo - SP,07/12/2017 21:45:00,123,Corinthians - SP,Jadson,23,Primeiro
+13,Allianz Parque - Sao Paulo - SP,07/12/2017 21:45:00,123,Corinthians - SP,Guilherme Arana,19,Segundo
+13,Manoel Barradas - Salvador - BA,07/12/2017 21:45:00,128,Vitória - BA,Kanu,24,Segundo
+13,Manoel Barradas - Salvador - BA,07/12/2017 21:45:00,128,Vasco da Gama - RJ,Kanu,13,Primeiro
+13,Manoel Barradas - Salvador - BA,07/12/2017 21:45:00,128,Vasco da Gama - RJ,Thalles,29,Segundo
+13,Manoel Barradas - Salvador - BA,07/12/2017 21:45:00,128,Vasco da Gama - RJ,Paulo Vitor,43,Segundo
+13,Manoel Barradas - Salvador - BA,07/12/2017 21:45:00,128,Vasco da Gama - RJ,Guilherme,49,Segundo
+13,Arena da Baixada - Curitiba - PR,07/12/2017 21:45:00,126,Cruzeiro - MG,Lucas Romero,27,Primeiro
+13,Arena da Baixada - Curitiba - PR,07/12/2017 21:45:00,126,Cruzeiro - MG,Rafael Marques,40,Segundo
+13,Arena Pernambuco - São Lourenço da Mata - PE,07/13/2017 19:30:00,127,Sport - PE,Andre Felipe,17,Segundo
+13,Arena Pernambuco - São Lourenço da Mata - PE,07/13/2017 19:30:00,127,Sport - PE,Diego Souza,45,Segundo
+13,Arena Pernambuco - São Lourenço da Mata - PE,07/13/2017 19:30:00,127,Sport - PE,Andre Felipe,49,Segundo
+13,Morumbi - Sao Paulo - SP,07/13/2017 19:30:00,124,São Paulo - SP,Lucas Pratto,12,Segundo
+13,Morumbi - Sao Paulo - SP,07/13/2017 19:30:00,124,São Paulo - SP,Marcinho,39,Segundo
+13,Morumbi - Sao Paulo - SP,07/13/2017 19:30:00,124,Atlético - GO,Niltinho,20,Segundo
+13,Morumbi - Sao Paulo - SP,07/13/2017 19:30:00,124,Atlético - GO,Everaldo,40,Segundo
+13,Luso Brasileiro - Rio de Janeiro - RJ,07/13/2017 19:30:00,122,Grêmio - RS,Luan,25,Primeiro
+13,Ressacada - Florianopolis - SC,07/13/2017 21:00:00,130,Avaí - SC,Marquinhos,18,Primeiro
+13,Ressacada - Florianopolis - SC,07/13/2017 21:00:00,130,Coritiba - PR,K. Giacomazzi,10,Primeiro
+13,Ressacada - Florianopolis - SC,07/13/2017 21:00:00,130,Coritiba - PR,Rildo,20,Primeiro
+13,Ressacada - Florianopolis - SC,07/13/2017 21:00:00,130,Coritiba - PR,Rildo,34,Segundo
+13,Ressacada - Florianopolis - SC,07/13/2017 21:00:00,130,Coritiba - PR,H. Almeida,48,Segundo
+14,Arena Corinthians - Sao Paulo - SP,07/15/2017 19:00:00,134,Corinthians - SP,Jo,44,Primeiro
+14,Arena Corinthians - Sao Paulo - SP,07/15/2017 19:00:00,134,Corinthians - SP,Jo,5,Segundo
+14,Arena Corinthians - Sao Paulo - SP,07/15/2017 19:00:00,134,Atlético - PR,Jonathan,37,Primeiro
+14,Arena Corinthians - Sao Paulo - SP,07/15/2017 19:00:00,134,Atlético - PR,Otavio,37,Segundo
+14,Allianz Parque - Sao Paulo - SP,07/16/2017 11:00:00,133,Palmeiras - SP,Roger Guedes,36,Primeiro
+14,Allianz Parque - Sao Paulo - SP,07/16/2017 11:00:00,133,Palmeiras - SP,Dudu,46,Primeiro
+14,Allianz Parque - Sao Paulo - SP,07/16/2017 11:00:00,133,Palmeiras - SP,Mayke,25,Segundo
+14,Allianz Parque - Sao Paulo - SP,07/16/2017 11:00:00,133,Palmeiras - SP,Dudu,31,Segundo
+14,Allianz Parque - Sao Paulo - SP,07/16/2017 11:00:00,133,Vitória - BA,Uillian Correia,9,Primeiro
+14,Allianz Parque - Sao Paulo - SP,07/16/2017 11:00:00,133,Vitória - BA,David,40,Segundo
+14,Mineirão - Belo Horizonte - MG,07/16/2017 16:00:00,135,Cruzeiro - MG,Sassa,14,Segundo
+14,Mineirão - Belo Horizonte - MG,07/16/2017 16:00:00,135,Flamengo - RJ,Everton,8,Segundo
+14,Arena do Grêmio - Porto Alegre - RS,07/16/2017 16:00:00,137,Grêmio - RS,Lucas Barrios,11,Segundo
+14,Arena do Grêmio - Porto Alegre - RS,07/16/2017 16:00:00,137,Grêmio - RS,Lucas Barrios,25,Segundo
+14,Arena do Grêmio - Porto Alegre - RS,07/16/2017 16:00:00,137,Grêmio - RS,Everton,43,Segundo
+14,Arena do Grêmio - Porto Alegre - RS,07/16/2017 16:00:00,137,Ponte Preta - SP,R. Thyere,35,Primeiro
+14,Olímpico Pedro Ludovico - Goiania - GO,07/16/2017 16:00:00,139,Atlético - GO,Igor,26,Primeiro
+14,Olímpico Pedro Ludovico - Goiania - GO,07/16/2017 16:00:00,139,Atlético - MG,Fred,12,Segundo
+14,Olímpico Pedro Ludovico - Goiania - GO,07/16/2017 16:00:00,139,Atlético - MG,Elias,28,Segundo
+14,Arena Condá - Chapeco - SC,07/16/2017 16:00:00,140,Chapecoense - SC,Tulio de Melo,17,Segundo
+14,Arena Condá - Chapeco - SC,07/16/2017 16:00:00,140,Chapecoense - SC,Lucas Marques,46,Segundo
+14,Couto Pereira - Curitiba - PR,07/16/2017 19:00:00,136,Coritiba - PR,H. Almeida,46,Primeiro
+14,Couto Pereira - Curitiba - PR,07/16/2017 19:00:00,136,Fluminense - RJ,Richarlison,31,Primeiro
+14,Couto Pereira - Curitiba - PR,07/16/2017 19:00:00,136,Fluminense - RJ,Léo,38,Primeiro
+14,Pituaçu - Salvador - BA,07/16/2017 19:00:00,138,Bahia - BA,Rene Junior,29,Segundo
+14,Pituaçu - Salvador - BA,07/16/2017 19:00:00,138,Avaí - SC,Junior Dutra,38,Segundo
+14,Nilton Santos - Rio de Janeiro - RJ,07/17/2017 20:00:00,131,Botafogo - RJ,Rodrigo,1,Primeiro
+14,Nilton Santos - Rio de Janeiro - RJ,07/17/2017 20:00:00,131,Botafogo - RJ,Guilherme Augusto,8,Segundo
+14,Nilton Santos - Rio de Janeiro - RJ,07/17/2017 20:00:00,131,Sport - PE,Rithely,8,Primeiro
+15,Manoel Barradas - Salvador - BA,07/19/2017 19:30:00,148,Vitória - BA,David,12,Segundo
+15,Manoel Barradas - Salvador - BA,07/19/2017 19:30:00,148,Grêmio - RS,Fernandinho,7,Primeiro
+15,Manoel Barradas - Salvador - BA,07/19/2017 19:30:00,148,Grêmio - RS,Arthur,43,Primeiro
+15,Manoel Barradas - Salvador - BA,07/19/2017 19:30:00,148,Grêmio - RS,Ramiro,17,Segundo
+15,Vila Belmiro - Santos - SP,07/19/2017 19:30:00,143,Santos - SP,Vecchio,15,Segundo
+15,Moisés Lucarelli - Campinas - SP,07/19/2017 21:00:00,149,Ponte Preta - SP,Léo Artur,16,Primeiro
+15,Moisés Lucarelli - Campinas - SP,07/19/2017 21:00:00,149,Ponte Preta - SP,Emerson Sheik,15,Segundo
+15,Moisés Lucarelli - Campinas - SP,07/19/2017 21:00:00,149,Ponte Preta - SP,Lucca,38,Segundo
+15,Moisés Lucarelli - Campinas - SP,07/19/2017 21:00:00,149,Ponte Preta - SP,Emerson Sheik,42,Segundo
+15,Luso Brasileiro - Rio de Janeiro - RJ,07/19/2017 21:45:00,142,Flamengo - RJ,Para,7,Primeiro
+15,Luso Brasileiro - Rio de Janeiro - RJ,07/19/2017 21:45:00,142,Flamengo - RJ,Guerrero,44,Primeiro
+15,Luso Brasileiro - Rio de Janeiro - RJ,07/19/2017 21:45:00,142,Palmeiras - SP,Willian,32,Primeiro
+15,Luso Brasileiro - Rio de Janeiro - RJ,07/19/2017 21:45:00,142,Palmeiras - SP,Roger Guedes,42,Primeiro
+15,Independência - Belo Horizonte - MG,07/19/2017 21:45:00,145,Bahia - BA,Juninho,10,Primeiro
+15,Independência - Belo Horizonte - MG,07/19/2017 21:45:00,145,Bahia - BA,Juninho,42,Segundo
+15,Morumbi - Sao Paulo - SP,07/19/2017 21:45:00,144,São Paulo - SP,Lucas Pratto,1,Primeiro
+15,Giulite Coutinho - Mesquita - RJ,07/20/2017 19:30:00,141,Fluminense - RJ,Richarlison,41,Primeiro
+15,Giulite Coutinho - Mesquita - RJ,07/20/2017 19:30:00,141,Cruzeiro - MG,Sassa,35,Primeiro
+15,Ilha do Retiro - Recife - PE,07/20/2017 20:00:00,147,Sport - PE,Patrick,6,Primeiro
+15,Ilha do Retiro - Recife - PE,07/20/2017 20:00:00,147,Sport - PE,Diego Souza,18,Primeiro
+15,Ilha do Retiro - Recife - PE,07/20/2017 20:00:00,147,Sport - PE,Andre Felipe,41,Primeiro
+15,Ilha do Retiro - Recife - PE,07/20/2017 20:00:00,147,Sport - PE,Andre Felipe,35,Segundo
+16,Manoel Barradas - Salvador - BA,07/22/2017 16:00:00,151,Vitória - BA,Neilton,16,Segundo
+16,Manoel Barradas - Salvador - BA,07/22/2017 16:00:00,151,Chapecoense - SC,Reinaldo,27,Primeiro
+16,Manoel Barradas - Salvador - BA,07/22/2017 16:00:00,151,Chapecoense - SC,Lourency,18,Segundo
+16,Luso Brasileiro - Rio de Janeiro - RJ,07/22/2017 19:00:00,153,Flamengo - RJ,Berrio,6,Primeiro
+16,Luso Brasileiro - Rio de Janeiro - RJ,07/22/2017 19:00:00,153,Flamengo - RJ,Everton Ribeiro,46,Segundo
+16,Luso Brasileiro - Rio de Janeiro - RJ,07/22/2017 19:00:00,153,Coritiba - PR,H. Almeida,1,Segundo
+16,Pacaembu - Sao Paulo - SP,07/23/2017 11:00:00,152,Santos - SP,Bruno Henrique,29,Primeiro
+16,Pacaembu - Sao Paulo - SP,07/23/2017 11:00:00,152,Santos - SP,Bruno Henrique,46,Primeiro
+16,Pacaembu - Sao Paulo - SP,07/23/2017 11:00:00,152,Santos - SP,Bruno Henrique,31,Segundo
+16,Ressacada - Florianopolis - SC,07/23/2017 16:00:00,158,Avaí - SC,Junior Dutra,21,Primeiro
+16,Maracanã - Rio de Janeiro - RJ,07/23/2017 16:00:00,155,Corinthians - SP,Balbuena,4,Segundo
+16,Arena Pernambuco - São Lourenço da Mata - PE,07/23/2017 16:00:00,156,Palmeiras - SP,Bruno,34,Primeiro
+16,Arena Pernambuco - São Lourenço da Mata - PE,07/23/2017 16:00:00,156,Palmeiras - SP,Keno,48,Primeiro
+16,Independência - Belo Horizonte - MG,07/23/2017 19:00:00,159,Atlético - MG,Yago Henrique Severino dos Santos,17,Primeiro
+16,Independência - Belo Horizonte - MG,07/23/2017 19:00:00,159,Vasco da Gama - RJ,Paulinho,13,Primeiro
+16,Independência - Belo Horizonte - MG,07/23/2017 19:00:00,159,Vasco da Gama - RJ,Paulinho,22,Segundo
+16,Arena da Baixada - Curitiba - PR,07/23/2017 19:00:00,154,Ponte Preta - SP,Lucca,6,Segundo
+16,Arena da Baixada - Curitiba - PR,07/23/2017 19:00:00,154,Ponte Preta - SP,Lucca,48,Segundo
+16,Olímpico Pedro Ludovico - Goiania - GO,07/23/2017 19:00:00,157,Atlético - GO,Paulinho,30,Segundo
+16,Olímpico Pedro Ludovico - Goiania - GO,07/23/2017 19:00:00,157,Botafogo - RJ,Vinicius,23,Segundo
+16,Morumbi - Sao Paulo - SP,07/24/2017 20:00:00,160,São Paulo - SP,Lucas,18,Segundo
+16,Morumbi - Sao Paulo - SP,07/24/2017 20:00:00,160,Grêmio - RS,Pedro Rocha,19,Primeiro
+17,Nilton Santos - Rio de Janeiro - RJ,07/29/2017 16:00:00,161,Botafogo - RJ,Marcos Vinicius,19,Primeiro
+17,Nilton Santos - Rio de Janeiro - RJ,07/29/2017 16:00:00,161,Botafogo - RJ,Marcos Vinicius,25,Primeiro
+17,Nilton Santos - Rio de Janeiro - RJ,07/29/2017 16:00:00,161,Botafogo - RJ,Guilherme Augusto,23,Segundo
+17,Nilton Santos - Rio de Janeiro - RJ,07/29/2017 16:00:00,161,São Paulo - SP,Cueva,17,Primeiro
+17,Nilton Santos - Rio de Janeiro - RJ,07/29/2017 16:00:00,161,São Paulo - SP,Marcos Guilherme,38,Segundo
+17,Nilton Santos - Rio de Janeiro - RJ,07/29/2017 16:00:00,161,São Paulo - SP,Hernanes,41,Segundo
+17,Nilton Santos - Rio de Janeiro - RJ,07/29/2017 16:00:00,161,São Paulo - SP,Marcos Guilherme,46,Segundo
+17,Allianz Parque - Sao Paulo - SP,07/29/2017 19:00:00,162,Palmeiras - SP,Dudu,11,Primeiro
+17,Allianz Parque - Sao Paulo - SP,07/29/2017 19:00:00,162,Palmeiras - SP,Deyverson,36,Primeiro
+17,Arena Condá - Chapeco - SC,07/30/2017 11:00:00,164,Chapecoense - SC,Luiz,40,Primeiro
+17,Arena Condá - Chapeco - SC,07/30/2017 11:00:00,164,Atlético - GO,Diego Rosa,22,Segundo
+17,Arena Condá - Chapeco - SC,07/30/2017 11:00:00,164,Atlético - GO,Gilvan,38,Segundo
+17,Couto Pereira - Curitiba - PR,07/30/2017 16:00:00,166,Atlético - MG,Fabio Santos,7,Primeiro
+17,Couto Pereira - Curitiba - PR,07/30/2017 16:00:00,166,Atlético - MG,Rafael Moura,27,Segundo
+17,Arena Fonte Nova - Salvador - BA,07/30/2017 16:00:00,167,Bahia - BA,Rodrigao,13,Segundo
+17,Arena Fonte Nova - Salvador - BA,07/30/2017 16:00:00,167,Sport - PE,Everton Felipe,18,Primeiro
+17,Arena Fonte Nova - Salvador - BA,07/30/2017 16:00:00,167,Sport - PE,Ronaldo,20,Segundo
+17,Arena Fonte Nova - Salvador - BA,07/30/2017 16:00:00,167,Sport - PE,R. Lenis,46,Segundo
+17,Arena Corinthians - Sao Paulo - SP,07/30/2017 16:00:00,165,Corinthians - SP,Jo,22,Primeiro
+17,Arena Corinthians - Sao Paulo - SP,07/30/2017 16:00:00,165,Flamengo - RJ,Rever,26,Segundo
+17,Arena do Grêmio - Porto Alegre - RS,07/30/2017 19:00:00,169,Grêmio - RS,Fernandinho,47,Primeiro
+17,Arena do Grêmio - Porto Alegre - RS,07/30/2017 19:00:00,169,Santos - SP,David Braz,44,Primeiro
+17,Raulino de Oliveira - Volta Redonda - RJ,07/31/2017 20:00:00,170,Atlético - PR,Lucas Ribamar,15,Segundo
+18,Ilha do Retiro - Recife - PE,08/02/2017 19:30:00,171,Sport - PE,Andre Felipe,32,Primeiro
+18,Ilha do Retiro - Recife - PE,08/02/2017 19:30:00,171,Sport - PE,Patrick,3,Segundo
+18,Ilha do Retiro - Recife - PE,08/02/2017 19:30:00,171,Fluminense - RJ,Gustavo Scarpa,8,Primeiro
+18,Ilha do Retiro - Recife - PE,08/02/2017 19:30:00,171,Fluminense - RJ,Renato Chaves,13,Primeiro
+18,Arena Condá - Chapeco - SC,08/02/2017 19:30:00,172,Chapecoense - SC,Tulio de Melo,19,Primeiro
+18,Arena Condá - Chapeco - SC,08/02/2017 19:30:00,172,Bahia - BA,Rodrigao,38,Primeiro
+18,Mineirão - Belo Horizonte - MG,08/02/2017 21:00:00,173,Corinthians - SP,Jo,31,Primeiro
+18,Mineirão - Belo Horizonte - MG,08/02/2017 21:00:00,173,Corinthians - SP,Rodriguinho,37,Segundo
+18,Manoel Barradas - Salvador - BA,08/02/2017 21:00:00,174,Vitória - BA,Santiago,2,Primeiro
+18,Manoel Barradas - Salvador - BA,08/02/2017 21:00:00,174,Vitória - BA,Neilton,12,Primeiro
+18,Manoel Barradas - Salvador - BA,08/02/2017 21:00:00,174,Vitória - BA,Santiago,36,Primeiro
+18,Manoel Barradas - Salvador - BA,08/02/2017 21:00:00,174,Ponte Preta - SP,Elton,3,Segundo
+18,Nilton Santos - Rio de Janeiro - RJ,08/02/2017 21:45:00,175,Botafogo - RJ,Pimpao,9,Segundo
+18,Nilton Santos - Rio de Janeiro - RJ,08/02/2017 21:45:00,175,Palmeiras - SP,Igor,45,Primeiro
+18,Nilton Santos - Rio de Janeiro - RJ,08/02/2017 21:45:00,175,Palmeiras - SP,Deyverson,41,Segundo
+18,Pacaembu - Sao Paulo - SP,08/02/2017 21:45:00,176,Santos - SP,Bruno Henrique,8,Segundo
+18,Pacaembu - Sao Paulo - SP,08/02/2017 21:45:00,176,Santos - SP,Alison,39,Segundo
+18,Pacaembu - Sao Paulo - SP,08/02/2017 21:45:00,176,Santos - SP,Ricardo Oliveira,42,Segundo
+18,Pacaembu - Sao Paulo - SP,08/02/2017 21:45:00,176,Flamengo - RJ,Everton Ribeiro,11,Segundo
+18,Pacaembu - Sao Paulo - SP,08/02/2017 21:45:00,176,Flamengo - RJ,Felipe Vizeu,21,Segundo
+18,Olímpico Pedro Ludovico - Goiania - GO,08/02/2017 21:45:00,177,Grêmio - RS,Michel,37,Segundo
+18,Arena da Baixada - Curitiba - PR,08/03/2017 19:30:00,179,Atlético - PR,Guilherme,34,Primeiro
+18,Arena da Baixada - Curitiba - PR,08/03/2017 19:30:00,179,Atlético - PR,Guilherme,10,Segundo
+18,Arena da Baixada - Curitiba - PR,08/03/2017 19:30:00,179,Atlético - PR,Edson,12,Segundo
+18,Arena da Baixada - Curitiba - PR,08/03/2017 19:30:00,179,Atlético - PR,Eduardo,25,Segundo
+18,Arena da Baixada - Curitiba - PR,08/03/2017 19:30:00,179,Atlético - PR,Eduardo,33,Segundo
+18,Morumbi - Sao Paulo - SP,08/03/2017 19:30:00,178,São Paulo - SP,Denilson,43,Segundo
+18,Morumbi - Sao Paulo - SP,08/03/2017 19:30:00,178,Coritiba - PR,Carleto,12,Segundo
+18,Morumbi - Sao Paulo - SP,08/03/2017 19:30:00,178,Coritiba - PR,Filigrana,22,Segundo
+18,Raulino de Oliveira - Volta Redonda - RJ,08/03/2017 20:00:00,180,Cruzeiro - MG,Thiago Neves,2,Primeiro
+18,Raulino de Oliveira - Volta Redonda - RJ,08/03/2017 20:00:00,180,Cruzeiro - MG,Sassa,16,Primeiro
+18,Raulino de Oliveira - Volta Redonda - RJ,08/03/2017 20:00:00,180,Cruzeiro - MG,Robinho,43,Segundo
+19,Arena Corinthians - Sao Paulo - SP,08/05/2017 19:00:00,181,Corinthians - SP,Guilherme Arana,9,Primeiro
+19,Arena Corinthians - Sao Paulo - SP,08/05/2017 19:00:00,181,Corinthians - SP,Rodriguinho,1,Segundo
+19,Arena Corinthians - Sao Paulo - SP,08/05/2017 19:00:00,181,Corinthians - SP,Pedro Henrique,21,Segundo
+19,Arena Corinthians - Sao Paulo - SP,08/05/2017 19:00:00,181,Sport - PE,Thallyson,37,Segundo
+19,Maracanã - Rio de Janeiro - RJ,08/05/2017 19:00:00,190,Fluminense - RJ,Wendel,14,Primeiro
+19,Maracanã - Rio de Janeiro - RJ,08/05/2017 19:00:00,190,Fluminense - RJ,Wellington Silva,33,Primeiro
+19,Maracanã - Rio de Janeiro - RJ,08/05/2017 19:00:00,190,Fluminense - RJ,Henrique Dourado,12,Segundo
+19,Maracanã - Rio de Janeiro - RJ,08/05/2017 19:00:00,190,Atlético - GO,Paulinho,23,Primeiro
+19,Luso Brasileiro - Rio de Janeiro - RJ,08/06/2017 11:00:00,182,Vitória - BA,Yago Felipe,44,Primeiro
+19,Luso Brasileiro - Rio de Janeiro - RJ,08/06/2017 11:00:00,182,Vitória - BA,Neilton,20,Segundo
+19,Allianz Parque - Sao Paulo - SP,08/06/2017 16:00:00,183,Atlético - PR,Thiago Heleno,17,Primeiro
+19,Couto Pereira - Curitiba - PR,08/06/2017 16:00:00,185,Coritiba - PR,Alecsandro,22,Primeiro
+19,Couto Pereira - Curitiba - PR,08/06/2017 16:00:00,185,Coritiba - PR,Rildo,43,Primeiro
+19,Arena do Grêmio - Porto Alegre - RS,08/06/2017 16:00:00,186,Grêmio - RS,Pedro Rocha,5,Primeiro
+19,Arena do Grêmio - Porto Alegre - RS,08/06/2017 16:00:00,186,Grêmio - RS,Fernandinho,27,Primeiro
+19,Arena Fonte Nova - Salvador - BA,08/06/2017 16:00:00,187,Bahia - BA,Regis,40,Primeiro
+19,Arena Fonte Nova - Salvador - BA,08/06/2017 16:00:00,187,Bahia - BA,Mendoza,43,Primeiro
+19,Arena Fonte Nova - Salvador - BA,08/06/2017 16:00:00,187,São Paulo - SP,Hernanes,46,Primeiro
+20,Olímpico Pedro Ludovico - Goiania - GO,08/12/2017 16:00:00,191,Atlético - GO,Jorginho,17,Segundo
+20,Manoel Barradas - Salvador - BA,08/12/2017 19:00:00,192,Avaí - SC,Junior Dutra,28,Segundo
+20,Morumbi - Sao Paulo - SP,08/13/2017 11:00:00,193,São Paulo - SP,Hernanes,46,Primeiro
+20,Morumbi - Sao Paulo - SP,08/13/2017 11:00:00,193,São Paulo - SP,Hernanes,2,Segundo
+20,Morumbi - Sao Paulo - SP,08/13/2017 11:00:00,193,São Paulo - SP,Arboleda,26,Segundo
+20,Morumbi - Sao Paulo - SP,08/13/2017 11:00:00,193,Cruzeiro - MG,Sassa,6,Segundo
+20,Morumbi - Sao Paulo - SP,08/13/2017 11:00:00,193,Cruzeiro - MG,Sassa,12,Segundo
+20,Raulino de Oliveira - Volta Redonda - RJ,08/13/2017 16:00:00,194,Vasco da Gama - RJ,Manga,42,Segundo
+20,Raulino de Oliveira - Volta Redonda - RJ,08/13/2017 16:00:00,194,Palmeiras - SP,Guerra,32,Segundo
+20,Independência - Belo Horizonte - MG,08/13/2017 16:00:00,196,Atlético - MG,Fabio Santos,15,Primeiro
+20,Independência - Belo Horizonte - MG,08/13/2017 16:00:00,196,Atlético - MG,Rafael Moura,8,Segundo
+20,Arena da Baixada - Curitiba - PR,08/13/2017 19:00:00,197,Atlético - PR,Nikao,25,Primeiro
+20,Arena da Baixada - Curitiba - PR,08/13/2017 19:00:00,197,Atlético - PR,Thiago Heleno,7,Segundo
+20,Arena da Baixada - Curitiba - PR,08/13/2017 19:00:00,197,Atlético - PR,Eder,14,Segundo
+20,Arena da Baixada - Curitiba - PR,08/13/2017 19:00:00,197,Atlético - PR,Sidcley,41,Segundo
+20,Arena da Baixada - Curitiba - PR,08/13/2017 19:00:00,197,Bahia - BA,Mendoza,20,Primeiro
+20,Nilton Santos - Rio de Janeiro - RJ,08/13/2017 19:00:00,198,Botafogo - RJ,Leandro,6,Primeiro
+20,Arena Condá - Chapeco - SC,08/23/2017 19:30:00,200,Corinthians - SP,Jo,44,Segundo
+21,Arena Corinthians - Sao Paulo - SP,08/19/2017 16:00:00,201,Vitória - BA,Santiago,11,Primeiro
+21,Luso Brasileiro - Rio de Janeiro - RJ,08/19/2017 19:00:00,202,Flamengo - RJ,Vinicius Jr.,10,Segundo
+21,Luso Brasileiro - Rio de Janeiro - RJ,08/19/2017 19:00:00,202,Flamengo - RJ,Vinicius Jr.,29,Segundo
+21,Moisés Lucarelli - Campinas - SP,08/20/2017 16:00:00,203,Ponte Preta - SP,Emerson Sheik,13,Primeiro
+21,Moisés Lucarelli - Campinas - SP,08/20/2017 16:00:00,203,Ponte Preta - SP,Emerson Sheik,43,Segundo
+21,Moisés Lucarelli - Campinas - SP,08/20/2017 16:00:00,203,Botafogo - RJ,Brenner,20,Primeiro
+21,Mineirão - Belo Horizonte - MG,08/20/2017 16:00:00,204,Cruzeiro - MG,Sassa,34,Primeiro
+21,Mineirão - Belo Horizonte - MG,08/20/2017 16:00:00,204,Cruzeiro - MG,Raniel,36,Segundo
+21,Arena Fonte Nova - Salvador - BA,08/20/2017 16:00:00,205,Bahia - BA,Tiago,23,Primeiro
+21,Arena Fonte Nova - Salvador - BA,08/20/2017 16:00:00,205,Bahia - BA,Mendoza,48,Primeiro
+21,Arena Fonte Nova - Salvador - BA,08/20/2017 16:00:00,205,Bahia - BA,Mendoza,1,Segundo
+21,Ressacada - Florianopolis - SC,08/20/2017 16:00:00,206,Avaí - SC,Junior Dutra,24,Segundo
+21,Ressacada - Florianopolis - SC,08/20/2017 16:00:00,206,São Paulo - SP,Hernanes,34,Segundo
+21,Allianz Parque - Sao Paulo - SP,08/20/2017 19:00:00,208,Chapecoense - SC,Fabricio Bruno,39,Primeiro
+21,Allianz Parque - Sao Paulo - SP,08/20/2017 19:00:00,208,Chapecoense - SC,Tulio de Melo,49,Segundo
+21,Maracanã - Rio de Janeiro - RJ,08/21/2017 20:00:00,210,Fluminense - RJ,Henrique Dourado,37,Primeiro
+21,Maracanã - Rio de Janeiro - RJ,08/21/2017 20:00:00,210,Fluminense - RJ,Henrique Dourado,42,Segundo
+21,Maracanã - Rio de Janeiro - RJ,08/21/2017 20:00:00,210,Atlético - MG,Valdivia,11,Segundo
+22,Maracanã - Rio de Janeiro - RJ,08/26/2017 16:00:00,211,Vasco da Gama - RJ,Ramon,31,Primeiro
+22,Arena Corinthians - Sao Paulo - SP,08/26/2017 19:00:00,212,Atlético - GO,Gilvan,1,Segundo
+22,Luso Brasileiro - Rio de Janeiro - RJ,08/27/2017 16:00:00,215,Flamengo - RJ,Diego,17,Primeiro
+22,Luso Brasileiro - Rio de Janeiro - RJ,08/27/2017 16:00:00,215,Flamengo - RJ,Willian Arão,31,Primeiro
+22,Allianz Parque - Sao Paulo - SP,08/27/2017 16:00:00,216,Palmeiras - SP,Willian,35,Primeiro
+22,Allianz Parque - Sao Paulo - SP,08/27/2017 16:00:00,216,Palmeiras - SP,Willian,39,Primeiro
+22,Allianz Parque - Sao Paulo - SP,08/27/2017 16:00:00,216,Palmeiras - SP,Keno,33,Segundo
+22,Allianz Parque - Sao Paulo - SP,08/27/2017 16:00:00,216,Palmeiras - SP,Hyoran,46,Segundo
+22,Allianz Parque - Sao Paulo - SP,08/27/2017 16:00:00,216,São Paulo - SP,Marcos Guilherme,12,Primeiro
+22,Allianz Parque - Sao Paulo - SP,08/27/2017 16:00:00,216,São Paulo - SP,Hernanes,51,Primeiro
+22,Arena Fonte Nova - Salvador - BA,08/27/2017 16:00:00,217,Bahia - BA,Rene Junior,16,Primeiro
+22,Arena Fonte Nova - Salvador - BA,08/27/2017 16:00:00,217,Botafogo - RJ,Roger,12,Primeiro
+22,Arena Fonte Nova - Salvador - BA,08/27/2017 16:00:00,217,Botafogo - RJ,Bruno Silva,46,Segundo
+22,Moisés Lucarelli - Campinas - SP,08/27/2017 16:00:00,218,Ponte Preta - SP,Leo Gamalho,44,Primeiro
+22,Moisés Lucarelli - Campinas - SP,08/27/2017 16:00:00,218,Atlético - MG,Elias,15,Segundo
+22,Moisés Lucarelli - Campinas - SP,08/27/2017 16:00:00,218,Atlético - MG,Otero,43,Segundo
+22,Mineirão - Belo Horizonte - MG,08/27/2017 19:00:00,219,Cruzeiro - MG,Rafinha,10,Segundo
+22,Mineirão - Belo Horizonte - MG,08/27/2017 19:00:00,219,Santos - SP,Bruno Henrique,21,Primeiro
+22,Ressacada - Florianopolis - SC,08/27/2017 19:00:00,214,Avaí - SC,Joel,31,Primeiro
+22,Couto Pereira - Curitiba - PR,08/28/2017 20:00:00,220,Vitória - BA,Kanu,23,Segundo
+22,Arena do Grêmio - Porto Alegre - RS,09/02/2017 16:00:00,213,Grêmio - RS,Edilson,20,Primeiro
+22,Arena do Grêmio - Porto Alegre - RS,09/02/2017 16:00:00,213,Grêmio - RS,Everton,34,Primeiro
+22,Arena do Grêmio - Porto Alegre - RS,09/02/2017 16:00:00,213,Grêmio - RS,Fernandinho,22,Segundo
+22,Arena do Grêmio - Porto Alegre - RS,09/02/2017 16:00:00,213,Grêmio - RS,Fernandinho,24,Segundo
+22,Arena do Grêmio - Porto Alegre - RS,09/02/2017 16:00:00,213,Grêmio - RS,Dionatha,38,Segundo
+23,Independência - Belo Horizonte - MG,09/09/2017 16:00:00,221,Atlético - MG,Fabio Santos,43,Primeiro
+23,Independência - Belo Horizonte - MG,09/09/2017 16:00:00,221,Palmeiras - SP,Deyverson,33,Primeiro
+23,São Januário - Rio de Janeiro - RJ,09/09/2017 18:00:00,224,Vasco da Gama - RJ,Mateus,42,Primeiro
+23,Morumbi - Sao Paulo - SP,09/09/2017 19:00:00,222,São Paulo - SP,Hernanes,34,Primeiro
+23,Morumbi - Sao Paulo - SP,09/09/2017 19:00:00,222,São Paulo - SP,Bruno Alves,12,Segundo
+23,Morumbi - Sao Paulo - SP,09/09/2017 19:00:00,222,Ponte Preta - SP,Danilo Barcelos,19,Segundo
+23,Morumbi - Sao Paulo - SP,09/09/2017 19:00:00,222,Ponte Preta - SP,Leo Gamalho,30,Segundo
+23,Arena da Baixada - Curitiba - PR,09/10/2017 11:00:00,223,Atlético - PR,Gedoz,41,Segundo
+23,Arena da Baixada - Curitiba - PR,09/10/2017 11:00:00,223,Coritiba - PR,Werley,44,Primeiro
+23,Vila Belmiro - Santos - SP,09/10/2017 16:00:00,225,Santos - SP,Lucas Lima,12,Segundo
+23,Vila Belmiro - Santos - SP,09/10/2017 16:00:00,225,Santos - SP,Ricardo Oliveira,47,Segundo
+23,Ilha do Retiro - Recife - PE,09/10/2017 16:00:00,226,Avaí - SC,Junior Dutra,26,Primeiro
+23,Manoel Barradas - Salvador - BA,09/10/2017 16:00:00,227,Vitória - BA,Neilton,45,Primeiro
+23,Manoel Barradas - Salvador - BA,09/10/2017 16:00:00,227,Vitória - BA,Kanu,48,Segundo
+23,Manoel Barradas - Salvador - BA,09/10/2017 16:00:00,227,Fluminense - RJ,Wendel,2,Segundo
+23,Manoel Barradas - Salvador - BA,09/10/2017 16:00:00,227,Fluminense - RJ,Henrique Dourado,44,Segundo
+23,Nilton Santos - Rio de Janeiro - RJ,09/10/2017 19:00:00,228,Botafogo - RJ,Roger,10,Segundo
+23,Nilton Santos - Rio de Janeiro - RJ,09/10/2017 19:00:00,228,Botafogo - RJ,Roger,23,Segundo
+23,Arena Condá - Chapeco - SC,09/10/2017 19:00:00,229,Chapecoense - SC,Tulio de Melo,38,Segundo
+23,Arena Condá - Chapeco - SC,09/10/2017 19:00:00,229,Cruzeiro - MG,Rafinha,45,Primeiro
+23,Arena Condá - Chapeco - SC,09/10/2017 19:00:00,229,Cruzeiro - MG,Raniel,18,Segundo
+23,Olímpico Pedro Ludovico - Goiania - GO,09/11/2017 20:00:00,230,Atlético - GO,Luiz Fernando,32,Primeiro
+23,Olímpico Pedro Ludovico - Goiania - GO,09/11/2017 20:00:00,230,Bahia - BA,Ze Rafael,9,Segundo
+24,Nilton Santos - Rio de Janeiro - RJ,09/16/2017 19:00:00,232,Botafogo - RJ,Rodrigo,41,Primeiro
+24,Nilton Santos - Rio de Janeiro - RJ,09/16/2017 19:00:00,232,Botafogo - RJ,Guilherme Augusto,44,Primeiro
+24,Moisés Lucarelli - Campinas - SP,09/16/2017 21:00:00,231,Ponte Preta - SP,Willian,1,Segundo
+24,Moisés Lucarelli - Campinas - SP,09/16/2017 21:00:00,231,Atlético - GO,Luiz Fernando,41,Primeiro
+24,Moisés Lucarelli - Campinas - SP,09/16/2017 21:00:00,231,Atlético - GO,Walter,23,Segundo
+24,Moisés Lucarelli - Campinas - SP,09/16/2017 21:00:00,231,Atlético - GO,Ronaldo,47,Segundo
+24,Ressacada - Florianopolis - SC,09/17/2017 11:00:00,238,Avaí - SC,Simião,45,Primeiro
+24,Ressacada - Florianopolis - SC,09/17/2017 11:00:00,238,Atlético - MG,Otero,37,Segundo
+24,Arena do Grêmio - Porto Alegre - RS,09/17/2017 16:00:00,234,Chapecoense - SC,Arthur Caike,1,Segundo
+24,Luso Brasileiro - Rio de Janeiro - RJ,09/17/2017 16:00:00,235,Flamengo - RJ,Guerrero,9,Primeiro
+24,Luso Brasileiro - Rio de Janeiro - RJ,09/17/2017 16:00:00,235,Flamengo - RJ,Everton Ribeiro,48,Segundo
+24,Arena Corinthians - Sao Paulo - SP,09/17/2017 16:00:00,236,Corinthians - SP,Jo,28,Segundo
+24,Manoel Barradas - Salvador - BA,09/17/2017 16:00:00,237,Vitória - BA,Santiago,44,Segundo
+24,Manoel Barradas - Salvador - BA,09/17/2017 16:00:00,237,São Paulo - SP,Éder Militão,7,Segundo
+24,Manoel Barradas - Salvador - BA,09/17/2017 16:00:00,237,São Paulo - SP,Cueva,36,Segundo
+24,Arena da Baixada - Curitiba - PR,09/17/2017 16:00:00,239,Atlético - PR,Gedoz,11,Segundo
+24,Arena da Baixada - Curitiba - PR,09/17/2017 16:00:00,239,Atlético - PR,Lucas Ribamar,34,Segundo
+24,Arena da Baixada - Curitiba - PR,09/17/2017 16:00:00,239,Atlético - PR,Jonathan,45,Segundo
+24,Arena da Baixada - Curitiba - PR,09/17/2017 16:00:00,239,Fluminense - RJ,Henrique Dourado,46,Primeiro
+24,Mineirão - Belo Horizonte - MG,09/17/2017 19:00:00,240,Cruzeiro - MG,Leo,17,Segundo
+24,Pacaembu - Sao Paulo - SP,09/18/2017 20:00:00,233,Palmeiras - SP,Jean,39,Primeiro
+25,Luso Brasileiro - Rio de Janeiro - RJ,09/23/2017 19:00:00,241,Flamengo - RJ,Rodinei,35,Segundo
+25,Luso Brasileiro - Rio de Janeiro - RJ,09/23/2017 19:00:00,241,Avaí - SC,Pedro Castro,17,Primeiro
+25,Vila Belmiro - Santos - SP,09/23/2017 21:00:00,242,Santos - SP,Bruno Henrique,35,Primeiro
+25,Morumbi - Sao Paulo - SP,09/24/2017 11:00:00,243,São Paulo - SP,Petros,27,Primeiro
+25,Morumbi - Sao Paulo - SP,09/24/2017 11:00:00,243,Corinthians - SP,Clayson,33,Segundo
+25,Arena Condá - Chapeco - SC,09/24/2017 16:00:00,247,Chapecoense - SC,Lucas Marques,42,Primeiro
+25,Olímpico Pedro Ludovico - Goiania - GO,09/24/2017 16:00:00,246,Atlético - GO,Luiz Fernando,2,Segundo
+25,Olímpico Pedro Ludovico - Goiania - GO,09/24/2017 16:00:00,246,Cruzeiro - MG,De Arrascaeta,4,Primeiro
+25,Olímpico Pedro Ludovico - Goiania - GO,09/24/2017 16:00:00,246,Cruzeiro - MG,Rafael Sobis,22,Primeiro
+25,Couto Pereira - Curitiba - PR,09/24/2017 16:00:00,245,Coritiba - PR,Werley,36,Primeiro
+25,Couto Pereira - Curitiba - PR,09/24/2017 16:00:00,245,Coritiba - PR,Carleto,37,Segundo
+25,Couto Pereira - Curitiba - PR,09/24/2017 16:00:00,245,Botafogo - RJ,Roger,11,Segundo
+25,Couto Pereira - Curitiba - PR,09/24/2017 16:00:00,245,Botafogo - RJ,Guilherme Augusto,19,Segundo
+25,Couto Pereira - Curitiba - PR,09/24/2017 16:00:00,245,Botafogo - RJ,Joao Paulo,39,Segundo
+25,Maracanã - Rio de Janeiro - RJ,09/24/2017 16:00:00,244,Palmeiras - SP,Egidio,42,Primeiro
+25,Independência - Belo Horizonte - MG,09/24/2017 19:00:00,248,Atlético - MG,Cazares,17,Primeiro
+25,Independência - Belo Horizonte - MG,09/24/2017 19:00:00,248,Vitória - BA,Neilton,2,Primeiro
+25,Independência - Belo Horizonte - MG,09/24/2017 19:00:00,248,Vitória - BA,Yago Felipe,24,Segundo
+25,Independência - Belo Horizonte - MG,09/24/2017 19:00:00,248,Vitória - BA,Santiago,47,Segundo
+25,Arena Fonte Nova - Salvador - BA,09/24/2017 19:00:00,249,Bahia - BA,Rodrigao,48,Segundo
+25,Ilha do Retiro - Recife - PE,09/25/2017 20:00:00,250,Sport - PE,Andre Felipe,39,Segundo
+25,Ilha do Retiro - Recife - PE,09/25/2017 20:00:00,250,Vasco da Gama - RJ,Nenê,38,Primeiro
+26,São Januário - Rio de Janeiro - RJ,09/30/2017 16:00:00,251,Vasco da Gama - RJ,Andy,24,Primeiro
+26,São Januário - Rio de Janeiro - RJ,09/30/2017 16:00:00,251,Chapecoense - SC,Reinaldo,19,Segundo
+26,Arena Fonte Nova - Salvador - BA,09/30/2017 16:00:00,252,Bahia - BA,Ze Rafael,45,Primeiro
+26,Arena Fonte Nova - Salvador - BA,09/30/2017 16:00:00,252,Coritiba - PR,Rildo,18,Segundo
+26,Allianz Parque - Sao Paulo - SP,09/30/2017 19:00:00,253,Santos - SP,Ricardo Oliveira,30,Segundo
+26,Nilton Santos - Rio de Janeiro - RJ,10/01/2017 16:00:00,254,Botafogo - RJ,Brenner,25,Primeiro
+26,Nilton Santos - Rio de Janeiro - RJ,10/01/2017 16:00:00,254,Botafogo - RJ,Brenner,15,Segundo
+26,Nilton Santos - Rio de Janeiro - RJ,10/01/2017 16:00:00,254,Vitória - BA,David,14,Primeiro
+26,Nilton Santos - Rio de Janeiro - RJ,10/01/2017 16:00:00,254,Vitória - BA,Andre Lima,44,Segundo
+26,Nilton Santos - Rio de Janeiro - RJ,10/01/2017 16:00:00,254,Vitória - BA,Danilinho,49,Segundo
+26,Morumbi - Sao Paulo - SP,10/01/2017 16:00:00,255,São Paulo - SP,Marcos Guilherme,36,Primeiro
+26,Mineirão - Belo Horizonte - MG,10/01/2017 16:00:00,256,Cruzeiro - MG,Rafinha,20,Primeiro
+26,Mineirão - Belo Horizonte - MG,10/01/2017 16:00:00,256,Corinthians - SP,Clayson,39,Segundo
+26,Ressacada - Florianopolis - SC,10/01/2017 16:00:00,257,Atlético - GO,Luiz Fernando,13,Segundo
+26,Ressacada - Florianopolis - SC,10/01/2017 16:00:00,257,Atlético - GO,Walter,19,Segundo
+26,Arena do Grêmio - Porto Alegre - RS,10/01/2017 16:00:00,258,Grêmio - RS,Beto da Silva,41,Segundo
+26,Arena da Baixada - Curitiba - PR,10/01/2017 19:00:00,259,Atlético - MG,Robinho,21,Primeiro
+26,Arena da Baixada - Curitiba - PR,10/01/2017 19:00:00,259,Atlético - MG,Robinho,37,Segundo
+26,Moisés Lucarelli - Campinas - SP,10/02/2017 20:00:00,260,Ponte Preta - SP,Jean,8,Segundo
+27,Nilton Santos - Rio de Janeiro - RJ,10/11/2017 19:30:00,262,Botafogo - RJ,Brenner,21,Segundo
+27,Nilton Santos - Rio de Janeiro - RJ,10/11/2017 19:30:00,262,Botafogo - RJ,Vinicius,49,Segundo
+27,Nilton Santos - Rio de Janeiro - RJ,10/11/2017 19:30:00,262,Chapecoense - SC,Apodi,14,Segundo
+27,Arena da Baixada - Curitiba - PR,10/11/2017 19:30:00,263,Atlético - PR,Guilherme,32,Primeiro
+27,Arena da Baixada - Curitiba - PR,10/11/2017 19:30:00,263,Atlético - PR,Lucho Gonzalez,41,Primeiro
+27,Arena da Baixada - Curitiba - PR,10/11/2017 19:30:00,263,Atlético - GO,Luiz Fernando,25,Primeiro
+27,Arena da Baixada - Curitiba - PR,10/11/2017 19:30:00,263,Atlético - GO,Walter,37,Segundo
+27,Arena Corinthians - Sao Paulo - SP,10/11/2017 21:00:00,264,Corinthians - SP,Jo,9,Primeiro
+27,Arena Corinthians - Sao Paulo - SP,10/11/2017 21:00:00,264,Corinthians - SP,Clayson,34,Segundo
+27,Arena Corinthians - Sao Paulo - SP,10/11/2017 21:00:00,264,Corinthians - SP,Clayson,43,Segundo
+27,Arena Corinthians - Sao Paulo - SP,10/11/2017 21:00:00,264,Coritiba - PR,H. Almeida,39,Primeiro
+27,Independência - Belo Horizonte - MG,10/11/2017 21:45:00,265,Atlético - MG,Fabio Santos,6,Segundo
+27,Arena do Grêmio - Porto Alegre - RS,10/11/2017 21:45:00,266,Cruzeiro - MG,Rafael Sobis,23,Segundo
+27,Ressacada - Florianopolis - SC,10/11/2017 21:45:00,267,Avaí - SC,Betão,17,Segundo
+27,Ressacada - Florianopolis - SC,10/11/2017 21:45:00,267,Vasco da Gama - RJ,Wagner,2,Primeiro
+27,Ressacada - Florianopolis - SC,10/11/2017 21:45:00,267,Vasco da Gama - RJ,Andy,23,Primeiro
+27,Maracanã - Rio de Janeiro - RJ,10/12/2017 17:00:00,268,Flamengo - RJ,Rever,23,Segundo
+27,Maracanã - Rio de Janeiro - RJ,10/12/2017 17:00:00,268,Fluminense - RJ,Para,8,Segundo
+27,Manoel Barradas - Salvador - BA,10/12/2017 17:00:00,269,Vitória - BA,Santiago,36,Segundo
+27,Manoel Barradas - Salvador - BA,10/12/2017 17:00:00,269,Sport - PE,Diego Souza,45,Primeiro
+27,Manoel Barradas - Salvador - BA,10/12/2017 17:00:00,269,Sport - PE,R. Lenis,19,Segundo
+27,Moisés Lucarelli - Campinas - SP,10/12/2017 17:00:00,270,Ponte Preta - SP,Naldo,4,Primeiro
+27,Moisés Lucarelli - Campinas - SP,10/12/2017 17:00:00,270,Santos - SP,Ricardo Oliveira,46,Primeiro
+27,Pacaembu - Sao Paulo - SP,10/12/2017 21:00:00,271,Palmeiras - SP,Willian,2,Primeiro
+27,Pacaembu - Sao Paulo - SP,10/12/2017 21:00:00,271,Palmeiras - SP,Bruno,38,Primeiro
+27,Pacaembu - Sao Paulo - SP,10/12/2017 21:00:00,271,Bahia - BA,Edigar Junio,47,Primeiro
+27,Pacaembu - Sao Paulo - SP,10/12/2017 21:00:00,271,Bahia - BA,Edigar Junio,43,Segundo
+28,Mineirão - Belo Horizonte - MG,10/07/2017 16:00:00,261,Cruzeiro - MG,Thiago Neves,28,Segundo
+28,Mineirão - Belo Horizonte - MG,10/07/2017 16:00:00,261,Cruzeiro - MG,Manoel,30,Segundo
+28,Mineirão - Belo Horizonte - MG,10/07/2017 16:00:00,261,Ponte Preta - SP,Danilo Barcelos,12,Primeiro
+28,Maracanã - Rio de Janeiro - RJ,10/14/2017 19:00:00,272,Vasco da Gama - RJ,Nenê,23,Segundo
+28,Pacaembu - Sao Paulo - SP,10/14/2017 21:00:00,273,São Paulo - SP,Lucas Pratto,15,Segundo
+28,Pacaembu - Sao Paulo - SP,10/14/2017 21:00:00,273,São Paulo - SP,Maicosuel,39,Segundo
+28,Pacaembu - Sao Paulo - SP,10/14/2017 21:00:00,273,Atlético - PR,Douglas,4,Segundo
+28,Maracanã - Rio de Janeiro - RJ,10/15/2017 17:00:00,274,Fluminense - RJ,Henrique Dourado,13,Primeiro
+28,Ilha do Retiro - Recife - PE,10/15/2017 17:00:00,275,Sport - PE,Patrick,9,Primeiro
+28,Ilha do Retiro - Recife - PE,10/15/2017 17:00:00,275,Atlético - MG,Fred,37,Primeiro
+28,Olímpico Pedro Ludovico - Goiania - GO,10/15/2017 17:00:00,276,Atlético - GO,Walter,30,Segundo
+28,Olímpico Pedro Ludovico - Goiania - GO,10/15/2017 17:00:00,276,Palmeiras - SP,Willian,20,Primeiro
+28,Olímpico Pedro Ludovico - Goiania - GO,10/15/2017 17:00:00,276,Palmeiras - SP,Moises,43,Primeiro
+28,Olímpico Pedro Ludovico - Goiania - GO,10/15/2017 17:00:00,276,Palmeiras - SP,Dudu,14,Segundo
+28,Arena Condá - Chapeco - SC,10/15/2017 17:00:00,277,Flamengo - RJ,Diego,35,Segundo
+28,Couto Pereira - Curitiba - PR,10/15/2017 19:00:00,278,Grêmio - RS,Ramiro,46,Segundo
+28,Arena Fonte Nova - Salvador - BA,10/15/2017 19:00:00,279,Bahia - BA,Vinicius,26,Segundo
+28,Arena Fonte Nova - Salvador - BA,10/15/2017 19:00:00,279,Bahia - BA,Regis,48,Segundo
+28,Pacaembu - Sao Paulo - SP,10/16/2017 20:00:00,280,Santos - SP,Sousa,35,Primeiro
+28,Pacaembu - Sao Paulo - SP,10/16/2017 20:00:00,280,Santos - SP,Ramon,23,Segundo
+28,Pacaembu - Sao Paulo - SP,10/16/2017 20:00:00,280,Vitória - BA,David,23,Primeiro
+28,Pacaembu - Sao Paulo - SP,10/16/2017 20:00:00,280,Vitória - BA,Wallace Reis,20,Segundo
+29,Serra Dourada - Goiania - GO,10/18/2017 19:30:00,281,Vasco da Gama - RJ,Jonathan,30,Primeiro
+29,Couto Pereira - Curitiba - PR,10/18/2017 19:30:00,282,Coritiba - PR,Diogo,33,Primeiro
+29,Independência - Belo Horizonte - MG,10/18/2017 21:00:00,283,Atlético - MG,Valdivia,8,Primeiro
+29,Independência - Belo Horizonte - MG,10/18/2017 21:00:00,283,Atlético - MG,Fred,22,Segundo
+29,Independência - Belo Horizonte - MG,10/18/2017 21:00:00,283,Chapecoense - SC,Wellington Paulista,30,Primeiro
+29,Independência - Belo Horizonte - MG,10/18/2017 21:00:00,283,Chapecoense - SC,Hector,42,Primeiro
+29,Independência - Belo Horizonte - MG,10/18/2017 21:00:00,283,Chapecoense - SC,Luiz Antonio,34,Segundo
+29,Ressacada - Florianopolis - SC,10/18/2017 21:45:00,286,Avaí - SC,Marquinhos,20,Segundo
+29,Ressacada - Florianopolis - SC,10/18/2017 21:45:00,286,Botafogo - RJ,Marcos Vinicius,50,Segundo
+29,Maracanã - Rio de Janeiro - RJ,10/18/2017 21:45:00,285,Fluminense - RJ,Henrique Dourado,22,Primeiro
+29,Maracanã - Rio de Janeiro - RJ,10/18/2017 21:45:00,285,Fluminense - RJ,Sornoza,24,Primeiro
+29,Maracanã - Rio de Janeiro - RJ,10/18/2017 21:45:00,285,Fluminense - RJ,Robinho,39,Segundo
+29,Maracanã - Rio de Janeiro - RJ,10/18/2017 21:45:00,285,São Paulo - SP,Shaylon,43,Segundo
+29,Pacaembu - Sao Paulo - SP,10/19/2017 20:00:00,287,Palmeiras - SP,Keno,27,Primeiro
+29,Pacaembu - Sao Paulo - SP,10/19/2017 20:00:00,287,Palmeiras - SP,Borja,27,Segundo
+29,Manoel Barradas - Salvador - BA,10/19/2017 20:00:00,288,Vitória - BA,Neilton,23,Primeiro
+29,Manoel Barradas - Salvador - BA,10/19/2017 20:00:00,288,Vitória - BA,Santiago,4,Segundo
+29,Manoel Barradas - Salvador - BA,10/19/2017 20:00:00,288,Atlético - PR,Lucas Ribamar,3,Primeiro
+29,Manoel Barradas - Salvador - BA,10/19/2017 20:00:00,288,Atlético - PR,Douglas,20,Segundo
+29,Manoel Barradas - Salvador - BA,10/19/2017 20:00:00,288,Atlético - PR,Lucas Ribamar,33,Segundo
+29,Luso Brasileiro - Rio de Janeiro - RJ,10/19/2017 21:00:00,289,Flamengo - RJ,Rever,5,Segundo
+29,Luso Brasileiro - Rio de Janeiro - RJ,10/19/2017 21:00:00,289,Flamengo - RJ,Rever,31,Segundo
+29,Luso Brasileiro - Rio de Janeiro - RJ,10/19/2017 21:00:00,289,Flamengo - RJ,Diego,39,Segundo
+29,Luso Brasileiro - Rio de Janeiro - RJ,10/19/2017 21:00:00,289,Flamengo - RJ,Diego,41,Segundo
+29,Luso Brasileiro - Rio de Janeiro - RJ,10/19/2017 21:00:00,289,Bahia - BA,Mendoza,23,Segundo
+29,Ilha do Retiro - Recife - PE,10/19/2017 21:00:00,290,Sport - PE,Rogerio,38,Segundo
+29,Ilha do Retiro - Recife - PE,10/19/2017 21:00:00,290,Santos - SP,Ricardo Oliveira,3,Primeiro
+30,Maracanã - Rio de Janeiro - RJ,10/21/2017 17:00:00,295,Vasco da Gama - RJ,M. Galdezani,15,Primeiro
+30,Maracanã - Rio de Janeiro - RJ,10/21/2017 17:00:00,295,Coritiba - PR,Rildo,22,Segundo
+30,Arena da Baixada - Curitiba - PR,10/22/2017 17:00:00,300,Atlético - PR,Lucho Gonzalez,15,Segundo
+30,Arena da Baixada - Curitiba - PR,10/22/2017 17:00:00,300,Atlético - PR,Gedoz,42,Segundo
+30,Arena da Baixada - Curitiba - PR,10/22/2017 17:00:00,300,Sport - PE,Diego Souza,24,Segundo
+30,Pacaembu - Sao Paulo - SP,10/22/2017 17:00:00,292,São Paulo - SP,Lucas Pratto,13,Primeiro
+30,Pacaembu - Sao Paulo - SP,10/22/2017 17:00:00,292,São Paulo - SP,Hernanes,39,Primeiro
+30,Mineirão - Belo Horizonte - MG,10/22/2017 17:00:00,293,Cruzeiro - MG,Thiago Neves,30,Primeiro
+30,Mineirão - Belo Horizonte - MG,10/22/2017 17:00:00,293,Atlético - MG,Otero,15,Segundo
+30,Mineirão - Belo Horizonte - MG,10/22/2017 17:00:00,293,Atlético - MG,Robinho,21,Segundo
+30,Mineirão - Belo Horizonte - MG,10/22/2017 17:00:00,293,Atlético - MG,Robinho,35,Segundo
+30,Arena do Grêmio - Porto Alegre - RS,10/22/2017 17:00:00,294,Grêmio - RS,Michel,33,Segundo
+30,Arena do Grêmio - Porto Alegre - RS,10/22/2017 17:00:00,294,Palmeiras - SP,Dudu,2,Segundo
+30,Arena do Grêmio - Porto Alegre - RS,10/22/2017 17:00:00,294,Palmeiras - SP,Moises,9,Segundo
+30,Arena do Grêmio - Porto Alegre - RS,10/22/2017 17:00:00,294,Palmeiras - SP,Dudu,18,Segundo
+30,Arena Fonte Nova - Salvador - BA,10/22/2017 17:00:00,296,Bahia - BA,Mendoza,1,Segundo
+30,Arena Fonte Nova - Salvador - BA,10/22/2017 17:00:00,296,Bahia - BA,Edigar Junio,44,Segundo
+30,Arena Fonte Nova - Salvador - BA,10/22/2017 17:00:00,296,Vitória - BA,Wallace Reis,38,Segundo
+30,Vila Belmiro - Santos - SP,10/22/2017 17:00:00,297,Santos - SP,Ricardo Oliveira,30,Primeiro
+30,Moisés Lucarelli - Campinas - SP,10/22/2017 19:00:00,298,Ponte Preta - SP,Danilo Barcelos,38,Primeiro
+30,Moisés Lucarelli - Campinas - SP,10/22/2017 19:00:00,298,Avaí - SC,Romulo,6,Primeiro
+30,Moisés Lucarelli - Campinas - SP,10/22/2017 19:00:00,298,Avaí - SC,Junior Dutra,36,Primeiro
+30,Arena Condá - Chapeco - SC,10/22/2017 19:00:00,299,Chapecoense - SC,Arthur Caike,3,Primeiro
+30,Arena Condá - Chapeco - SC,10/22/2017 19:00:00,299,Chapecoense - SC,Wellington Paulista,1,Segundo
+30,Nilton Santos - Rio de Janeiro - RJ,10/23/2017 20:00:00,291,Botafogo - RJ,Brenner,7,Segundo
+30,Nilton Santos - Rio de Janeiro - RJ,10/23/2017 20:00:00,291,Botafogo - RJ,Igor,30,Segundo
+30,Nilton Santos - Rio de Janeiro - RJ,10/23/2017 20:00:00,291,Corinthians - SP,Jo,14,Segundo
+31,Pacaembu - Sao Paulo - SP,10/28/2017 17:00:00,301,São Paulo - SP,Marcos Guilherme,17,Primeiro
+31,Pacaembu - Sao Paulo - SP,10/28/2017 17:00:00,301,São Paulo - SP,Cueva,21,Primeiro
+31,Pacaembu - Sao Paulo - SP,10/28/2017 17:00:00,301,Santos - SP,Alison,33,Primeiro
+31,Maracanã - Rio de Janeiro - RJ,10/29/2017 17:00:00,304,Fluminense - RJ,Gustavo Scarpa,32,Primeiro
+31,Maracanã - Rio de Janeiro - RJ,10/29/2017 17:00:00,304,Bahia - BA,Edigar Junio,2,Primeiro
+31,Moisés Lucarelli - Campinas - SP,10/29/2017 17:00:00,306,Ponte Preta - SP,Lucca,39,Primeiro
+31,Ilha do Retiro - Recife - PE,10/29/2017 18:00:00,307,Sport - PE,Diego Souza,29,Primeiro
+31,Ilha do Retiro - Recife - PE,10/29/2017 18:00:00,307,Sport - PE,Andre Felipe,42,Primeiro
+31,Ilha do Retiro - Recife - PE,10/29/2017 18:00:00,307,Sport - PE,Diego Souza,17,Segundo
+31,Ilha do Retiro - Recife - PE,10/29/2017 18:00:00,307,Coritiba - PR,Werley,6,Primeiro
+31,Ilha do Retiro - Recife - PE,10/29/2017 18:00:00,307,Coritiba - PR,H. Almeida,39,Primeiro
+31,Ilha do Retiro - Recife - PE,10/29/2017 18:00:00,307,Coritiba - PR,Jonas,33,Segundo
+31,Ilha do Retiro - Recife - PE,10/29/2017 18:00:00,307,Coritiba - PR,Yan Sasse,45,Segundo
+31,Manoel Barradas - Salvador - BA,10/29/2017 18:00:00,308,Vitória - BA,Welison,21,Segundo
+31,Manoel Barradas - Salvador - BA,10/29/2017 18:00:00,308,Atlético - GO,Luiz Fernando,10,Primeiro
+31,Ressacada - Florianopolis - SC,10/29/2017 19:00:00,309,Avaí - SC,Pedro Castro,28,Primeiro
+31,Ressacada - Florianopolis - SC,10/29/2017 19:00:00,309,Avaí - SC,Leandro Silva,17,Segundo
+31,Ressacada - Florianopolis - SC,10/29/2017 19:00:00,309,Grêmio - RS,R. Thyere,11,Primeiro
+31,Ressacada - Florianopolis - SC,10/29/2017 19:00:00,309,Grêmio - RS,Kaio,36,Primeiro
+31,Allianz Parque - Sao Paulo - SP,10/30/2017 20:00:00,310,Palmeiras - SP,Borja,34,Primeiro
+31,Allianz Parque - Sao Paulo - SP,10/30/2017 20:00:00,310,Palmeiras - SP,Borja,40,Segundo
+31,Allianz Parque - Sao Paulo - SP,10/30/2017 20:00:00,310,Cruzeiro - MG,Juninho,5,Primeiro
+31,Allianz Parque - Sao Paulo - SP,10/30/2017 20:00:00,310,Cruzeiro - MG,Robinho,19,Segundo
+32,Vila Belmiro - Santos - SP,11/04/2017 17:00:00,311,Santos - SP,Arthur,45,Primeiro
+32,Vila Belmiro - Santos - SP,11/04/2017 17:00:00,311,Santos - SP,David Braz,15,Segundo
+32,Vila Belmiro - Santos - SP,11/04/2017 17:00:00,311,Santos - SP,Ricardo Oliveira,34,Segundo
+32,Vila Belmiro - Santos - SP,11/04/2017 17:00:00,311,Atlético - MG,Fred,5,Segundo
+32,Nilton Santos - Rio de Janeiro - RJ,11/04/2017 19:00:00,312,Botafogo - RJ,Marcos Vinicius,1,Primeiro
+32,Nilton Santos - Rio de Janeiro - RJ,11/04/2017 19:00:00,312,Fluminense - RJ,Marcos Jr,16,Segundo
+32,Nilton Santos - Rio de Janeiro - RJ,11/04/2017 19:00:00,312,Fluminense - RJ,Matheus Alessandro,42,Segundo
+32,Serra Dourada - Goiania - GO,11/04/2017 19:00:00,320,São Paulo - SP,Hernanes,21,Primeiro
+32,Couto Pereira - Curitiba - PR,11/04/2017 21:00:00,313,Coritiba - PR,Alan Santos,17,Primeiro
+32,Couto Pereira - Curitiba - PR,11/04/2017 21:00:00,313,Coritiba - PR,Wilson,41,Primeiro
+32,Couto Pereira - Curitiba - PR,11/04/2017 21:00:00,313,Coritiba - PR,Tiago Real,6,Segundo
+32,Couto Pereira - Curitiba - PR,11/04/2017 21:00:00,313,Coritiba - PR,Jonas,40,Segundo
+32,Arena Corinthians - Sao Paulo - SP,11/05/2017 17:00:00,314,Corinthians - SP,Angel Romero,27,Primeiro
+32,Arena Corinthians - Sao Paulo - SP,11/05/2017 17:00:00,314,Corinthians - SP,Balbuena,29,Primeiro
+32,Arena Corinthians - Sao Paulo - SP,11/05/2017 17:00:00,314,Corinthians - SP,Jo,38,Primeiro
+32,Arena Corinthians - Sao Paulo - SP,11/05/2017 17:00:00,314,Palmeiras - SP,Yerri Mina,34,Primeiro
+32,Arena Corinthians - Sao Paulo - SP,11/05/2017 17:00:00,314,Palmeiras - SP,Moises,22,Segundo
+32,Arena do Grêmio - Porto Alegre - RS,11/05/2017 17:00:00,315,Grêmio - RS,Everton,24,Segundo
+32,Arena do Grêmio - Porto Alegre - RS,11/05/2017 17:00:00,315,Grêmio - RS,Everton,26,Segundo
+32,Arena do Grêmio - Porto Alegre - RS,11/05/2017 17:00:00,315,Grêmio - RS,Luan,37,Segundo
+32,Arena do Grêmio - Porto Alegre - RS,11/05/2017 17:00:00,315,Flamengo - RJ,Everton Ribeiro,1,Segundo
+32,Mineirão - Belo Horizonte - MG,11/05/2017 17:00:00,317,Cruzeiro - MG,De Arrascaeta,40,Primeiro
+32,Arena Fonte Nova - Salvador - BA,11/05/2017 18:00:00,318,Bahia - BA,Mendoza,26,Primeiro
+32,Arena Fonte Nova - Salvador - BA,11/05/2017 18:00:00,318,Bahia - BA,Edigar Junio,48,Segundo
+32,Arena Condá - Chapeco - SC,11/05/2017 19:00:00,316,Chapecoense - SC,Wellington Paulista,21,Segundo
+32,Arena Condá - Chapeco - SC,11/05/2017 19:00:00,316,Sport - PE,Andre Felipe,51,Segundo
+32,Maracanã - Rio de Janeiro - RJ,11/05/2017 19:00:00,319,Vasco da Gama - RJ,Breno,10,Primeiro
+32,Maracanã - Rio de Janeiro - RJ,11/05/2017 19:00:00,319,Vitória - BA,Andre Lima,46,Segundo
+33,Moisés Lucarelli - Campinas - SP,11/08/2017 19:30:00,322,Grêmio - RS,Ramiro,4,Segundo
+33,Ressacada - Florianopolis - SC,11/08/2017 19:30:00,321,Avaí - SC,Marquinhos,17,Primeiro
+33,Ressacada - Florianopolis - SC,11/08/2017 19:30:00,321,Bahia - BA,Edigar Junio,33,Primeiro
+33,Ressacada - Florianopolis - SC,11/08/2017 19:30:00,321,Bahia - BA,Edigar Junio,33,Segundo
+33,Ilha do Retiro - Recife - PE,11/08/2017 21:00:00,323,Sport - PE,Andre Felipe,40,Segundo
+33,Ilha do Retiro - Recife - PE,11/08/2017 21:00:00,323,Botafogo - RJ,Bruno Silva,14,Primeiro
+33,Ilha do Retiro - Recife - PE,11/08/2017 21:00:00,323,Botafogo - RJ,Marcos Vinicius,18,Primeiro
+33,Arena da Baixada - Curitiba - PR,11/08/2017 21:00:00,324,Corinthians - SP,Giovanni Augusto,32,Segundo
+33,Luso Brasileiro - Rio de Janeiro - RJ,11/08/2017 21:45:00,325,Flamengo - RJ,Everton,36,Primeiro
+33,Luso Brasileiro - Rio de Janeiro - RJ,11/08/2017 21:45:00,325,Flamengo - RJ,Vinicius Jr.,48,Segundo
+33,Vila Belmiro - Santos - SP,11/08/2017 21:45:00,326,Santos - SP,Ricardo Oliveira,19,Segundo
+33,Vila Belmiro - Santos - SP,11/08/2017 21:45:00,326,Vasco da Gama - RJ,Evander,39,Segundo
+33,Vila Belmiro - Santos - SP,11/08/2017 21:45:00,326,Vasco da Gama - RJ,Nenê,48,Segundo
+33,Manoel Barradas - Salvador - BA,11/08/2017 21:45:00,327,Vitória - BA,Yago Felipe,6,Primeiro
+33,Manoel Barradas - Salvador - BA,11/08/2017 21:45:00,327,Vitória - BA,Santiago,14,Primeiro
+33,Manoel Barradas - Salvador - BA,11/08/2017 21:45:00,327,Vitória - BA,Yago Felipe,39,Primeiro
+33,Manoel Barradas - Salvador - BA,11/08/2017 21:45:00,327,Palmeiras - SP,Dudu,20,Primeiro
+33,Pacaembu - Sao Paulo - SP,11/09/2017 20:00:00,328,São Paulo - SP,Gilberto,27,Segundo
+33,Pacaembu - Sao Paulo - SP,11/09/2017 20:00:00,328,São Paulo - SP,Arboleda,37,Segundo
+33,Pacaembu - Sao Paulo - SP,11/09/2017 20:00:00,328,Chapecoense - SC,Wellington Paulista,26,Primeiro
+33,Pacaembu - Sao Paulo - SP,11/09/2017 20:00:00,328,Chapecoense - SC,Reinaldo,14,Segundo
+33,Independência - Belo Horizonte - MG,11/09/2017 20:00:00,329,Atlético - MG,Fabio Santos,17,Primeiro
+33,Independência - Belo Horizonte - MG,11/09/2017 20:00:00,329,Atlético - MG,Luan,5,Segundo
+33,Independência - Belo Horizonte - MG,11/09/2017 20:00:00,329,Atlético - MG,Fred,20,Segundo
+33,Independência - Belo Horizonte - MG,11/09/2017 20:00:00,329,Atlético - GO,Diego Rosa,5,Primeiro
+33,Independência - Belo Horizonte - MG,11/09/2017 20:00:00,329,Atlético - GO,Andrigo,26,Primeiro
+33,Maracanã - Rio de Janeiro - RJ,11/09/2017 21:00:00,330,Fluminense - RJ,Cleber,9,Segundo
+33,Maracanã - Rio de Janeiro - RJ,11/09/2017 21:00:00,330,Fluminense - RJ,Henrique Dourado,11,Segundo
+33,Maracanã - Rio de Janeiro - RJ,11/09/2017 21:00:00,330,Coritiba - PR,Werley,43,Primeiro
+33,Maracanã - Rio de Janeiro - RJ,11/09/2017 21:00:00,330,Coritiba - PR,Cleber,23,Segundo
+34,Nilton Santos - Rio de Janeiro - RJ,11/11/2017 17:00:00,331,Atlético - PR,Guilherme,31,Primeiro
+34,Arena Corinthians - Sao Paulo - SP,11/11/2017 19:00:00,332,Corinthians - SP,richards,4,Segundo
+34,Alfredo Jaconi - Caxias do Sul - RS,11/12/2017 17:00:00,336,Grêmio - RS,Fernandinho,19,Primeiro
+34,Alfredo Jaconi - Caxias do Sul - RS,11/12/2017 17:00:00,336,Vitória - BA,Patric,16,Primeiro
+34,São Januário - Rio de Janeiro - RJ,11/12/2017 17:00:00,333,Vasco da Gama - RJ,Caio Monteiro,30,Segundo
+34,São Januário - Rio de Janeiro - RJ,11/12/2017 17:00:00,333,São Paulo - SP,Marcos Guilherme,40,Primeiro
+34,Olímpico Pedro Ludovico - Goiania - GO,11/12/2017 17:00:00,335,Atlético - GO,Diego Rosa,41,Primeiro
+34,Olímpico Pedro Ludovico - Goiania - GO,11/12/2017 17:00:00,335,Atlético - GO,Diego Rosa,31,Segundo
+34,Allianz Parque - Sao Paulo - SP,11/12/2017 17:00:00,334,Palmeiras - SP,Deyverson,13,Primeiro
+34,Allianz Parque - Sao Paulo - SP,11/12/2017 17:00:00,334,Palmeiras - SP,Deyverson,35,Primeiro
+34,Arena Fonte Nova - Salvador - BA,11/12/2017 18:00:00,337,Bahia - BA,Edigar Junio,9,Segundo
+34,Arena Fonte Nova - Salvador - BA,11/12/2017 18:00:00,337,Bahia - BA,Edigar Junio,18,Segundo
+34,Arena Fonte Nova - Salvador - BA,11/12/2017 18:00:00,337,Atlético - MG,Robinho,4,Primeiro
+34,Arena Fonte Nova - Salvador - BA,11/12/2017 18:00:00,337,Atlético - MG,Robinho,28,Segundo
+34,Mineirão - Belo Horizonte - MG,11/12/2017 19:00:00,338,Cruzeiro - MG,Lucas Romero,16,Primeiro
+34,Mineirão - Belo Horizonte - MG,11/12/2017 19:00:00,338,Cruzeiro - MG,Diogo,13,Segundo
+34,Mineirão - Belo Horizonte - MG,11/12/2017 19:00:00,338,Cruzeiro - MG,Thiago Neves,27,Segundo
+34,Mineirão - Belo Horizonte - MG,11/12/2017 19:00:00,338,Fluminense - RJ,Pedro,7,Primeiro
+34,Couto Pereira - Curitiba - PR,11/12/2017 19:00:00,339,Coritiba - PR,Yan Sasse,20,Segundo
+34,Couto Pereira - Curitiba - PR,11/12/2017 19:00:00,339,Ponte Preta - SP,Leo Gamalho,19,Segundo
+34,Arena Condá - Chapeco - SC,11/13/2017 20:00:00,340,Chapecoense - SC,Wellington Paulista,13,Primeiro
+34,Arena Condá - Chapeco - SC,11/13/2017 20:00:00,340,Chapecoense - SC,Arthur Caike,22,Segundo
+35,Moisés Lucarelli - Campinas - SP,11/15/2017 17:00:00,341,Ponte Preta - SP,Danilo Barcelos,38,Primeiro
+35,Moisés Lucarelli - Campinas - SP,11/15/2017 17:00:00,341,Ponte Preta - SP,Danilo Barcelos,21,Segundo
+35,Moisés Lucarelli - Campinas - SP,11/15/2017 17:00:00,341,Atlético - PR,Sidcley,33,Segundo
+35,Arena do Grêmio - Porto Alegre - RS,11/15/2017 19:30:00,342,Grêmio - RS,Kannemann,33,Primeiro
+35,Mineirão - Belo Horizonte - MG,11/15/2017 19:30:00,343,Cruzeiro - MG,Thiago Neves,13,Segundo
+35,Mineirão - Belo Horizonte - MG,11/15/2017 19:30:00,343,Cruzeiro - MG,Judivan,33,Segundo
+35,Mineirão - Belo Horizonte - MG,11/15/2017 19:30:00,343,Avaí - SC,Junior Dutra,22,Primeiro
+35,Mineirão - Belo Horizonte - MG,11/15/2017 19:30:00,343,Avaí - SC,Junior Dutra,47,Segundo
+35,São Januário - Rio de Janeiro - RJ,11/15/2017 21:45:00,344,Vasco da Gama - RJ,Andy,25,Primeiro
+35,São Januário - Rio de Janeiro - RJ,11/15/2017 21:45:00,344,Atlético - MG,Fred,7,Segundo
+35,Arena Corinthians - Sao Paulo - SP,11/15/2017 21:45:00,345,Corinthians - SP,Jo,1,Segundo
+35,Arena Corinthians - Sao Paulo - SP,11/15/2017 21:45:00,345,Corinthians - SP,Jo,3,Segundo
+35,Arena Corinthians - Sao Paulo - SP,11/15/2017 21:45:00,345,Corinthians - SP,Jadson,39,Segundo
+35,Arena Corinthians - Sao Paulo - SP,11/15/2017 21:45:00,345,Fluminense - RJ,Henrique,1,Primeiro
+35,Arena Condá - Chapeco - SC,11/16/2017 20:00:00,348,Chapecoense - SC,Arthur Caike,24,Primeiro
+35,Arena Condá - Chapeco - SC,11/16/2017 20:00:00,348,Chapecoense - SC,Tulio de Melo,32,Segundo
+35,Arena Condá - Chapeco - SC,11/16/2017 20:00:00,348,Vitória - BA,David,19,Primeiro
+35,Nilton Santos - Rio de Janeiro - RJ,11/16/2017 20:00:00,346,Botafogo - RJ,Joao Paulo,43,Primeiro
+35,Nilton Santos - Rio de Janeiro - RJ,11/16/2017 20:00:00,346,Atlético - GO,Jorginho,40,Primeiro
+35,Nilton Santos - Rio de Janeiro - RJ,11/16/2017 20:00:00,346,Atlético - GO,Luiz Fernando,14,Segundo
+35,Allianz Parque - Sao Paulo - SP,11/16/2017 20:00:00,347,Palmeiras - SP,Deyverson,12,Segundo
+35,Allianz Parque - Sao Paulo - SP,11/16/2017 20:00:00,347,Palmeiras - SP,Luan Garcia,18,Segundo
+35,Allianz Parque - Sao Paulo - SP,11/16/2017 20:00:00,347,Palmeiras - SP,Deyverson,34,Segundo
+35,Allianz Parque - Sao Paulo - SP,11/16/2017 20:00:00,347,Palmeiras - SP,Dudu,44,Segundo
+35,Allianz Parque - Sao Paulo - SP,11/16/2017 20:00:00,347,Palmeiras - SP,Keno,46,Segundo
+35,Allianz Parque - Sao Paulo - SP,11/16/2017 20:00:00,347,Sport - PE,Diego Souza,38,Segundo
+35,Couto Pereira - Curitiba - PR,11/16/2017 21:00:00,349,Coritiba - PR,Cleber,8,Primeiro
+35,Arena Fonte Nova - Salvador - BA,11/16/2017 21:00:00,350,Bahia - BA,Mendoza,22,Primeiro
+35,Arena Fonte Nova - Salvador - BA,11/16/2017 21:00:00,350,Bahia - BA,Alison,9,Segundo
+35,Arena Fonte Nova - Salvador - BA,11/16/2017 21:00:00,350,Bahia - BA,Edigar Junio,33,Segundo
+35,Arena Fonte Nova - Salvador - BA,11/16/2017 21:00:00,350,Santos - SP,Bruno Henrique,16,Primeiro
+36,Luso Brasileiro - Rio de Janeiro - RJ,11/19/2017 17:00:00,352,Flamengo - RJ,Mancuello,20,Primeiro
+36,Luso Brasileiro - Rio de Janeiro - RJ,11/19/2017 17:00:00,352,Flamengo - RJ,Diego,33,Primeiro
+36,Luso Brasileiro - Rio de Janeiro - RJ,11/19/2017 17:00:00,352,Flamengo - RJ,Felipe Vizeu,45,Primeiro
+36,Manoel Barradas - Salvador - BA,11/19/2017 17:00:00,354,Vitória - BA,David,20,Primeiro
+36,Manoel Barradas - Salvador - BA,11/19/2017 17:00:00,354,Cruzeiro - MG,Alisson,31,Segundo
+36,Olímpico Pedro Ludovico - Goiania - GO,11/19/2017 17:00:00,355,Atlético - GO,Luiz Fernando,45,Segundo
+36,Olímpico Pedro Ludovico - Goiania - GO,11/19/2017 17:00:00,355,Chapecoense - SC,Tulio de Melo,35,Primeiro
+36,Ilha do Retiro - Recife - PE,11/19/2017 17:00:00,356,Sport - PE,Marquinhos,38,Primeiro
+36,Arena da Baixada - Curitiba - PR,11/19/2017 19:00:00,359,Atlético - PR,Thiago Heleno,14,Primeiro
+36,Arena da Baixada - Curitiba - PR,11/19/2017 19:00:00,359,Atlético - PR,Douglas,18,Segundo
+36,Arena da Baixada - Curitiba - PR,11/19/2017 19:00:00,359,Atlético - PR,Fabricio,23,Segundo
+36,Arena da Baixada - Curitiba - PR,11/19/2017 19:00:00,359,Vasco da Gama - RJ,Wanderson,16,Primeiro
+36,Vila Belmiro - Santos - SP,11/19/2017 19:00:00,358,Santos - SP,Copete,32,Primeiro
+36,Independência - Belo Horizonte - MG,11/19/2017 19:00:00,357,Atlético - MG,Otero,4,Primeiro
+36,Independência - Belo Horizonte - MG,11/19/2017 19:00:00,357,Atlético - MG,Leo Silva,14,Primeiro
+36,Independência - Belo Horizonte - MG,11/19/2017 19:00:00,357,Atlético - MG,Otero,32,Primeiro
+36,Maracanã - Rio de Janeiro - RJ,11/20/2017 17:00:00,351,Fluminense - RJ,Douglas,13,Segundo
+36,Maracanã - Rio de Janeiro - RJ,11/20/2017 17:00:00,351,Fluminense - RJ,Henrique Dourado,41,Segundo
+36,Ressacada - Florianopolis - SC,11/20/2017 20:00:00,360,Avaí - SC,Marquinhos,13,Segundo
+36,Ressacada - Florianopolis - SC,11/20/2017 20:00:00,360,Avaí - SC,Lourenço,16,Segundo
+36,Ressacada - Florianopolis - SC,11/20/2017 20:00:00,360,Palmeiras - SP,Keno,30,Segundo
+37,Maracanã - Rio de Janeiro - RJ,11/25/2017 17:00:00,361,Fluminense - RJ,Marcos Jr,37,Primeiro
+37,Maracanã - Rio de Janeiro - RJ,11/25/2017 17:00:00,361,Sport - PE,Andre Felipe,11,Primeiro
+37,Maracanã - Rio de Janeiro - RJ,11/25/2017 17:00:00,361,Sport - PE,Andre Felipe,23,Primeiro
+37,Arena do Grêmio - Porto Alegre - RS,11/26/2017 17:00:00,362,Grêmio - RS,Lucas Poletto,27,Segundo
+37,Arena do Grêmio - Porto Alegre - RS,11/26/2017 17:00:00,362,Atlético - GO,Andrigo,25,Segundo
+37,Ressacada - Florianopolis - SC,11/26/2017 17:00:00,363,Avaí - SC,Maicon,15,Primeiro
+37,Arena Corinthians - Sao Paulo - SP,11/26/2017 17:00:00,364,Corinthians - SP,Jadson,35,Primeiro
+37,Arena Corinthians - Sao Paulo - SP,11/26/2017 17:00:00,364,Corinthians - SP,Marquinhos Gabriel,12,Segundo
+37,Arena Corinthians - Sao Paulo - SP,11/26/2017 17:00:00,364,Atlético - MG,Otero,28,Primeiro
+37,Arena Corinthians - Sao Paulo - SP,11/26/2017 17:00:00,364,Atlético - MG,Fred,19,Segundo
+37,Mineirão - Belo Horizonte - MG,11/26/2017 17:00:00,365,Vasco da Gama - RJ,Paulão,20,Primeiro
+37,Couto Pereira - Curitiba - PR,11/26/2017 17:00:00,366,Coritiba - PR,Wilson,42,Primeiro
+37,Couto Pereira - Curitiba - PR,11/26/2017 17:00:00,366,São Paulo - SP,Éder Militão,22,Segundo
+37,Couto Pereira - Curitiba - PR,11/26/2017 17:00:00,366,São Paulo - SP,M. Galdezani,26,Segundo
+37,Moisés Lucarelli - Campinas - SP,11/26/2017 17:00:00,367,Ponte Preta - SP,Lucca,6,Primeiro
+37,Moisés Lucarelli - Campinas - SP,11/26/2017 17:00:00,367,Ponte Preta - SP,Danilo Barcelos,16,Primeiro
+37,Moisés Lucarelli - Campinas - SP,11/26/2017 17:00:00,367,Vitória - BA,Andre Lima,12,Segundo
+37,Moisés Lucarelli - Campinas - SP,11/26/2017 17:00:00,367,Vitória - BA,Santiago,13,Segundo
+37,Moisés Lucarelli - Campinas - SP,11/26/2017 17:00:00,367,Vitória - BA,Santiago,36,Segundo
+37,Arena Fonte Nova - Salvador - BA,11/26/2017 19:00:00,369,Chapecoense - SC,Wellington Paulista,45,Primeiro
+37,Luso Brasileiro - Rio de Janeiro - RJ,11/26/2017 19:00:00,368,Flamengo - RJ,Lucas Paquetá,7,Primeiro
+37,Luso Brasileiro - Rio de Janeiro - RJ,11/26/2017 19:00:00,368,Santos - SP,Bruno Henrique,10,Primeiro
+37,Luso Brasileiro - Rio de Janeiro - RJ,11/26/2017 19:00:00,368,Santos - SP,Arthur,28,Segundo
+37,Allianz Parque - Sao Paulo - SP,11/27/2017 20:00:00,370,Palmeiras - SP,Dudu,9,Segundo
+37,Allianz Parque - Sao Paulo - SP,11/27/2017 20:00:00,370,Palmeiras - SP,Keno,18,Segundo
+38,Nilton Santos - Rio de Janeiro - RJ,12/03/2017 17:00:00,371,Botafogo - RJ,Brenner,25,Primeiro
+38,Nilton Santos - Rio de Janeiro - RJ,12/03/2017 17:00:00,371,Botafogo - RJ,Ezequiel,24,Segundo
+38,Nilton Santos - Rio de Janeiro - RJ,12/03/2017 17:00:00,371,Cruzeiro - MG,Thiago Neves,37,Primeiro
+38,Nilton Santos - Rio de Janeiro - RJ,12/03/2017 17:00:00,371,Cruzeiro - MG,De Arrascaeta,5,Segundo
+38,São Januário - Rio de Janeiro - RJ,12/03/2017 17:00:00,372,Vasco da Gama - RJ,Paulinho,28,Primeiro
+38,São Januário - Rio de Janeiro - RJ,12/03/2017 17:00:00,372,Vasco da Gama - RJ,Mateus,28,Segundo
+38,São Januário - Rio de Janeiro - RJ,12/03/2017 17:00:00,372,Ponte Preta - SP,Lucca,44,Segundo
+38,Vila Belmiro - Santos - SP,12/03/2017 17:00:00,373,Santos - SP,Copete,30,Primeiro
+38,Vila Belmiro - Santos - SP,12/03/2017 17:00:00,373,Avaí - SC,Pedro Castro,32,Primeiro
+38,Morumbi - Sao Paulo - SP,12/03/2017 17:00:00,374,São Paulo - SP,Brenner,18,Segundo
+38,Morumbi - Sao Paulo - SP,12/03/2017 17:00:00,374,Bahia - BA,Eder,43,Segundo
+38,Independência - Belo Horizonte - MG,12/03/2017 17:00:00,375,Atlético - MG,Elias,36,Primeiro
+38,Independência - Belo Horizonte - MG,12/03/2017 17:00:00,375,Atlético - MG,Otero,47,Primeiro
+38,Independência - Belo Horizonte - MG,12/03/2017 17:00:00,375,Atlético - MG,Fred,20,Segundo
+38,Independência - Belo Horizonte - MG,12/03/2017 17:00:00,375,Atlético - MG,Otero,42,Segundo
+38,Independência - Belo Horizonte - MG,12/03/2017 17:00:00,375,Grêmio - RS,Jean Pyerre,34,Primeiro
+38,Independência - Belo Horizonte - MG,12/03/2017 17:00:00,375,Grêmio - RS,Pepe,43,Primeiro
+38,Independência - Belo Horizonte - MG,12/03/2017 17:00:00,375,Grêmio - RS,Batista,15,Segundo
+38,Arena da Baixada - Curitiba - PR,12/03/2017 17:00:00,376,Atlético - PR,Lucas Ribamar,5,Primeiro
+38,Arena da Baixada - Curitiba - PR,12/03/2017 17:00:00,376,Atlético - PR,Ederson,17,Primeiro
+38,Arena da Baixada - Curitiba - PR,12/03/2017 17:00:00,376,Atlético - PR,Sidcley,33,Primeiro
+38,Ilha do Retiro - Recife - PE,12/03/2017 17:00:00,377,Sport - PE,Andre Felipe,17,Segundo
+38,Manoel Barradas - Salvador - BA,12/03/2017 17:00:00,378,Vitória - BA,Carlos Eduardo,39,Primeiro
+38,Manoel Barradas - Salvador - BA,12/03/2017 17:00:00,378,Flamengo - RJ,Rafael Vaz,30,Segundo
+38,Manoel Barradas - Salvador - BA,12/03/2017 17:00:00,378,Flamengo - RJ,Diego,49,Segundo
+38,Olímpico Pedro Ludovico - Goiania - GO,12/03/2017 17:00:00,379,Atlético - GO,Diego Rosa,21,Primeiro
+38,Olímpico Pedro Ludovico - Goiania - GO,12/03/2017 17:00:00,379,Fluminense - RJ,Wendel,18,Primeiro
+38,Arena Condá - Chapeco - SC,12/03/2017 17:00:00,380,Chapecoense - SC,Elicarlos,37,Primeiro
+38,Arena Condá - Chapeco - SC,12/03/2017 17:00:00,380,Chapecoense - SC,Tulio de Melo,49,Segundo
+38,Arena Condá - Chapeco - SC,12/03/2017 17:00:00,380,Coritiba - PR,K. Giacomazzi,13,Primeiro

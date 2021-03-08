@@ -1,0 +1,874 @@
+Rodada,JogoLocal,JogoData,JogoNumero,Time,Jogador,Tempo,Periodo
+1,Morumbi - Sao Paulo - SP,04/27/2019 16:00:00,5,São Paulo - SP,Everton,40,Primeiro
+1,Morumbi - Sao Paulo - SP,04/27/2019 16:00:00,5,São Paulo - SP,Hudson,37,Segundo
+1,Independência - Belo Horizonte - MG,04/27/2019 19:00:00,2,Atlético - MG,Fabio Santos,46,Primeiro
+1,Independência - Belo Horizonte - MG,04/27/2019 19:00:00,2,Atlético - MG,Ricardo Oliveira,7,Segundo
+1,Independência - Belo Horizonte - MG,04/27/2019 19:00:00,2,Avaí - SC,Brizuela,2,Segundo
+1,Arena Condá - Chapeco - SC,04/27/2019 19:00:00,8,Chapecoense - SC,Everaldo,47,Primeiro
+1,Arena Condá - Chapeco - SC,04/27/2019 19:00:00,8,Chapecoense - SC,Everaldo,42,Segundo
+1,Maracanã - Rio de Janeiro - RJ,04/27/2019 21:00:00,6,Flamengo - RJ,Bruno Henrique,40,Primeiro
+1,Maracanã - Rio de Janeiro - RJ,04/27/2019 21:00:00,6,Flamengo - RJ,Bruno Henrique,22,Segundo
+1,Maracanã - Rio de Janeiro - RJ,04/27/2019 21:00:00,6,Flamengo - RJ,Gabriel Barbosa,44,Segundo
+1,Maracanã - Rio de Janeiro - RJ,04/27/2019 21:00:00,6,Cruzeiro - MG,Pedro Rocha,39,Primeiro
+1,Arena do Grêmio - Porto Alegre - RS,04/28/2019 11:00:00,1,Grêmio - RS,Everton,48,Segundo
+1,Arena do Grêmio - Porto Alegre - RS,04/28/2019 11:00:00,1,Santos - SP,Eduardo Sasha,5,Primeiro
+1,Arena do Grêmio - Porto Alegre - RS,04/28/2019 11:00:00,1,Santos - SP,Felipe,35,Primeiro
+1,Arena Castelão - Fortaleza - CE,04/28/2019 16:00:00,3,Ceará - CE,Ricardo Bueno,20,Primeiro
+1,Arena Castelão - Fortaleza - CE,04/28/2019 16:00:00,3,Ceará - CE,Leandro,33,Primeiro
+1,Arena Castelão - Fortaleza - CE,04/28/2019 16:00:00,3,Ceará - CE,Joao Lucas,36,Segundo
+1,Arena Castelão - Fortaleza - CE,04/28/2019 16:00:00,3,Ceará - CE,Ricardo Bueno,43,Segundo
+1,Arena Fonte Nova - Salvador - BA,04/28/2019 16:00:00,9,Bahia - BA,Arthur Caike,48,Primeiro
+1,Arena Fonte Nova - Salvador - BA,04/28/2019 16:00:00,9,Bahia - BA,Artur,30,Segundo
+1,Arena Fonte Nova - Salvador - BA,04/28/2019 16:00:00,9,Bahia - BA,Rogerio,38,Segundo
+1,Arena Fonte Nova - Salvador - BA,04/28/2019 16:00:00,9,Corinthians - SP,Pedrinho,46,Primeiro
+1,Arena Fonte Nova - Salvador - BA,04/28/2019 16:00:00,9,Corinthians - SP,Clayson,49,Segundo
+1,Arena da Baixada - Curitiba - PR,04/28/2019 16:00:00,10,Athletico Paranaense - PR,Bruno Guimarães,2,Primeiro
+1,Arena da Baixada - Curitiba - PR,04/28/2019 16:00:00,10,Athletico Paranaense - PR,Marco Ruben,44,Primeiro
+1,Arena da Baixada - Curitiba - PR,04/28/2019 16:00:00,10,Athletico Paranaense - PR,Werley,20,Segundo
+1,Arena da Baixada - Curitiba - PR,04/28/2019 16:00:00,10,Athletico Paranaense - PR,Nikao,41,Segundo
+1,Arena da Baixada - Curitiba - PR,04/28/2019 16:00:00,10,Vasco da Gama - RJ,Bruno,43,Segundo
+1,Allianz Parque - Sao Paulo - SP,04/28/2019 19:00:00,4,Palmeiras - SP,Ze Rafael,16,Primeiro
+1,Allianz Parque - Sao Paulo - SP,04/28/2019 19:00:00,4,Palmeiras - SP,Marcos Rocha,13,Segundo
+1,Allianz Parque - Sao Paulo - SP,04/28/2019 19:00:00,4,Palmeiras - SP,Ze Rafael,25,Segundo
+1,Allianz Parque - Sao Paulo - SP,04/28/2019 19:00:00,4,Palmeiras - SP,Bruno,45,Segundo
+1,Maracanã - Rio de Janeiro - RJ,04/28/2019 19:00:00,7,Goiás - GO,Rafael Vaz,44,Segundo
+2,Arena Corinthians - Sao Paulo - SP,05/01/2019 16:00:00,14,Corinthians - SP,Carlos,10,Segundo
+2,Rei Pelé - Maceio - AL,05/01/2019 16:00:00,20,Csa - AL,Matheus Savio,17,Segundo
+2,Rei Pelé - Maceio - AL,05/01/2019 16:00:00,20,Palmeiras - SP,Raphael Veiga,9,Primeiro
+2,Beira-Rio - Porto Alegre - RS,05/01/2019 16:00:00,11,Internacional - RS,Guerrero,4,Primeiro
+2,Beira-Rio - Porto Alegre - RS,05/01/2019 16:00:00,11,Internacional - RS,Sarrafiore,31,Segundo
+2,Beira-Rio - Porto Alegre - RS,05/01/2019 16:00:00,11,Flamengo - RJ,De Arrascaeta,14,Segundo
+2,Mineirão - Belo Horizonte - MG,05/01/2019 19:15:00,12,Cruzeiro - MG,Thiago Neves,4,Segundo
+2,Ressacada - Florianopolis - SC,05/01/2019 19:15:00,18,Avaí - SC,Michel,39,Segundo
+2,Ressacada - Florianopolis - SC,05/01/2019 19:15:00,18,Grêmio - RS,Romulo,44,Primeiro
+2,Arena Castelão - Fortaleza - CE,05/01/2019 21:30:00,13,Fortaleza - CE,Edinho,2,Primeiro
+2,Arena Castelão - Fortaleza - CE,05/01/2019 21:30:00,13,Fortaleza - CE,Wellington Paulista,31,Segundo
+2,Arena Castelão - Fortaleza - CE,05/01/2019 21:30:00,13,Athletico Paranaense - PR,Leo Pereira,21,Primeiro
+2,São Januário - Rio de Janeiro - RJ,05/01/2019 21:30:00,16,Vasco da Gama - RJ,Maxi Lopez,20,Segundo
+2,São Januário - Rio de Janeiro - RJ,05/01/2019 21:30:00,16,Atlético - MG,Elias,13,Segundo
+2,São Januário - Rio de Janeiro - RJ,05/01/2019 21:30:00,16,Atlético - MG,Chará,44,Segundo
+2,Serra Dourada - Goiania - GO,05/01/2019 21:30:00,19,Goiás - GO,Leandro Barcia,47,Primeiro
+2,Serra Dourada - Goiania - GO,05/01/2019 21:30:00,19,São Paulo - SP,Alexandre Pato,31,Primeiro
+2,Serra Dourada - Goiania - GO,05/01/2019 21:30:00,19,São Paulo - SP,Jonas Toró,35,Primeiro
+2,Vila Belmiro - Santos - SP,05/02/2019 19:15:00,15,Santos - SP,Eduardo Sasha,19,Segundo
+2,Vila Belmiro - Santos - SP,05/02/2019 19:15:00,15,Santos - SP,Carlos Sanchez,27,Segundo
+2,Vila Belmiro - Santos - SP,05/02/2019 19:15:00,15,Fluminense - RJ,Pedro,39,Segundo
+2,Nilton Santos - Rio de Janeiro - RJ,05/02/2019 20:00:00,17,Botafogo - RJ,Erik,29,Primeiro
+2,Nilton Santos - Rio de Janeiro - RJ,05/02/2019 20:00:00,17,Botafogo - RJ,Joao Paulo,35,Primeiro
+2,Nilton Santos - Rio de Janeiro - RJ,05/02/2019 20:00:00,17,Botafogo - RJ,Cicero,47,Primeiro
+2,Nilton Santos - Rio de Janeiro - RJ,05/02/2019 20:00:00,17,Bahia - BA,Arthur Caike,6,Primeiro
+2,Nilton Santos - Rio de Janeiro - RJ,05/02/2019 20:00:00,17,Bahia - BA,Ernando,37,Segundo
+3,Arena da Amazônia - Manaus - AM,05/04/2019 19:00:00,26,Vasco da Gama - RJ,Maxi Lopez,39,Primeiro
+3,Arena da Amazônia - Manaus - AM,05/04/2019 19:00:00,26,Corinthians - SP,Mateus,17,Primeiro
+3,Allianz Parque - Sao Paulo - SP,05/04/2019 19:00:00,24,Palmeiras - SP,Deyverson,14,Primeiro
+3,Arena Castelão - Fortaleza - CE,05/04/2019 21:00:00,23,Ceará - CE,Ricardo Bueno,23,Primeiro
+3,Arena Castelão - Fortaleza - CE,05/04/2019 21:00:00,23,Atlético - MG,Nathan,26,Primeiro
+3,Arena Castelão - Fortaleza - CE,05/04/2019 21:00:00,23,Atlético - MG,Jair,47,Segundo
+3,Arena Condá - Chapeco - SC,05/05/2019 11:00:00,28,Chapecoense - SC,Everaldo,44,Segundo
+3,Arena Condá - Chapeco - SC,05/05/2019 11:00:00,28,Athletico Paranaense - PR,Rony,30,Segundo
+3,Morumbi - Sao Paulo - SP,05/05/2019 16:00:00,25,São Paulo - SP,Tche Tche,38,Segundo
+3,Morumbi - Sao Paulo - SP,05/05/2019 16:00:00,25,Flamengo - RJ,Berrio,9,Primeiro
+3,Mineirão - Belo Horizonte - MG,05/05/2019 16:00:00,22,Cruzeiro - MG,Dedé,3,Segundo
+3,Mineirão - Belo Horizonte - MG,05/05/2019 16:00:00,22,Cruzeiro - MG,Rodriguinho,35,Segundo
+3,Mineirão - Belo Horizonte - MG,05/05/2019 16:00:00,22,Goiás - GO,Michael,11,Segundo
+3,Nilton Santos - Rio de Janeiro - RJ,05/05/2019 16:00:00,27,Botafogo - RJ,Alex,24,Segundo
+3,Arena Fonte Nova - Salvador - BA,05/05/2019 19:00:00,29,Bahia - BA,Artur,40,Primeiro
+3,Arena do Grêmio - Porto Alegre - RS,05/05/2019 19:00:00,21,Grêmio - RS,Andre Felipe,5,Primeiro
+3,Arena do Grêmio - Porto Alegre - RS,05/05/2019 19:00:00,21,Grêmio - RS,Everton,12,Primeiro
+3,Arena do Grêmio - Porto Alegre - RS,05/05/2019 19:00:00,21,Grêmio - RS,Jean Pyerre,21,Primeiro
+3,Arena do Grêmio - Porto Alegre - RS,05/05/2019 19:00:00,21,Grêmio - RS,Kannemann,38,Segundo
+3,Arena do Grêmio - Porto Alegre - RS,05/05/2019 19:00:00,21,Fluminense - RJ,Yony Gonzalez,39,Primeiro
+3,Arena do Grêmio - Porto Alegre - RS,05/05/2019 19:00:00,21,Fluminense - RJ,Luciano,40,Primeiro
+3,Arena do Grêmio - Porto Alegre - RS,05/05/2019 19:00:00,21,Fluminense - RJ,Matheus Ferraz,10,Segundo
+3,Arena do Grêmio - Porto Alegre - RS,05/05/2019 19:00:00,21,Fluminense - RJ,Pedro,26,Segundo
+3,Arena do Grêmio - Porto Alegre - RS,05/05/2019 19:00:00,21,Fluminense - RJ,Yony Gonzalez,47,Segundo
+4,Maracanã - Rio de Janeiro - RJ,05/11/2019 16:00:00,37,Botafogo - RJ,Alex,26,Segundo
+4,Serra Dourada - Goiania - GO,05/11/2019 21:00:00,39,Goiás - GO,Marlone,20,Primeiro
+4,Serra Dourada - Goiania - GO,05/11/2019 21:00:00,39,Goiás - GO,Leandro Barcia,46,Segundo
+4,Serra Dourada - Goiania - GO,05/11/2019 21:00:00,39,Ceará - CE,Thiago Galhardo,31,Segundo
+4,Maracanã - Rio de Janeiro - RJ,05/12/2019 11:00:00,36,Flamengo - RJ,Vitinho,7,Primeiro
+4,Maracanã - Rio de Janeiro - RJ,05/12/2019 11:00:00,36,Flamengo - RJ,Lincoln,6,Segundo
+4,Maracanã - Rio de Janeiro - RJ,05/12/2019 11:00:00,36,Chapecoense - SC,Gum,47,Segundo
+4,Pacaembu - Sao Paulo - SP,05/12/2019 16:00:00,35,Santos - SP,Diego,19,Primeiro
+4,Pacaembu - Sao Paulo - SP,05/12/2019 16:00:00,35,Santos - SP,Rodrygo,33,Primeiro
+4,Pacaembu - Sao Paulo - SP,05/12/2019 16:00:00,35,Santos - SP,Yeferson Soteldo,27,Segundo
+4,Mineirão - Belo Horizonte - MG,05/12/2019 16:00:00,32,Palmeiras - SP,Bruno,44,Primeiro
+4,Mineirão - Belo Horizonte - MG,05/12/2019 16:00:00,32,Palmeiras - SP,Bruno,7,Segundo
+4,Beira-Rio - Porto Alegre - RS,05/12/2019 16:00:00,31,Internacional - RS,Nonato,31,Primeiro
+4,Beira-Rio - Porto Alegre - RS,05/12/2019 16:00:00,31,Internacional - RS,Guerrero,10,Segundo
+4,Beira-Rio - Porto Alegre - RS,05/12/2019 16:00:00,31,Internacional - RS,Moledo,37,Segundo
+4,Beira-Rio - Porto Alegre - RS,05/12/2019 16:00:00,31,Cruzeiro - MG,Dedé,35,Primeiro
+4,Arena Castelão - Fortaleza - CE,05/12/2019 19:00:00,33,São Paulo - SP,Hernanes,31,Segundo
+4,Arena da Baixada - Curitiba - PR,05/12/2019 19:00:00,40,Athletico Paranaense - PR,Rony,10,Primeiro
+5,Maracanã - Rio de Janeiro - RJ,05/18/2019 18:00:00,47,Fluminense - RJ,Nino,44,Primeiro
+5,Maracanã - Rio de Janeiro - RJ,05/18/2019 18:00:00,47,Fluminense - RJ,Luciano,1,Segundo
+5,Maracanã - Rio de Janeiro - RJ,05/18/2019 18:00:00,47,Fluminense - RJ,Joao Pedro,36,Segundo
+5,Maracanã - Rio de Janeiro - RJ,05/18/2019 18:00:00,47,Fluminense - RJ,Joao Pedro,49,Segundo
+5,Maracanã - Rio de Janeiro - RJ,05/18/2019 18:00:00,47,Cruzeiro - MG,Robinho,4,Segundo
+5,Independência - Belo Horizonte - MG,05/18/2019 19:00:00,42,Atlético - MG,Cazares,28,Primeiro
+5,Independência - Belo Horizonte - MG,05/18/2019 19:00:00,42,Atlético - MG,Chará,1,Segundo
+5,Independência - Belo Horizonte - MG,05/18/2019 19:00:00,42,Flamengo - RJ,Bruno Henrique,30,Primeiro
+5,Pacaembu - Sao Paulo - SP,05/18/2019 19:00:00,44,Palmeiras - SP,GUSTAVO GOMEZ,6,Primeiro
+5,Pacaembu - Sao Paulo - SP,05/18/2019 19:00:00,44,Palmeiras - SP,Deyverson,18,Primeiro
+5,Pacaembu - Sao Paulo - SP,05/18/2019 19:00:00,44,Palmeiras - SP,Raphael Veiga,7,Segundo
+5,Pacaembu - Sao Paulo - SP,05/18/2019 19:00:00,44,Palmeiras - SP,Hyoran,42,Segundo
+5,Arena da Baixada - Curitiba - PR,05/19/2019 16:00:00,50,Corinthians - SP,Vagner Love,13,Primeiro
+5,Arena da Baixada - Curitiba - PR,05/19/2019 16:00:00,50,Corinthians - SP,Pedrinho,41,Segundo
+5,Arena Condá - Chapeco - SC,05/19/2019 16:00:00,48,Chapecoense - SC,Rildo,13,Primeiro
+5,Arena Condá - Chapeco - SC,05/19/2019 16:00:00,48,Fortaleza - CE,Marcio,38,Primeiro
+5,Arena Condá - Chapeco - SC,05/19/2019 16:00:00,48,Fortaleza - CE,Marcio,17,Segundo
+5,Arena Condá - Chapeco - SC,05/19/2019 16:00:00,48,Fortaleza - CE,Osvaldo,20,Segundo
+5,Serra Dourada - Goiania - GO,05/19/2019 16:00:00,49,Goiás - GO,Kayke,41,Segundo
+5,Beira-Rio - Porto Alegre - RS,05/19/2019 16:00:00,41,Internacional - RS,Nonato,36,Primeiro
+5,Beira-Rio - Porto Alegre - RS,05/19/2019 16:00:00,41,Internacional - RS,Edenilson,19,Segundo
+5,São Januário - Rio de Janeiro - RJ,05/19/2019 19:00:00,46,Vasco da Gama - RJ,Ricardo,36,Segundo
+5,São Januário - Rio de Janeiro - RJ,05/19/2019 19:00:00,46,Avaí - SC,Daniel Amorim,49,Segundo
+5,Arena Castelão - Fortaleza - CE,05/19/2019 19:00:00,43,Ceará - CE,Ricardinho,10,Primeiro
+5,Arena Castelão - Fortaleza - CE,05/19/2019 19:00:00,43,Ceará - CE,Michel,23,Primeiro
+5,Arena Castelão - Fortaleza - CE,05/19/2019 19:00:00,43,Grêmio - RS,Everton,30,Primeiro
+6,Mané Garrincha - Brasilia - DF,05/25/2019 16:00:00,57,Palmeiras - SP,GUSTAVO GOMEZ,16,Segundo
+6,Arena do Grêmio - Porto Alegre - RS,05/25/2019 19:00:00,51,Grêmio - RS,Felipe Vizeu,2,Segundo
+6,Maracanã - Rio de Janeiro - RJ,05/26/2019 16:00:00,56,Flamengo - RJ,Gabriel Barbosa,31,Primeiro
+6,Maracanã - Rio de Janeiro - RJ,05/26/2019 16:00:00,56,Flamengo - RJ,Bruno Henrique,44,Segundo
+6,Maracanã - Rio de Janeiro - RJ,05/26/2019 16:00:00,56,Flamengo - RJ,Rodrigo Caio,50,Segundo
+6,Maracanã - Rio de Janeiro - RJ,05/26/2019 16:00:00,56,Athletico Paranaense - PR,Marcelo Cirino,18,Segundo
+6,Maracanã - Rio de Janeiro - RJ,05/26/2019 16:00:00,56,Athletico Paranaense - PR,Marcelo Cirino,26,Segundo
+6,Independência - Belo Horizonte - MG,05/26/2019 19:00:00,52,Cruzeiro - MG,Thiago Neves,11,Segundo
+6,Independência - Belo Horizonte - MG,05/26/2019 19:00:00,52,Chapecoense - SC,Rildo,7,Segundo
+6,Independência - Belo Horizonte - MG,05/26/2019 19:00:00,52,Chapecoense - SC,Diego Torres,39,Segundo
+6,Arena Castelão - Fortaleza - CE,05/26/2019 19:00:00,53,Fortaleza - CE,Romarinho,44,Segundo
+6,Arena Castelão - Fortaleza - CE,05/26/2019 19:00:00,53,Vasco da Gama - RJ,Yago,26,Segundo
+6,Arena Corinthians - Sao Paulo - SP,05/26/2019 19:00:00,54,Corinthians - SP,Pedrinho,6,Primeiro
+6,Arena Fonte Nova - Salvador - BA,05/26/2019 19:00:00,59,Bahia - BA,Artur,15,Primeiro
+6,Arena Fonte Nova - Salvador - BA,05/26/2019 19:00:00,59,Bahia - BA,Gilberto,29,Primeiro
+6,Arena Fonte Nova - Salvador - BA,05/26/2019 19:00:00,59,Bahia - BA,Gilberto,24,Segundo
+6,Arena Fonte Nova - Salvador - BA,05/26/2019 19:00:00,59,Fluminense - RJ,Pedro,19,Primeiro
+6,Arena Fonte Nova - Salvador - BA,05/26/2019 19:00:00,59,Fluminense - RJ,Joao Pedro,35,Segundo
+6,Ressacada - Florianopolis - SC,05/27/2019 20:00:00,58,Avaí - SC,Brenner,43,Primeiro
+6,Ressacada - Florianopolis - SC,05/27/2019 20:00:00,58,Ceará - CE,Thiago Galhardo,29,Segundo
+6,Ressacada - Florianopolis - SC,05/27/2019 20:00:00,58,Ceará - CE,Thiago Galhardo,41,Segundo
+6,Rei Pelé - Maceio - AL,05/27/2019 20:00:00,60,Csa - AL,Maranhão,17,Segundo
+7,Nilton Santos - Rio de Janeiro - RJ,06/01/2019 16:00:00,66,Flamengo - RJ,Gabriel Barbosa,39,Primeiro
+7,Nilton Santos - Rio de Janeiro - RJ,06/01/2019 16:00:00,66,Flamengo - RJ,Gabriel Barbosa,22,Segundo
+7,Pituaçu - Salvador - BA,06/01/2019 19:00:00,69,Bahia - BA,Fernandao,9,Segundo
+7,Nilton Santos - Rio de Janeiro - RJ,06/02/2019 11:00:00,67,Botafogo - RJ,Diego Souza,13,Segundo
+7,Arena da Baixada - Curitiba - PR,06/02/2019 16:00:00,70,Athletico Paranaense - PR,Lucho Gonzalez,20,Primeiro
+7,Arena da Baixada - Curitiba - PR,06/02/2019 16:00:00,70,Athletico Paranaense - PR,Rony,37,Primeiro
+7,Arena da Baixada - Curitiba - PR,06/02/2019 16:00:00,70,Athletico Paranaense - PR,Marcelo Cirino,38,Segundo
+7,Arena Castelão - Fortaleza - CE,06/02/2019 16:00:00,63,Santos - SP,Eduardo Sasha,6,Segundo
+7,Pacaembu - Sao Paulo - SP,06/02/2019 16:00:00,65,São Paulo - SP,Alexandre Pato,14,Primeiro
+7,Pacaembu - Sao Paulo - SP,06/02/2019 16:00:00,65,Cruzeiro - MG,Thiago Neves,22,Segundo
+7,Beira-Rio - Porto Alegre - RS,06/02/2019 19:00:00,61,Internacional - RS,Guerrero,16,Segundo
+7,Beira-Rio - Porto Alegre - RS,06/02/2019 19:00:00,61,Internacional - RS,Edenilson,31,Segundo
+7,Arena Condá - Chapeco - SC,06/02/2019 19:00:00,68,Chapecoense - SC,Everaldo,36,Primeiro
+7,Arena Condá - Chapeco - SC,06/02/2019 19:00:00,68,Palmeiras - SP,Dudu,32,Primeiro
+7,Arena Condá - Chapeco - SC,06/02/2019 19:00:00,68,Palmeiras - SP,Marcos Rocha,45,Primeiro
+7,Independência - Belo Horizonte - MG,06/02/2019 19:00:00,62,Atlético - MG,Fabio Santos,19,Primeiro
+7,Independência - Belo Horizonte - MG,06/02/2019 19:00:00,62,Atlético - MG,Cazares,22,Primeiro
+7,Independência - Belo Horizonte - MG,06/02/2019 19:00:00,62,Atlético - MG,Chará,4,Segundo
+7,Independência - Belo Horizonte - MG,06/02/2019 19:00:00,62,Atlético - MG,Adilson,31,Segundo
+7,Arena Corinthians - Sao Paulo - SP,08/07/2019 19:15:00,64,Corinthians - SP,Junior Urso,24,Primeiro
+7,Arena Corinthians - Sao Paulo - SP,08/07/2019 19:15:00,64,Corinthians - SP,Boselli,42,Segundo
+8,São Januário - Rio de Janeiro - RJ,06/07/2019 20:30:00,76,Vasco da Gama - RJ,Andrey,44,Primeiro
+8,São Januário - Rio de Janeiro - RJ,06/07/2019 20:30:00,76,Vasco da Gama - RJ,Tiago Rodrigues dos Reis,48,Primeiro
+8,São Januário - Rio de Janeiro - RJ,06/07/2019 20:30:00,76,Internacional - RS,Emerson,10,Segundo
+8,Allianz Parque - Sao Paulo - SP,06/08/2019 16:30:00,74,Palmeiras - SP,Raphael Veiga,34,Segundo
+8,Centenário - Caxias do Sul - RS,06/08/2019 19:00:00,71,Grêmio - RS,Pepe,44,Segundo
+8,Vila Belmiro - Santos - SP,06/09/2019 19:00:00,75,Santos - SP,Eduardo Sasha,38,Primeiro
+8,Vila Belmiro - Santos - SP,06/09/2019 19:00:00,75,Santos - SP,Sousa,49,Primeiro
+8,Vila Belmiro - Santos - SP,06/09/2019 19:00:00,75,Santos - SP,Carlos Sanchez,36,Segundo
+8,Vila Belmiro - Santos - SP,06/09/2019 19:00:00,75,Atlético - MG,Alerrandro,26,Segundo
+8,Rei Pelé - Maceio - AL,06/09/2019 19:00:00,80,Csa - AL,Carlinhos,16,Segundo
+8,Rei Pelé - Maceio - AL,06/09/2019 19:00:00,80,Botafogo - RJ,Cicero,37,Segundo
+8,Rei Pelé - Maceio - AL,06/09/2019 19:00:00,80,Botafogo - RJ,Alex,48,Segundo
+8,Serra Dourada - Goiania - GO,06/10/2019 20:00:00,79,Goiás - GO,Kayke,36,Primeiro
+8,Serra Dourada - Goiania - GO,06/10/2019 20:00:00,79,Goiás - GO,Jefferson Junio,32,Segundo
+8,Serra Dourada - Goiania - GO,06/10/2019 20:00:00,79,Goiás - GO,Kayke,46,Segundo
+8,Serra Dourada - Goiania - GO,06/10/2019 20:00:00,79,Chapecoense - SC,Rafael,44,Primeiro
+9,Nilton Santos - Rio de Janeiro - RJ,06/12/2019 19:15:00,87,Grêmio - RS,Jean Pyerre,35,Segundo
+9,Arena Castelão - Fortaleza - CE,06/12/2019 21:00:00,83,Fortaleza - CE,Andre Luis,2,Primeiro
+9,Arena Castelão - Fortaleza - CE,06/12/2019 21:00:00,83,Fortaleza - CE,Andre Luis,46,Primeiro
+9,Arena Castelão - Fortaleza - CE,06/12/2019 21:00:00,83,Cruzeiro - MG,Sassa,10,Primeiro
+9,Vila Belmiro - Santos - SP,06/12/2019 21:30:00,85,Santos - SP,Eduardo Sasha,14,Segundo
+9,Beira-Rio - Porto Alegre - RS,06/12/2019 21:30:00,81,Internacional - RS,Rodrigo,17,Primeiro
+9,Beira-Rio - Porto Alegre - RS,06/12/2019 21:30:00,81,Internacional - RS,Rafael Sobis,16,Segundo
+9,Beira-Rio - Porto Alegre - RS,06/12/2019 21:30:00,81,Internacional - RS,Dalessandro,36,Segundo
+9,Beira-Rio - Porto Alegre - RS,06/12/2019 21:30:00,81,Bahia - BA,Fernandao,32,Segundo
+9,Mané Garrincha - Brasilia - DF,06/12/2019 21:30:00,90,Flamengo - RJ,Vitinho,20,Segundo
+9,Mané Garrincha - Brasilia - DF,06/12/2019 21:30:00,90,Flamengo - RJ,Gabriel Barbosa,31,Segundo
+9,São Januário - Rio de Janeiro - RJ,06/13/2019 19:15:00,86,Vasco da Gama - RJ,Danilo Barcelos,35,Segundo
+9,Allianz Parque - Sao Paulo - SP,06/13/2019 20:00:00,84,Palmeiras - SP,Deyverson,32,Primeiro
+9,Allianz Parque - Sao Paulo - SP,06/13/2019 20:00:00,84,Palmeiras - SP,Bruno,20,Segundo
+9,Arena Condá - Chapeco - SC,06/13/2019 20:00:00,88,Chapecoense - SC,Everaldo,3,Primeiro
+9,Arena Condá - Chapeco - SC,06/13/2019 20:00:00,88,Fluminense - RJ,PH GANSO,13,Segundo
+9,Serra Dourada - Goiania - GO,06/13/2019 20:00:00,89,Goiás - GO,Kayke,6,Primeiro
+9,Serra Dourada - Goiania - GO,06/13/2019 20:00:00,89,Goiás - GO,Leandro Barcia,32,Primeiro
+9,Serra Dourada - Goiania - GO,06/13/2019 20:00:00,89,Athletico Paranaense - PR,Rafael Vaz,47,Segundo
+9,Independência - Belo Horizonte - MG,06/13/2019 20:00:00,82,Atlético - MG,Alerrandro,43,Primeiro
+9,Independência - Belo Horizonte - MG,06/13/2019 20:00:00,82,São Paulo - SP,Alexandre Pato,28,Segundo
+10,Arena do Grêmio - Porto Alegre - RS,07/13/2019 17:00:00,91,Grêmio - RS,Pepe,15,Segundo
+10,Arena do Grêmio - Porto Alegre - RS,07/13/2019 17:00:00,91,Grêmio - RS,Pepe,40,Segundo
+10,Arena do Grêmio - Porto Alegre - RS,07/13/2019 17:00:00,91,Vasco da Gama - RJ,Yago,14,Primeiro
+10,Arena Castelão - Fortaleza - CE,07/13/2019 17:00:00,93,Fortaleza - CE,Wellington Paulista,43,Primeiro
+10,Arena Castelão - Fortaleza - CE,07/13/2019 17:00:00,93,Fortaleza - CE,Wellington Paulista,21,Segundo
+10,Pituaçu - Salvador - BA,07/13/2019 19:00:00,99,Santos - SP,Carlos Sanchez,41,Segundo
+10,Morumbi - Sao Paulo - SP,07/13/2019 19:00:00,95,São Paulo - SP,Pablo,9,Primeiro
+10,Morumbi - Sao Paulo - SP,07/13/2019 19:00:00,95,Palmeiras - SP,Dudu,26,Segundo
+10,Maracanã - Rio de Janeiro - RJ,07/14/2019 11:00:00,96,Flamengo - RJ,De Arrascaeta,5,Primeiro
+10,Maracanã - Rio de Janeiro - RJ,07/14/2019 11:00:00,96,Flamengo - RJ,Bruno Henrique,43,Primeiro
+10,Maracanã - Rio de Janeiro - RJ,07/14/2019 11:00:00,96,Flamengo - RJ,De Arrascaeta,45,Primeiro
+10,Maracanã - Rio de Janeiro - RJ,07/14/2019 11:00:00,96,Flamengo - RJ,De Arrascaeta,49,Primeiro
+10,Maracanã - Rio de Janeiro - RJ,07/14/2019 11:00:00,96,Flamengo - RJ,Gabriel Barbosa,10,Segundo
+10,Maracanã - Rio de Janeiro - RJ,07/14/2019 11:00:00,96,Flamengo - RJ,Gabriel Barbosa,36,Segundo
+10,Maracanã - Rio de Janeiro - RJ,07/14/2019 11:00:00,96,Goiás - GO,Kayke,12,Primeiro
+10,Arena Corinthians - Sao Paulo - SP,07/14/2019 16:00:00,94,Corinthians - SP,Vagner Love,32,Segundo
+10,Arena da Baixada - Curitiba - PR,07/14/2019 16:00:00,100,Athletico Paranaense - PR,Vitinho,43,Segundo
+10,Arena Condá - Chapeco - SC,07/14/2019 19:00:00,98,Chapecoense - SC,Everaldo,1,Primeiro
+10,Arena Condá - Chapeco - SC,07/14/2019 19:00:00,98,Atlético - MG,Iago,34,Segundo
+10,Arena Condá - Chapeco - SC,07/14/2019 19:00:00,98,Atlético - MG,Vinicius,54,Segundo
+10,Maracanã - Rio de Janeiro - RJ,07/15/2019 20:00:00,97,Fluminense - RJ,Pedro,41,Primeiro
+10,Maracanã - Rio de Janeiro - RJ,07/15/2019 20:00:00,97,Ceará - CE,Tiago,48,Primeiro
+11,São Januário - Rio de Janeiro - RJ,07/20/2019 11:00:00,106,Vasco da Gama - RJ,Leandro,21,Segundo
+11,São Januário - Rio de Janeiro - RJ,07/20/2019 11:00:00,106,Vasco da Gama - RJ,Bruno,29,Segundo
+11,São Januário - Rio de Janeiro - RJ,07/20/2019 11:00:00,106,Fluminense - RJ,Pedro,46,Primeiro
+11,Beira-Rio - Porto Alegre - RS,07/20/2019 19:00:00,101,Internacional - RS,P. Miranda,21,Primeiro
+11,Beira-Rio - Porto Alegre - RS,07/20/2019 19:00:00,101,Grêmio - RS,Luan,25,Segundo
+11,Arena Castelão - Fortaleza - CE,07/20/2019 19:00:00,103,Ceará - CE,Mateus Gonçalves,31,Primeiro
+11,Arena Castelão - Fortaleza - CE,07/20/2019 19:00:00,103,Ceará - CE,Leandro,27,Segundo
+11,Rei Pelé - Maceio - AL,07/20/2019 19:00:00,110,Athletico Paranaense - PR,Madson,41,Primeiro
+11,Rei Pelé - Maceio - AL,07/20/2019 19:00:00,110,Athletico Paranaense - PR,Thonny Anderson,14,Segundo
+11,Rei Pelé - Maceio - AL,07/20/2019 19:00:00,110,Athletico Paranaense - PR,Cittadini,40,Segundo
+11,Rei Pelé - Maceio - AL,07/20/2019 19:00:00,110,Athletico Paranaense - PR,Braian Romero,47,Segundo
+11,Nilton Santos - Rio de Janeiro - RJ,07/21/2019 11:00:00,107,Santos - SP,Marinho,29,Segundo
+11,Independência - Belo Horizonte - MG,07/21/2019 16:00:00,102,Atlético - MG,Juninho,7,Primeiro
+11,Independência - Belo Horizonte - MG,07/21/2019 16:00:00,102,Atlético - MG,Cazares,14,Primeiro
+11,Independência - Belo Horizonte - MG,07/21/2019 16:00:00,102,Fortaleza - CE,Carlinho,19,Segundo
+11,Independência - Belo Horizonte - MG,07/21/2019 16:00:00,102,Fortaleza - CE,Juninho,26,Segundo
+11,Arena Corinthians - Sao Paulo - SP,07/21/2019 16:00:00,104,Corinthians - SP,Clayson,16,Segundo
+11,Arena Corinthians - Sao Paulo - SP,07/21/2019 16:00:00,104,Flamengo - RJ,Gabriel Barbosa,42,Segundo
+11,Morumbi - Sao Paulo - SP,07/22/2019 20:00:00,105,São Paulo - SP,Antony,3,Segundo
+11,Morumbi - Sao Paulo - SP,07/22/2019 20:00:00,105,São Paulo - SP,Jonas Toró,7,Segundo
+11,Morumbi - Sao Paulo - SP,07/22/2019 20:00:00,105,São Paulo - SP,Raniel,10,Segundo
+11,Morumbi - Sao Paulo - SP,07/22/2019 20:00:00,105,São Paulo - SP,Vitor Bueno,46,Segundo
+12,Allianz Parque - Sao Paulo - SP,07/27/2019 17:00:00,114,Palmeiras - SP,Gustavo Scarpa,14,Primeiro
+12,Allianz Parque - Sao Paulo - SP,07/27/2019 17:00:00,114,Vasco da Gama - RJ,Marrony,2,Primeiro
+12,Maracanã - Rio de Janeiro - RJ,07/27/2019 19:00:00,117,Fluminense - RJ,Yony Gonzalez,36,Primeiro
+12,Maracanã - Rio de Janeiro - RJ,07/27/2019 19:00:00,117,São Paulo - SP,Reinaldo,19,Primeiro
+12,Maracanã - Rio de Janeiro - RJ,07/27/2019 19:00:00,117,São Paulo - SP,Reinaldo,52,Segundo
+12,Mineirão - Belo Horizonte - MG,07/27/2019 19:00:00,112,Athletico Paranaense - PR,Jonathan,29,Primeiro
+12,Mineirão - Belo Horizonte - MG,07/27/2019 19:00:00,112,Athletico Paranaense - PR,Bruno Guimarães,32,Segundo
+12,Beira-Rio - Porto Alegre - RS,07/27/2019 19:00:00,111,Internacional - RS,Sarrafiore,39,Primeiro
+12,Vila Belmiro - Santos - SP,07/28/2019 16:00:00,115,Santos - SP,Derlis Gonzalez,9,Primeiro
+12,Vila Belmiro - Santos - SP,07/28/2019 16:00:00,115,Santos - SP,Carlos Sanchez,32,Primeiro
+12,Vila Belmiro - Santos - SP,07/28/2019 16:00:00,115,Santos - SP,Felipe,32,Segundo
+12,Vila Belmiro - Santos - SP,07/28/2019 16:00:00,115,Avaí - SC,João Paulo,27,Primeiro
+12,Maracanã - Rio de Janeiro - RJ,07/28/2019 16:00:00,116,Flamengo - RJ,Gerson,34,Primeiro
+12,Maracanã - Rio de Janeiro - RJ,07/28/2019 16:00:00,116,Flamengo - RJ,Gabriel Barbosa,9,Segundo
+12,Maracanã - Rio de Janeiro - RJ,07/28/2019 16:00:00,116,Flamengo - RJ,Bruno Henrique,23,Segundo
+12,Maracanã - Rio de Janeiro - RJ,07/28/2019 16:00:00,116,Botafogo - RJ,Cicero,13,Primeiro
+12,Maracanã - Rio de Janeiro - RJ,07/28/2019 16:00:00,116,Botafogo - RJ,Diego Souza,21,Segundo
+12,Arena Castelão - Fortaleza - CE,07/28/2019 19:00:00,113,Fortaleza - CE,Manoel,39,Primeiro
+12,Arena Castelão - Fortaleza - CE,07/28/2019 19:00:00,113,Corinthians - SP,Boselli,21,Segundo
+12,Arena Castelão - Fortaleza - CE,07/28/2019 19:00:00,113,Corinthians - SP,Pedrinho,26,Segundo
+12,Arena Castelão - Fortaleza - CE,07/28/2019 19:00:00,113,Corinthians - SP,Danilo,35,Segundo
+13,Arena Castelão - Fortaleza - CE,08/03/2019 19:00:00,123,Ceará - CE,Thiago Galhardo,14,Primeiro
+13,Arena Castelão - Fortaleza - CE,08/03/2019 19:00:00,123,Ceará - CE,Felippe Cardoso,17,Primeiro
+13,Arena Castelão - Fortaleza - CE,08/03/2019 19:00:00,123,Fortaleza - CE,Juninho,46,Primeiro
+13,Maracanã - Rio de Janeiro - RJ,08/03/2019 19:00:00,127,Fluminense - RJ,Yony Gonzalez,12,Segundo
+13,Maracanã - Rio de Janeiro - RJ,08/03/2019 19:00:00,127,Fluminense - RJ,Natanael,22,Segundo
+13,Maracanã - Rio de Janeiro - RJ,08/03/2019 19:00:00,127,Internacional - RS,Edenilson,46,Segundo
+13,Vila Belmiro - Santos - SP,08/04/2019 11:00:00,125,Santos - SP,Carlos Sanchez,8,Primeiro
+13,Vila Belmiro - Santos - SP,08/04/2019 11:00:00,125,Santos - SP,Lucas Verissimo,15,Primeiro
+13,Vila Belmiro - Santos - SP,08/04/2019 11:00:00,125,Santos - SP,Gustavo,36,Primeiro
+13,Vila Belmiro - Santos - SP,08/04/2019 11:00:00,125,Santos - SP,Eduardo Sasha,6,Segundo
+13,Vila Belmiro - Santos - SP,08/04/2019 11:00:00,125,Santos - SP,Yeferson Soteldo,23,Segundo
+13,Vila Belmiro - Santos - SP,08/04/2019 11:00:00,125,Santos - SP,Yeferson Soteldo,35,Segundo
+13,Vila Belmiro - Santos - SP,08/04/2019 11:00:00,125,Goiás - GO,Kayke,45,Segundo
+13,Arena Fonte Nova - Salvador - BA,08/04/2019 16:00:00,129,Bahia - BA,Gilberto,22,Primeiro
+13,Arena Fonte Nova - Salvador - BA,08/04/2019 16:00:00,129,Bahia - BA,Gilberto,30,Primeiro
+13,Arena Fonte Nova - Salvador - BA,08/04/2019 16:00:00,129,Bahia - BA,Gilberto,50,Primeiro
+13,Ressacada - Florianopolis - SC,08/04/2019 16:00:00,128,Botafogo - RJ,Alex,18,Primeiro
+13,Ressacada - Florianopolis - SC,08/04/2019 16:00:00,128,Botafogo - RJ,Marcelo,5,Segundo
+13,Independência - Belo Horizonte - MG,08/04/2019 19:00:00,122,Atlético - MG,Vinicius,46,Primeiro
+13,Independência - Belo Horizonte - MG,08/04/2019 19:00:00,122,Atlético - MG,Nathan,46,Segundo
+13,Arena Corinthians - Sao Paulo - SP,08/04/2019 19:00:00,124,Corinthians - SP,Manoel,12,Primeiro
+13,Arena Corinthians - Sao Paulo - SP,08/04/2019 19:00:00,124,Palmeiras - SP,Felipe Melo,3,Segundo
+13,Arena do Grêmio - Porto Alegre - RS,08/05/2019 20:00:00,121,Grêmio - RS,Geromel,8,Primeiro
+13,Arena do Grêmio - Porto Alegre - RS,08/05/2019 20:00:00,121,Grêmio - RS,Everton,26,Primeiro
+13,Arena do Grêmio - Porto Alegre - RS,08/05/2019 20:00:00,121,Grêmio - RS,Diego Tardelli,35,Segundo
+13,Arena do Grêmio - Porto Alegre - RS,08/05/2019 20:00:00,121,Chapecoense - SC,Everaldo,11,Primeiro
+13,Arena do Grêmio - Porto Alegre - RS,08/05/2019 20:00:00,121,Chapecoense - SC,Gustavo,34,Primeiro
+13,Arena do Grêmio - Porto Alegre - RS,08/05/2019 20:00:00,121,Chapecoense - SC,Arthur,14,Segundo
+13,Arena da Baixada - Curitiba - PR,08/21/2019 19:15:00,130,São Paulo - SP,Vitor Bueno,39,Primeiro
+14,Arena Castelão - Fortaleza - CE,08/10/2019 17:00:00,133,Ceará - CE,Thiago Galhardo,50,Primeiro
+14,Arena Castelão - Fortaleza - CE,08/10/2019 17:00:00,133,Ceará - CE,Felippe Cardoso,11,Segundo
+14,Arena Castelão - Fortaleza - CE,08/10/2019 17:00:00,133,Ceará - CE,Thiago Galhardo,15,Segundo
+14,Arena Castelão - Fortaleza - CE,08/10/2019 17:00:00,133,Ceará - CE,Thiago Galhardo,44,Segundo
+14,Arena Castelão - Fortaleza - CE,08/10/2019 17:00:00,133,Chapecoense - SC,Renato Kayzer,43,Segundo
+14,Morumbi - Sao Paulo - SP,08/10/2019 17:00:00,135,São Paulo - SP,Alexandre Pato,3,Segundo
+14,Morumbi - Sao Paulo - SP,08/10/2019 17:00:00,135,São Paulo - SP,Reinaldo,11,Segundo
+14,Morumbi - Sao Paulo - SP,08/10/2019 17:00:00,135,São Paulo - SP,Alexandre Pato,26,Segundo
+14,Morumbi - Sao Paulo - SP,08/10/2019 17:00:00,135,Santos - SP,Eduardo Sasha,43,Primeiro
+14,Morumbi - Sao Paulo - SP,08/10/2019 17:00:00,135,Santos - SP,Raniel,40,Segundo
+14,Maracanã - Rio de Janeiro - RJ,08/10/2019 19:00:00,136,Flamengo - RJ,Willian Arão,29,Primeiro
+14,Maracanã - Rio de Janeiro - RJ,08/10/2019 19:00:00,136,Flamengo - RJ,De Arrascaeta,5,Segundo
+14,Maracanã - Rio de Janeiro - RJ,08/10/2019 19:00:00,136,Flamengo - RJ,Everton Ribeiro,46,Segundo
+14,Maracanã - Rio de Janeiro - RJ,08/10/2019 19:00:00,136,Grêmio - RS,Galhardo,50,Primeiro
+14,Independência - Belo Horizonte - MG,08/10/2019 21:00:00,132,Atlético - MG,Cazares,42,Primeiro
+14,Independência - Belo Horizonte - MG,08/10/2019 21:00:00,132,Atlético - MG,Ricardo Oliveira,5,Segundo
+14,Independência - Belo Horizonte - MG,08/10/2019 21:00:00,132,Fluminense - RJ,Nenê,43,Segundo
+14,Allianz Parque - Sao Paulo - SP,08/11/2019 16:00:00,134,Palmeiras - SP,Dudu,13,Primeiro
+14,Allianz Parque - Sao Paulo - SP,08/11/2019 16:00:00,134,Palmeiras - SP,Dudu,13,Segundo
+14,Allianz Parque - Sao Paulo - SP,08/11/2019 16:00:00,134,Bahia - BA,Gilberto,7,Segundo
+14,Allianz Parque - Sao Paulo - SP,08/11/2019 16:00:00,134,Bahia - BA,Gilberto,39,Segundo
+14,Nilton Santos - Rio de Janeiro - RJ,08/11/2019 16:00:00,137,Botafogo - RJ,Luiz Fernando,30,Primeiro
+14,Nilton Santos - Rio de Janeiro - RJ,08/11/2019 16:00:00,137,Botafogo - RJ,Diego Souza,31,Segundo
+14,Nilton Santos - Rio de Janeiro - RJ,08/11/2019 16:00:00,137,Athletico Paranaense - PR,Thonny Anderson,15,Primeiro
+14,Ressacada - Florianopolis - SC,08/11/2019 16:00:00,138,Avaí - SC,Pedro Castro,22,Primeiro
+14,Ressacada - Florianopolis - SC,08/11/2019 16:00:00,138,Avaí - SC,Brenner,29,Segundo
+14,Ressacada - Florianopolis - SC,08/11/2019 16:00:00,138,Cruzeiro - MG,Pedro Rocha,17,Segundo
+14,Ressacada - Florianopolis - SC,08/11/2019 16:00:00,138,Cruzeiro - MG,Sassa,47,Segundo
+14,Serra Dourada - Goiania - GO,08/11/2019 19:00:00,139,Vasco da Gama - RJ,Marcos Junior,21,Primeiro
+14,Rei Pelé - Maceio - AL,08/12/2019 20:00:00,140,Fortaleza - CE,Bruno,4,Primeiro
+14,Rei Pelé - Maceio - AL,08/12/2019 20:00:00,140,Fortaleza - CE,Edinho,37,Primeiro
+15,Arena Castelão - Fortaleza - CE,08/17/2019 17:00:00,143,Internacional - RS,Wellington Silva,20,Segundo
+15,Arena Corinthians - Sao Paulo - SP,08/17/2019 17:00:00,144,Corinthians - SP,Boselli,42,Primeiro
+15,Arena Corinthians - Sao Paulo - SP,08/17/2019 17:00:00,144,Corinthians - SP,Everaldo,11,Segundo
+15,Mané Garrincha - Brasilia - DF,08/17/2019 19:00:00,146,Vasco da Gama - RJ,Leandro,13,Segundo
+15,Mané Garrincha - Brasilia - DF,08/17/2019 19:00:00,146,Flamengo - RJ,Bruno Henrique,41,Primeiro
+15,Mané Garrincha - Brasilia - DF,08/17/2019 19:00:00,146,Flamengo - RJ,Gabriel Barbosa,6,Segundo
+15,Mané Garrincha - Brasilia - DF,08/17/2019 19:00:00,146,Flamengo - RJ,Gabriel Barbosa,16,Segundo
+15,Mané Garrincha - Brasilia - DF,08/17/2019 19:00:00,146,Flamengo - RJ,De Arrascaeta,38,Segundo
+15,Arena da Baixada - Curitiba - PR,08/17/2019 19:00:00,150,Athletico Paranaense - PR,Marcelo Cirino,28,Primeiro
+15,Arena do Grêmio - Porto Alegre - RS,08/17/2019 21:00:00,141,Grêmio - RS,David Braz,43,Segundo
+15,Arena do Grêmio - Porto Alegre - RS,08/17/2019 21:00:00,141,Palmeiras - SP,Dudu,13,Primeiro
+15,Arena Fonte Nova - Salvador - BA,08/18/2019 16:00:00,149,Bahia - BA,Guerra,25,Segundo
+15,Arena Fonte Nova - Salvador - BA,08/18/2019 16:00:00,149,Goiás - GO,Fabio Sanches,34,Primeiro
+15,Maracanã - Rio de Janeiro - RJ,08/18/2019 16:00:00,147,Csa - AL,Jonatan Gomez,34,Segundo
+15,Morumbi - Sao Paulo - SP,08/18/2019 16:00:00,145,São Paulo - SP,Dani Alves,39,Primeiro
+15,Mineirão - Belo Horizonte - MG,08/18/2019 16:00:00,142,Cruzeiro - MG,Fred,43,Primeiro
+15,Mineirão - Belo Horizonte - MG,08/18/2019 16:00:00,142,Cruzeiro - MG,Thiago Neves,1,Segundo
+15,Arena Condá - Chapeco - SC,08/18/2019 19:00:00,148,Chapecoense - SC,Everaldo,28,Segundo
+16,Independência - Belo Horizonte - MG,08/24/2019 11:00:00,152,Bahia - BA,Gilberto,19,Primeiro
+16,Arena do Grêmio - Porto Alegre - RS,08/24/2019 17:00:00,151,Grêmio - RS,Luan,3,Primeiro
+16,Arena do Grêmio - Porto Alegre - RS,08/24/2019 17:00:00,151,Grêmio - RS,Thaciano,6,Segundo
+16,Arena do Grêmio - Porto Alegre - RS,08/24/2019 17:00:00,151,Athletico Paranaense - PR,Rony,2,Segundo
+16,Vila Belmiro - Santos - SP,08/25/2019 16:00:00,155,Santos - SP,Marinho,2,Primeiro
+16,Vila Belmiro - Santos - SP,08/25/2019 16:00:00,155,Santos - SP,Jorge,10,Primeiro
+16,Vila Belmiro - Santos - SP,08/25/2019 16:00:00,155,Santos - SP,Eduardo Sasha,32,Primeiro
+16,Vila Belmiro - Santos - SP,08/25/2019 16:00:00,155,Fortaleza - CE,Wellington Paulista,14,Segundo
+16,Vila Belmiro - Santos - SP,08/25/2019 16:00:00,155,Fortaleza - CE,Wellington Paulista,22,Segundo
+16,Vila Belmiro - Santos - SP,08/25/2019 16:00:00,155,Fortaleza - CE,Guilherme,50,Segundo
+16,São Januário - Rio de Janeiro - RJ,08/25/2019 16:00:00,156,Vasco da Gama - RJ,Talles Magno,11,Segundo
+16,São Januário - Rio de Janeiro - RJ,08/25/2019 16:00:00,156,Vasco da Gama - RJ,Fellipe,36,Segundo
+16,Serra Dourada - Goiania - GO,08/25/2019 16:00:00,159,Goiás - GO,Michael,25,Segundo
+16,Serra Dourada - Goiania - GO,08/25/2019 16:00:00,159,Goiás - GO,Rafael Vaz,49,Segundo
+16,Serra Dourada - Goiania - GO,08/25/2019 16:00:00,159,Internacional - RS,G. Parede,11,Primeiro
+16,Arena Castelão - Fortaleza - CE,08/25/2019 19:00:00,153,Flamengo - RJ,PABLO MARI,21,Primeiro
+16,Arena Castelão - Fortaleza - CE,08/25/2019 19:00:00,153,Flamengo - RJ,Gabriel Barbosa,35,Primeiro
+16,Arena Castelão - Fortaleza - CE,08/25/2019 19:00:00,153,Flamengo - RJ,De Arrascaeta,51,Segundo
+16,Ressacada - Florianopolis - SC,08/25/2019 19:00:00,158,Avaí - SC,Richard,14,Segundo
+16,Ressacada - Florianopolis - SC,08/25/2019 19:00:00,158,Corinthians - SP,Vagner Love,31,Segundo
+16,Rei Pelé - Maceio - AL,08/25/2019 19:00:00,160,Csa - AL,Apodi,48,Segundo
+16,Rei Pelé - Maceio - AL,08/25/2019 19:00:00,160,Cruzeiro - MG,Fred,10,Primeiro
+16,Allianz Parque - Sao Paulo - SP,09/10/2019 21:00:00,154,Palmeiras - SP,Luiz Adriano,8,Primeiro
+16,Allianz Parque - Sao Paulo - SP,09/10/2019 21:00:00,154,Palmeiras - SP,Luiz Adriano,12,Segundo
+16,Allianz Parque - Sao Paulo - SP,09/10/2019 21:00:00,154,Palmeiras - SP,Luiz Adriano,17,Segundo
+17,Arena Fonte Nova - Salvador - BA,08/31/2019 17:00:00,169,Bahia - BA,Arthur Caike,40,Segundo
+17,Arena Condá - Chapeco - SC,08/31/2019 19:00:00,168,Santos - SP,Gum,38,Primeiro
+17,Arena da Baixada - Curitiba - PR,08/31/2019 19:00:00,170,Athletico Paranaense - PR,Nikao,49,Primeiro
+17,Beira-Rio - Porto Alegre - RS,08/31/2019 21:00:00,161,Internacional - RS,Rodrigo,43,Primeiro
+17,Beira-Rio - Porto Alegre - RS,08/31/2019 21:00:00,161,Internacional - RS,Edenilson,7,Segundo
+17,Beira-Rio - Porto Alegre - RS,08/31/2019 21:00:00,161,Internacional - RS,Nico Lopez,37,Segundo
+17,Beira-Rio - Porto Alegre - RS,08/31/2019 21:00:00,161,Botafogo - RJ,Diego Souza,16,Segundo
+17,Beira-Rio - Porto Alegre - RS,08/31/2019 21:00:00,161,Botafogo - RJ,Marcinho,49,Segundo
+17,Arena Castelão - Fortaleza - CE,09/01/2019 16:00:00,163,Fortaleza - CE,Juan Quintero,24,Primeiro
+17,Arena Castelão - Fortaleza - CE,09/01/2019 16:00:00,163,Fortaleza - CE,Osvaldo,13,Segundo
+17,Maracanã - Rio de Janeiro - RJ,09/01/2019 16:00:00,166,Flamengo - RJ,Gabriel Barbosa,10,Primeiro
+17,Maracanã - Rio de Janeiro - RJ,09/01/2019 16:00:00,166,Flamengo - RJ,De Arrascaeta,38,Primeiro
+17,Maracanã - Rio de Janeiro - RJ,09/01/2019 16:00:00,166,Flamengo - RJ,Gabriel Barbosa,15,Segundo
+17,Arena Corinthians - Sao Paulo - SP,09/01/2019 19:00:00,164,Corinthians - SP,Gustavo,43,Segundo
+17,Mineirão - Belo Horizonte - MG,09/01/2019 19:00:00,162,Cruzeiro - MG,Mauricio,31,Segundo
+17,Maracanã - Rio de Janeiro - RJ,09/02/2019 20:00:00,167,Avaí - SC,João Paulo,41,Segundo
+18,Arena Corinthians - Sao Paulo - SP,09/07/2019 11:00:00,174,Corinthians - SP,Joao Lucas,22,Primeiro
+18,Arena Corinthians - Sao Paulo - SP,09/07/2019 11:00:00,174,Corinthians - SP,Vagner Love,36,Primeiro
+18,Arena Corinthians - Sao Paulo - SP,09/07/2019 11:00:00,174,Ceará - CE,Thiago Galhardo,24,Segundo
+18,Arena Corinthians - Sao Paulo - SP,09/07/2019 11:00:00,174,Ceará - CE,Leandro,47,Segundo
+18,São Januário - Rio de Janeiro - RJ,09/07/2019 11:00:00,176,Bahia - BA,Nino Paraiba,11,Segundo
+18,São Januário - Rio de Janeiro - RJ,09/07/2019 11:00:00,176,Bahia - BA,Gilberto,15,Segundo
+18,Arena Castelão - Fortaleza - CE,09/07/2019 17:00:00,173,Fluminense - RJ,Joao Pedro,41,Segundo
+18,Mané Garrincha - Brasilia - DF,09/07/2019 17:00:00,178,Flamengo - RJ,Gabriel Barbosa,10,Primeiro
+18,Mané Garrincha - Brasilia - DF,09/07/2019 17:00:00,178,Flamengo - RJ,PABLO MARI,31,Primeiro
+18,Mané Garrincha - Brasilia - DF,09/07/2019 17:00:00,178,Flamengo - RJ,Reinier,7,Segundo
+18,Beira-Rio - Porto Alegre - RS,09/07/2019 19:00:00,171,Internacional - RS,Rafael Sobis,30,Segundo
+18,Serra Dourada - Goiania - GO,09/07/2019 21:00:00,179,Goiás - GO,Rafael Vaz,20,Primeiro
+18,Serra Dourada - Goiania - GO,09/07/2019 21:00:00,179,Palmeiras - SP,Willian,37,Segundo
+18,Serra Dourada - Goiania - GO,09/07/2019 21:00:00,179,Palmeiras - SP,Gustavo Scarpa,55,Segundo
+18,Independência - Belo Horizonte - MG,09/08/2019 11:00:00,172,Cruzeiro - MG,Fred,36,Primeiro
+18,Independência - Belo Horizonte - MG,09/08/2019 11:00:00,172,Grêmio - RS,Diego Tardelli,18,Primeiro
+18,Independência - Belo Horizonte - MG,09/08/2019 11:00:00,172,Grêmio - RS,Alisson,27,Primeiro
+18,Independência - Belo Horizonte - MG,09/08/2019 11:00:00,172,Grêmio - RS,Everton,18,Segundo
+18,Independência - Belo Horizonte - MG,09/08/2019 11:00:00,172,Grêmio - RS,Everton,31,Segundo
+18,Nilton Santos - Rio de Janeiro - RJ,09/08/2019 16:00:00,177,Botafogo - RJ,Diego Souza,44,Primeiro
+18,Nilton Santos - Rio de Janeiro - RJ,09/08/2019 16:00:00,177,Botafogo - RJ,Alex,20,Segundo
+18,Nilton Santos - Rio de Janeiro - RJ,09/08/2019 16:00:00,177,Atlético - MG,Di Santo,47,Segundo
+18,Vila Belmiro - Santos - SP,09/08/2019 16:00:00,175,Santos - SP,Carlos Sanchez,46,Segundo
+18,Vila Belmiro - Santos - SP,09/08/2019 16:00:00,175,Athletico Paranaense - PR,Braian Romero,42,Primeiro
+18,Rei Pelé - Maceio - AL,09/08/2019 19:00:00,180,Csa - AL,Alecsandro,39,Primeiro
+18,Rei Pelé - Maceio - AL,09/08/2019 19:00:00,180,Csa - AL,Jonatan Gomez,49,Segundo
+19,Maracanã - Rio de Janeiro - RJ,09/14/2019 17:00:00,186,Flamengo - RJ,Gabriel Barbosa,44,Primeiro
+19,Allianz Parque - Sao Paulo - SP,09/14/2019 19:00:00,184,Palmeiras - SP,Bruno,46,Primeiro
+19,Arena Condá - Chapeco - SC,09/14/2019 19:00:00,188,Chapecoense - SC,Arthur,27,Segundo
+19,Arena Condá - Chapeco - SC,09/14/2019 19:00:00,188,Vasco da Gama - RJ,Lucas Ribamar,47,Primeiro
+19,Arena Condá - Chapeco - SC,09/14/2019 19:00:00,188,Vasco da Gama - RJ,Talles Magno,29,Segundo
+19,Independência - Belo Horizonte - MG,09/15/2019 11:00:00,182,Atlético - MG,Bruno,42,Segundo
+19,Independência - Belo Horizonte - MG,09/15/2019 11:00:00,182,Internacional - RS,Pottker,23,Primeiro
+19,Independência - Belo Horizonte - MG,09/15/2019 11:00:00,182,Internacional - RS,Neilton,7,Segundo
+19,Independência - Belo Horizonte - MG,09/15/2019 11:00:00,182,Internacional - RS,Pottker,18,Segundo
+19,Arena da Baixada - Curitiba - PR,09/15/2019 11:00:00,190,Avaí - SC,Jonathan,13,Primeiro
+19,Arena do Grêmio - Porto Alegre - RS,09/15/2019 16:00:00,181,Grêmio - RS,Jean Pyerre,29,Primeiro
+19,Arena do Grêmio - Porto Alegre - RS,09/15/2019 16:00:00,181,Grêmio - RS,Everton,32,Primeiro
+19,Arena do Grêmio - Porto Alegre - RS,09/15/2019 16:00:00,181,Grêmio - RS,Alisson,44,Primeiro
+19,Mané Garrincha - Brasilia - DF,09/15/2019 16:00:00,187,Fluminense - RJ,PH GANSO,39,Primeiro
+19,Arena Fonte Nova - Salvador - BA,09/15/2019 16:00:00,189,Bahia - BA,Gilberto,13,Primeiro
+19,Arena Fonte Nova - Salvador - BA,09/15/2019 16:00:00,189,Fortaleza - CE,Felipe,9,Primeiro
+19,Morumbi - Sao Paulo - SP,09/15/2019 19:00:00,185,São Paulo - SP,Reinaldo,41,Segundo
+19,Morumbi - Sao Paulo - SP,09/15/2019 19:00:00,185,Csa - AL,HECTOR,9,Segundo
+20,Nilton Santos - Rio de Janeiro - RJ,09/21/2019 11:00:00,197,Botafogo - RJ,Joao Paulo,45,Primeiro
+20,Nilton Santos - Rio de Janeiro - RJ,09/21/2019 11:00:00,197,São Paulo - SP,Hernanes,36,Primeiro
+20,Nilton Santos - Rio de Janeiro - RJ,09/21/2019 11:00:00,197,São Paulo - SP,Pablo,46,Segundo
+20,Mineirão - Belo Horizonte - MG,09/21/2019 17:00:00,192,Cruzeiro - MG,Thiago Neves,38,Primeiro
+20,Mineirão - Belo Horizonte - MG,09/21/2019 17:00:00,192,Flamengo - RJ,Gabriel Barbosa,6,Primeiro
+20,Mineirão - Belo Horizonte - MG,09/21/2019 17:00:00,192,Flamengo - RJ,De Arrascaeta,21,Segundo
+20,Arena Corinthians - Sao Paulo - SP,09/21/2019 19:00:00,194,Corinthians - SP,Vagner Love,43,Primeiro
+20,Arena Corinthians - Sao Paulo - SP,09/21/2019 19:00:00,194,Corinthians - SP,Clayson,30,Segundo
+20,Arena Corinthians - Sao Paulo - SP,09/21/2019 19:00:00,194,Bahia - BA,Gilberto,18,Segundo
+20,Vila Belmiro - Santos - SP,09/21/2019 21:00:00,195,Grêmio - RS,Luan,9,Segundo
+20,Vila Belmiro - Santos - SP,09/21/2019 21:00:00,195,Grêmio - RS,Pepe,42,Segundo
+20,Vila Belmiro - Santos - SP,09/21/2019 21:00:00,195,Grêmio - RS,Everton,47,Segundo
+20,Beira-Rio - Porto Alegre - RS,09/22/2019 11:00:00,191,Internacional - RS,Rodrigo,47,Segundo
+20,São Januário - Rio de Janeiro - RJ,09/22/2019 16:00:00,196,Vasco da Gama - RJ,Danilo Barcelos,23,Segundo
+20,São Januário - Rio de Janeiro - RJ,09/22/2019 16:00:00,196,Athletico Paranaense - PR,Madson,4,Segundo
+20,Rei Pelé - Maceio - AL,09/22/2019 16:00:00,200,Csa - AL,Carlinhos,18,Segundo
+20,Arena Castelão - Fortaleza - CE,09/22/2019 16:00:00,193,Palmeiras - SP,Willian,2,Segundo
+20,Serra Dourada - Goiania - GO,09/22/2019 19:00:00,199,Goiás - GO,Michael,11,Primeiro
+20,Serra Dourada - Goiania - GO,09/22/2019 19:00:00,199,Goiás - GO,Rafael Vaz,20,Segundo
+20,Serra Dourada - Goiania - GO,09/22/2019 19:00:00,199,Goiás - GO,Yago Felipe,44,Segundo
+20,Ressacada - Florianopolis - SC,09/23/2019 20:00:00,198,Avaí - SC,Jonathan,26,Primeiro
+21,Arena Fonte Nova - Salvador - BA,09/25/2019 21:30:00,209,Bahia - BA,Artur,23,Primeiro
+21,Arena Fonte Nova - Salvador - BA,09/25/2019 21:30:00,209,Bahia - BA,Elber,18,Segundo
+21,Morumbi - Sao Paulo - SP,09/25/2019 21:30:00,205,Goiás - GO,Leandro Barcia,15,Primeiro
+21,Maracanã - Rio de Janeiro - RJ,09/25/2019 21:30:00,206,Flamengo - RJ,Gabriel Barbosa,19,Primeiro
+21,Maracanã - Rio de Janeiro - RJ,09/25/2019 21:30:00,206,Flamengo - RJ,De Arrascaeta,10,Segundo
+21,Maracanã - Rio de Janeiro - RJ,09/25/2019 21:30:00,206,Flamengo - RJ,Bruno Henrique,29,Segundo
+21,Maracanã - Rio de Janeiro - RJ,09/25/2019 21:30:00,206,Internacional - RS,Edenilson,4,Segundo
+21,Pacaembu - Sao Paulo - SP,09/26/2019 19:15:00,204,Palmeiras - SP,Luiz Adriano,5,Primeiro
+21,Pacaembu - Sao Paulo - SP,09/26/2019 19:15:00,204,Palmeiras - SP,Willian,11,Primeiro
+21,Pacaembu - Sao Paulo - SP,09/26/2019 19:15:00,204,Palmeiras - SP,Bruno,28,Primeiro
+21,Pacaembu - Sao Paulo - SP,09/26/2019 19:15:00,204,Palmeiras - SP,GUSTAVO GOMEZ,46,Primeiro
+21,Pacaembu - Sao Paulo - SP,09/26/2019 19:15:00,204,Palmeiras - SP,Luiz Adriano,29,Segundo
+21,Pacaembu - Sao Paulo - SP,09/26/2019 19:15:00,204,Palmeiras - SP,Bruno,38,Segundo
+21,Pacaembu - Sao Paulo - SP,09/26/2019 19:15:00,204,Csa - AL,Apodi,7,Segundo
+21,Pacaembu - Sao Paulo - SP,09/26/2019 19:15:00,204,Csa - AL,Ricardo Bueno,43,Segundo
+21,Arena do Grêmio - Porto Alegre - RS,09/26/2019 20:00:00,201,Grêmio - RS,Diego Tardelli,3,Primeiro
+21,Arena do Grêmio - Porto Alegre - RS,09/26/2019 20:00:00,201,Grêmio - RS,David Braz,13,Primeiro
+21,Arena do Grêmio - Porto Alegre - RS,09/26/2019 20:00:00,201,Grêmio - RS,Luan,37,Primeiro
+21,Arena do Grêmio - Porto Alegre - RS,09/26/2019 20:00:00,201,Grêmio - RS,Luciano,45,Primeiro
+21,Arena do Grêmio - Porto Alegre - RS,09/26/2019 20:00:00,201,Grêmio - RS,Cortez,18,Segundo
+21,Arena do Grêmio - Porto Alegre - RS,09/26/2019 20:00:00,201,Grêmio - RS,Andre Felipe,24,Segundo
+21,Arena do Grêmio - Porto Alegre - RS,09/26/2019 20:00:00,201,Avaí - SC,Gêge,40,Segundo
+21,Maracanã - Rio de Janeiro - RJ,09/26/2019 20:00:00,207,Fluminense - RJ,Lucas Verissimo,47,Primeiro
+21,Maracanã - Rio de Janeiro - RJ,09/26/2019 20:00:00,207,Santos - SP,Yeferson Soteldo,39,Primeiro
+21,Arena da Baixada - Curitiba - PR,09/26/2019 21:30:00,210,Athletico Paranaense - PR,Marco Ruben,31,Primeiro
+21,Arena da Baixada - Curitiba - PR,09/26/2019 21:30:00,210,Athletico Paranaense - PR,Nikao,48,Primeiro
+21,Arena da Baixada - Curitiba - PR,09/26/2019 21:30:00,210,Athletico Paranaense - PR,Cittadini,15,Segundo
+21,Arena da Baixada - Curitiba - PR,09/26/2019 21:30:00,210,Athletico Paranaense - PR,Marcelo Cirino,49,Segundo
+21,Arena da Baixada - Curitiba - PR,09/26/2019 21:30:00,210,Fortaleza - CE,Wellington Paulista,10,Primeiro
+21,Arena Condá - Chapeco - SC,10/02/2019 19:15:00,208,Corinthians - SP,Danilo,18,Primeiro
+21,Independência - Belo Horizonte - MG,10/02/2019 19:15:00,202,Atlético - MG,Otero,15,Segundo
+21,Independência - Belo Horizonte - MG,10/02/2019 19:15:00,202,Vasco da Gama - RJ,Rossi,21,Segundo
+21,Independência - Belo Horizonte - MG,10/02/2019 19:15:00,202,Vasco da Gama - RJ,Marcos Junior,49,Segundo
+22,Arena Corinthians - Sao Paulo - SP,09/29/2019 11:00:00,214,Corinthians - SP,Ralf,13,Segundo
+22,Vila Belmiro - Santos - SP,09/29/2019 16:00:00,215,Santos - SP,Carlos Sanchez,35,Primeiro
+22,Vila Belmiro - Santos - SP,09/29/2019 16:00:00,215,Santos - SP,Eduardo Sasha,11,Segundo
+22,Beira-Rio - Porto Alegre - RS,09/29/2019 16:00:00,211,Internacional - RS,Patrick,27,Primeiro
+22,Beira-Rio - Porto Alegre - RS,09/29/2019 16:00:00,211,Palmeiras - SP,Willian,12,Segundo
+22,Maracanã - Rio de Janeiro - RJ,09/29/2019 16:00:00,217,Fluminense - RJ,Nenê,6,Primeiro
+22,Maracanã - Rio de Janeiro - RJ,09/29/2019 16:00:00,217,Fluminense - RJ,Caio Henrique,4,Segundo
+22,Maracanã - Rio de Janeiro - RJ,09/29/2019 16:00:00,217,Grêmio - RS,Patrick,30,Segundo
+22,Independência - Belo Horizonte - MG,09/29/2019 19:00:00,212,Atlético - MG,Otero,8,Segundo
+22,Independência - Belo Horizonte - MG,09/29/2019 19:00:00,212,Atlético - MG,Luan,35,Segundo
+22,Independência - Belo Horizonte - MG,09/29/2019 19:00:00,212,Ceará - CE,Thiago Galhardo,42,Primeiro
+22,Arena da Baixada - Curitiba - PR,09/29/2019 19:00:00,220,Athletico Paranaense - PR,Nikao,11,Segundo
+22,Arena da Baixada - Curitiba - PR,09/29/2019 19:00:00,220,Chapecoense - SC,Arthur,31,Primeiro
+22,Serra Dourada - Goiania - GO,09/30/2019 20:00:00,219,Goiás - GO,Alan Ruschel,17,Segundo
+22,Arena Castelão - Fortaleza - CE,09/30/2019 20:00:00,213,Fortaleza - CE,Marcelo,15,Segundo
+22,Ressacada - Florianopolis - SC,09/30/2019 20:00:00,218,Bahia - BA,Elber,24,Primeiro
+22,Ressacada - Florianopolis - SC,09/30/2019 20:00:00,218,Bahia - BA,Nino Paraiba,26,Primeiro
+23,Pacaembu - Sao Paulo - SP,10/05/2019 17:00:00,225,São Paulo - SP,Pablo,15,Primeiro
+23,Pacaembu - Sao Paulo - SP,10/05/2019 17:00:00,225,São Paulo - SP,Igor Gomes,33,Segundo
+23,Pacaembu - Sao Paulo - SP,10/05/2019 17:00:00,225,Fortaleza - CE,Wellington Paulista,38,Primeiro
+23,São Januário - Rio de Janeiro - RJ,10/05/2019 17:00:00,226,Santos - SP,Tailson,4,Segundo
+23,Arena Fonte Nova - Salvador - BA,10/05/2019 19:00:00,229,Bahia - BA,Fernandao,31,Segundo
+23,Arena Fonte Nova - Salvador - BA,10/05/2019 19:00:00,229,Athletico Paranaense - PR,Marcelo Cirino,12,Segundo
+23,Arena Fonte Nova - Salvador - BA,10/05/2019 19:00:00,229,Athletico Paranaense - PR,Cittadini,20,Segundo
+23,Mineirão - Belo Horizonte - MG,10/05/2019 21:00:00,222,Cruzeiro - MG,Fred,17,Segundo
+23,Mineirão - Belo Horizonte - MG,10/05/2019 21:00:00,222,Internacional - RS,Nonato,10,Primeiro
+23,Arena Condá - Chapeco - SC,10/06/2019 11:00:00,228,Flamengo - RJ,Bruno Henrique,35,Primeiro
+23,Arena Castelão - Fortaleza - CE,10/06/2019 16:00:00,223,Goiás - GO,Michael,26,Primeiro
+23,Allianz Parque - Sao Paulo - SP,10/06/2019 16:00:00,224,Palmeiras - SP,Dudu,38,Segundo
+23,Allianz Parque - Sao Paulo - SP,10/06/2019 16:00:00,224,Atlético - MG,Nathan,47,Primeiro
+23,Nilton Santos - Rio de Janeiro - RJ,10/06/2019 16:00:00,227,Fluminense - RJ,Yony Gonzalez,34,Primeiro
+23,Rei Pelé - Maceio - AL,10/06/2019 19:00:00,230,Csa - AL,Ricardo Bueno,13,Primeiro
+23,Rei Pelé - Maceio - AL,10/06/2019 19:00:00,230,Csa - AL,Jonatan Gomez,25,Segundo
+23,Rei Pelé - Maceio - AL,10/06/2019 19:00:00,230,Csa - AL,Apodi,49,Segundo
+23,Rei Pelé - Maceio - AL,10/06/2019 19:00:00,230,Avaí - SC,Jonathan,3,Segundo
+24,Nilton Santos - Rio de Janeiro - RJ,10/09/2019 19:15:00,237,Botafogo - RJ,Gabriel Costa Franca,31,Primeiro
+24,Nilton Santos - Rio de Janeiro - RJ,10/09/2019 19:15:00,237,Botafogo - RJ,Joao Paulo,19,Segundo
+24,Nilton Santos - Rio de Janeiro - RJ,10/09/2019 19:15:00,237,Botafogo - RJ,Leo Valencia,35,Segundo
+24,Nilton Santos - Rio de Janeiro - RJ,10/09/2019 19:15:00,237,Goiás - GO,Marcelo,31,Segundo
+24,Rei Pelé - Maceio - AL,10/09/2019 19:15:00,240,Csa - AL,Jonatan Gomez,20,Segundo
+24,Arena Castelão - Fortaleza - CE,10/09/2019 20:30:00,233,Fortaleza - CE,Wellington Paulista,4,Segundo
+24,Arena Castelão - Fortaleza - CE,10/09/2019 20:30:00,233,Fortaleza - CE,Wellington Paulista,35,Segundo
+24,Centenário - Caxias do Sul - RS,10/09/2019 21:00:00,231,Grêmio - RS,Geromel,34,Primeiro
+24,Centenário - Caxias do Sul - RS,10/09/2019 21:00:00,231,Grêmio - RS,Maicon,41,Primeiro
+24,Centenário - Caxias do Sul - RS,10/09/2019 21:00:00,231,Ceará - CE,Fabinho,43,Primeiro
+24,Vila Belmiro - Santos - SP,10/09/2019 21:30:00,235,Santos - SP,Gustavo,13,Primeiro
+24,Vila Belmiro - Santos - SP,10/09/2019 21:30:00,235,Santos - SP,Marinho,17,Primeiro
+24,Arena Corinthians - Sao Paulo - SP,10/10/2019 19:15:00,234,Corinthians - SP,Gil,15,Primeiro
+24,Arena Corinthians - Sao Paulo - SP,10/10/2019 19:15:00,234,Corinthians - SP,Boselli,47,Primeiro
+24,Arena Corinthians - Sao Paulo - SP,10/10/2019 19:15:00,234,Athletico Paranaense - PR,Cittadini,23,Primeiro
+24,Arena Corinthians - Sao Paulo - SP,10/10/2019 19:15:00,234,Athletico Paranaense - PR,Erick,32,Primeiro
+24,Maracanã - Rio de Janeiro - RJ,10/10/2019 20:00:00,236,Flamengo - RJ,Willian Arão,36,Primeiro
+24,Maracanã - Rio de Janeiro - RJ,10/10/2019 20:00:00,236,Flamengo - RJ,Vitinho,15,Segundo
+24,Maracanã - Rio de Janeiro - RJ,10/10/2019 20:00:00,236,Flamengo - RJ,Reinier,30,Segundo
+24,Maracanã - Rio de Janeiro - RJ,10/10/2019 20:00:00,236,Atlético - MG,Nathan,5,Segundo
+25,Serra Dourada - Goiania - GO,10/12/2019 17:00:00,249,Goiás - GO,Michael,44,Primeiro
+25,Maracanã - Rio de Janeiro - RJ,10/12/2019 19:00:00,247,Fluminense - RJ,Nenê,20,Primeiro
+25,Maracanã - Rio de Janeiro - RJ,10/12/2019 19:00:00,247,Fluminense - RJ,Daniel,44,Primeiro
+25,Pacaembu - Sao Paulo - SP,10/12/2019 21:00:00,244,Palmeiras - SP,Thiago Santos,14,Primeiro
+25,Arena Castelão - Fortaleza - CE,10/13/2019 16:00:00,243,Ceará - CE,Bergson,44,Segundo
+25,Arena da Baixada - Curitiba - PR,10/13/2019 16:00:00,250,Flamengo - RJ,Bruno Henrique,45,Primeiro
+25,Arena da Baixada - Curitiba - PR,10/13/2019 16:00:00,250,Flamengo - RJ,Bruno Henrique,46,Segundo
+25,São Januário - Rio de Janeiro - RJ,10/13/2019 16:00:00,246,Vasco da Gama - RJ,Yago,22,Segundo
+25,Morumbi - Sao Paulo - SP,10/13/2019 18:00:00,245,São Paulo - SP,Reinaldo,20,Segundo
+25,Independência - Belo Horizonte - MG,10/13/2019 19:00:00,242,Atlético - MG,Di Santo,49,Primeiro
+25,Independência - Belo Horizonte - MG,10/13/2019 19:00:00,242,Grêmio - RS,Galhardo,33,Primeiro
+25,Independência - Belo Horizonte - MG,10/13/2019 19:00:00,242,Grêmio - RS,Maicon,43,Primeiro
+25,Independência - Belo Horizonte - MG,10/13/2019 19:00:00,242,Grêmio - RS,Pepe,2,Segundo
+25,Independência - Belo Horizonte - MG,10/13/2019 19:00:00,242,Grêmio - RS,Alisson,49,Segundo
+25,Arena Condá - Chapeco - SC,10/13/2019 19:00:00,248,Chapecoense - SC,Camilo,49,Segundo
+25,Arena Condá - Chapeco - SC,10/13/2019 19:00:00,248,Cruzeiro - MG,Dedé,3,Primeiro
+26,Rei Pelé - Maceio - AL,10/16/2019 19:15:00,260,Csa - AL,Alecsandro,33,Primeiro
+26,Rei Pelé - Maceio - AL,10/16/2019 19:15:00,260,Csa - AL,Jonatan Gomez,44,Segundo
+26,Rei Pelé - Maceio - AL,10/16/2019 19:15:00,260,Atlético - MG,Rever,23,Segundo
+26,Rei Pelé - Maceio - AL,10/16/2019 19:15:00,260,Atlético - MG,Luan,39,Segundo
+26,Arena do Grêmio - Porto Alegre - RS,10/16/2019 19:15:00,251,Bahia - BA,Arthur Caike,45,Segundo
+26,Arena Castelão - Fortaleza - CE,10/16/2019 20:00:00,253,Fortaleza - CE,Bruno,16,Segundo
+26,Arena Castelão - Fortaleza - CE,10/16/2019 20:00:00,253,Flamengo - RJ,Gabriel Barbosa,35,Segundo
+26,Arena Castelão - Fortaleza - CE,10/16/2019 20:00:00,253,Flamengo - RJ,Reinier,44,Segundo
+26,Mineirão - Belo Horizonte - MG,10/16/2019 21:00:00,252,Cruzeiro - MG,Thiago Neves,13,Segundo
+26,Allianz Parque - Sao Paulo - SP,10/16/2019 21:00:00,254,Palmeiras - SP,Felipe Melo,54,Segundo
+26,Serra Dourada - Goiania - GO,10/16/2019 21:30:00,259,Goiás - GO,Michael,37,Primeiro
+26,Serra Dourada - Goiania - GO,10/16/2019 21:30:00,259,Goiás - GO,Leandro Barcia,26,Segundo
+26,Serra Dourada - Goiania - GO,10/16/2019 21:30:00,259,Corinthians - SP,Janderson,10,Primeiro
+26,Serra Dourada - Goiania - GO,10/16/2019 21:30:00,259,Corinthians - SP,Gustavo,51,Segundo
+26,São Januário - Rio de Janeiro - RJ,10/16/2019 21:30:00,256,Vasco da Gama - RJ,Bruno Gomes,8,Primeiro
+26,São Januário - Rio de Janeiro - RJ,10/16/2019 21:30:00,256,Vasco da Gama - RJ,Lucas Ribamar,18,Primeiro
+26,São Januário - Rio de Janeiro - RJ,10/16/2019 21:30:00,256,Botafogo - RJ,Marcelo,21,Primeiro
+26,Ressacada - Florianopolis - SC,10/17/2019 19:15:00,258,Internacional - RS,Patrick,21,Primeiro
+26,Ressacada - Florianopolis - SC,10/17/2019 19:15:00,258,Internacional - RS,Sarrafiore,39,Segundo
+26,Vila Belmiro - Santos - SP,10/17/2019 19:15:00,255,Santos - SP,Eduardo Sasha,10,Segundo
+26,Vila Belmiro - Santos - SP,10/17/2019 19:15:00,255,Santos - SP,Gustavo,38,Segundo
+26,Vila Belmiro - Santos - SP,10/17/2019 19:15:00,255,Ceará - CE,Lima,17,Primeiro
+26,Maracanã - Rio de Janeiro - RJ,10/17/2019 21:00:00,257,Fluminense - RJ,Frazan,4,Primeiro
+26,Maracanã - Rio de Janeiro - RJ,10/17/2019 21:00:00,257,Athletico Paranaense - PR,Madson,47,Primeiro
+26,Maracanã - Rio de Janeiro - RJ,10/17/2019 21:00:00,257,Athletico Paranaense - PR,Madson,26,Segundo
+27,Arena Castelão - Fortaleza - CE,10/19/2019 17:00:00,263,Fortaleza - CE,Wellington Paulista,34,Primeiro
+27,Arena Castelão - Fortaleza - CE,10/19/2019 17:00:00,263,Fortaleza - CE,Osvaldo,40,Primeiro
+27,Arena Castelão - Fortaleza - CE,10/19/2019 17:00:00,263,Grêmio - RS,P. Miranda,9,Primeiro
+27,Arena Corinthians - Sao Paulo - SP,10/19/2019 19:00:00,264,Corinthians - SP,Fagner,33,Primeiro
+27,Arena Corinthians - Sao Paulo - SP,10/19/2019 19:00:00,264,Cruzeiro - MG,Fred,37,Primeiro
+27,Arena Corinthians - Sao Paulo - SP,10/19/2019 19:00:00,264,Cruzeiro - MG,Ederson,26,Segundo
+27,Beira-Rio - Porto Alegre - RS,10/20/2019 16:00:00,261,Vasco da Gama - RJ,Marrony,7,Segundo
+27,Morumbi - Sao Paulo - SP,10/20/2019 16:00:00,265,São Paulo - SP,Arboleda,6,Segundo
+27,Independência - Belo Horizonte - MG,10/20/2019 16:00:00,262,Atlético - MG,Luan,2,Primeiro
+27,Independência - Belo Horizonte - MG,10/20/2019 16:00:00,262,Atlético - MG,Leo Silva,22,Primeiro
+27,Maracanã - Rio de Janeiro - RJ,10/20/2019 18:00:00,266,Flamengo - RJ,Bruno Henrique,3,Primeiro
+27,Maracanã - Rio de Janeiro - RJ,10/20/2019 18:00:00,266,Flamengo - RJ,Gerson,21,Segundo
+27,Arena da Baixada - Curitiba - PR,10/20/2019 19:00:00,270,Athletico Paranaense - PR,Marcelo Cirino,6,Primeiro
+27,Arena da Baixada - Curitiba - PR,10/20/2019 19:00:00,270,Palmeiras - SP,Deyverson,40,Primeiro
+27,Arena Condá - Chapeco - SC,10/20/2019 19:00:00,268,Chapecoense - SC,Everaldo,22,Primeiro
+27,Arena Condá - Chapeco - SC,10/20/2019 19:00:00,268,Chapecoense - SC,H. Almeida,30,Primeiro
+27,Arena Condá - Chapeco - SC,10/20/2019 19:00:00,268,Goiás - GO,Rafinha,3,Segundo
+27,Arena Condá - Chapeco - SC,10/20/2019 19:00:00,268,Goiás - GO,Rafael Vaz,39,Segundo
+27,Pituaçu - Salvador - BA,10/21/2019 19:30:00,269,Bahia - BA,Artur,30,Segundo
+27,Pituaçu - Salvador - BA,10/21/2019 19:30:00,269,Ceará - CE,Luiz,40,Segundo
+27,Pituaçu - Salvador - BA,10/21/2019 19:30:00,269,Ceará - CE,Luiz,48,Segundo
+27,Nilton Santos - Rio de Janeiro - RJ,10/21/2019 20:00:00,267,Botafogo - RJ,Luciano Castan,15,Primeiro
+27,Nilton Santos - Rio de Janeiro - RJ,10/21/2019 20:00:00,267,Botafogo - RJ,Igor Cassio,23,Segundo
+27,Nilton Santos - Rio de Janeiro - RJ,10/21/2019 20:00:00,267,Csa - AL,Ricardo Bueno,21,Segundo
+28,Arena Castelão - Fortaleza - CE,10/26/2019 17:00:00,273,Ceará - CE,Bergson,36,Segundo
+28,Arena Castelão - Fortaleza - CE,10/26/2019 17:00:00,273,Vasco da Gama - RJ,Rossi,18,Primeiro
+28,Arena Fonte Nova - Salvador - BA,10/26/2019 19:00:00,279,Bahia - BA,Artur,25,Segundo
+28,Arena Fonte Nova - Salvador - BA,10/26/2019 19:00:00,279,Bahia - BA,Juninho,41,Segundo
+28,Arena Fonte Nova - Salvador - BA,10/26/2019 19:00:00,279,Internacional - RS,Guerrero,4,Segundo
+28,Arena Fonte Nova - Salvador - BA,10/26/2019 19:00:00,279,Internacional - RS,G. Parede,7,Segundo
+28,Arena Fonte Nova - Salvador - BA,10/26/2019 19:00:00,279,Internacional - RS,Guerrero,29,Segundo
+28,Maracanã - Rio de Janeiro - RJ,10/26/2019 19:30:00,277,Fluminense - RJ,Marcos Paulo,6,Segundo
+28,Maracanã - Rio de Janeiro - RJ,10/26/2019 19:30:00,277,Chapecoense - SC,Everaldo,26,Primeiro
+28,Mineirão - Belo Horizonte - MG,10/26/2019 21:00:00,272,Cruzeiro - MG,Orejuela,34,Segundo
+28,Mineirão - Belo Horizonte - MG,10/26/2019 21:00:00,272,Fortaleza - CE,Wellington Paulista,37,Segundo
+28,Morumbi - Sao Paulo - SP,10/27/2019 16:00:00,275,São Paulo - SP,Igor Gomes,5,Segundo
+28,Morumbi - Sao Paulo - SP,10/27/2019 16:00:00,275,São Paulo - SP,Vitor Bueno,11,Segundo
+28,Arena da Baixada - Curitiba - PR,10/27/2019 16:00:00,280,Athletico Paranaense - PR,Leo Pereira,3,Segundo
+28,Arena da Baixada - Curitiba - PR,10/27/2019 16:00:00,280,Athletico Paranaense - PR,Rony,8,Segundo
+28,Arena da Baixada - Curitiba - PR,10/27/2019 16:00:00,280,Athletico Paranaense - PR,Adriano,17,Segundo
+28,Arena da Baixada - Curitiba - PR,10/27/2019 16:00:00,280,Athletico Paranaense - PR,Marco Ruben,48,Segundo
+28,Arena da Baixada - Curitiba - PR,10/27/2019 16:00:00,280,Goiás - GO,Rafael Moura,45,Primeiro
+28,Arena do Grêmio - Porto Alegre - RS,10/27/2019 16:00:00,271,Grêmio - RS,Maicon,11,Primeiro
+28,Arena do Grêmio - Porto Alegre - RS,10/27/2019 16:00:00,271,Grêmio - RS,Thaciano,25,Segundo
+28,Arena do Grêmio - Porto Alegre - RS,10/27/2019 16:00:00,271,Grêmio - RS,Everton,35,Segundo
+28,Ressacada - Florianopolis - SC,10/27/2019 18:00:00,278,Avaí - SC,João Paulo,33,Segundo
+28,Ressacada - Florianopolis - SC,10/27/2019 18:00:00,278,Palmeiras - SP,Deyverson,8,Segundo
+28,Ressacada - Florianopolis - SC,10/27/2019 18:00:00,278,Palmeiras - SP,Gustavo Scarpa,40,Segundo
+28,Maracanã - Rio de Janeiro - RJ,10/27/2019 19:00:00,276,Flamengo - RJ,De Arrascaeta,8,Primeiro
+29,Allianz Parque - Sao Paulo - SP,10/30/2019 19:30:00,284,Palmeiras - SP,Bruno,11,Primeiro
+29,Allianz Parque - Sao Paulo - SP,10/30/2019 19:30:00,284,Palmeiras - SP,Felipe Melo,42,Primeiro
+29,Allianz Parque - Sao Paulo - SP,10/30/2019 19:30:00,284,Palmeiras - SP,Gustavo Scarpa,12,Segundo
+29,Ressacada - Florianopolis - SC,10/30/2019 19:30:00,288,Avaí - SC,Vinicius Araujo,5,Segundo
+29,Ressacada - Florianopolis - SC,10/30/2019 19:30:00,288,Fortaleza - CE,Paulão,23,Primeiro
+29,Ressacada - Florianopolis - SC,10/30/2019 19:30:00,288,Fortaleza - CE,Romarinho,8,Segundo
+29,Ressacada - Florianopolis - SC,10/30/2019 19:30:00,288,Fortaleza - CE,Wellington Paulista,43,Segundo
+29,Independência - Belo Horizonte - MG,10/30/2019 19:30:00,282,Chapecoense - SC,H. Almeida,5,Primeiro
+29,Independência - Belo Horizonte - MG,10/30/2019 19:30:00,282,Chapecoense - SC,Everaldo,5,Segundo
+29,Arena Castelão - Fortaleza - CE,10/30/2019 21:30:00,283,Ceará - CE,Bergson,14,Primeiro
+29,Arena Castelão - Fortaleza - CE,10/30/2019 21:30:00,283,Ceará - CE,Mateus Gonçalves,46,Segundo
+29,São Januário - Rio de Janeiro - RJ,10/30/2019 21:30:00,286,Vasco da Gama - RJ,FREDY GUARIN,9,Primeiro
+29,São Januário - Rio de Janeiro - RJ,10/30/2019 21:30:00,286,Grêmio - RS,Pepe,33,Primeiro
+29,São Januário - Rio de Janeiro - RJ,10/30/2019 21:30:00,286,Grêmio - RS,Everton,8,Segundo
+29,São Januário - Rio de Janeiro - RJ,10/30/2019 21:30:00,286,Grêmio - RS,Luciano,22,Segundo
+29,Rei Pelé - Maceio - AL,10/30/2019 21:30:00,290,Csa - AL,Apodi,24,Primeiro
+29,Rei Pelé - Maceio - AL,10/30/2019 21:30:00,290,Csa - AL,Ricardo Bueno,34,Segundo
+29,Rei Pelé - Maceio - AL,10/30/2019 21:30:00,290,Corinthians - SP,Pedrinho,45,Primeiro
+29,Vila Belmiro - Santos - SP,10/31/2019 19:15:00,285,Santos - SP,Carlos Sanchez,9,Segundo
+29,Serra Dourada - Goiania - GO,10/31/2019 20:00:00,289,Goiás - GO,Rafael Moura,31,Segundo
+29,Serra Dourada - Goiania - GO,10/31/2019 20:00:00,289,Goiás - GO,Michael,49,Segundo
+29,Serra Dourada - Goiania - GO,10/31/2019 20:00:00,289,Flamengo - RJ,Gabriel Barbosa,9,Segundo
+29,Serra Dourada - Goiania - GO,10/31/2019 20:00:00,289,Flamengo - RJ,Rodrigo Caio,18,Segundo
+29,Nilton Santos - Rio de Janeiro - RJ,10/31/2019 21:30:00,287,Cruzeiro - MG,Cacá,26,Primeiro
+29,Nilton Santos - Rio de Janeiro - RJ,10/31/2019 21:30:00,287,Cruzeiro - MG,Ederson,51,Segundo
+29,Beira-Rio - Porto Alegre - RS,10/31/2019 21:30:00,281,Internacional - RS,Rodrigo,12,Primeiro
+29,Beira-Rio - Porto Alegre - RS,10/31/2019 21:30:00,281,Athletico Paranaense - PR,Rony,22,Primeiro
+30,Arena Castelão - Fortaleza - CE,11/02/2019 17:00:00,293,Fortaleza - CE,Gabriel,15,Primeiro
+30,Arena Castelão - Fortaleza - CE,11/02/2019 17:00:00,293,Fortaleza - CE,Gabriel,28,Primeiro
+30,Arena Castelão - Fortaleza - CE,11/02/2019 17:00:00,293,Atlético - MG,Patric,24,Primeiro
+30,Arena Castelão - Fortaleza - CE,11/02/2019 17:00:00,293,Atlético - MG,Fabio Santos,41,Segundo
+30,Allianz Parque - Sao Paulo - SP,11/02/2019 19:00:00,294,Palmeiras - SP,Ze Rafael,17,Primeiro
+30,Arena Condá - Chapeco - SC,11/02/2019 21:00:00,298,São Paulo - SP,Bruno Alves,6,Primeiro
+30,Arena Condá - Chapeco - SC,11/02/2019 21:00:00,298,São Paulo - SP,Vitor Bueno,24,Primeiro
+30,Arena Condá - Chapeco - SC,11/02/2019 21:00:00,298,São Paulo - SP,Antony,34,Segundo
+30,Maracanã - Rio de Janeiro - RJ,11/03/2019 16:00:00,296,Flamengo - RJ,Bruno Henrique,45,Primeiro
+30,Maracanã - Rio de Janeiro - RJ,11/03/2019 16:00:00,296,Flamengo - RJ,Bruno Henrique,47,Primeiro
+30,Maracanã - Rio de Janeiro - RJ,11/03/2019 16:00:00,296,Flamengo - RJ,Bruno Henrique,1,Segundo
+30,Maracanã - Rio de Janeiro - RJ,11/03/2019 16:00:00,296,Flamengo - RJ,Vitinho,21,Segundo
+30,Maracanã - Rio de Janeiro - RJ,11/03/2019 16:00:00,296,Corinthians - SP,Mateus,6,Segundo
+30,Arena da Baixada - Curitiba - PR,11/03/2019 18:00:00,300,Athletico Paranaense - PR,Marcelo Cirino,36,Segundo
+30,Arena do Grêmio - Porto Alegre - RS,11/03/2019 18:00:00,291,Grêmio - RS,Geromel,33,Primeiro
+30,Arena do Grêmio - Porto Alegre - RS,11/03/2019 18:00:00,291,Grêmio - RS,Romulo,33,Segundo
+30,Mineirão - Belo Horizonte - MG,11/03/2019 19:00:00,292,Cruzeiro - MG,Sassa,28,Segundo
+30,Mineirão - Belo Horizonte - MG,11/03/2019 19:00:00,292,Bahia - BA,Fernandao,21,Segundo
+30,Vila Belmiro - Santos - SP,11/03/2019 19:00:00,295,Santos - SP,Eduardo Sasha,2,Primeiro
+30,Vila Belmiro - Santos - SP,11/03/2019 19:00:00,295,Santos - SP,Marinho,12,Primeiro
+30,Vila Belmiro - Santos - SP,11/03/2019 19:00:00,295,Santos - SP,Yeferson Soteldo,21,Segundo
+30,Vila Belmiro - Santos - SP,11/03/2019 19:00:00,295,Santos - SP,Yeferson Soteldo,23,Segundo
+30,Vila Belmiro - Santos - SP,11/03/2019 19:00:00,295,Botafogo - RJ,Igor Cassio,33,Primeiro
+30,Serra Dourada - Goiania - GO,11/03/2019 19:30:00,299,Goiás - GO,Rafael Moura,45,Segundo
+30,Serra Dourada - Goiania - GO,11/03/2019 19:30:00,299,Goiás - GO,Thalles,48,Segundo
+31,Arena Corinthians - Sao Paulo - SP,11/06/2019 19:30:00,304,Corinthians - SP,Boselli,36,Primeiro
+31,Arena Corinthians - Sao Paulo - SP,11/06/2019 19:30:00,304,Corinthians - SP,Junior Urso,2,Segundo
+31,Arena Corinthians - Sao Paulo - SP,11/06/2019 19:30:00,304,Corinthians - SP,Boselli,26,Segundo
+31,Arena Corinthians - Sao Paulo - SP,11/06/2019 19:30:00,304,Fortaleza - CE,Romarinho,33,Primeiro
+31,Arena Corinthians - Sao Paulo - SP,11/06/2019 19:30:00,304,Fortaleza - CE,Kieza,6,Segundo
+31,Mineirão - Belo Horizonte - MG,11/06/2019 20:00:00,302,Atlético - MG,Marquinhos,10,Segundo
+31,Mineirão - Belo Horizonte - MG,11/06/2019 20:00:00,302,Atlético - MG,Bruno,49,Segundo
+31,Ressacada - Florianopolis - SC,11/06/2019 21:00:00,308,Avaí - SC,João Paulo,35,Primeiro
+31,Ressacada - Florianopolis - SC,11/06/2019 21:00:00,308,Santos - SP,Eduardo Sasha,8,Primeiro
+31,Ressacada - Florianopolis - SC,11/06/2019 21:00:00,308,Santos - SP,Marinho,23,Primeiro
+31,São Januário - Rio de Janeiro - RJ,11/06/2019 21:30:00,306,Vasco da Gama - RJ,Mayke,18,Primeiro
+31,São Januário - Rio de Janeiro - RJ,11/06/2019 21:30:00,306,Palmeiras - SP,Lucas Lima,11,Primeiro
+31,São Januário - Rio de Janeiro - RJ,11/06/2019 21:30:00,306,Palmeiras - SP,Luiz Adriano,32,Segundo
+31,Arena Fonte Nova - Salvador - BA,11/06/2019 21:30:00,309,Bahia - BA,Marco Antonio,39,Segundo
+31,Arena Fonte Nova - Salvador - BA,11/06/2019 21:30:00,309,Chapecoense - SC,H. Almeida,14,Primeiro
+31,Arena Castelão - Fortaleza - CE,11/07/2019 19:30:00,303,Ceará - CE,Thiago Galhardo,41,Primeiro
+31,Arena Castelão - Fortaleza - CE,11/07/2019 19:30:00,303,Ceará - CE,Mateus Gonçalves,42,Segundo
+31,Morumbi - Sao Paulo - SP,11/07/2019 19:30:00,305,Fluminense - RJ,Digão,37,Primeiro
+31,Morumbi - Sao Paulo - SP,11/07/2019 19:30:00,305,Fluminense - RJ,Marcos Paulo,39,Primeiro
+31,Nilton Santos - Rio de Janeiro - RJ,11/07/2019 20:00:00,307,Flamengo - RJ,Lincoln,44,Segundo
+31,Arena do Grêmio - Porto Alegre - RS,11/07/2019 21:00:00,301,Grêmio - RS,Diego Tardelli,7,Primeiro
+31,Arena do Grêmio - Porto Alegre - RS,11/07/2019 21:00:00,301,Grêmio - RS,Ronaldo,48,Segundo
+31,Arena do Grêmio - Porto Alegre - RS,11/07/2019 21:00:00,301,Csa - AL,Rafinha,45,Segundo
+32,Serra Dourada - Goiania - GO,11/09/2019 17:00:00,319,Santos - SP,Yeferson Soteldo,24,Primeiro
+32,Serra Dourada - Goiania - GO,11/09/2019 17:00:00,319,Santos - SP,Marinho,15,Segundo
+32,Serra Dourada - Goiania - GO,11/09/2019 17:00:00,319,Santos - SP,Yeferson Soteldo,27,Segundo
+32,Pacaembu - Sao Paulo - SP,11/09/2019 19:00:00,314,Palmeiras - SP,Bruno,48,Segundo
+32,Pacaembu - Sao Paulo - SP,11/09/2019 19:00:00,314,Corinthians - SP,Michel,47,Segundo
+32,Morumbi - Sao Paulo - SP,11/10/2019 16:00:00,315,Athletico Paranaense - PR,Marcelo Cirino,44,Segundo
+32,Beira-Rio - Porto Alegre - RS,11/10/2019 16:00:00,311,Internacional - RS,Pottker,35,Primeiro
+32,Beira-Rio - Porto Alegre - RS,11/10/2019 16:00:00,311,Internacional - RS,Pottker,40,Primeiro
+32,Beira-Rio - Porto Alegre - RS,11/10/2019 16:00:00,311,Fluminense - RJ,Wellington Nem,27,Segundo
+32,Maracanã - Rio de Janeiro - RJ,11/10/2019 18:00:00,316,Flamengo - RJ,Reinier,9,Segundo
+32,Maracanã - Rio de Janeiro - RJ,11/10/2019 18:00:00,316,Flamengo - RJ,Bruno Henrique,26,Segundo
+32,Maracanã - Rio de Janeiro - RJ,11/10/2019 18:00:00,316,Flamengo - RJ,Gabriel Barbosa,42,Segundo
+32,Maracanã - Rio de Janeiro - RJ,11/10/2019 18:00:00,316,Bahia - BA,Willian Arão,38,Primeiro
+32,Arena Castelão - Fortaleza - CE,11/10/2019 19:00:00,313,Fortaleza - CE,Wellington Paulista,12,Primeiro
+32,Arena Condá - Chapeco - SC,11/10/2019 19:00:00,318,Grêmio - RS,Luciano,2,Primeiro
+32,Rei Pelé - Maceio - AL,11/10/2019 19:00:00,320,Vasco da Gama - RJ,Raul,25,Primeiro
+32,Rei Pelé - Maceio - AL,11/10/2019 19:00:00,320,Vasco da Gama - RJ,Henriquez,21,Segundo
+32,Rei Pelé - Maceio - AL,11/10/2019 19:00:00,320,Vasco da Gama - RJ,Carlinhos,36,Segundo
+32,Nilton Santos - Rio de Janeiro - RJ,11/11/2019 20:00:00,317,Botafogo - RJ,Ricardo,12,Primeiro
+32,Nilton Santos - Rio de Janeiro - RJ,11/11/2019 20:00:00,317,Botafogo - RJ,Diego Souza,43,Segundo
+33,Vila Belmiro - Santos - SP,11/16/2019 17:00:00,325,Santos - SP,Carlos Sanchez,7,Primeiro
+33,Vila Belmiro - Santos - SP,11/16/2019 17:00:00,325,São Paulo - SP,Dani Alves,9,Segundo
+33,Maracanã - Rio de Janeiro - RJ,11/16/2019 19:00:00,327,Fluminense - RJ,Patric,16,Primeiro
+33,Maracanã - Rio de Janeiro - RJ,11/16/2019 19:00:00,327,Atlético - MG,Di Santo,43,Segundo
+33,Arena do Grêmio - Porto Alegre - RS,11/17/2019 16:00:00,321,Flamengo - RJ,Gabriel Barbosa,37,Primeiro
+33,Arena Fonte Nova - Salvador - BA,11/17/2019 16:00:00,329,Bahia - BA,Arthur Caike,47,Primeiro
+33,Arena Fonte Nova - Salvador - BA,11/17/2019 16:00:00,329,Palmeiras - SP,Borja,25,Segundo
+33,Arena Condá - Chapeco - SC,11/17/2019 18:00:00,328,Chapecoense - SC,Everaldo,36,Segundo
+33,Arena da Baixada - Curitiba - PR,11/17/2019 18:00:00,330,Athletico Paranaense - PR,Thonny Anderson,14,Segundo
+33,Arena Castelão - Fortaleza - CE,11/17/2019 19:00:00,323,Fortaleza - CE,Juninho,34,Primeiro
+33,Arena Castelão - Fortaleza - CE,11/17/2019 19:00:00,323,Fortaleza - CE,Guilherme,3,Segundo
+33,Arena Castelão - Fortaleza - CE,11/17/2019 19:00:00,323,Fortaleza - CE,Paulão,8,Segundo
+33,São Januário - Rio de Janeiro - RJ,11/18/2019 19:30:00,326,Vasco da Gama - RJ,FREDY GUARIN,34,Primeiro
+33,São Januário - Rio de Janeiro - RJ,11/18/2019 19:30:00,326,Goiás - GO,Henriquez,51,Segundo
+34,Maracanã - Rio de Janeiro - RJ,11/13/2019 21:30:00,336,Flamengo - RJ,Everton Ribeiro,1,Primeiro
+34,Maracanã - Rio de Janeiro - RJ,11/13/2019 21:30:00,336,Flamengo - RJ,Danilo Barcelos,49,Primeiro
+34,Maracanã - Rio de Janeiro - RJ,11/13/2019 21:30:00,336,Flamengo - RJ,Bruno Henrique,20,Segundo
+34,Maracanã - Rio de Janeiro - RJ,11/13/2019 21:30:00,336,Flamengo - RJ,Bruno Henrique,35,Segundo
+34,Maracanã - Rio de Janeiro - RJ,11/13/2019 21:30:00,336,Vasco da Gama - RJ,Marrony,33,Primeiro
+34,Maracanã - Rio de Janeiro - RJ,11/13/2019 21:30:00,336,Vasco da Gama - RJ,Yago,37,Primeiro
+34,Maracanã - Rio de Janeiro - RJ,11/13/2019 21:30:00,336,Vasco da Gama - RJ,Marcos Junior,7,Segundo
+34,Maracanã - Rio de Janeiro - RJ,11/13/2019 21:30:00,336,Vasco da Gama - RJ,Lucas Ribamar,48,Segundo
+34,Vila Belmiro - Santos - SP,11/23/2019 21:00:00,335,Santos - SP,Eduardo Sasha,23,Primeiro
+34,Vila Belmiro - Santos - SP,11/23/2019 21:00:00,335,Santos - SP,Marinho,14,Segundo
+34,Vila Belmiro - Santos - SP,11/23/2019 21:00:00,335,Santos - SP,Yeferson Soteldo,19,Segundo
+34,Vila Belmiro - Santos - SP,11/23/2019 21:00:00,335,Santos - SP,Diego,44,Segundo
+34,Vila Belmiro - Santos - SP,11/23/2019 21:00:00,335,Cruzeiro - MG,Orejuela,13,Primeiro
+34,Serra Dourada - Goiania - GO,11/24/2019 16:00:00,339,Goiás - GO,Rafael Moura,8,Primeiro
+34,Serra Dourada - Goiania - GO,11/24/2019 16:00:00,339,Goiás - GO,Michael,11,Primeiro
+34,Serra Dourada - Goiania - GO,11/24/2019 16:00:00,339,Goiás - GO,Gilberto Jr.,25,Segundo
+34,Serra Dourada - Goiania - GO,11/24/2019 16:00:00,339,Goiás - GO,Marlone,33,Segundo
+34,Serra Dourada - Goiania - GO,11/24/2019 16:00:00,339,Bahia - BA,Gilberto,13,Segundo
+34,Serra Dourada - Goiania - GO,11/24/2019 16:00:00,339,Bahia - BA,Joao Pedro,31,Segundo
+34,Serra Dourada - Goiania - GO,11/24/2019 16:00:00,339,Bahia - BA,Fernandao,45,Segundo
+34,Mineirão - Belo Horizonte - MG,11/24/2019 16:00:00,332,Athletico Paranaense - PR,Vitinho,41,Segundo
+34,Allianz Parque - Sao Paulo - SP,11/24/2019 16:00:00,334,Palmeiras - SP,Bruno,38,Segundo
+34,Allianz Parque - Sao Paulo - SP,11/24/2019 16:00:00,334,Grêmio - RS,Everton,24,Segundo
+34,Allianz Parque - Sao Paulo - SP,11/24/2019 16:00:00,334,Grêmio - RS,Pepe,48,Segundo
+34,Nilton Santos - Rio de Janeiro - RJ,11/24/2019 18:00:00,337,Botafogo - RJ,Diego Souza,18,Primeiro
+34,Ressacada - Florianopolis - SC,11/24/2019 19:00:00,338,Chapecoense - SC,Everaldo,32,Segundo
+34,Beira-Rio - Porto Alegre - RS,11/24/2019 19:00:00,331,Internacional - RS,Guerrero,42,Primeiro
+34,Beira-Rio - Porto Alegre - RS,11/24/2019 19:00:00,331,Internacional - RS,Guerrero,37,Segundo
+34,Beira-Rio - Porto Alegre - RS,11/24/2019 19:00:00,331,Fortaleza - CE,Osvaldo,8,Primeiro
+34,Beira-Rio - Porto Alegre - RS,11/24/2019 19:00:00,331,Fortaleza - CE,Guilherme,26,Segundo
+34,Arena Castelão - Fortaleza - CE,11/24/2019 19:00:00,333,Ceará - CE,Felipe,50,Segundo
+34,Arena Castelão - Fortaleza - CE,11/24/2019 19:00:00,333,São Paulo - SP,Vitor Bueno,46,Primeiro
+34,Rei Pelé - Maceio - AL,11/25/2019 20:00:00,340,Fluminense - RJ,Yony Gonzalez,4,Segundo
+35,Arena Condá - Chapeco - SC,11/27/2019 19:30:00,348,Botafogo - RJ,Rhuan da Silveira Castro,8,Segundo
+35,Beira-Rio - Porto Alegre - RS,11/27/2019 19:30:00,341,Internacional - RS,Guerrero,32,Segundo
+35,Beira-Rio - Porto Alegre - RS,11/27/2019 19:30:00,341,Goiás - GO,Rafael Moura,14,Primeiro
+35,Beira-Rio - Porto Alegre - RS,11/27/2019 19:30:00,341,Goiás - GO,Michael,26,Segundo
+35,Arena Fonte Nova - Salvador - BA,11/27/2019 21:00:00,349,Bahia - BA,Elber,18,Segundo
+35,Arena Fonte Nova - Salvador - BA,11/27/2019 21:00:00,349,Atlético - MG,Cazares,8,Segundo
+35,Arena da Baixada - Curitiba - PR,11/27/2019 21:30:00,350,Athletico Paranaense - PR,Marcio Azevedo,33,Primeiro
+35,Arena da Baixada - Curitiba - PR,11/27/2019 21:30:00,350,Athletico Paranaense - PR,Nikao,18,Segundo
+35,Arena Corinthians - Sao Paulo - SP,11/27/2019 21:30:00,344,Corinthians - SP,Gustavo,21,Primeiro
+35,Arena Corinthians - Sao Paulo - SP,11/27/2019 21:30:00,344,Corinthians - SP,Junior Urso,6,Segundo
+35,Arena Corinthians - Sao Paulo - SP,11/27/2019 21:30:00,344,Corinthians - SP,Boselli,41,Segundo
+35,Maracanã - Rio de Janeiro - RJ,11/27/2019 21:30:00,346,Flamengo - RJ,Bruno Henrique,19,Segundo
+35,Maracanã - Rio de Janeiro - RJ,11/27/2019 21:30:00,346,Flamengo - RJ,Bruno Henrique,28,Segundo
+35,Maracanã - Rio de Janeiro - RJ,11/27/2019 21:30:00,346,Flamengo - RJ,Bruno Henrique,40,Segundo
+35,Maracanã - Rio de Janeiro - RJ,11/27/2019 21:30:00,346,Flamengo - RJ,Vitinho,46,Segundo
+35,Maracanã - Rio de Janeiro - RJ,11/27/2019 21:30:00,346,Ceará - CE,Thiago Galhardo,24,Primeiro
+35,Maracanã - Rio de Janeiro - RJ,11/28/2019 19:30:00,347,Fluminense - RJ,Marcos Paulo,37,Primeiro
+35,Arena Castelão - Fortaleza - CE,11/28/2019 20:00:00,343,Fortaleza - CE,Edinho,4,Segundo
+35,Arena Castelão - Fortaleza - CE,11/28/2019 20:00:00,343,Fortaleza - CE,Osvaldo,19,Segundo
+35,Arena Castelão - Fortaleza - CE,11/28/2019 20:00:00,343,Santos - SP,Carlos Sanchez,23,Segundo
+35,Morumbi - Sao Paulo - SP,11/28/2019 20:30:00,345,São Paulo - SP,Antony,5,Primeiro
+35,Mineirão - Belo Horizonte - MG,11/28/2019 21:30:00,342,Csa - AL,Alan Costa,43,Primeiro
+36,Nilton Santos - Rio de Janeiro - RJ,11/30/2019 19:00:00,357,Internacional - RS,Guerrero,38,Segundo
+36,Arena Castelão - Fortaleza - CE,11/30/2019 19:00:00,353,Ceará - CE,Mateus Gonçalves,43,Segundo
+36,Arena Castelão - Fortaleza - CE,11/30/2019 19:00:00,353,Athletico Paranaense - PR,Madson,48,Segundo
+36,Serra Dourada - Goiania - GO,12/01/2019 16:00:00,359,Goiás - GO,Rafael Moura,43,Primeiro
+36,Serra Dourada - Goiania - GO,12/01/2019 16:00:00,359,Fortaleza - CE,Bruno,15,Primeiro
+36,Serra Dourada - Goiania - GO,12/01/2019 16:00:00,359,Fortaleza - CE,Osvaldo,25,Primeiro
+36,Ressacada - Florianopolis - SC,12/01/2019 16:00:00,358,Avaí - SC,João Paulo,47,Segundo
+36,Ressacada - Florianopolis - SC,12/01/2019 16:00:00,358,Fluminense - RJ,Marcos Paulo,35,Primeiro
+36,Allianz Parque - Sao Paulo - SP,12/01/2019 16:00:00,354,Palmeiras - SP,Matheus Fernandes,38,Segundo
+36,Allianz Parque - Sao Paulo - SP,12/01/2019 16:00:00,354,Flamengo - RJ,De Arrascaeta,4,Primeiro
+36,Allianz Parque - Sao Paulo - SP,12/01/2019 16:00:00,354,Flamengo - RJ,Gabriel Barbosa,45,Primeiro
+36,Allianz Parque - Sao Paulo - SP,12/01/2019 16:00:00,354,Flamengo - RJ,Gabriel Barbosa,1,Segundo
+36,Independência - Belo Horizonte - MG,12/01/2019 18:00:00,352,Atlético - MG,Cazares,18,Primeiro
+36,Independência - Belo Horizonte - MG,12/01/2019 18:00:00,352,Atlético - MG,Fabio Santos,28,Segundo
+36,Independência - Belo Horizonte - MG,12/01/2019 18:00:00,352,Corinthians - SP,Janderson,20,Primeiro
+36,Rei Pelé - Maceio - AL,12/01/2019 18:00:00,360,Csa - AL,Nilton,9,Segundo
+36,Rei Pelé - Maceio - AL,12/01/2019 18:00:00,360,Bahia - BA,Gilberto,32,Primeiro
+36,Rei Pelé - Maceio - AL,12/01/2019 18:00:00,360,Bahia - BA,Arthur Caike,40,Segundo
+36,Vila Belmiro - Santos - SP,12/01/2019 19:00:00,355,Santos - SP,Lucas Verissimo,7,Primeiro
+36,Vila Belmiro - Santos - SP,12/01/2019 19:00:00,355,Santos - SP,Evandro,4,Segundo
+36,Arena do Grêmio - Porto Alegre - RS,12/01/2019 19:00:00,351,Grêmio - RS,Luciano,10,Segundo
+36,Arena do Grêmio - Porto Alegre - RS,12/01/2019 19:00:00,351,Grêmio - RS,Alisson,13,Segundo
+36,Arena do Grêmio - Porto Alegre - RS,12/01/2019 19:00:00,351,Grêmio - RS,Luciano,16,Segundo
+36,São Januário - Rio de Janeiro - RJ,12/02/2019 20:00:00,356,Vasco da Gama - RJ,FREDY GUARIN,10,Primeiro
+37,Arena da Baixada - Curitiba - PR,12/04/2019 19:00:00,370,Athletico Paranaense - PR,Marco Ruben,1,Segundo
+37,Mineirão - Belo Horizonte - MG,12/04/2019 19:30:00,362,Atlético - MG,Jair,40,Primeiro
+37,Mineirão - Belo Horizonte - MG,12/04/2019 19:30:00,362,Atlético - MG,Luan,23,Segundo
+37,Arena Castelão - Fortaleza - CE,12/04/2019 19:30:00,363,Corinthians - SP,Gustavo,36,Segundo
+37,Arena Condá - Chapeco - SC,12/04/2019 21:00:00,368,Chapecoense - SC,Gustavo,1,Primeiro
+37,Arena Condá - Chapeco - SC,12/04/2019 21:00:00,368,Chapecoense - SC,Arthur,13,Segundo
+37,Arena Condá - Chapeco - SC,12/04/2019 21:00:00,368,Chapecoense - SC,Mauricio,34,Segundo
+37,Morumbi - Sao Paulo - SP,12/04/2019 21:30:00,365,São Paulo - SP,Antony,15,Primeiro
+37,Morumbi - Sao Paulo - SP,12/04/2019 21:30:00,365,São Paulo - SP,Vitor Bueno,4,Segundo
+37,Morumbi - Sao Paulo - SP,12/04/2019 21:30:00,365,Internacional - RS,G. Parede,24,Segundo
+37,Brinco de Ouro - Campinas - SP,12/05/2019 19:15:00,364,Palmeiras - SP,Ze Rafael,21,Primeiro
+37,Brinco de Ouro - Campinas - SP,12/05/2019 19:15:00,364,Palmeiras - SP,Dudu,33,Primeiro
+37,Brinco de Ouro - Campinas - SP,12/05/2019 19:15:00,364,Palmeiras - SP,Gabriel Veron,24,Segundo
+37,Brinco de Ouro - Campinas - SP,12/05/2019 19:15:00,364,Palmeiras - SP,Dudu,37,Segundo
+37,Brinco de Ouro - Campinas - SP,12/05/2019 19:15:00,364,Palmeiras - SP,Gabriel Veron,44,Segundo
+37,Brinco de Ouro - Campinas - SP,12/05/2019 19:15:00,364,Goiás - GO,Rafael Moura,26,Primeiro
+37,Arena Fonte Nova - Salvador - BA,12/05/2019 19:15:00,369,Bahia - BA,Gilberto,45,Primeiro
+37,Arena Fonte Nova - Salvador - BA,12/05/2019 19:15:00,369,Vasco da Gama - RJ,Marrony,39,Segundo
+37,Arena do Grêmio - Porto Alegre - RS,12/05/2019 19:15:00,361,Grêmio - RS,Ferreira,21,Segundo
+37,Arena do Grêmio - Porto Alegre - RS,12/05/2019 19:15:00,361,Grêmio - RS,Pepe,40,Segundo
+37,Maracanã - Rio de Janeiro - RJ,12/05/2019 20:00:00,366,Flamengo - RJ,De Arrascaeta,11,Primeiro
+37,Maracanã - Rio de Janeiro - RJ,12/05/2019 20:00:00,366,Flamengo - RJ,Diego,36,Primeiro
+37,Maracanã - Rio de Janeiro - RJ,12/05/2019 20:00:00,366,Flamengo - RJ,Gabriel Barbosa,39,Primeiro
+37,Maracanã - Rio de Janeiro - RJ,12/05/2019 20:00:00,366,Flamengo - RJ,Lincoln,11,Segundo
+37,Maracanã - Rio de Janeiro - RJ,12/05/2019 20:00:00,366,Flamengo - RJ,Reinier,38,Segundo
+37,Maracanã - Rio de Janeiro - RJ,12/05/2019 20:00:00,366,Flamengo - RJ,Reinier,43,Segundo
+37,Maracanã - Rio de Janeiro - RJ,12/05/2019 20:00:00,366,Avaí - SC,Lourenço,21,Primeiro
+38,Mineirão - Belo Horizonte - MG,12/08/2019 16:00:00,372,Palmeiras - SP,Ze Rafael,12,Segundo
+38,Mineirão - Belo Horizonte - MG,12/08/2019 16:00:00,372,Palmeiras - SP,Dudu,38,Segundo
+38,Arena Castelão - Fortaleza - CE,12/08/2019 16:00:00,373,Fortaleza - CE,Osvaldo,12,Primeiro
+38,Arena Castelão - Fortaleza - CE,12/08/2019 16:00:00,373,Fortaleza - CE,Guilherme,32,Segundo
+38,Arena Castelão - Fortaleza - CE,12/08/2019 16:00:00,373,Bahia - BA,Artur,33,Primeiro
+38,Arena Corinthians - Sao Paulo - SP,12/08/2019 16:00:00,374,Corinthians - SP,Gustavo,17,Segundo
+38,Arena Corinthians - Sao Paulo - SP,12/08/2019 16:00:00,374,Fluminense - RJ,Evanilson,7,Primeiro
+38,Arena Corinthians - Sao Paulo - SP,12/08/2019 16:00:00,374,Fluminense - RJ,Evanilson,29,Primeiro
+38,Vila Belmiro - Santos - SP,12/08/2019 16:00:00,375,Santos - SP,Marinho,14,Primeiro
+38,Vila Belmiro - Santos - SP,12/08/2019 16:00:00,375,Santos - SP,Carlos Sanchez,23,Primeiro
+38,Vila Belmiro - Santos - SP,12/08/2019 16:00:00,375,Santos - SP,Eduardo Sasha,18,Segundo
+38,Vila Belmiro - Santos - SP,12/08/2019 16:00:00,375,Santos - SP,Carlos Sanchez,39,Segundo
+38,Maracanã - Rio de Janeiro - RJ,12/08/2019 16:00:00,376,Vasco da Gama - RJ,Yago,38,Segundo
+38,Maracanã - Rio de Janeiro - RJ,12/08/2019 16:00:00,376,Chapecoense - SC,Vinicius,48,Segundo
+38,Nilton Santos - Rio de Janeiro - RJ,12/08/2019 16:00:00,377,Botafogo - RJ,Marcos Vinicius,38,Primeiro
+38,Nilton Santos - Rio de Janeiro - RJ,12/08/2019 16:00:00,377,Ceará - CE,Thiago Galhardo,20,Segundo
+38,Serra Dourada - Goiania - GO,12/08/2019 16:00:00,379,Goiás - GO,Rafael Moura,4,Primeiro
+38,Serra Dourada - Goiania - GO,12/08/2019 16:00:00,379,Goiás - GO,Rafael Moura,44,Primeiro
+38,Serra Dourada - Goiania - GO,12/08/2019 16:00:00,379,Goiás - GO,Yago Felipe,19,Segundo
+38,Serra Dourada - Goiania - GO,12/08/2019 16:00:00,379,Grêmio - RS,Patrick,23,Primeiro
+38,Serra Dourada - Goiania - GO,12/08/2019 16:00:00,379,Grêmio - RS,Isaque,36,Primeiro
+38,Rei Pelé - Maceio - AL,12/08/2019 16:00:00,380,Csa - AL,Jarro,43,Primeiro
+38,Rei Pelé - Maceio - AL,12/08/2019 16:00:00,380,São Paulo - SP,Jonas Toró,10,Primeiro
+38,Rei Pelé - Maceio - AL,12/08/2019 16:00:00,380,São Paulo - SP,Igor,13,Primeiro

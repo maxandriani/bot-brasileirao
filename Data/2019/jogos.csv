@@ -1,0 +1,381 @@
+Rodada,Local,Data,Numero,Vencedor,TimeA,TotalGolsTimeA,TimeB,TotalGolsTimeB
+1,Morumbi - Sao Paulo - SP,04/27/2019 16:00:00,5,São Paulo - SP,São Paulo - SP,2,Botafogo - RJ,0
+1,Independência - Belo Horizonte - MG,04/27/2019 19:00:00,2,Atlético - MG,Atlético - MG,2,Avaí - SC,1
+1,Arena Condá - Chapeco - SC,04/27/2019 19:00:00,8,Chapecoense - SC,Chapecoense - SC,2,Internacional - RS,0
+1,Maracanã - Rio de Janeiro - RJ,04/27/2019 21:00:00,6,Flamengo - RJ,Flamengo - RJ,3,Cruzeiro - MG,1
+1,Arena do Grêmio - Porto Alegre - RS,04/28/2019 11:00:00,1,Santos - SP,Grêmio - RS,1,Santos - SP,2
+1,Arena Castelão - Fortaleza - CE,04/28/2019 16:00:00,3,Ceará - CE,Ceará - CE,4,Csa - AL,0
+1,Arena Fonte Nova - Salvador - BA,04/28/2019 16:00:00,9,Bahia - BA,Bahia - BA,3,Corinthians - SP,2
+1,Arena da Baixada - Curitiba - PR,04/28/2019 16:00:00,10,Athletico Paranaense - PR,Athletico Paranaense - PR,4,Vasco da Gama - RJ,1
+1,Allianz Parque - Sao Paulo - SP,04/28/2019 19:00:00,4,Palmeiras - SP,Palmeiras - SP,4,Fortaleza - CE,0
+1,Maracanã - Rio de Janeiro - RJ,04/28/2019 19:00:00,7,Goiás - GO,Fluminense - RJ,0,Goiás - GO,1
+2,Arena Corinthians - Sao Paulo - SP,05/01/2019 16:00:00,14,Corinthians - SP,Corinthians - SP,1,Chapecoense - SC,0
+2,Rei Pelé - Maceio - AL,05/01/2019 16:00:00,20,,Csa - AL,1,Palmeiras - SP,1
+2,Beira-Rio - Porto Alegre - RS,05/01/2019 16:00:00,11,Internacional - RS,Internacional - RS,2,Flamengo - RJ,1
+2,Mineirão - Belo Horizonte - MG,05/01/2019 19:15:00,12,Cruzeiro - MG,Cruzeiro - MG,1,Ceará - CE,0
+2,Ressacada - Florianopolis - SC,05/01/2019 19:15:00,18,,Avaí - SC,1,Grêmio - RS,1
+2,Arena Castelão - Fortaleza - CE,05/01/2019 21:30:00,13,Fortaleza - CE,Fortaleza - CE,2,Athletico Paranaense - PR,1
+2,São Januário - Rio de Janeiro - RJ,05/01/2019 21:30:00,16,Atlético - MG,Vasco da Gama - RJ,1,Atlético - MG,2
+2,Serra Dourada - Goiania - GO,05/01/2019 21:30:00,19,São Paulo - SP,Goiás - GO,1,São Paulo - SP,2
+2,Vila Belmiro - Santos - SP,05/02/2019 19:15:00,15,Santos - SP,Santos - SP,2,Fluminense - RJ,1
+2,Nilton Santos - Rio de Janeiro - RJ,05/02/2019 20:00:00,17,Botafogo - RJ,Botafogo - RJ,3,Bahia - BA,2
+3,Arena da Amazônia - Manaus - AM,05/04/2019 19:00:00,26,,Vasco da Gama - RJ,1,Corinthians - SP,1
+3,Allianz Parque - Sao Paulo - SP,05/04/2019 19:00:00,24,Palmeiras - SP,Palmeiras - SP,1,Internacional - RS,0
+3,Arena Castelão - Fortaleza - CE,05/04/2019 21:00:00,23,Atlético - MG,Ceará - CE,1,Atlético - MG,2
+3,Arena Condá - Chapeco - SC,05/05/2019 11:00:00,28,,Chapecoense - SC,1,Athletico Paranaense - PR,1
+3,Morumbi - Sao Paulo - SP,05/05/2019 16:00:00,25,,São Paulo - SP,1,Flamengo - RJ,1
+3,Mineirão - Belo Horizonte - MG,05/05/2019 16:00:00,22,Cruzeiro - MG,Cruzeiro - MG,2,Goiás - GO,1
+3,Nilton Santos - Rio de Janeiro - RJ,05/05/2019 16:00:00,27,Botafogo - RJ,Botafogo - RJ,1,Fortaleza - CE,0
+3,Rei Pelé - Maceio - AL,05/05/2019 16:00:00,30,,Csa - AL,0,Santos - SP,0
+3,Arena Fonte Nova - Salvador - BA,05/05/2019 19:00:00,29,Bahia - BA,Bahia - BA,1,Avaí - SC,0
+3,Arena do Grêmio - Porto Alegre - RS,05/05/2019 19:00:00,21,Fluminense - RJ,Grêmio - RS,4,Fluminense - RJ,5
+4,Maracanã - Rio de Janeiro - RJ,05/11/2019 16:00:00,37,Botafogo - RJ,Fluminense - RJ,0,Botafogo - RJ,1
+4,Arena Corinthians - Sao Paulo - SP,05/11/2019 19:00:00,34,,Corinthians - SP,0,Grêmio - RS,0
+4,Serra Dourada - Goiania - GO,05/11/2019 21:00:00,39,Goiás - GO,Goiás - GO,2,Ceará - CE,1
+4,Maracanã - Rio de Janeiro - RJ,05/12/2019 11:00:00,36,Flamengo - RJ,Flamengo - RJ,2,Chapecoense - SC,1
+4,Pacaembu - Sao Paulo - SP,05/12/2019 16:00:00,35,Santos - SP,Santos - SP,3,Vasco da Gama - RJ,0
+4,Mineirão - Belo Horizonte - MG,05/12/2019 16:00:00,32,Palmeiras - SP,Atlético - MG,0,Palmeiras - SP,2
+4,Beira-Rio - Porto Alegre - RS,05/12/2019 16:00:00,31,Internacional - RS,Internacional - RS,3,Cruzeiro - MG,1
+4,Arena Castelão - Fortaleza - CE,05/12/2019 19:00:00,33,São Paulo - SP,Fortaleza - CE,0,São Paulo - SP,1
+4,Ressacada - Florianopolis - SC,05/12/2019 19:00:00,38,,Avaí - SC,0,Csa - AL,0
+4,Arena da Baixada - Curitiba - PR,05/12/2019 19:00:00,40,Athletico Paranaense - PR,Athletico Paranaense - PR,1,Bahia - BA,0
+5,Maracanã - Rio de Janeiro - RJ,05/18/2019 18:00:00,47,Fluminense - RJ,Fluminense - RJ,4,Cruzeiro - MG,1
+5,Independência - Belo Horizonte - MG,05/18/2019 19:00:00,42,Atlético - MG,Atlético - MG,2,Flamengo - RJ,1
+5,Pacaembu - Sao Paulo - SP,05/18/2019 19:00:00,44,Palmeiras - SP,Palmeiras - SP,4,Santos - SP,0
+5,Morumbi - Sao Paulo - SP,05/19/2019 11:00:00,45,,São Paulo - SP,0,Bahia - BA,0
+5,Arena da Baixada - Curitiba - PR,05/19/2019 16:00:00,50,Corinthians - SP,Athletico Paranaense - PR,0,Corinthians - SP,2
+5,Arena Condá - Chapeco - SC,05/19/2019 16:00:00,48,Fortaleza - CE,Chapecoense - SC,1,Fortaleza - CE,3
+5,Serra Dourada - Goiania - GO,05/19/2019 16:00:00,49,Goiás - GO,Goiás - GO,1,Botafogo - RJ,0
+5,Beira-Rio - Porto Alegre - RS,05/19/2019 16:00:00,41,Internacional - RS,Internacional - RS,2,Csa - AL,0
+5,São Januário - Rio de Janeiro - RJ,05/19/2019 19:00:00,46,,Vasco da Gama - RJ,1,Avaí - SC,1
+5,Arena Castelão - Fortaleza - CE,05/19/2019 19:00:00,43,Ceará - CE,Ceará - CE,2,Grêmio - RS,1
+6,Mané Garrincha - Brasilia - DF,05/25/2019 16:00:00,57,Palmeiras - SP,Botafogo - RJ,0,Palmeiras - SP,1
+6,Arena do Grêmio - Porto Alegre - RS,05/25/2019 19:00:00,51,Grêmio - RS,Grêmio - RS,1,Atlético - MG,0
+6,Vila Belmiro - Santos - SP,05/26/2019 16:00:00,55,,Santos - SP,0,Internacional - RS,0
+6,Maracanã - Rio de Janeiro - RJ,05/26/2019 16:00:00,56,Flamengo - RJ,Flamengo - RJ,3,Athletico Paranaense - PR,2
+6,Independência - Belo Horizonte - MG,05/26/2019 19:00:00,52,Chapecoense - SC,Cruzeiro - MG,1,Chapecoense - SC,2
+6,Arena Castelão - Fortaleza - CE,05/26/2019 19:00:00,53,,Fortaleza - CE,1,Vasco da Gama - RJ,1
+6,Arena Corinthians - Sao Paulo - SP,05/26/2019 19:00:00,54,Corinthians - SP,Corinthians - SP,1,São Paulo - SP,0
+6,Arena Fonte Nova - Salvador - BA,05/26/2019 19:00:00,59,Bahia - BA,Bahia - BA,3,Fluminense - RJ,2
+6,Ressacada - Florianopolis - SC,05/27/2019 20:00:00,58,Ceará - CE,Avaí - SC,1,Ceará - CE,2
+6,Rei Pelé - Maceio - AL,05/27/2019 20:00:00,60,Csa - AL,Csa - AL,1,Goiás - GO,0
+7,Nilton Santos - Rio de Janeiro - RJ,06/01/2019 16:00:00,66,Flamengo - RJ,Flamengo - RJ,2,Fortaleza - CE,0
+7,Pituaçu - Salvador - BA,06/01/2019 19:00:00,69,Bahia - BA,Bahia - BA,1,Grêmio - RS,0
+7,Nilton Santos - Rio de Janeiro - RJ,06/02/2019 11:00:00,67,Botafogo - RJ,Botafogo - RJ,1,Vasco da Gama - RJ,0
+7,Arena da Baixada - Curitiba - PR,06/02/2019 16:00:00,70,Athletico Paranaense - PR,Athletico Paranaense - PR,3,Fluminense - RJ,0
+7,Arena Castelão - Fortaleza - CE,06/02/2019 16:00:00,63,Santos - SP,Ceará - CE,0,Santos - SP,1
+7,Pacaembu - Sao Paulo - SP,06/02/2019 16:00:00,65,,São Paulo - SP,1,Cruzeiro - MG,1
+7,Beira-Rio - Porto Alegre - RS,06/02/2019 19:00:00,61,Internacional - RS,Internacional - RS,2,Avaí - SC,0
+7,Arena Condá - Chapeco - SC,06/02/2019 19:00:00,68,Palmeiras - SP,Chapecoense - SC,1,Palmeiras - SP,2
+7,Independência - Belo Horizonte - MG,06/02/2019 19:00:00,62,Atlético - MG,Atlético - MG,4,Csa - AL,0
+7,Arena Corinthians - Sao Paulo - SP,08/07/2019 19:15:00,64,Corinthians - SP,Corinthians - SP,2,Goiás - GO,0
+8,São Januário - Rio de Janeiro - RJ,06/07/2019 20:30:00,76,Vasco da Gama - RJ,Vasco da Gama - RJ,2,Internacional - RS,1
+8,Allianz Parque - Sao Paulo - SP,06/08/2019 16:30:00,74,Palmeiras - SP,Palmeiras - SP,1,Athletico Paranaense - PR,0
+8,Centenário - Caxias do Sul - RS,06/08/2019 19:00:00,71,Grêmio - RS,Grêmio - RS,1,Fortaleza - CE,0
+8,Mineirão - Belo Horizonte - MG,06/08/2019 19:00:00,72,,Cruzeiro - MG,0,Corinthians - SP,0
+8,Arena Castelão - Fortaleza - CE,06/08/2019 19:30:00,73,,Ceará - CE,0,Bahia - BA,0
+8,Ressacada - Florianopolis - SC,06/08/2019 21:00:00,78,,Avaí - SC,0,São Paulo - SP,0
+8,Vila Belmiro - Santos - SP,06/09/2019 19:00:00,75,Santos - SP,Santos - SP,3,Atlético - MG,1
+8,Maracanã - Rio de Janeiro - RJ,06/09/2019 19:00:00,77,,Fluminense - RJ,0,Flamengo - RJ,0
+8,Rei Pelé - Maceio - AL,06/09/2019 19:00:00,80,Botafogo - RJ,Csa - AL,1,Botafogo - RJ,2
+8,Serra Dourada - Goiania - GO,06/10/2019 20:00:00,79,Goiás - GO,Goiás - GO,3,Chapecoense - SC,1
+9,Nilton Santos - Rio de Janeiro - RJ,06/12/2019 19:15:00,87,Grêmio - RS,Botafogo - RJ,0,Grêmio - RS,1
+9,Arena Castelão - Fortaleza - CE,06/12/2019 21:00:00,83,Fortaleza - CE,Fortaleza - CE,2,Cruzeiro - MG,1
+9,Vila Belmiro - Santos - SP,06/12/2019 21:30:00,85,Santos - SP,Santos - SP,1,Corinthians - SP,0
+9,Beira-Rio - Porto Alegre - RS,06/12/2019 21:30:00,81,Internacional - RS,Internacional - RS,3,Bahia - BA,1
+9,Mané Garrincha - Brasilia - DF,06/12/2019 21:30:00,90,Flamengo - RJ,Csa - AL,0,Flamengo - RJ,2
+9,São Januário - Rio de Janeiro - RJ,06/13/2019 19:15:00,86,Vasco da Gama - RJ,Vasco da Gama - RJ,1,Ceará - CE,0
+9,Allianz Parque - Sao Paulo - SP,06/13/2019 20:00:00,84,Palmeiras - SP,Palmeiras - SP,2,Avaí - SC,0
+9,Arena Condá - Chapeco - SC,06/13/2019 20:00:00,88,,Chapecoense - SC,1,Fluminense - RJ,1
+9,Serra Dourada - Goiania - GO,06/13/2019 20:00:00,89,Goiás - GO,Goiás - GO,2,Athletico Paranaense - PR,1
+9,Independência - Belo Horizonte - MG,06/13/2019 20:00:00,82,,Atlético - MG,1,São Paulo - SP,1
+10,Arena do Grêmio - Porto Alegre - RS,07/13/2019 17:00:00,91,Grêmio - RS,Grêmio - RS,2,Vasco da Gama - RJ,1
+10,Arena Castelão - Fortaleza - CE,07/13/2019 17:00:00,93,Fortaleza - CE,Fortaleza - CE,2,Avaí - SC,0
+10,Pituaçu - Salvador - BA,07/13/2019 19:00:00,99,Santos - SP,Bahia - BA,0,Santos - SP,1
+10,Morumbi - Sao Paulo - SP,07/13/2019 19:00:00,95,,São Paulo - SP,1,Palmeiras - SP,1
+10,Maracanã - Rio de Janeiro - RJ,07/14/2019 11:00:00,96,Flamengo - RJ,Flamengo - RJ,6,Goiás - GO,1
+10,Mineirão - Belo Horizonte - MG,07/14/2019 16:00:00,92,,Cruzeiro - MG,0,Botafogo - RJ,0
+10,Arena Corinthians - Sao Paulo - SP,07/14/2019 16:00:00,94,Corinthians - SP,Corinthians - SP,1,Csa - AL,0
+10,Arena da Baixada - Curitiba - PR,07/14/2019 16:00:00,100,Athletico Paranaense - PR,Athletico Paranaense - PR,1,Internacional - RS,0
+10,Arena Condá - Chapeco - SC,07/14/2019 19:00:00,98,Atlético - MG,Chapecoense - SC,1,Atlético - MG,2
+10,Maracanã - Rio de Janeiro - RJ,07/15/2019 20:00:00,97,,Fluminense - RJ,1,Ceará - CE,1
+11,São Januário - Rio de Janeiro - RJ,07/20/2019 11:00:00,106,Vasco da Gama - RJ,Vasco da Gama - RJ,2,Fluminense - RJ,1
+11,Arena Fonte Nova - Salvador - BA,07/20/2019 17:00:00,109,,Bahia - BA,0,Cruzeiro - MG,0
+11,Beira-Rio - Porto Alegre - RS,07/20/2019 19:00:00,101,,Internacional - RS,1,Grêmio - RS,1
+11,Arena Castelão - Fortaleza - CE,07/20/2019 19:00:00,103,Ceará - CE,Ceará - CE,2,Palmeiras - SP,0
+11,Rei Pelé - Maceio - AL,07/20/2019 19:00:00,110,Athletico Paranaense - PR,Csa - AL,0,Athletico Paranaense - PR,4
+11,Nilton Santos - Rio de Janeiro - RJ,07/21/2019 11:00:00,107,Santos - SP,Botafogo - RJ,0,Santos - SP,1
+11,Independência - Belo Horizonte - MG,07/21/2019 16:00:00,102,,Atlético - MG,2,Fortaleza - CE,2
+11,Arena Corinthians - Sao Paulo - SP,07/21/2019 16:00:00,104,,Corinthians - SP,1,Flamengo - RJ,1
+11,Ressacada - Florianopolis - SC,07/21/2019 19:00:00,108,,Avaí - SC,0,Goiás - GO,0
+11,Morumbi - Sao Paulo - SP,07/22/2019 20:00:00,105,São Paulo - SP,São Paulo - SP,4,Chapecoense - SC,0
+12,Allianz Parque - Sao Paulo - SP,07/27/2019 17:00:00,114,,Palmeiras - SP,1,Vasco da Gama - RJ,1
+12,Maracanã - Rio de Janeiro - RJ,07/27/2019 19:00:00,117,São Paulo - SP,Fluminense - RJ,1,São Paulo - SP,2
+12,Mineirão - Belo Horizonte - MG,07/27/2019 19:00:00,112,Athletico Paranaense - PR,Cruzeiro - MG,0,Athletico Paranaense - PR,2
+12,Beira-Rio - Porto Alegre - RS,07/27/2019 19:00:00,111,Internacional - RS,Internacional - RS,1,Ceará - CE,0
+12,Arena Condá - Chapeco - SC,07/28/2019 11:00:00,118,,Chapecoense - SC,0,Bahia - BA,0
+12,Vila Belmiro - Santos - SP,07/28/2019 16:00:00,115,Santos - SP,Santos - SP,3,Avaí - SC,1
+12,Maracanã - Rio de Janeiro - RJ,07/28/2019 16:00:00,116,Flamengo - RJ,Flamengo - RJ,3,Botafogo - RJ,2
+12,Arena Castelão - Fortaleza - CE,07/28/2019 19:00:00,113,Corinthians - SP,Fortaleza - CE,1,Corinthians - SP,3
+12,Serra Dourada - Goiania - GO,07/28/2019 19:00:00,119,,Goiás - GO,0,Atlético - MG,0
+12,Rei Pelé - Maceio - AL,07/29/2019 20:00:00,120,,Csa - AL,0,Grêmio - RS,0
+13,Arena Castelão - Fortaleza - CE,08/03/2019 19:00:00,123,Ceará - CE,Ceará - CE,2,Fortaleza - CE,1
+13,Maracanã - Rio de Janeiro - RJ,08/03/2019 19:00:00,127,Fluminense - RJ,Fluminense - RJ,2,Internacional - RS,1
+13,Vila Belmiro - Santos - SP,08/04/2019 11:00:00,125,Santos - SP,Santos - SP,6,Goiás - GO,1
+13,Arena Fonte Nova - Salvador - BA,08/04/2019 16:00:00,129,Bahia - BA,Bahia - BA,3,Flamengo - RJ,0
+13,Ressacada - Florianopolis - SC,08/04/2019 16:00:00,128,Botafogo - RJ,Avaí - SC,0,Botafogo - RJ,2
+13,Independência - Belo Horizonte - MG,08/04/2019 19:00:00,122,Atlético - MG,Atlético - MG,2,Cruzeiro - MG,0
+13,Kleber Andrade - Cariacica - ES,08/04/2019 19:00:00,126,,Vasco da Gama - RJ,0,Csa - AL,0
+13,Arena Corinthians - Sao Paulo - SP,08/04/2019 19:00:00,124,,Corinthians - SP,1,Palmeiras - SP,1
+13,Arena do Grêmio - Porto Alegre - RS,08/05/2019 20:00:00,121,,Grêmio - RS,3,Chapecoense - SC,3
+13,Arena da Baixada - Curitiba - PR,08/21/2019 19:15:00,130,São Paulo - SP,Athletico Paranaense - PR,0,São Paulo - SP,1
+14,Arena Castelão - Fortaleza - CE,08/10/2019 17:00:00,133,Ceará - CE,Ceará - CE,4,Chapecoense - SC,1
+14,Morumbi - Sao Paulo - SP,08/10/2019 17:00:00,135,São Paulo - SP,São Paulo - SP,3,Santos - SP,2
+14,Maracanã - Rio de Janeiro - RJ,08/10/2019 19:00:00,136,Flamengo - RJ,Flamengo - RJ,3,Grêmio - RS,1
+14,Independência - Belo Horizonte - MG,08/10/2019 21:00:00,132,Atlético - MG,Atlético - MG,2,Fluminense - RJ,1
+14,Beira-Rio - Porto Alegre - RS,08/11/2019 11:00:00,131,,Internacional - RS,0,Corinthians - SP,0
+14,Allianz Parque - Sao Paulo - SP,08/11/2019 16:00:00,134,,Palmeiras - SP,2,Bahia - BA,2
+14,Nilton Santos - Rio de Janeiro - RJ,08/11/2019 16:00:00,137,Botafogo - RJ,Botafogo - RJ,2,Athletico Paranaense - PR,1
+14,Ressacada - Florianopolis - SC,08/11/2019 16:00:00,138,,Avaí - SC,2,Cruzeiro - MG,2
+14,Serra Dourada - Goiania - GO,08/11/2019 19:00:00,139,Vasco da Gama - RJ,Goiás - GO,0,Vasco da Gama - RJ,1
+14,Rei Pelé - Maceio - AL,08/12/2019 20:00:00,140,Fortaleza - CE,Csa - AL,0,Fortaleza - CE,2
+15,Arena Castelão - Fortaleza - CE,08/17/2019 17:00:00,143,Internacional - RS,Fortaleza - CE,0,Internacional - RS,1
+15,Arena Corinthians - Sao Paulo - SP,08/17/2019 17:00:00,144,Corinthians - SP,Corinthians - SP,2,Botafogo - RJ,0
+15,Mané Garrincha - Brasilia - DF,08/17/2019 19:00:00,146,Flamengo - RJ,Vasco da Gama - RJ,1,Flamengo - RJ,4
+15,Arena da Baixada - Curitiba - PR,08/17/2019 19:00:00,150,Athletico Paranaense - PR,Athletico Paranaense - PR,1,Atlético - MG,0
+15,Arena do Grêmio - Porto Alegre - RS,08/17/2019 21:00:00,141,,Grêmio - RS,1,Palmeiras - SP,1
+15,Arena Fonte Nova - Salvador - BA,08/18/2019 16:00:00,149,,Bahia - BA,1,Goiás - GO,1
+15,Maracanã - Rio de Janeiro - RJ,08/18/2019 16:00:00,147,Csa - AL,Fluminense - RJ,0,Csa - AL,1
+15,Morumbi - Sao Paulo - SP,08/18/2019 16:00:00,145,São Paulo - SP,São Paulo - SP,1,Ceará - CE,0
+15,Mineirão - Belo Horizonte - MG,08/18/2019 16:00:00,142,Cruzeiro - MG,Cruzeiro - MG,2,Santos - SP,0
+15,Arena Condá - Chapeco - SC,08/18/2019 19:00:00,148,Chapecoense - SC,Chapecoense - SC,1,Avaí - SC,0
+16,Independência - Belo Horizonte - MG,08/24/2019 11:00:00,152,Bahia - BA,Atlético - MG,0,Bahia - BA,1
+16,Arena do Grêmio - Porto Alegre - RS,08/24/2019 17:00:00,151,Grêmio - RS,Grêmio - RS,2,Athletico Paranaense - PR,1
+16,Vila Belmiro - Santos - SP,08/25/2019 16:00:00,155,,Santos - SP,3,Fortaleza - CE,3
+16,São Januário - Rio de Janeiro - RJ,08/25/2019 16:00:00,156,Vasco da Gama - RJ,Vasco da Gama - RJ,2,São Paulo - SP,0
+16,Serra Dourada - Goiania - GO,08/25/2019 16:00:00,159,Goiás - GO,Goiás - GO,2,Internacional - RS,1
+16,Arena Castelão - Fortaleza - CE,08/25/2019 19:00:00,153,Flamengo - RJ,Ceará - CE,0,Flamengo - RJ,3
+16,Ressacada - Florianopolis - SC,08/25/2019 19:00:00,158,,Avaí - SC,1,Corinthians - SP,1
+16,Rei Pelé - Maceio - AL,08/25/2019 19:00:00,160,,Csa - AL,1,Cruzeiro - MG,1
+16,Nilton Santos - Rio de Janeiro - RJ,08/26/2019 20:00:00,157,,Botafogo - RJ,0,Chapecoense - SC,0
+16,Allianz Parque - Sao Paulo - SP,09/10/2019 21:00:00,154,Palmeiras - SP,Palmeiras - SP,3,Fluminense - RJ,0
+17,Morumbi - Sao Paulo - SP,08/31/2019 11:00:00,165,,São Paulo - SP,0,Grêmio - RS,0
+17,Arena Fonte Nova - Salvador - BA,08/31/2019 17:00:00,169,Bahia - BA,Bahia - BA,1,Csa - AL,0
+17,Arena Condá - Chapeco - SC,08/31/2019 19:00:00,168,Santos - SP,Chapecoense - SC,0,Santos - SP,1
+17,Arena da Baixada - Curitiba - PR,08/31/2019 19:00:00,170,Athletico Paranaense - PR,Athletico Paranaense - PR,1,Ceará - CE,0
+17,Beira-Rio - Porto Alegre - RS,08/31/2019 21:00:00,161,Internacional - RS,Internacional - RS,3,Botafogo - RJ,2
+17,Arena Castelão - Fortaleza - CE,09/01/2019 16:00:00,163,Fortaleza - CE,Fortaleza - CE,2,Goiás - GO,0
+17,Maracanã - Rio de Janeiro - RJ,09/01/2019 16:00:00,166,Flamengo - RJ,Flamengo - RJ,3,Palmeiras - SP,0
+17,Arena Corinthians - Sao Paulo - SP,09/01/2019 19:00:00,164,Corinthians - SP,Corinthians - SP,1,Atlético - MG,0
+17,Mineirão - Belo Horizonte - MG,09/01/2019 19:00:00,162,Cruzeiro - MG,Cruzeiro - MG,1,Vasco da Gama - RJ,0
+17,Maracanã - Rio de Janeiro - RJ,09/02/2019 20:00:00,167,Avaí - SC,Fluminense - RJ,0,Avaí - SC,1
+18,Arena Corinthians - Sao Paulo - SP,09/07/2019 11:00:00,174,,Corinthians - SP,2,Ceará - CE,2
+18,São Januário - Rio de Janeiro - RJ,09/07/2019 11:00:00,176,Bahia - BA,Vasco da Gama - RJ,0,Bahia - BA,2
+18,Arena Castelão - Fortaleza - CE,09/07/2019 17:00:00,173,Fluminense - RJ,Fortaleza - CE,0,Fluminense - RJ,1
+18,Mané Garrincha - Brasilia - DF,09/07/2019 17:00:00,178,Flamengo - RJ,Avaí - SC,0,Flamengo - RJ,3
+18,Beira-Rio - Porto Alegre - RS,09/07/2019 19:00:00,171,Internacional - RS,Internacional - RS,1,São Paulo - SP,0
+18,Serra Dourada - Goiania - GO,09/07/2019 21:00:00,179,Palmeiras - SP,Goiás - GO,1,Palmeiras - SP,2
+18,Independência - Belo Horizonte - MG,09/08/2019 11:00:00,172,Grêmio - RS,Cruzeiro - MG,1,Grêmio - RS,4
+18,Nilton Santos - Rio de Janeiro - RJ,09/08/2019 16:00:00,177,Botafogo - RJ,Botafogo - RJ,2,Atlético - MG,1
+18,Vila Belmiro - Santos - SP,09/08/2019 16:00:00,175,,Santos - SP,1,Athletico Paranaense - PR,1
+18,Rei Pelé - Maceio - AL,09/08/2019 19:00:00,180,Csa - AL,Csa - AL,2,Chapecoense - SC,0
+19,Maracanã - Rio de Janeiro - RJ,09/14/2019 17:00:00,186,Flamengo - RJ,Flamengo - RJ,1,Santos - SP,0
+19,Allianz Parque - Sao Paulo - SP,09/14/2019 19:00:00,184,Palmeiras - SP,Palmeiras - SP,1,Cruzeiro - MG,0
+19,Arena Condá - Chapeco - SC,09/14/2019 19:00:00,188,Vasco da Gama - RJ,Chapecoense - SC,1,Vasco da Gama - RJ,2
+19,Arena Castelão - Fortaleza - CE,09/14/2019 21:00:00,183,,Ceará - CE,0,Botafogo - RJ,0
+19,Independência - Belo Horizonte - MG,09/15/2019 11:00:00,182,Internacional - RS,Atlético - MG,1,Internacional - RS,3
+19,Arena da Baixada - Curitiba - PR,09/15/2019 11:00:00,190,Avaí - SC,Athletico Paranaense - PR,0,Avaí - SC,1
+19,Arena do Grêmio - Porto Alegre - RS,09/15/2019 16:00:00,181,Grêmio - RS,Grêmio - RS,3,Goiás - GO,0
+19,Mané Garrincha - Brasilia - DF,09/15/2019 16:00:00,187,Fluminense - RJ,Fluminense - RJ,1,Corinthians - SP,0
+19,Arena Fonte Nova - Salvador - BA,09/15/2019 16:00:00,189,,Bahia - BA,1,Fortaleza - CE,1
+19,Morumbi - Sao Paulo - SP,09/15/2019 19:00:00,185,,São Paulo - SP,1,Csa - AL,1
+20,Nilton Santos - Rio de Janeiro - RJ,09/21/2019 11:00:00,197,São Paulo - SP,Botafogo - RJ,1,São Paulo - SP,2
+20,Mineirão - Belo Horizonte - MG,09/21/2019 17:00:00,192,Flamengo - RJ,Cruzeiro - MG,1,Flamengo - RJ,2
+20,Arena Corinthians - Sao Paulo - SP,09/21/2019 19:00:00,194,Corinthians - SP,Corinthians - SP,2,Bahia - BA,1
+20,Vila Belmiro - Santos - SP,09/21/2019 21:00:00,195,Grêmio - RS,Santos - SP,0,Grêmio - RS,3
+20,Beira-Rio - Porto Alegre - RS,09/22/2019 11:00:00,191,Internacional - RS,Internacional - RS,1,Chapecoense - SC,0
+20,São Januário - Rio de Janeiro - RJ,09/22/2019 16:00:00,196,,Vasco da Gama - RJ,1,Athletico Paranaense - PR,1
+20,Rei Pelé - Maceio - AL,09/22/2019 16:00:00,200,Csa - AL,Csa - AL,1,Ceará - CE,0
+20,Arena Castelão - Fortaleza - CE,09/22/2019 16:00:00,193,Palmeiras - SP,Fortaleza - CE,0,Palmeiras - SP,1
+20,Serra Dourada - Goiania - GO,09/22/2019 19:00:00,199,Goiás - GO,Goiás - GO,3,Fluminense - RJ,0
+20,Ressacada - Florianopolis - SC,09/23/2019 20:00:00,198,Avaí - SC,Avaí - SC,1,Atlético - MG,0
+21,Arena Castelão - Fortaleza - CE,09/25/2019 19:30:00,203,,Ceará - CE,0,Cruzeiro - MG,0
+21,Arena Fonte Nova - Salvador - BA,09/25/2019 21:30:00,209,Bahia - BA,Bahia - BA,2,Botafogo - RJ,0
+21,Morumbi - Sao Paulo - SP,09/25/2019 21:30:00,205,Goiás - GO,São Paulo - SP,0,Goiás - GO,1
+21,Maracanã - Rio de Janeiro - RJ,09/25/2019 21:30:00,206,Flamengo - RJ,Flamengo - RJ,3,Internacional - RS,1
+21,Pacaembu - Sao Paulo - SP,09/26/2019 19:15:00,204,Palmeiras - SP,Palmeiras - SP,6,Csa - AL,2
+21,Arena do Grêmio - Porto Alegre - RS,09/26/2019 20:00:00,201,Grêmio - RS,Grêmio - RS,6,Avaí - SC,1
+21,Maracanã - Rio de Janeiro - RJ,09/26/2019 20:00:00,207,,Fluminense - RJ,1,Santos - SP,1
+21,Arena da Baixada - Curitiba - PR,09/26/2019 21:30:00,210,Athletico Paranaense - PR,Athletico Paranaense - PR,4,Fortaleza - CE,1
+21,Arena Condá - Chapeco - SC,10/02/2019 19:15:00,208,Corinthians - SP,Chapecoense - SC,0,Corinthians - SP,1
+21,Independência - Belo Horizonte - MG,10/02/2019 19:15:00,202,Vasco da Gama - RJ,Atlético - MG,1,Vasco da Gama - RJ,2
+22,Maracanã - Rio de Janeiro - RJ,09/28/2019 19:00:00,216,,Flamengo - RJ,0,São Paulo - SP,0
+22,Arena Corinthians - Sao Paulo - SP,09/29/2019 11:00:00,214,Corinthians - SP,Corinthians - SP,1,Vasco da Gama - RJ,0
+22,Vila Belmiro - Santos - SP,09/29/2019 16:00:00,215,Santos - SP,Santos - SP,2,Csa - AL,0
+22,Beira-Rio - Porto Alegre - RS,09/29/2019 16:00:00,211,,Internacional - RS,1,Palmeiras - SP,1
+22,Maracanã - Rio de Janeiro - RJ,09/29/2019 16:00:00,217,Fluminense - RJ,Fluminense - RJ,2,Grêmio - RS,1
+22,Independência - Belo Horizonte - MG,09/29/2019 19:00:00,212,Atlético - MG,Atlético - MG,2,Ceará - CE,1
+22,Arena da Baixada - Curitiba - PR,09/29/2019 19:00:00,220,,Athletico Paranaense - PR,1,Chapecoense - SC,1
+22,Serra Dourada - Goiania - GO,09/30/2019 20:00:00,219,Goiás - GO,Goiás - GO,1,Cruzeiro - MG,0
+22,Arena Castelão - Fortaleza - CE,09/30/2019 20:00:00,213,Fortaleza - CE,Fortaleza - CE,1,Botafogo - RJ,0
+22,Ressacada - Florianopolis - SC,09/30/2019 20:00:00,218,Bahia - BA,Avaí - SC,0,Bahia - BA,2
+23,Pacaembu - Sao Paulo - SP,10/05/2019 17:00:00,225,São Paulo - SP,São Paulo - SP,2,Fortaleza - CE,1
+23,São Januário - Rio de Janeiro - RJ,10/05/2019 17:00:00,226,Santos - SP,Vasco da Gama - RJ,0,Santos - SP,1
+23,Arena Fonte Nova - Salvador - BA,10/05/2019 19:00:00,229,Athletico Paranaense - PR,Bahia - BA,1,Athletico Paranaense - PR,2
+23,Arena do Grêmio - Porto Alegre - RS,10/05/2019 19:00:00,221,,Grêmio - RS,0,Corinthians - SP,0
+23,Mineirão - Belo Horizonte - MG,10/05/2019 21:00:00,222,,Cruzeiro - MG,1,Internacional - RS,1
+23,Arena Condá - Chapeco - SC,10/06/2019 11:00:00,228,Flamengo - RJ,Chapecoense - SC,0,Flamengo - RJ,1
+23,Arena Castelão - Fortaleza - CE,10/06/2019 16:00:00,223,Goiás - GO,Ceará - CE,0,Goiás - GO,1
+23,Allianz Parque - Sao Paulo - SP,10/06/2019 16:00:00,224,,Palmeiras - SP,1,Atlético - MG,1
+23,Nilton Santos - Rio de Janeiro - RJ,10/06/2019 16:00:00,227,Fluminense - RJ,Botafogo - RJ,0,Fluminense - RJ,1
+23,Rei Pelé - Maceio - AL,10/06/2019 19:00:00,230,Csa - AL,Csa - AL,3,Avaí - SC,1
+24,Nilton Santos - Rio de Janeiro - RJ,10/09/2019 19:15:00,237,Botafogo - RJ,Botafogo - RJ,3,Goiás - GO,1
+24,Rei Pelé - Maceio - AL,10/09/2019 19:15:00,240,Csa - AL,Csa - AL,1,Internacional - RS,0
+24,Arena Castelão - Fortaleza - CE,10/09/2019 20:30:00,233,Fortaleza - CE,Fortaleza - CE,2,Chapecoense - SC,0
+24,Centenário - Caxias do Sul - RS,10/09/2019 21:00:00,231,Grêmio - RS,Grêmio - RS,2,Ceará - CE,1
+24,Arena Fonte Nova - Salvador - BA,10/09/2019 21:00:00,239,,Bahia - BA,0,São Paulo - SP,0
+24,Mineirão - Belo Horizonte - MG,10/09/2019 21:30:00,232,,Cruzeiro - MG,0,Fluminense - RJ,0
+24,Vila Belmiro - Santos - SP,10/09/2019 21:30:00,235,Santos - SP,Santos - SP,2,Palmeiras - SP,0
+24,Ressacada - Florianopolis - SC,10/10/2019 19:15:00,238,,Avaí - SC,0,Vasco da Gama - RJ,0
+24,Arena Corinthians - Sao Paulo - SP,10/10/2019 19:15:00,234,,Corinthians - SP,2,Athletico Paranaense - PR,2
+24,Maracanã - Rio de Janeiro - RJ,10/10/2019 20:00:00,236,Flamengo - RJ,Flamengo - RJ,3,Atlético - MG,1
+25,Serra Dourada - Goiania - GO,10/12/2019 17:00:00,249,Goiás - GO,Goiás - GO,1,Csa - AL,0
+25,Maracanã - Rio de Janeiro - RJ,10/12/2019 19:00:00,247,Fluminense - RJ,Fluminense - RJ,2,Bahia - BA,0
+25,Pacaembu - Sao Paulo - SP,10/12/2019 21:00:00,244,Palmeiras - SP,Palmeiras - SP,1,Botafogo - RJ,0
+25,Beira-Rio - Porto Alegre - RS,10/13/2019 16:00:00,241,,Internacional - RS,0,Santos - SP,0
+25,Arena Castelão - Fortaleza - CE,10/13/2019 16:00:00,243,Ceará - CE,Ceará - CE,1,Avaí - SC,0
+25,Arena da Baixada - Curitiba - PR,10/13/2019 16:00:00,250,Flamengo - RJ,Athletico Paranaense - PR,0,Flamengo - RJ,2
+25,São Januário - Rio de Janeiro - RJ,10/13/2019 16:00:00,246,Vasco da Gama - RJ,Vasco da Gama - RJ,1,Fortaleza - CE,0
+25,Morumbi - Sao Paulo - SP,10/13/2019 18:00:00,245,São Paulo - SP,São Paulo - SP,1,Corinthians - SP,0
+25,Independência - Belo Horizonte - MG,10/13/2019 19:00:00,242,Grêmio - RS,Atlético - MG,1,Grêmio - RS,4
+25,Arena Condá - Chapeco - SC,10/13/2019 19:00:00,248,,Chapecoense - SC,1,Cruzeiro - MG,1
+26,Rei Pelé - Maceio - AL,10/16/2019 19:15:00,260,,Csa - AL,2,Atlético - MG,2
+26,Arena do Grêmio - Porto Alegre - RS,10/16/2019 19:15:00,251,Bahia - BA,Grêmio - RS,0,Bahia - BA,1
+26,Arena Castelão - Fortaleza - CE,10/16/2019 20:00:00,253,Flamengo - RJ,Fortaleza - CE,1,Flamengo - RJ,2
+26,Mineirão - Belo Horizonte - MG,10/16/2019 21:00:00,252,Cruzeiro - MG,Cruzeiro - MG,1,São Paulo - SP,0
+26,Allianz Parque - Sao Paulo - SP,10/16/2019 21:00:00,254,Palmeiras - SP,Palmeiras - SP,1,Chapecoense - SC,0
+26,Serra Dourada - Goiania - GO,10/16/2019 21:30:00,259,,Goiás - GO,2,Corinthians - SP,2
+26,São Januário - Rio de Janeiro - RJ,10/16/2019 21:30:00,256,Vasco da Gama - RJ,Vasco da Gama - RJ,2,Botafogo - RJ,1
+26,Ressacada - Florianopolis - SC,10/17/2019 19:15:00,258,Internacional - RS,Avaí - SC,0,Internacional - RS,2
+26,Vila Belmiro - Santos - SP,10/17/2019 19:15:00,255,Santos - SP,Santos - SP,2,Ceará - CE,1
+26,Maracanã - Rio de Janeiro - RJ,10/17/2019 21:00:00,257,Athletico Paranaense - PR,Fluminense - RJ,1,Athletico Paranaense - PR,2
+27,Arena Castelão - Fortaleza - CE,10/19/2019 17:00:00,263,Fortaleza - CE,Fortaleza - CE,2,Grêmio - RS,1
+27,Arena Corinthians - Sao Paulo - SP,10/19/2019 19:00:00,264,Cruzeiro - MG,Corinthians - SP,1,Cruzeiro - MG,2
+27,Beira-Rio - Porto Alegre - RS,10/20/2019 16:00:00,261,Vasco da Gama - RJ,Internacional - RS,0,Vasco da Gama - RJ,1
+27,Morumbi - Sao Paulo - SP,10/20/2019 16:00:00,265,São Paulo - SP,São Paulo - SP,1,Avaí - SC,0
+27,Independência - Belo Horizonte - MG,10/20/2019 16:00:00,262,Atlético - MG,Atlético - MG,2,Santos - SP,0
+27,Maracanã - Rio de Janeiro - RJ,10/20/2019 18:00:00,266,Flamengo - RJ,Flamengo - RJ,2,Fluminense - RJ,0
+27,Arena da Baixada - Curitiba - PR,10/20/2019 19:00:00,270,,Athletico Paranaense - PR,1,Palmeiras - SP,1
+27,Arena Condá - Chapeco - SC,10/20/2019 19:00:00,268,,Chapecoense - SC,2,Goiás - GO,2
+27,Pituaçu - Salvador - BA,10/21/2019 19:30:00,269,Ceará - CE,Bahia - BA,1,Ceará - CE,2
+27,Nilton Santos - Rio de Janeiro - RJ,10/21/2019 20:00:00,267,Botafogo - RJ,Botafogo - RJ,2,Csa - AL,1
+28,Arena Castelão - Fortaleza - CE,10/26/2019 17:00:00,273,,Ceará - CE,1,Vasco da Gama - RJ,1
+28,Arena Corinthians - Sao Paulo - SP,10/26/2019 17:00:00,274,,Corinthians - SP,0,Santos - SP,0
+28,Arena Fonte Nova - Salvador - BA,10/26/2019 19:00:00,279,Internacional - RS,Bahia - BA,2,Internacional - RS,3
+28,Maracanã - Rio de Janeiro - RJ,10/26/2019 19:30:00,277,,Fluminense - RJ,1,Chapecoense - SC,1
+28,Mineirão - Belo Horizonte - MG,10/26/2019 21:00:00,272,,Cruzeiro - MG,1,Fortaleza - CE,1
+28,Morumbi - Sao Paulo - SP,10/27/2019 16:00:00,275,São Paulo - SP,São Paulo - SP,2,Atlético - MG,0
+28,Arena da Baixada - Curitiba - PR,10/27/2019 16:00:00,280,Athletico Paranaense - PR,Athletico Paranaense - PR,4,Goiás - GO,1
+28,Arena do Grêmio - Porto Alegre - RS,10/27/2019 16:00:00,271,Grêmio - RS,Grêmio - RS,3,Botafogo - RJ,0
+28,Ressacada - Florianopolis - SC,10/27/2019 18:00:00,278,Palmeiras - SP,Avaí - SC,1,Palmeiras - SP,2
+28,Maracanã - Rio de Janeiro - RJ,10/27/2019 19:00:00,276,Flamengo - RJ,Flamengo - RJ,1,Csa - AL,0
+29,Allianz Parque - Sao Paulo - SP,10/30/2019 19:30:00,284,Palmeiras - SP,Palmeiras - SP,3,São Paulo - SP,0
+29,Ressacada - Florianopolis - SC,10/30/2019 19:30:00,288,Fortaleza - CE,Avaí - SC,1,Fortaleza - CE,3
+29,Independência - Belo Horizonte - MG,10/30/2019 19:30:00,282,Chapecoense - SC,Atlético - MG,0,Chapecoense - SC,2
+29,Arena Castelão - Fortaleza - CE,10/30/2019 21:30:00,283,Ceará - CE,Ceará - CE,2,Fluminense - RJ,0
+29,São Januário - Rio de Janeiro - RJ,10/30/2019 21:30:00,286,Grêmio - RS,Vasco da Gama - RJ,1,Grêmio - RS,3
+29,Rei Pelé - Maceio - AL,10/30/2019 21:30:00,290,Csa - AL,Csa - AL,2,Corinthians - SP,1
+29,Vila Belmiro - Santos - SP,10/31/2019 19:15:00,285,Santos - SP,Santos - SP,1,Bahia - BA,0
+29,Serra Dourada - Goiania - GO,10/31/2019 20:00:00,289,,Goiás - GO,2,Flamengo - RJ,2
+29,Nilton Santos - Rio de Janeiro - RJ,10/31/2019 21:30:00,287,Cruzeiro - MG,Botafogo - RJ,0,Cruzeiro - MG,2
+29,Beira-Rio - Porto Alegre - RS,10/31/2019 21:30:00,281,,Internacional - RS,1,Athletico Paranaense - PR,1
+30,Arena Castelão - Fortaleza - CE,11/02/2019 17:00:00,293,,Fortaleza - CE,2,Atlético - MG,2
+30,Allianz Parque - Sao Paulo - SP,11/02/2019 19:00:00,294,Palmeiras - SP,Palmeiras - SP,1,Ceará - CE,0
+30,Maracanã - Rio de Janeiro - RJ,11/02/2019 19:00:00,297,,Fluminense - RJ,0,Vasco da Gama - RJ,0
+30,Arena Condá - Chapeco - SC,11/02/2019 21:00:00,298,São Paulo - SP,Chapecoense - SC,0,São Paulo - SP,3
+30,Maracanã - Rio de Janeiro - RJ,11/03/2019 16:00:00,296,Flamengo - RJ,Flamengo - RJ,4,Corinthians - SP,1
+30,Arena da Baixada - Curitiba - PR,11/03/2019 18:00:00,300,Athletico Paranaense - PR,Athletico Paranaense - PR,1,Csa - AL,0
+30,Arena do Grêmio - Porto Alegre - RS,11/03/2019 18:00:00,291,Grêmio - RS,Grêmio - RS,2,Internacional - RS,0
+30,Mineirão - Belo Horizonte - MG,11/03/2019 19:00:00,292,,Cruzeiro - MG,1,Bahia - BA,1
+30,Vila Belmiro - Santos - SP,11/03/2019 19:00:00,295,Santos - SP,Santos - SP,4,Botafogo - RJ,1
+30,Serra Dourada - Goiania - GO,11/03/2019 19:30:00,299,Goiás - GO,Goiás - GO,2,Avaí - SC,0
+31,Arena Corinthians - Sao Paulo - SP,11/06/2019 19:30:00,304,Corinthians - SP,Corinthians - SP,3,Fortaleza - CE,2
+31,Mineirão - Belo Horizonte - MG,11/06/2019 20:00:00,302,Atlético - MG,Atlético - MG,2,Goiás - GO,0
+31,Ressacada - Florianopolis - SC,11/06/2019 21:00:00,308,Santos - SP,Avaí - SC,1,Santos - SP,2
+31,São Januário - Rio de Janeiro - RJ,11/06/2019 21:30:00,306,Palmeiras - SP,Vasco da Gama - RJ,1,Palmeiras - SP,2
+31,Arena Fonte Nova - Salvador - BA,11/06/2019 21:30:00,309,,Bahia - BA,1,Chapecoense - SC,1
+31,Arena da Baixada - Curitiba - PR,11/06/2019 21:30:00,310,,Athletico Paranaense - PR,0,Cruzeiro - MG,0
+31,Arena Castelão - Fortaleza - CE,11/07/2019 19:30:00,303,Ceará - CE,Ceará - CE,2,Internacional - RS,0
+31,Morumbi - Sao Paulo - SP,11/07/2019 19:30:00,305,Fluminense - RJ,São Paulo - SP,0,Fluminense - RJ,2
+31,Nilton Santos - Rio de Janeiro - RJ,11/07/2019 20:00:00,307,Flamengo - RJ,Botafogo - RJ,0,Flamengo - RJ,1
+31,Arena do Grêmio - Porto Alegre - RS,11/07/2019 21:00:00,301,Grêmio - RS,Grêmio - RS,2,Csa - AL,1
+32,Serra Dourada - Goiania - GO,11/09/2019 17:00:00,319,Santos - SP,Goiás - GO,0,Santos - SP,3
+32,Pacaembu - Sao Paulo - SP,11/09/2019 19:00:00,314,,Palmeiras - SP,1,Corinthians - SP,1
+32,Mineirão - Belo Horizonte - MG,11/10/2019 16:00:00,312,,Cruzeiro - MG,0,Atlético - MG,0
+32,Morumbi - Sao Paulo - SP,11/10/2019 16:00:00,315,Athletico Paranaense - PR,São Paulo - SP,0,Athletico Paranaense - PR,1
+32,Beira-Rio - Porto Alegre - RS,11/10/2019 16:00:00,311,Internacional - RS,Internacional - RS,2,Fluminense - RJ,1
+32,Maracanã - Rio de Janeiro - RJ,11/10/2019 18:00:00,316,Flamengo - RJ,Flamengo - RJ,3,Bahia - BA,1
+32,Arena Castelão - Fortaleza - CE,11/10/2019 19:00:00,313,Fortaleza - CE,Fortaleza - CE,1,Ceará - CE,0
+32,Arena Condá - Chapeco - SC,11/10/2019 19:00:00,318,Grêmio - RS,Chapecoense - SC,0,Grêmio - RS,1
+32,Rei Pelé - Maceio - AL,11/10/2019 19:00:00,320,Vasco da Gama - RJ,Csa - AL,0,Vasco da Gama - RJ,3
+32,Nilton Santos - Rio de Janeiro - RJ,11/11/2019 20:00:00,317,Botafogo - RJ,Botafogo - RJ,2,Avaí - SC,0
+33,Vila Belmiro - Santos - SP,11/16/2019 17:00:00,325,,Santos - SP,1,São Paulo - SP,1
+33,Maracanã - Rio de Janeiro - RJ,11/16/2019 19:00:00,327,,Fluminense - RJ,1,Atlético - MG,1
+33,Arena do Grêmio - Porto Alegre - RS,11/17/2019 16:00:00,321,Flamengo - RJ,Grêmio - RS,0,Flamengo - RJ,1
+33,Arena Fonte Nova - Salvador - BA,11/17/2019 16:00:00,329,,Bahia - BA,1,Palmeiras - SP,1
+33,Arena Corinthians - Sao Paulo - SP,11/17/2019 18:00:00,324,,Corinthians - SP,0,Internacional - RS,0
+33,Arena Condá - Chapeco - SC,11/17/2019 18:00:00,328,Chapecoense - SC,Chapecoense - SC,1,Ceará - CE,0
+33,Arena da Baixada - Curitiba - PR,11/17/2019 18:00:00,330,Athletico Paranaense - PR,Athletico Paranaense - PR,1,Botafogo - RJ,0
+33,Arena Castelão - Fortaleza - CE,11/17/2019 19:00:00,323,Fortaleza - CE,Fortaleza - CE,3,Csa - AL,0
+33,São Januário - Rio de Janeiro - RJ,11/18/2019 19:30:00,326,,Vasco da Gama - RJ,1,Goiás - GO,1
+33,Mineirão - Belo Horizonte - MG,11/18/2019 20:00:00,322,,Cruzeiro - MG,0,Avaí - SC,0
+34,Maracanã - Rio de Janeiro - RJ,11/13/2019 21:30:00,336,,Flamengo - RJ,4,Vasco da Gama - RJ,4
+34,Vila Belmiro - Santos - SP,11/23/2019 21:00:00,335,Santos - SP,Santos - SP,4,Cruzeiro - MG,1
+34,Serra Dourada - Goiania - GO,11/24/2019 16:00:00,339,Goiás - GO,Goiás - GO,4,Bahia - BA,3
+34,Mineirão - Belo Horizonte - MG,11/24/2019 16:00:00,332,Athletico Paranaense - PR,Atlético - MG,0,Athletico Paranaense - PR,1
+34,Allianz Parque - Sao Paulo - SP,11/24/2019 16:00:00,334,Grêmio - RS,Palmeiras - SP,1,Grêmio - RS,2
+34,Nilton Santos - Rio de Janeiro - RJ,11/24/2019 18:00:00,337,Botafogo - RJ,Botafogo - RJ,1,Corinthians - SP,0
+34,Ressacada - Florianopolis - SC,11/24/2019 19:00:00,338,Chapecoense - SC,Avaí - SC,0,Chapecoense - SC,1
+34,Beira-Rio - Porto Alegre - RS,11/24/2019 19:00:00,331,,Internacional - RS,2,Fortaleza - CE,2
+34,Arena Castelão - Fortaleza - CE,11/24/2019 19:00:00,333,,Ceará - CE,1,São Paulo - SP,1
+34,Rei Pelé - Maceio - AL,11/25/2019 20:00:00,340,Fluminense - RJ,Csa - AL,0,Fluminense - RJ,1
+35,Arena Condá - Chapeco - SC,11/27/2019 19:30:00,348,Botafogo - RJ,Chapecoense - SC,0,Botafogo - RJ,1
+35,Beira-Rio - Porto Alegre - RS,11/27/2019 19:30:00,341,Goiás - GO,Internacional - RS,1,Goiás - GO,2
+35,Arena Fonte Nova - Salvador - BA,11/27/2019 21:00:00,349,,Bahia - BA,1,Atlético - MG,1
+35,Arena da Baixada - Curitiba - PR,11/27/2019 21:30:00,350,Athletico Paranaense - PR,Athletico Paranaense - PR,2,Grêmio - RS,0
+35,Arena Corinthians - Sao Paulo - SP,11/27/2019 21:30:00,344,Corinthians - SP,Corinthians - SP,3,Avaí - SC,0
+35,Maracanã - Rio de Janeiro - RJ,11/27/2019 21:30:00,346,Flamengo - RJ,Flamengo - RJ,4,Ceará - CE,1
+35,Maracanã - Rio de Janeiro - RJ,11/28/2019 19:30:00,347,Fluminense - RJ,Fluminense - RJ,1,Palmeiras - SP,0
+35,Arena Castelão - Fortaleza - CE,11/28/2019 20:00:00,343,Fortaleza - CE,Fortaleza - CE,2,Santos - SP,1
+35,Morumbi - Sao Paulo - SP,11/28/2019 20:30:00,345,São Paulo - SP,São Paulo - SP,1,Vasco da Gama - RJ,0
+35,Mineirão - Belo Horizonte - MG,11/28/2019 21:30:00,342,Csa - AL,Cruzeiro - MG,0,Csa - AL,1
+36,Nilton Santos - Rio de Janeiro - RJ,11/30/2019 19:00:00,357,Internacional - RS,Botafogo - RJ,0,Internacional - RS,1
+36,Arena Castelão - Fortaleza - CE,11/30/2019 19:00:00,353,,Ceará - CE,1,Athletico Paranaense - PR,1
+36,Serra Dourada - Goiania - GO,12/01/2019 16:00:00,359,Fortaleza - CE,Goiás - GO,1,Fortaleza - CE,2
+36,Ressacada - Florianopolis - SC,12/01/2019 16:00:00,358,,Avaí - SC,1,Fluminense - RJ,1
+36,Allianz Parque - Sao Paulo - SP,12/01/2019 16:00:00,354,Flamengo - RJ,Palmeiras - SP,1,Flamengo - RJ,3
+36,Independência - Belo Horizonte - MG,12/01/2019 18:00:00,352,Atlético - MG,Atlético - MG,2,Corinthians - SP,1
+36,Rei Pelé - Maceio - AL,12/01/2019 18:00:00,360,Bahia - BA,Csa - AL,1,Bahia - BA,2
+36,Vila Belmiro - Santos - SP,12/01/2019 19:00:00,355,Santos - SP,Santos - SP,2,Chapecoense - SC,0
+36,Arena do Grêmio - Porto Alegre - RS,12/01/2019 19:00:00,351,Grêmio - RS,Grêmio - RS,3,São Paulo - SP,0
+36,São Januário - Rio de Janeiro - RJ,12/02/2019 20:00:00,356,Vasco da Gama - RJ,Vasco da Gama - RJ,1,Cruzeiro - MG,0
+37,Arena da Baixada - Curitiba - PR,12/04/2019 19:00:00,370,Athletico Paranaense - PR,Athletico Paranaense - PR,1,Santos - SP,0
+37,Mineirão - Belo Horizonte - MG,12/04/2019 19:30:00,362,Atlético - MG,Atlético - MG,2,Botafogo - RJ,0
+37,Arena Castelão - Fortaleza - CE,12/04/2019 19:30:00,363,Corinthians - SP,Ceará - CE,0,Corinthians - SP,1
+37,Arena Condá - Chapeco - SC,12/04/2019 21:00:00,368,Chapecoense - SC,Chapecoense - SC,3,Csa - AL,0
+37,Morumbi - Sao Paulo - SP,12/04/2019 21:30:00,365,São Paulo - SP,São Paulo - SP,2,Internacional - RS,1
+37,Maracanã - Rio de Janeiro - RJ,12/04/2019 21:30:00,367,,Fluminense - RJ,0,Fortaleza - CE,0
+37,Brinco de Ouro - Campinas - SP,12/05/2019 19:15:00,364,Palmeiras - SP,Palmeiras - SP,5,Goiás - GO,1
+37,Arena Fonte Nova - Salvador - BA,12/05/2019 19:15:00,369,,Bahia - BA,1,Vasco da Gama - RJ,1
+37,Arena do Grêmio - Porto Alegre - RS,12/05/2019 19:15:00,361,Grêmio - RS,Grêmio - RS,2,Cruzeiro - MG,0
+37,Maracanã - Rio de Janeiro - RJ,12/05/2019 20:00:00,366,Flamengo - RJ,Flamengo - RJ,6,Avaí - SC,1
+38,Beira-Rio - Porto Alegre - RS,12/08/2019 16:00:00,371,,Internacional - RS,0,Atlético - MG,0
+38,Mineirão - Belo Horizonte - MG,12/08/2019 16:00:00,372,Palmeiras - SP,Cruzeiro - MG,0,Palmeiras - SP,2
+38,Arena Castelão - Fortaleza - CE,12/08/2019 16:00:00,373,Fortaleza - CE,Fortaleza - CE,2,Bahia - BA,1
+38,Arena Corinthians - Sao Paulo - SP,12/08/2019 16:00:00,374,Fluminense - RJ,Corinthians - SP,1,Fluminense - RJ,2
+38,Vila Belmiro - Santos - SP,12/08/2019 16:00:00,375,Santos - SP,Santos - SP,4,Flamengo - RJ,0
+38,Maracanã - Rio de Janeiro - RJ,12/08/2019 16:00:00,376,,Vasco da Gama - RJ,1,Chapecoense - SC,1
+38,Nilton Santos - Rio de Janeiro - RJ,12/08/2019 16:00:00,377,,Botafogo - RJ,1,Ceará - CE,1
+38,Ressacada - Florianopolis - SC,12/08/2019 16:00:00,378,,Avaí - SC,0,Athletico Paranaense - PR,0
+38,Serra Dourada - Goiania - GO,12/08/2019 16:00:00,379,Goiás - GO,Goiás - GO,3,Grêmio - RS,2
+38,Rei Pelé - Maceio - AL,12/08/2019 16:00:00,380,São Paulo - SP,Csa - AL,1,São Paulo - SP,2

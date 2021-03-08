@@ -1,0 +1,936 @@
+1,São Januário - Rio de Janeiro - RJ,05/25/2013 18:30:00,1,Vasco da Gama - RJ,Carlos,2,Segundo
+1,Fonte Nova - Salvador - BA,05/25/2013 18:30:00,4,Vitória - BA,Max,2,Primeiro
+1,Fonte Nova - Salvador - BA,05/25/2013 18:30:00,4,Vitória - BA,Gabriel,11,Primeiro
+1,Fonte Nova - Salvador - BA,05/25/2013 18:30:00,4,Internacional - RS,Forlan,30,Primeiro
+1,Fonte Nova - Salvador - BA,05/25/2013 18:30:00,4,Internacional - RS,Fred,18,Segundo
+1,Pacaembu - Sao Paulo - SP,05/25/2013 21:00:00,3,Corinthians - SP,Paulinho,28,Segundo
+1,Pacaembu - Sao Paulo - SP,05/25/2013 21:00:00,3,Botafogo - RJ,Rafael Marques,25,Primeiro
+1,Alfredo Jaconi - Caxias do Sul - RS,05/26/2013 16:00:00,5,Grêmio - RS,Ze Roberto,15,Primeiro
+1,Alfredo Jaconi - Caxias do Sul - RS,05/26/2013 16:00:00,5,Grêmio - RS,Elano,25,Segundo
+1,Moisés Lucarelli - Campinas - SP,05/26/2013 16:00:00,6,São Paulo - SP,Lucio,8,Primeiro
+1,Moisés Lucarelli - Campinas - SP,05/26/2013 16:00:00,6,São Paulo - SP,Jadson,44,Primeiro
+1,Heriberto Hulse - Criciuma - SC,05/26/2013 16:00:00,7,Criciuma - SC,Matheus Ferraz,45,Primeiro
+1,Heriberto Hulse - Criciuma - SC,05/26/2013 16:00:00,7,Criciuma - SC,Lins,1,Segundo
+1,Heriberto Hulse - Criciuma - SC,05/26/2013 16:00:00,7,Criciuma - SC,Joao Vitor,35,Segundo
+1,Heriberto Hulse - Criciuma - SC,05/26/2013 16:00:00,7,Bahia - BA,Diones,27,Segundo
+1,Cláudio Moacyr - Macae - RJ,05/26/2013 18:30:00,2,Fluminense - RJ,Rafael Sobis,15,Primeiro
+1,Cláudio Moacyr - Macae - RJ,05/26/2013 18:30:00,2,Fluminense - RJ,Samuel,8,Segundo
+1,Cláudio Moacyr - Macae - RJ,05/26/2013 18:30:00,2,Atlético Paranaense - PR,Manoel,27,Primeiro
+1,Independência - Belo Horizonte - MG,05/26/2013 18:30:00,8,Cruzeiro - MG,Diego Souza,6,Primeiro
+1,Independência - Belo Horizonte - MG,05/26/2013 18:30:00,8,Cruzeiro - MG,Bruno Rodrigo,31,Primeiro
+1,Independência - Belo Horizonte - MG,05/26/2013 18:30:00,8,Cruzeiro - MG,Nilton,40,Primeiro
+1,Independência - Belo Horizonte - MG,05/26/2013 18:30:00,8,Cruzeiro - MG,Borges,42,Primeiro
+1,Independência - Belo Horizonte - MG,05/26/2013 18:30:00,8,Cruzeiro - MG,Nilton,35,Segundo
+1,Couto Pereira - Curitiba - PR,05/26/2013 18:30:00,9,Coritiba - PR,Deivid,8,Segundo
+1,Couto Pereira - Curitiba - PR,05/26/2013 18:30:00,9,Coritiba - PR,Arthur Caike,46,Segundo
+1,Couto Pereira - Curitiba - PR,05/26/2013 18:30:00,9,Atlético - MG,Diego Tardelli,4,Segundo
+2,Érton Queiroz - Curitiba - PR,05/29/2013 15:00:00,19,Atlético Paranaense - PR,Pedro Botelho,6,Primeiro
+2,Érton Queiroz - Curitiba - PR,05/29/2013 15:00:00,19,Atlético Paranaense - PR,Manoel,28,Primeiro
+2,Érton Queiroz - Curitiba - PR,05/29/2013 15:00:00,19,Cruzeiro - MG,Dedé,43,Primeiro
+2,Érton Queiroz - Curitiba - PR,05/29/2013 15:00:00,19,Cruzeiro - MG,Luan,1,Segundo
+2,Raulino de Oliveira - Volta Redonda - RJ,05/29/2013 19:30:00,11,Botafogo - RJ,Fellype Gabriel,14,Primeiro
+2,Raulino de Oliveira - Volta Redonda - RJ,05/29/2013 19:30:00,11,Botafogo - RJ,Rafael Marques,21,Primeiro
+2,Raulino de Oliveira - Volta Redonda - RJ,05/29/2013 19:30:00,11,Santos - SP,Montillo,26,Segundo
+2,Morumbi - Sao Paulo - SP,05/29/2013 19:30:00,13,São Paulo - SP,Luis Fabiano,15,Segundo
+2,Morumbi - Sao Paulo - SP,05/29/2013 19:30:00,13,São Paulo - SP,Aloisio,19,Segundo
+2,Morumbi - Sao Paulo - SP,05/29/2013 19:30:00,13,São Paulo - SP,Carleto,27,Segundo
+2,Morumbi - Sao Paulo - SP,05/29/2013 19:30:00,13,São Paulo - SP,Luis Fabiano,29,Segundo
+2,Morumbi - Sao Paulo - SP,05/29/2013 19:30:00,13,São Paulo - SP,Luan Garcia,39,Segundo
+2,Morumbi - Sao Paulo - SP,05/29/2013 19:30:00,13,Vasco da Gama - RJ,Dakson,37,Segundo
+2,Mário Helênio - Juiz de Fora - MG,05/29/2013 21:00:00,12,Ponte Preta - SP,William,26,Primeiro
+2,Mário Helênio - Juiz de Fora - MG,05/29/2013 21:00:00,12,Ponte Preta - SP,Cicinho,23,Segundo
+2,Aflitos - Recife - PE,05/29/2013 21:00:00,17,Vitória - BA,Max,13,Primeiro
+2,Aflitos - Recife - PE,05/29/2013 21:00:00,17,Vitória - BA,Edson,47,Primeiro
+2,Aflitos - Recife - PE,05/29/2013 21:00:00,17,Vitória - BA,Max,4,Segundo
+2,Serra Dourada - Goiania - GO,05/29/2013 22:00:00,16,Goiás - GO,Ernando,36,Primeiro
+2,Serra Dourada - Goiania - GO,05/29/2013 22:00:00,16,Corinthians - SP,Guilherme,41,Segundo
+2,Centenário - Caxias do Sul - RS,05/30/2013 19:30:00,15,Internacional - RS,Willians,13,Primeiro
+2,Centenário - Caxias do Sul - RS,05/30/2013 19:30:00,15,Internacional - RS,Moledo,16,Primeiro
+2,Arena do Jacaré - Sete Lagoas - MG,06/09/2013 18:30:00,18,Atlético - MG,Ronaldinho Gaucho,14,Segundo
+2,Arena do Jacaré - Sete Lagoas - MG,06/09/2013 18:30:00,18,Atlético - MG,Ronaldinho Gaucho,47,Segundo
+2,Canindé - Sao Paulo - SP,06/12/2013 22:00:00,20,Portuguesa - SP,Souza,22,Primeiro
+2,Canindé - Sao Paulo - SP,06/12/2013 22:00:00,20,Portuguesa - SP,Diogo,38,Segundo
+2,Canindé - Sao Paulo - SP,06/12/2013 22:00:00,20,Fluminense - RJ,Rafael Sobis,36,Primeiro
+3,Arena Joinville - Joinville - SC,06/01/2013 16:20:00,29,Atlético Paranaense - PR,Ederson,32,Primeiro
+3,Arena Joinville - Joinville - SC,06/01/2013 16:20:00,29,Atlético Paranaense - PR,Ederson,27,Segundo
+3,Arena Joinville - Joinville - SC,06/01/2013 16:20:00,29,Flamengo - RJ,Marcelo Moreno,33,Segundo
+3,Arena Joinville - Joinville - SC,06/01/2013 16:20:00,29,Flamengo - RJ,Renato Abreu,35,Segundo
+3,Vila Belmiro - Santos - SP,06/01/2013 16:20:00,30,Santos - SP,Willian José,33,Segundo
+3,Vila Belmiro - Santos - SP,06/01/2013 16:20:00,30,Grêmio - RS,Vargas,11,Primeiro
+3,Raulino de Oliveira - Volta Redonda - RJ,06/01/2013 16:20:00,21,Botafogo - RJ,Lodeiro,6,Primeiro
+3,Raulino de Oliveira - Volta Redonda - RJ,06/01/2013 16:20:00,21,Botafogo - RJ,Lodeiro,11,Segundo
+3,Raulino de Oliveira - Volta Redonda - RJ,06/01/2013 16:20:00,21,Cruzeiro - MG,Anselmo Ramon,25,Primeiro
+3,Serra Dourada - Goiania - GO,06/01/2013 18:30:00,26,Goiás - GO,Hugo,30,Segundo
+3,Serra Dourada - Goiania - GO,06/01/2013 18:30:00,26,Coritiba - PR,Deivid,33,Primeiro
+3,Manoel Barradas - Salvador - BA,06/01/2013 18:30:00,24,Vitória - BA,Dinei,31,Primeiro
+3,Manoel Barradas - Salvador - BA,06/01/2013 18:30:00,24,Vitória - BA,Dinei,14,Segundo
+3,Pacaembu - Sao Paulo - SP,06/01/2013 21:00:00,23,Corinthians - SP,Emerson Sheik,28,Segundo
+3,Cláudio Moacyr - Macae - RJ,06/02/2013 18:30:00,22,Fluminense - RJ,Digão,25,Primeiro
+3,Cláudio Moacyr - Macae - RJ,06/02/2013 18:30:00,22,Fluminense - RJ,Digão,33,Primeiro
+3,Cláudio Moacyr - Macae - RJ,06/02/2013 18:30:00,22,Fluminense - RJ,Wellington Nem,35,Segundo
+3,Centenário - Caxias do Sul - RS,06/02/2013 18:30:00,25,Internacional - RS,Forlan,19,Segundo
+3,Centenário - Caxias do Sul - RS,06/02/2013 18:30:00,25,Bahia - BA,Ryder,10,Primeiro
+3,Centenário - Caxias do Sul - RS,06/02/2013 18:30:00,25,Bahia - BA,Fernandao,16,Segundo
+3,Aflitos - Recife - PE,06/02/2013 18:30:00,27,Náutico - PE,Rogerio,15,Primeiro
+3,Aflitos - Recife - PE,06/02/2013 18:30:00,27,Náutico - PE,Marcos Vinicius,47,Segundo
+3,Aflitos - Recife - PE,06/02/2013 18:30:00,27,Portuguesa - SP,Michel,31,Primeiro
+3,Aflitos - Recife - PE,06/02/2013 18:30:00,27,Portuguesa - SP,Romao,37,Segundo
+4,Canindé - Sao Paulo - SP,06/05/2013 19:30:00,40,Portuguesa - SP,Canete,9,Segundo
+4,Canindé - Sao Paulo - SP,06/05/2013 19:30:00,40,Internacional - RS,Rafael Moura,24,Primeiro
+4,Morumbi - Sao Paulo - SP,06/05/2013 19:30:00,33,Goiás - GO,Rodrigo,2,Primeiro
+4,Heriberto Hulse - Criciuma - SC,06/05/2013 19:30:00,37,Criciuma - SC,Joao Vitor,16,Primeiro
+4,Heriberto Hulse - Criciuma - SC,06/05/2013 19:30:00,37,Criciuma - SC,Giancarlo,12,Segundo
+4,Heriberto Hulse - Criciuma - SC,06/05/2013 19:30:00,37,Criciuma - SC,Matheus Ferraz,23,Segundo
+4,Heriberto Hulse - Criciuma - SC,06/05/2013 19:30:00,37,Santos - SP,Neilton,47,Segundo
+4,Moisés Lucarelli - Campinas - SP,06/05/2013 21:00:00,36,Ponte Preta - SP,Chiquinho,23,Primeiro
+4,Moisés Lucarelli - Campinas - SP,06/05/2013 21:00:00,36,Ponte Preta - SP,William,1,Segundo
+4,Moisés Lucarelli - Campinas - SP,06/05/2013 21:00:00,36,Ponte Preta - SP,William,40,Segundo
+4,Moisés Lucarelli - Campinas - SP,06/05/2013 21:00:00,36,Atlético Paranaense - PR,Paulo Baier,35,Primeiro
+4,Moisés Lucarelli - Campinas - SP,06/05/2013 21:00:00,36,Atlético Paranaense - PR,Ederson,11,Segundo
+4,Moisés Lucarelli - Campinas - SP,06/05/2013 21:00:00,36,Atlético Paranaense - PR,Everton,18,Segundo
+4,Moisés Lucarelli - Campinas - SP,06/05/2013 21:00:00,36,Atlético Paranaense - PR,Marcao,47,Segundo
+4,Arena do Grêmio - Porto Alegre - RS,06/05/2013 21:00:00,35,Grêmio - RS,Elano,24,Segundo
+4,Raulino de Oliveira - Volta Redonda - RJ,06/05/2013 21:00:00,31,Vasco da Gama - RJ,Alisson,24,Segundo
+4,Raulino de Oliveira - Volta Redonda - RJ,06/05/2013 21:00:00,31,Vasco da Gama - RJ,Abuda,48,Segundo
+4,Orlando Scarpelli - Florianopolis - SC,06/05/2013 22:00:00,32,Náutico - PE,Rogerio,37,Segundo
+4,Lourival Baptista - Aracaju - SE,06/05/2013 22:00:00,34,Bahia - BA,Fernandao,40,Primeiro
+4,Lourival Baptista - Aracaju - SE,06/05/2013 22:00:00,34,Bahia - BA,Fernandao,23,Segundo
+4,Lourival Baptista - Aracaju - SE,06/05/2013 22:00:00,34,Botafogo - RJ,Vitinho,7,Primeiro
+4,Arena do Jacaré - Sete Lagoas - MG,06/05/2013 22:00:00,38,Cruzeiro - MG,Dagoberto,40,Segundo
+4,Couto Pereira - Curitiba - PR,06/06/2013 21:00:00,39,Coritiba - PR,Robinho,15,Primeiro
+4,Couto Pereira - Curitiba - PR,06/06/2013 21:00:00,39,Coritiba - PR,Alex,42,Segundo
+4,Couto Pereira - Curitiba - PR,06/06/2013 21:00:00,39,Fluminense - RJ,Carlinhos,22,Primeiro
+5,Arena do Jacaré - Sete Lagoas - MG,06/08/2013 16:20:00,48,Cruzeiro - MG,Elber,31,Primeiro
+5,Arena do Jacaré - Sete Lagoas - MG,06/08/2013 16:20:00,48,Cruzeiro - MG,Everton Ribeiro,17,Segundo
+5,Arena do Jacaré - Sete Lagoas - MG,06/08/2013 16:20:00,48,Internacional - RS,Otavio,23,Primeiro
+5,Arena do Jacaré - Sete Lagoas - MG,06/08/2013 16:20:00,48,Internacional - RS,Gabriel,28,Segundo
+5,Heriberto Hulse - Criciuma - SC,06/08/2013 16:20:00,47,Flamengo - RJ,Hernane,37,Primeiro
+5,Heriberto Hulse - Criciuma - SC,06/08/2013 16:20:00,47,Flamengo - RJ,Gabriel,7,Segundo
+5,Heriberto Hulse - Criciuma - SC,06/08/2013 16:20:00,47,Flamengo - RJ,Gabriel,33,Segundo
+5,Raulino de Oliveira - Volta Redonda - RJ,06/08/2013 18:30:00,41,Vasco da Gama - RJ,Carlos Alberto,21,Primeiro
+5,Raulino de Oliveira - Volta Redonda - RJ,06/08/2013 18:30:00,41,Bahia - BA,Fernandao,7,Primeiro
+5,Moisés Lucarelli - Campinas - SP,06/08/2013 21:00:00,46,Botafogo - RJ,Seedorf,31,Primeiro
+5,Moisés Lucarelli - Campinas - SP,06/08/2013 21:00:00,46,Botafogo - RJ,Antonio Carlos,36,Primeiro
+5,Jóia da Princesa - Feira de Santana - BA,06/09/2013 18:30:00,44,Vitória - BA,Luis,27,Primeiro
+5,Jóia da Princesa - Feira de Santana - BA,06/09/2013 18:30:00,44,Vitória - BA,Max,35,Primeiro
+5,Jóia da Princesa - Feira de Santana - BA,06/09/2013 18:30:00,44,Vitória - BA,Escudero,42,Segundo
+5,Jóia da Princesa - Feira de Santana - BA,06/09/2013 18:30:00,44,Atlético Paranaense - PR,Ederson,30,Primeiro
+5,Jóia da Princesa - Feira de Santana - BA,06/09/2013 18:30:00,44,Atlético Paranaense - PR,Luiz Alberto da Silva Oliveira,35,Segundo
+5,Couto Pereira - Curitiba - PR,06/09/2013 18:30:00,49,Coritiba - PR,Deivid,1,Primeiro
+5,Cláudio Moacyr - Macae - RJ,06/09/2013 18:30:00,42,Fluminense - RJ,Rafael Sobis,36,Segundo
+5,Cláudio Moacyr - Macae - RJ,06/09/2013 18:30:00,42,Fluminense - RJ,Denilson,41,Segundo
+5,Cláudio Moacyr - Macae - RJ,06/09/2013 18:30:00,42,Goiás - GO,Vitor,25,Segundo
+5,Vila Belmiro - Santos - SP,06/12/2013 19:30:00,50,Santos - SP,Cicero,4,Primeiro
+5,Arena do Grêmio - Porto Alegre - RS,06/12/2013 22:00:00,45,Grêmio - RS,K. Giacomazzi,41,Segundo
+5,Arena do Grêmio - Porto Alegre - RS,06/12/2013 22:00:00,45,São Paulo - SP,Luis Fabiano,41,Primeiro
+6,Mané Garrincha - Brasilia - DF,07/06/2013 18:30:00,52,Flamengo - RJ,Marcelo Moreno,8,Primeiro
+6,Mané Garrincha - Brasilia - DF,07/06/2013 18:30:00,52,Flamengo - RJ,Caceres,2,Segundo
+6,Mané Garrincha - Brasilia - DF,07/06/2013 18:30:00,52,Coritiba - PR,Chico,7,Segundo
+6,Mané Garrincha - Brasilia - DF,07/06/2013 18:30:00,52,Coritiba - PR,Alex,14,Segundo
+6,Arena Pernambuco - Sao Lourenco da Mata - PE,07/06/2013 18:30:00,57,Náutico - PE,Herlison,27,Segundo
+6,Arena Pernambuco - Sao Lourenco da Mata - PE,07/06/2013 18:30:00,57,Ponte Preta - SP,Diego,11,Primeiro
+6,Arena Pernambuco - Sao Lourenco da Mata - PE,07/06/2013 18:30:00,57,Ponte Preta - SP,William,43,Primeiro
+6,Arena Pernambuco - Sao Lourenco da Mata - PE,07/06/2013 18:30:00,57,Ponte Preta - SP,Rildo,10,Segundo
+6,Durival Britto - Curitiba - PR,07/06/2013 18:30:00,59,Atlético Paranaense - PR,Pedro Botelho,31,Segundo
+6,Durival Britto - Curitiba - PR,07/06/2013 18:30:00,59,Grêmio - RS,Barcos,37,Segundo
+6,Canindé - Sao Paulo - SP,07/06/2013 21:00:00,60,Portuguesa - SP,Valdomiro Duarte de Macedo,4,Primeiro
+6,Canindé - Sao Paulo - SP,07/06/2013 21:00:00,60,Cruzeiro - MG,Bruno Rodrigo,17,Primeiro
+6,Serra Dourada - Goiania - GO,07/07/2013 16:00:00,56,Goiás - GO,Walter,7,Segundo
+6,Centenário - Caxias do Sul - RS,07/07/2013 16:00:00,55,Internacional - RS,Nei,16,Primeiro
+6,Centenário - Caxias do Sul - RS,07/07/2013 16:00:00,55,Internacional - RS,Forlan,38,Primeiro
+6,Centenário - Caxias do Sul - RS,07/07/2013 16:00:00,55,Internacional - RS,Indio,10,Segundo
+6,Centenário - Caxias do Sul - RS,07/07/2013 16:00:00,55,Internacional - RS,Rafael Moura,27,Segundo
+6,Centenário - Caxias do Sul - RS,07/07/2013 16:00:00,55,Internacional - RS,Dalessandro,30,Segundo
+6,Centenário - Caxias do Sul - RS,07/07/2013 16:00:00,55,Vasco da Gama - RJ,Andre Felipe,45,Primeiro
+6,Centenário - Caxias do Sul - RS,07/07/2013 16:00:00,55,Vasco da Gama - RJ,Rafael Vaz,19,Segundo
+6,Centenário - Caxias do Sul - RS,07/07/2013 16:00:00,55,Vasco da Gama - RJ,Fellipe,39,Segundo
+6,Morumbi - Sao Paulo - SP,07/07/2013 16:00:00,53,Santos - SP,Giva,12,Segundo
+6,Morumbi - Sao Paulo - SP,07/07/2013 16:00:00,53,Santos - SP,Cicero,36,Segundo
+6,Fonte Nova - Salvador - BA,07/07/2013 16:00:00,54,Corinthians - SP,Alexandre Pato,32,Primeiro
+6,Fonte Nova - Salvador - BA,07/07/2013 16:00:00,54,Corinthians - SP,Alexandre Pato,42,Primeiro
+6,Arena Pernambuco - Sao Lourenco da Mata - PE,07/07/2013 18:30:00,51,Botafogo - RJ,Seedorf,38,Segundo
+6,Independência - Belo Horizonte - MG,07/07/2013 18:30:00,58,Atlético - MG,Rosinei,11,Primeiro
+6,Independência - Belo Horizonte - MG,07/07/2013 18:30:00,58,Atlético - MG,Alecsandro,2,Segundo
+6,Independência - Belo Horizonte - MG,07/07/2013 18:30:00,58,Atlético - MG,Leleu,37,Segundo
+6,Independência - Belo Horizonte - MG,07/07/2013 18:30:00,58,Criciuma - SC,Luan,26,Primeiro
+6,Independência - Belo Horizonte - MG,07/07/2013 18:30:00,58,Criciuma - SC,Wellington Paulista,47,Segundo
+7,Cláudio Moacyr - Macae - RJ,07/13/2013 18:30:00,62,Fluminense - RJ,Carlinhos,34,Primeiro
+7,Cláudio Moacyr - Macae - RJ,07/13/2013 18:30:00,62,Fluminense - RJ,Fred,7,Segundo
+7,Cláudio Moacyr - Macae - RJ,07/13/2013 18:30:00,62,Internacional - RS,Dalessandro,19,Primeiro
+7,Cláudio Moacyr - Macae - RJ,07/13/2013 18:30:00,62,Internacional - RS,Forlan,33,Primeiro
+7,Cláudio Moacyr - Macae - RJ,07/13/2013 18:30:00,62,Internacional - RS,Forlan,40,Primeiro
+7,Vila Belmiro - Santos - SP,07/13/2013 18:30:00,70,Santos - SP,Neilton,1,Primeiro
+7,Vila Belmiro - Santos - SP,07/13/2013 18:30:00,70,Santos - SP,Willian José,11,Primeiro
+7,Vila Belmiro - Santos - SP,07/13/2013 18:30:00,70,Santos - SP,Neilton,29,Segundo
+7,Vila Belmiro - Santos - SP,07/13/2013 18:30:00,70,Santos - SP,Giva,46,Segundo
+7,Vila Belmiro - Santos - SP,07/13/2013 18:30:00,70,Portuguesa - SP,Bruno Moraes,42,Segundo
+7,Manoel Barradas - Salvador - BA,07/14/2013 16:00:00,64,Vitória - BA,Dinei,20,Primeiro
+7,Manoel Barradas - Salvador - BA,07/14/2013 16:00:00,64,Vitória - BA,Max,29,Primeiro
+7,Manoel Barradas - Salvador - BA,07/14/2013 16:00:00,64,Vitória - BA,Max,10,Segundo
+7,Manoel Barradas - Salvador - BA,07/14/2013 16:00:00,64,São Paulo - SP,Aloisio,9,Primeiro
+7,Manoel Barradas - Salvador - BA,07/14/2013 16:00:00,64,São Paulo - SP,Rogerio,35,Primeiro
+7,Arena do Grêmio - Porto Alegre - RS,07/14/2013 16:00:00,65,Grêmio - RS,Vargas,13,Primeiro
+7,Arena do Grêmio - Porto Alegre - RS,07/14/2013 16:00:00,65,Grêmio - RS,Vargas,34,Primeiro
+7,Arena do Grêmio - Porto Alegre - RS,07/14/2013 16:00:00,65,Botafogo - RJ,Seedorf,20,Primeiro
+7,Pacaembu - Sao Paulo - SP,07/14/2013 16:00:00,63,Atlético - MG,Rosinei,36,Primeiro
+7,Couto Pereira - Curitiba - PR,07/14/2013 16:00:00,69,Coritiba - PR,Geraldo,11,Segundo
+7,Mineirão - Belo Horizonte - MG,07/14/2013 18:30:00,68,Cruzeiro - MG,Ricardo Goulart,9,Primeiro
+7,Mineirão - Belo Horizonte - MG,07/14/2013 18:30:00,68,Cruzeiro - MG,Vinicius Araujo,9,Segundo
+7,Mineirão - Belo Horizonte - MG,07/14/2013 18:30:00,68,Cruzeiro - MG,Vinicius Araujo,25,Segundo
+7,Mané Garrincha - Brasilia - DF,07/14/2013 18:30:00,61,Flamengo - RJ,Paulinho,30,Primeiro
+8,São Januário - Rio de Janeiro - RJ,07/20/2013 18:30:00,71,Botafogo - RJ,Elias,4,Segundo
+8,São Januário - Rio de Janeiro - RJ,07/20/2013 18:30:00,71,Botafogo - RJ,Renato,32,Segundo
+8,Morumbi - Sao Paulo - SP,07/20/2013 18:30:00,73,Cruzeiro - MG,Luan,6,Segundo
+8,Morumbi - Sao Paulo - SP,07/20/2013 18:30:00,73,Cruzeiro - MG,Luan,33,Segundo
+8,Morumbi - Sao Paulo - SP,07/20/2013 18:30:00,73,Cruzeiro - MG,Luan,36,Segundo
+8,Heriberto Hulse - Criciuma - SC,07/20/2013 18:30:00,77,Criciuma - SC,Wellington Paulista,25,Primeiro
+8,Heriberto Hulse - Criciuma - SC,07/20/2013 18:30:00,77,Criciuma - SC,Matheus Ferraz,29,Segundo
+8,Heriberto Hulse - Criciuma - SC,07/20/2013 18:30:00,77,Grêmio - RS,Ze Roberto,37,Primeiro
+8,Centenário - Caxias do Sul - RS,07/21/2013 16:00:00,75,Internacional - RS,Juan,46,Segundo
+8,Durival Britto - Curitiba - PR,07/21/2013 16:00:00,79,Atlético Paranaense - PR,Marcelo Cirino,5,Primeiro
+8,Durival Britto - Curitiba - PR,07/21/2013 16:00:00,79,Corinthians - SP,Alexandre Pato,25,Primeiro
+8,Vila Belmiro - Santos - SP,07/21/2013 16:00:00,80,Santos - SP,Neilton,20,Primeiro
+8,Vila Belmiro - Santos - SP,07/21/2013 16:00:00,80,Santos - SP,Cicero,19,Segundo
+8,Vila Belmiro - Santos - SP,07/21/2013 16:00:00,80,Coritiba - PR,Alex,40,Primeiro
+8,Vila Belmiro - Santos - SP,07/21/2013 16:00:00,80,Coritiba - PR,Alex,42,Segundo
+8,Maracanã - Rio de Janeiro - RJ,07/21/2013 18:30:00,72,Fluminense - RJ,Carlinhos,11,Segundo
+8,Maracanã - Rio de Janeiro - RJ,07/21/2013 18:30:00,72,Vasco da Gama - RJ,Juninho,16,Primeiro
+8,Maracanã - Rio de Janeiro - RJ,07/21/2013 18:30:00,72,Vasco da Gama - RJ,Andre Felipe,1,Segundo
+8,Maracanã - Rio de Janeiro - RJ,07/21/2013 18:30:00,72,Vasco da Gama - RJ,Carlos,36,Segundo
+8,Serra Dourada - Goiania - GO,07/21/2013 18:30:00,76,Goiás - GO,Renan,44,Primeiro
+8,Serra Dourada - Goiania - GO,07/21/2013 18:30:00,76,Goiás - GO,Renan,21,Segundo
+8,Serra Dourada - Goiania - GO,07/21/2013 18:30:00,76,Portuguesa - SP,Bruno Moraes,39,Primeiro
+8,Independência - Belo Horizonte - MG,10/03/2013 19:30:00,78,Atlético - MG,Marcos Rocha,6,Primeiro
+8,Independência - Belo Horizonte - MG,10/03/2013 19:30:00,78,Atlético - MG,Jo,23,Primeiro
+8,Independência - Belo Horizonte - MG,10/03/2013 19:30:00,78,Atlético - MG,Jo,26,Segundo
+8,Independência - Belo Horizonte - MG,10/03/2013 19:30:00,78,Atlético - MG,Alecsandro,38,Segundo
+9,São Januário - Rio de Janeiro - RJ,07/27/2013 18:30:00,81,Vasco da Gama - RJ,Juninho,8,Primeiro
+9,São Januário - Rio de Janeiro - RJ,07/27/2013 18:30:00,81,Vasco da Gama - RJ,Rafael Vaz,10,Segundo
+9,São Januário - Rio de Janeiro - RJ,07/27/2013 18:30:00,81,Vasco da Gama - RJ,Edmilson dos Santos Silva,27,Segundo
+9,São Januário - Rio de Janeiro - RJ,07/27/2013 18:30:00,81,Criciuma - SC,Ivo,16,Segundo
+9,São Januário - Rio de Janeiro - RJ,07/27/2013 18:30:00,81,Criciuma - SC,Wellington Paulista,26,Segundo
+9,Canindé - Sao Paulo - SP,07/27/2013 18:30:00,90,Portuguesa - SP,Moises Moura Pinheiro,11,Primeiro
+9,Canindé - Sao Paulo - SP,07/27/2013 18:30:00,90,Portuguesa - SP,Gilberto,22,Primeiro
+9,Canindé - Sao Paulo - SP,07/27/2013 18:30:00,90,Atlético Paranaense - PR,Manoel,7,Primeiro
+9,Canindé - Sao Paulo - SP,07/27/2013 18:30:00,90,Atlético Paranaense - PR,Guilherme,18,Segundo
+9,Canindé - Sao Paulo - SP,07/27/2013 18:30:00,90,Atlético Paranaense - PR,Léo,47,Segundo
+9,Moisés Lucarelli - Campinas - SP,07/27/2013 21:00:00,86,Ponte Preta - SP,Rildo,4,Segundo
+9,Arena do Grêmio - Porto Alegre - RS,07/28/2013 16:00:00,85,Grêmio - RS,Riveros,5,Segundo
+9,Arena do Grêmio - Porto Alegre - RS,07/28/2013 16:00:00,85,Grêmio - RS,K. Giacomazzi,39,Segundo
+9,Arena Pernambuco - Sao Lourenco da Mata - PE,07/28/2013 16:00:00,87,Náutico - PE,Derley,27,Segundo
+9,Arena Pernambuco - Sao Lourenco da Mata - PE,07/28/2013 16:00:00,87,Náutico - PE,Maikon,43,Segundo
+9,Arena Pernambuco - Sao Lourenco da Mata - PE,07/28/2013 16:00:00,87,Náutico - PE,Rogerio,46,Segundo
+9,Mineirão - Belo Horizonte - MG,07/28/2013 16:00:00,88,Cruzeiro - MG,Everton Ribeiro,32,Primeiro
+9,Mineirão - Belo Horizonte - MG,07/28/2013 16:00:00,88,Cruzeiro - MG,Ricardo Goulart,43,Primeiro
+9,Mineirão - Belo Horizonte - MG,07/28/2013 16:00:00,88,Cruzeiro - MG,Nilton,8,Segundo
+9,Mineirão - Belo Horizonte - MG,07/28/2013 16:00:00,88,Cruzeiro - MG,Ricardo Goulart,12,Segundo
+9,Mineirão - Belo Horizonte - MG,07/28/2013 16:00:00,88,Atlético - MG,Alecsandro,18,Primeiro
+9,Maracanã - Rio de Janeiro - RJ,07/28/2013 18:30:00,82,Flamengo - RJ,Elias,49,Segundo
+9,Maracanã - Rio de Janeiro - RJ,07/28/2013 18:30:00,82,Botafogo - RJ,Rafael Marques,22,Primeiro
+9,Couto Pereira - Curitiba - PR,07/28/2013 18:30:00,89,Coritiba - PR,Alex,48,Primeiro
+9,Couto Pereira - Curitiba - PR,07/28/2013 18:30:00,89,Vitória - BA,Max,8,Primeiro
+9,Fonte Nova - Salvador - BA,07/28/2013 18:30:00,84,Bahia - BA,Marquinhos Gabriel,2,Primeiro
+9,Fonte Nova - Salvador - BA,07/28/2013 18:30:00,84,Bahia - BA,Marquinhos Gabriel,32,Primeiro
+9,Fonte Nova - Salvador - BA,07/28/2013 18:30:00,84,Goiás - GO,Thiago Mendes,33,Primeiro
+10,Maracanã - Rio de Janeiro - RJ,07/31/2013 19:30:00,92,Fluminense - RJ,Fred,32,Segundo
+10,Independência - Belo Horizonte - MG,07/31/2013 19:30:00,98,Atlético - MG,Bernard,34,Segundo
+10,Independência - Belo Horizonte - MG,07/31/2013 19:30:00,98,Atlético Paranaense - PR,Everton,40,Segundo
+10,Independência - Belo Horizonte - MG,07/31/2013 19:30:00,98,Atlético Paranaense - PR,Ederson,42,Segundo
+10,Canindé - Sao Paulo - SP,07/31/2013 19:30:00,100,Portuguesa - SP,Bruno,23,Segundo
+10,Canindé - Sao Paulo - SP,07/31/2013 19:30:00,100,Criciuma - SC,Elton,47,Segundo
+10,Couto Pereira - Curitiba - PR,07/31/2013 21:00:00,99,Coritiba - PR,Lincoln,23,Primeiro
+10,Couto Pereira - Curitiba - PR,07/31/2013 21:00:00,99,Coritiba - PR,Robinho,26,Primeiro
+10,Couto Pereira - Curitiba - PR,07/31/2013 21:00:00,99,Coritiba - PR,Alex,10,Segundo
+10,Couto Pereira - Curitiba - PR,07/31/2013 21:00:00,99,Coritiba - PR,Lincoln,13,Segundo
+10,Couto Pereira - Curitiba - PR,07/31/2013 21:00:00,99,Coritiba - PR,Robinho,43,Segundo
+10,Couto Pereira - Curitiba - PR,07/31/2013 21:00:00,99,Ponte Preta - SP,William,3,Primeiro
+10,Couto Pereira - Curitiba - PR,07/31/2013 21:00:00,99,Ponte Preta - SP,Andres,1,Segundo
+10,Couto Pereira - Curitiba - PR,07/31/2013 21:00:00,99,Ponte Preta - SP,William,4,Segundo
+10,Pacaembu - Sao Paulo - SP,07/31/2013 21:50:00,93,Corinthians - SP,Emerson Sheik,34,Primeiro
+10,Pacaembu - Sao Paulo - SP,07/31/2013 21:50:00,93,Corinthians - SP,Paulo Andre,34,Segundo
+10,Fonte Nova - Salvador - BA,07/31/2013 21:50:00,94,Bahia - BA,Fernandao,29,Primeiro
+10,Fonte Nova - Salvador - BA,07/31/2013 21:50:00,94,Bahia - BA,Wallyson,46,Primeiro
+10,Fonte Nova - Salvador - BA,07/31/2013 21:50:00,94,Bahia - BA,Marquinhos Gabriel,33,Segundo
+10,Maracanã - Rio de Janeiro - RJ,08/01/2013 19:30:00,91,Botafogo - RJ,Vitinho,31,Primeiro
+10,Maracanã - Rio de Janeiro - RJ,08/01/2013 19:30:00,91,Botafogo - RJ,Elias,34,Segundo
+10,Serra Dourada - Goiania - GO,08/01/2013 21:00:00,96,Goiás - GO,Walter,42,Segundo
+10,Serra Dourada - Goiania - GO,08/01/2013 21:00:00,96,Vasco da Gama - RJ,Pedro Ken,16,Primeiro
+10,Arena Pernambuco - Sao Lourenco da Mata - PE,09/03/2013 21:00:00,97,São Paulo - SP,Aloisio,28,Segundo
+10,Estádio do Vale - Novo Hamburgo - RS,09/10/2013 19:30:00,95,Internacional - RS,Dalessandro,30,Segundo
+10,Estádio do Vale - Novo Hamburgo - RS,09/10/2013 19:30:00,95,Santos - SP,Thiago Ribeiro,27,Primeiro
+10,Estádio do Vale - Novo Hamburgo - RS,09/10/2013 19:30:00,95,Santos - SP,Renato Abreu,22,Segundo
+11,Morumbi - Sao Paulo - SP,07/10/2013 21:00:00,103,São Paulo - SP,Aloisio,14,Primeiro
+11,Morumbi - Sao Paulo - SP,07/10/2013 21:00:00,103,Bahia - BA,Talisca,18,Segundo
+11,Morumbi - Sao Paulo - SP,07/10/2013 21:00:00,103,Bahia - BA,Leandro,42,Segundo
+11,Mineirão - Belo Horizonte - MG,08/03/2013 18:30:00,108,Cruzeiro - MG,Luan,12,Primeiro
+11,Durival Britto - Curitiba - PR,08/04/2013 16:00:00,109,Atlético Paranaense - PR,Guilherme,43,Primeiro
+11,Durival Britto - Curitiba - PR,08/04/2013 16:00:00,109,Atlético Paranaense - PR,Ederson,44,Segundo
+11,Moisés Lucarelli - Campinas - SP,08/04/2013 16:00:00,106,Ponte Preta - SP,William,40,Segundo
+11,Moisés Lucarelli - Campinas - SP,08/04/2013 16:00:00,106,Fluminense - RJ,Gum,4,Segundo
+11,Heriberto Hulse - Criciuma - SC,08/04/2013 16:00:00,107,Corinthians - SP,Renato Augusto,10,Primeiro
+11,Heriberto Hulse - Criciuma - SC,08/04/2013 16:00:00,107,Corinthians - SP,Guerrero,26,Primeiro
+11,Arena do Grêmio - Porto Alegre - RS,08/04/2013 16:00:00,105,Grêmio - RS,Barcos,18,Primeiro
+11,Arena do Grêmio - Porto Alegre - RS,08/04/2013 16:00:00,105,Internacional - RS,Leandro Damiao,20,Primeiro
+11,Mané Garrincha - Brasilia - DF,08/04/2013 16:00:00,102,Flamengo - RJ,Nixon,7,Primeiro
+11,Mané Garrincha - Brasilia - DF,08/04/2013 16:00:00,102,Flamengo - RJ,Elias,13,Primeiro
+11,Mané Garrincha - Brasilia - DF,08/04/2013 16:00:00,102,Flamengo - RJ,Paulinho,26,Segundo
+11,Maracanã - Rio de Janeiro - RJ,08/04/2013 18:30:00,101,Vasco da Gama - RJ,Andre Felipe,44,Primeiro
+11,Maracanã - Rio de Janeiro - RJ,08/04/2013 18:30:00,101,Vasco da Gama - RJ,Andre Felipe,1,Segundo
+11,Maracanã - Rio de Janeiro - RJ,08/04/2013 18:30:00,101,Botafogo - RJ,Rafael Marques,23,Primeiro
+11,Maracanã - Rio de Janeiro - RJ,08/04/2013 18:30:00,101,Botafogo - RJ,Seedorf,29,Primeiro
+11,Maracanã - Rio de Janeiro - RJ,08/04/2013 18:30:00,101,Botafogo - RJ,Rafael Marques,3,Segundo
+11,Manoel Barradas - Salvador - BA,08/04/2013 18:30:00,104,Vitória - BA,Danilo Tarracha,26,Segundo
+11,Manoel Barradas - Salvador - BA,08/04/2013 18:30:00,104,Vitória - BA,Fabricio,41,Segundo
+11,Manoel Barradas - Salvador - BA,08/04/2013 18:30:00,104,Portuguesa - SP,Canete,19,Segundo
+11,Vila Belmiro - Santos - SP,09/25/2013 21:00:00,110,Santos - SP,Cicero,40,Segundo
+11,Vila Belmiro - Santos - SP,09/25/2013 21:00:00,110,Náutico - PE,Maikon,37,Segundo
+12,Morumbi - Sao Paulo - SP,07/24/2013 21:00:00,113,Internacional - RS,Leandro Damiao,14,Primeiro
+12,Manoel Barradas - Salvador - BA,08/07/2013 19:30:00,114,Vitória - BA,Max,6,Primeiro
+12,Manoel Barradas - Salvador - BA,08/07/2013 19:30:00,114,Fluminense - RJ,Fred,39,Segundo
+12,Heriberto Hulse - Criciuma - SC,08/07/2013 19:30:00,117,Criciuma - SC,Bruno,24,Segundo
+12,Heriberto Hulse - Criciuma - SC,08/07/2013 19:30:00,117,Cruzeiro - MG,Vinicius Araujo,23,Primeiro
+12,Heriberto Hulse - Criciuma - SC,08/07/2013 19:30:00,117,Cruzeiro - MG,Ricardo Goulart,38,Segundo
+12,Mané Garrincha - Brasilia - DF,08/07/2013 21:00:00,112,Flamengo - RJ,Joao Paulo,21,Segundo
+12,Mané Garrincha - Brasilia - DF,08/07/2013 21:00:00,112,Portuguesa - SP,Lauro,47,Segundo
+12,Durival Britto - Curitiba - PR,08/07/2013 21:00:00,119,Atlético Paranaense - PR,Paulo Baier,35,Segundo
+12,Independência - Belo Horizonte - MG,08/07/2013 21:50:00,118,Atlético - MG,Ronaldinho Gaucho,28,Primeiro
+12,Independência - Belo Horizonte - MG,08/07/2013 21:50:00,118,Atlético - MG,Luan,48,Segundo
+12,Independência - Belo Horizonte - MG,08/07/2013 21:50:00,118,Botafogo - RJ,Elias,14,Primeiro
+12,Independência - Belo Horizonte - MG,08/07/2013 21:50:00,118,Botafogo - RJ,Lodeiro,14,Segundo
+12,Vila Belmiro - Santos - SP,08/07/2013 21:50:00,120,Santos - SP,Willian José,9,Segundo
+12,Vila Belmiro - Santos - SP,08/07/2013 21:50:00,120,Corinthians - SP,Paulo Andre,3,Primeiro
+12,Serra Dourada - Goiania - GO,08/07/2013 21:50:00,116,Goiás - GO,Walter,26,Primeiro
+12,Serra Dourada - Goiania - GO,08/07/2013 21:50:00,116,Goiás - GO,Walter,7,Segundo
+12,Serra Dourada - Goiania - GO,08/07/2013 21:50:00,116,Náutico - PE,Auremir,34,Primeiro
+12,Arena do Grêmio - Porto Alegre - RS,08/08/2013 21:00:00,115,Coritiba - PR,Deivid,6,Primeiro
+12,São Januário - Rio de Janeiro - RJ,08/08/2013 21:00:00,111,Vasco da Gama - RJ,Andre Felipe,11,Segundo
+12,São Januário - Rio de Janeiro - RJ,08/08/2013 21:00:00,111,Ponte Preta - SP,William,39,Segundo
+13,Mané Garrincha - Brasilia - DF,08/10/2013 18:30:00,121,Botafogo - RJ,Rafael Marques,6,Segundo
+13,Mané Garrincha - Brasilia - DF,08/10/2013 18:30:00,121,Goiás - GO,Andre Bahia,23,Segundo
+13,Maracanã - Rio de Janeiro - RJ,08/11/2013 16:00:00,122,Fluminense - RJ,Rafael Sobis,16,Primeiro
+13,Maracanã - Rio de Janeiro - RJ,08/11/2013 16:00:00,122,Fluminense - RJ,Rafael Sobis,45,Prorrogação 1
+13,Maracanã - Rio de Janeiro - RJ,08/11/2013 16:00:00,122,Flamengo - RJ,Elias,26,Primeiro
+13,Maracanã - Rio de Janeiro - RJ,08/11/2013 16:00:00,122,Flamengo - RJ,Hernane,31,Primeiro
+13,Maracanã - Rio de Janeiro - RJ,08/11/2013 16:00:00,122,Flamengo - RJ,Hernane,35,Segundo
+13,Pacaembu - Sao Paulo - SP,08/11/2013 16:00:00,123,Corinthians - SP,Ralf,6,Primeiro
+13,Pacaembu - Sao Paulo - SP,08/11/2013 16:00:00,123,Corinthians - SP,Alexandre Pato,6,Segundo
+13,Couto Pereira - Curitiba - PR,08/11/2013 16:00:00,129,Vasco da Gama - RJ,Pedro Ken,4,Primeiro
+13,Moisés Lucarelli - Campinas - SP,08/11/2013 18:30:00,126,Ponte Preta - SP,William,7,Primeiro
+13,Moisés Lucarelli - Campinas - SP,08/11/2013 18:30:00,126,Ponte Preta - SP,Artur,29,Primeiro
+13,Moisés Lucarelli - Campinas - SP,08/11/2013 18:30:00,126,Ponte Preta - SP,Everton Santos,17,Segundo
+13,Moisés Lucarelli - Campinas - SP,08/11/2013 18:30:00,126,Criciuma - SC,Lins,11,Segundo
+13,Fonte Nova - Salvador - BA,08/11/2013 18:30:00,124,Grêmio - RS,Riveros,23,Segundo
+13,Fonte Nova - Salvador - BA,08/11/2013 18:30:00,124,Grêmio - RS,Maxi Rodriguez,32,Segundo
+13,Fonte Nova - Salvador - BA,08/11/2013 18:30:00,124,Grêmio - RS,Guilherme Biteco,45,Segundo
+13,Estádio do Vale - Novo Hamburgo - RS,08/11/2013 18:30:00,125,Internacional - RS,Juan,14,Primeiro
+13,Estádio do Vale - Novo Hamburgo - RS,08/11/2013 18:30:00,125,Internacional - RS,Otavio,43,Segundo
+13,Estádio do Vale - Novo Hamburgo - RS,08/11/2013 18:30:00,125,Atlético Paranaense - PR,João Paulo,1,Primeiro
+13,Estádio do Vale - Novo Hamburgo - RS,08/11/2013 18:30:00,125,Atlético Paranaense - PR,Ederson,29,Segundo
+13,Canindé - Sao Paulo - SP,08/11/2013 18:30:00,130,Portuguesa - SP,Diogo,37,Primeiro
+13,Canindé - Sao Paulo - SP,08/11/2013 18:30:00,130,Portuguesa - SP,Diogo,33,Segundo
+13,Canindé - Sao Paulo - SP,08/11/2013 18:30:00,130,São Paulo - SP,Lucas,1,Segundo
+14,Independência - Belo Horizonte - MG,08/14/2013 19:30:00,138,Atlético - MG,Leo Silva,18,Primeiro
+14,Independência - Belo Horizonte - MG,08/14/2013 19:30:00,138,Atlético - MG,Alecsandro,10,Segundo
+14,Vila Belmiro - Santos - SP,08/14/2013 19:30:00,140,Santos - SP,Edu Dracena,31,Segundo
+14,Vila Belmiro - Santos - SP,08/14/2013 19:30:00,140,Vasco da Gama - RJ,Rafael Vaz,46,Segundo
+14,Heriberto Hulse - Criciuma - SC,08/14/2013 19:30:00,137,Criciuma - SC,Joao Vitor,10,Primeiro
+14,Heriberto Hulse - Criciuma - SC,08/14/2013 19:30:00,137,Criciuma - SC,Marlon,31,Primeiro
+14,Heriberto Hulse - Criciuma - SC,08/14/2013 19:30:00,137,Criciuma - SC,Leonardo Moura,39,Primeiro
+14,Manoel Barradas - Salvador - BA,08/14/2013 21:00:00,134,Vitória - BA,Pedro Oldoni,7,Segundo
+14,Manoel Barradas - Salvador - BA,08/14/2013 21:00:00,134,Vitória - BA,Vander,17,Segundo
+14,Manoel Barradas - Salvador - BA,08/14/2013 21:00:00,134,Vitória - BA,Marquinhos,41,Segundo
+14,Manoel Barradas - Salvador - BA,08/14/2013 21:00:00,134,Ponte Preta - SP,William,23,Primeiro
+14,Couto Pereira - Curitiba - PR,08/14/2013 21:00:00,139,Coritiba - PR,Bil,49,Segundo
+14,Couto Pereira - Curitiba - PR,08/14/2013 21:00:00,139,Portuguesa - SP,Gilberto,13,Segundo
+14,Serra Dourada - Goiania - GO,08/14/2013 21:50:00,136,Goiás - GO,Walter,14,Primeiro
+14,Serra Dourada - Goiania - GO,08/14/2013 21:50:00,136,Flamengo - RJ,Chicão,6,Segundo
+14,Arena do Grêmio - Porto Alegre - RS,08/14/2013 21:50:00,135,Grêmio - RS,Werley,12,Segundo
+14,Arena do Grêmio - Porto Alegre - RS,08/14/2013 21:50:00,135,Grêmio - RS,Barcos,15,Segundo
+14,Arena do Grêmio - Porto Alegre - RS,08/14/2013 21:50:00,135,Grêmio - RS,K. Giacomazzi,27,Segundo
+14,Arena do Grêmio - Porto Alegre - RS,08/14/2013 21:50:00,135,Cruzeiro - MG,Nilton,21,Segundo
+14,Morumbi - Sao Paulo - SP,08/15/2013 19:30:00,133,São Paulo - SP,Rodrigo Caio,17,Primeiro
+14,Morumbi - Sao Paulo - SP,08/15/2013 19:30:00,133,Atlético Paranaense - PR,Paulo Baier,38,Primeiro
+14,Maracanã - Rio de Janeiro - RJ,08/15/2013 21:00:00,131,Botafogo - RJ,Vitinho,9,Primeiro
+14,Maracanã - Rio de Janeiro - RJ,08/15/2013 21:00:00,131,Botafogo - RJ,Seedorf,19,Segundo
+14,Maracanã - Rio de Janeiro - RJ,08/15/2013 21:00:00,131,Botafogo - RJ,Vitinho,30,Segundo
+14,Maracanã - Rio de Janeiro - RJ,08/15/2013 21:00:00,131,Internacional - RS,Scocco,32,Primeiro
+14,Maracanã - Rio de Janeiro - RJ,08/15/2013 21:00:00,131,Internacional - RS,Scocco,33,Primeiro
+14,Maracanã - Rio de Janeiro - RJ,08/15/2013 21:00:00,131,Internacional - RS,Fabricio,48,Segundo
+15,Arena Pernambuco - Sao Lourenco da Mata - PE,08/17/2013 18:30:00,147,Fluminense - RJ,Samuel,25,Segundo
+15,Mineirão - Belo Horizonte - MG,08/17/2013 18:30:00,148,Cruzeiro - MG,Leo,11,Primeiro
+15,Mineirão - Belo Horizonte - MG,08/17/2013 18:30:00,148,Cruzeiro - MG,Mayke,14,Segundo
+15,Mineirão - Belo Horizonte - MG,08/17/2013 18:30:00,148,Cruzeiro - MG,Borges,28,Segundo
+15,Mineirão - Belo Horizonte - MG,08/17/2013 18:30:00,148,Cruzeiro - MG,Ricardo Goulart,33,Segundo
+15,Mineirão - Belo Horizonte - MG,08/17/2013 18:30:00,148,Cruzeiro - MG,Vinicius Araujo,39,Segundo
+15,Mineirão - Belo Horizonte - MG,08/17/2013 18:30:00,148,Vitória - BA,Dinei,23,Segundo
+15,São Januário - Rio de Janeiro - RJ,08/17/2013 21:00:00,141,Vasco da Gama - RJ,Alex Telles,24,Primeiro
+15,São Januário - Rio de Janeiro - RJ,08/17/2013 21:00:00,141,Vasco da Gama - RJ,Andre Felipe,41,Segundo
+15,São Januário - Rio de Janeiro - RJ,08/17/2013 21:00:00,141,Grêmio - RS,Barcos,5,Primeiro
+15,São Januário - Rio de Janeiro - RJ,08/17/2013 21:00:00,141,Grêmio - RS,Ramiro,36,Primeiro
+15,São Januário - Rio de Janeiro - RJ,08/17/2013 21:00:00,141,Grêmio - RS,Barcos,6,Segundo
+15,Moisés Lucarelli - Campinas - SP,08/18/2013 16:00:00,146,Goiás - GO,Walter,17,Primeiro
+15,Canindé - Sao Paulo - SP,08/18/2013 16:00:00,150,Portuguesa - SP,Luis Ricardo Silva Umbelino,25,Segundo
+15,Canindé - Sao Paulo - SP,08/18/2013 16:00:00,150,Botafogo - RJ,Bolivar,20,Segundo
+15,Canindé - Sao Paulo - SP,08/18/2013 16:00:00,150,Botafogo - RJ,Rafael Marques,26,Segundo
+15,Canindé - Sao Paulo - SP,08/18/2013 16:00:00,150,Botafogo - RJ,Elias,31,Segundo
+15,Pacaembu - Sao Paulo - SP,08/18/2013 16:00:00,143,Corinthians - SP,Guerrero,45,Segundo
+15,Durival Britto - Curitiba - PR,08/18/2013 18:30:00,149,Atlético Paranaense - PR,Paulo Baier,17,Segundo
+15,Durival Britto - Curitiba - PR,08/18/2013 18:30:00,149,Atlético Paranaense - PR,Ederson,27,Segundo
+15,Durival Britto - Curitiba - PR,08/18/2013 18:30:00,149,Criciuma - SC,Sueliton,44,Primeiro
+16,Mané Garrincha - Brasilia - DF,08/24/2013 18:30:00,152,Grêmio - RS,Para,7,Primeiro
+16,Moisés Lucarelli - Campinas - SP,08/24/2013 18:30:00,156,Cruzeiro - MG,Dedé,22,Primeiro
+16,Moisés Lucarelli - Campinas - SP,08/24/2013 18:30:00,156,Cruzeiro - MG,Borges,26,Segundo
+16,Vila Belmiro - Santos - SP,08/24/2013 18:30:00,160,Santos - SP,Gabriel Barbosa,8,Primeiro
+16,Vila Belmiro - Santos - SP,08/24/2013 18:30:00,160,Santos - SP,Cicero,11,Segundo
+16,Heriberto Hulse - Criciuma - SC,08/24/2013 21:00:00,157,Criciuma - SC,Sueliton,34,Primeiro
+16,Heriberto Hulse - Criciuma - SC,08/24/2013 21:00:00,157,Criciuma - SC,Fabinho,35,Primeiro
+16,Heriberto Hulse - Criciuma - SC,08/24/2013 21:00:00,157,Coritiba - PR,Julio Cesar,15,Segundo
+16,Independência - Belo Horizonte - MG,08/25/2013 16:00:00,158,Atlético - MG,Diego Tardelli,9,Segundo
+16,Independência - Belo Horizonte - MG,08/25/2013 16:00:00,158,Atlético - MG,Datolo,43,Segundo
+16,Independência - Belo Horizonte - MG,08/25/2013 16:00:00,158,Portuguesa - SP,Bruno,35,Primeiro
+16,Fonte Nova - Salvador - BA,08/25/2013 16:00:00,154,Bahia - BA,Helder,12,Segundo
+16,Fonte Nova - Salvador - BA,08/25/2013 16:00:00,154,Bahia - BA,Fernandao,32,Segundo
+16,Mané Garrincha - Brasilia - DF,08/25/2013 16:00:00,151,Vasco da Gama - RJ,Andre Felipe,9,Segundo
+16,Mané Garrincha - Brasilia - DF,08/25/2013 16:00:00,151,Corinthians - SP,Guerrero,3,Primeiro
+16,Morumbi - Sao Paulo - SP,08/25/2013 16:00:00,153,São Paulo - SP,Luis Fabiano,27,Primeiro
+16,Morumbi - Sao Paulo - SP,08/25/2013 16:00:00,153,São Paulo - SP,Reinaldo,45,Primeiro
+16,Morumbi - Sao Paulo - SP,08/25/2013 16:00:00,153,Fluminense - RJ,Eduardo,47,Segundo
+16,Estádio do Vale - Novo Hamburgo - RS,08/25/2013 18:30:00,155,Internacional - RS,Dalessandro,28,Primeiro
+16,Estádio do Vale - Novo Hamburgo - RS,08/25/2013 18:30:00,155,Internacional - RS,Dudu Cearense,32,Segundo
+16,Estádio do Vale - Novo Hamburgo - RS,08/25/2013 18:30:00,155,Internacional - RS,Leandro Damiao,41,Segundo
+16,Estádio do Vale - Novo Hamburgo - RS,08/25/2013 18:30:00,155,Goiás - GO,Renan,36,Primeiro
+16,Estádio do Vale - Novo Hamburgo - RS,08/25/2013 18:30:00,155,Goiás - GO,W. Matheus,26,Segundo
+16,Estádio do Vale - Novo Hamburgo - RS,08/25/2013 18:30:00,155,Goiás - GO,Ramon,31,Segundo
+16,Durival Britto - Curitiba - PR,08/25/2013 18:30:00,159,Atlético Paranaense - PR,Ederson,2,Segundo
+16,Durival Britto - Curitiba - PR,08/25/2013 18:30:00,159,Atlético Paranaense - PR,Ederson,11,Segundo
+17,Arena Pernambuco - Sao Lourenco da Mata - PE,08/31/2013 18:30:00,167,Náutico - PE,Lopez,42,Primeiro
+17,Arena Pernambuco - Sao Lourenco da Mata - PE,08/31/2013 18:30:00,167,Atlético Paranaense - PR,Léo,4,Primeiro
+17,Arena Pernambuco - Sao Lourenco da Mata - PE,08/31/2013 18:30:00,167,Atlético Paranaense - PR,Everton,18,Primeiro
+17,Arena Pernambuco - Sao Lourenco da Mata - PE,08/31/2013 18:30:00,167,Atlético Paranaense - PR,Ederson,34,Segundo
+17,Arena Pernambuco - Sao Lourenco da Mata - PE,08/31/2013 18:30:00,167,Atlético Paranaense - PR,Ederson,45,Segundo
+17,Canindé - Sao Paulo - SP,08/31/2013 18:30:00,170,Portuguesa - SP,Moises Moura Pinheiro,1,Primeiro
+17,Canindé - Sao Paulo - SP,08/31/2013 18:30:00,170,Portuguesa - SP,Gilberto,5,Primeiro
+17,Canindé - Sao Paulo - SP,08/31/2013 18:30:00,170,Portuguesa - SP,Gilberto,7,Primeiro
+17,Canindé - Sao Paulo - SP,08/31/2013 18:30:00,170,Portuguesa - SP,Bergson,15,Segundo
+17,Canindé - Sao Paulo - SP,08/31/2013 18:30:00,170,Bahia - BA,Fernandao,9,Segundo
+17,Canindé - Sao Paulo - SP,08/31/2013 18:30:00,170,Bahia - BA,Wallyson,28,Segundo
+17,Arena do Grêmio - Porto Alegre - RS,08/31/2013 18:30:00,165,Grêmio - RS,K. Giacomazzi,14,Segundo
+17,Maracanã - Rio de Janeiro - RJ,08/31/2013 21:00:00,162,Santos - SP,Thiago Ribeiro,12,Primeiro
+17,Maracanã - Rio de Janeiro - RJ,08/31/2013 21:00:00,162,Santos - SP,Cicero,28,Primeiro
+17,Manoel Barradas - Salvador - BA,09/01/2013 16:00:00,164,Criciuma - SC,Marcel,16,Primeiro
+17,Pacaembu - Sao Paulo - SP,09/01/2013 16:00:00,163,Corinthians - SP,Alexandre Pato,24,Primeiro
+17,Pacaembu - Sao Paulo - SP,09/01/2013 16:00:00,163,Corinthians - SP,Alexandre Pato,34,Primeiro
+17,Pacaembu - Sao Paulo - SP,09/01/2013 16:00:00,163,Corinthians - SP,Romarinho,30,Segundo
+17,Pacaembu - Sao Paulo - SP,09/01/2013 16:00:00,163,Corinthians - SP,Guerrero,38,Segundo
+17,Mineirão - Belo Horizonte - MG,09/01/2013 18:30:00,168,Cruzeiro - MG,Willian,1,Primeiro
+17,Mineirão - Belo Horizonte - MG,09/01/2013 18:30:00,168,Cruzeiro - MG,Lucas Silva,32,Primeiro
+17,Mineirão - Belo Horizonte - MG,09/01/2013 18:30:00,168,Cruzeiro - MG,Julio Baptista,39,Primeiro
+17,Mineirão - Belo Horizonte - MG,09/01/2013 18:30:00,168,Cruzeiro - MG,Lucas Silva,22,Segundo
+17,Mineirão - Belo Horizonte - MG,09/01/2013 18:30:00,168,Cruzeiro - MG,Vinicius Araujo,41,Segundo
+17,Mineirão - Belo Horizonte - MG,09/01/2013 18:30:00,168,Vasco da Gama - RJ,Willie,18,Primeiro
+17,Mineirão - Belo Horizonte - MG,09/01/2013 18:30:00,168,Vasco da Gama - RJ,Andre Felipe,40,Primeiro
+17,Mineirão - Belo Horizonte - MG,09/01/2013 18:30:00,168,Vasco da Gama - RJ,Willie,43,Primeiro
+18,Serra Dourada - Goiania - GO,09/03/2013 19:30:00,176,Goiás - GO,Walter,14,Primeiro
+18,Serra Dourada - Goiania - GO,09/03/2013 19:30:00,176,Goiás - GO,Walter,26,Segundo
+18,Maracanã - Rio de Janeiro - RJ,09/04/2013 19:30:00,172,Flamengo - RJ,Hernane,23,Primeiro
+18,Maracanã - Rio de Janeiro - RJ,09/04/2013 19:30:00,172,Flamengo - RJ,Hernane,43,Primeiro
+18,Maracanã - Rio de Janeiro - RJ,09/04/2013 19:30:00,172,Vitória - BA,Juan,46,Segundo
+18,Durival Britto - Curitiba - PR,09/04/2013 19:30:00,179,Atlético Paranaense - PR,Marcelo Cirino,6,Primeiro
+18,Durival Britto - Curitiba - PR,09/04/2013 19:30:00,179,Atlético Paranaense - PR,Marquinhos,37,Primeiro
+18,Durival Britto - Curitiba - PR,09/04/2013 19:30:00,179,Santos - SP,Emerson,42,Segundo
+18,Canindé - Sao Paulo - SP,09/04/2013 21:00:00,180,Portuguesa - SP,Gilberto,40,Primeiro
+18,Canindé - Sao Paulo - SP,09/04/2013 21:00:00,180,Portuguesa - SP,Gilberto,4,Segundo
+18,Canindé - Sao Paulo - SP,09/04/2013 21:00:00,180,Ponte Preta - SP,Adriano,48,Segundo
+18,Estádio do Vale - Novo Hamburgo - RS,09/04/2013 21:50:00,175,Internacional - RS,Dalessandro,9,Segundo
+18,Independência - Belo Horizonte - MG,09/04/2013 21:50:00,178,Atlético - MG,Ronaldinho Gaucho,47,Primeiro
+18,Independência - Belo Horizonte - MG,09/04/2013 21:50:00,178,Atlético - MG,Ronaldinho Gaucho,37,Segundo
+18,Independência - Belo Horizonte - MG,09/04/2013 21:50:00,178,Fluminense - RJ,Wagner,13,Primeiro
+18,Independência - Belo Horizonte - MG,09/04/2013 21:50:00,178,Fluminense - RJ,Rhayner,26,Segundo
+18,Fonte Nova - Salvador - BA,09/04/2013 21:50:00,174,Bahia - BA,Leandro,23,Segundo
+18,Fonte Nova - Salvador - BA,09/04/2013 21:50:00,174,Cruzeiro - MG,Borges,25,Primeiro
+18,Fonte Nova - Salvador - BA,09/04/2013 21:50:00,174,Cruzeiro - MG,Everton Ribeiro,40,Primeiro
+18,Fonte Nova - Salvador - BA,09/04/2013 21:50:00,174,Cruzeiro - MG,Julio Baptista,45,Segundo
+18,Maracanã - Rio de Janeiro - RJ,09/05/2013 19:30:00,171,Botafogo - RJ,Rafael Marques,13,Primeiro
+18,Maracanã - Rio de Janeiro - RJ,09/05/2013 19:30:00,171,Botafogo - RJ,Hyuri,40,Primeiro
+18,Maracanã - Rio de Janeiro - RJ,09/05/2013 19:30:00,171,Botafogo - RJ,Hyuri,4,Segundo
+18,Maracanã - Rio de Janeiro - RJ,09/05/2013 19:30:00,171,Coritiba - PR,Alex,11,Segundo
+18,Morumbi - Sao Paulo - SP,09/05/2013 21:00:00,173,São Paulo - SP,Aloisio,23,Segundo
+18,Morumbi - Sao Paulo - SP,09/05/2013 21:00:00,173,Criciuma - SC,Marcel,23,Primeiro
+18,Morumbi - Sao Paulo - SP,09/05/2013 21:00:00,173,Criciuma - SC,Lins,41,Primeiro
+18,Arena Pernambuco - Sao Lourenco da Mata - PE,09/05/2013 21:00:00,177,Vasco da Gama - RJ,Willie,2,Segundo
+18,Arena Pernambuco - Sao Lourenco da Mata - PE,09/05/2013 21:00:00,177,Vasco da Gama - RJ,Marlone,6,Segundo
+18,Arena Pernambuco - Sao Lourenco da Mata - PE,09/05/2013 21:00:00,177,Vasco da Gama - RJ,Marlone,46,Segundo
+19,Vila Belmiro - Santos - SP,09/07/2013 18:30:00,190,Santos - SP,Thiago Ribeiro,4,Segundo
+19,Maracanã - Rio de Janeiro - RJ,09/07/2013 18:30:00,182,Fluminense - RJ,Diego,20,Segundo
+19,Manoel Barradas - Salvador - BA,09/07/2013 18:30:00,184,Vitória - BA,Marquinhos,16,Primeiro
+19,Manoel Barradas - Salvador - BA,09/07/2013 18:30:00,184,Atlético - MG,Neto Berola,40,Segundo
+19,Moisés Lucarelli - Campinas - SP,09/07/2013 18:30:00,186,Ponte Preta - SP,William,25,Primeiro
+19,Moisés Lucarelli - Campinas - SP,09/07/2013 18:30:00,186,Internacional - RS,Juan,29,Primeiro
+19,Moisés Lucarelli - Campinas - SP,09/07/2013 18:30:00,186,Internacional - RS,Dalessandro,16,Segundo
+19,Moisés Lucarelli - Campinas - SP,09/07/2013 18:30:00,186,Internacional - RS,Scocco,26,Segundo
+19,Arena do Grêmio - Porto Alegre - RS,09/07/2013 21:00:00,185,Grêmio - RS,Barcos,6,Segundo
+19,Arena do Grêmio - Porto Alegre - RS,09/07/2013 21:00:00,185,Grêmio - RS,Ze Roberto,12,Segundo
+19,Arena do Grêmio - Porto Alegre - RS,09/07/2013 21:00:00,185,Grêmio - RS,K. Giacomazzi,41,Segundo
+19,Arena do Grêmio - Porto Alegre - RS,09/07/2013 21:00:00,185,Portuguesa - SP,Rhodolfo,25,Segundo
+19,Arena do Grêmio - Porto Alegre - RS,09/07/2013 21:00:00,185,Portuguesa - SP,Luis Ricardo Silva Umbelino,32,Segundo
+19,Couto Pereira - Curitiba - PR,09/08/2013 16:00:00,189,Coritiba - PR,Alex,31,Primeiro
+19,Couto Pereira - Curitiba - PR,09/08/2013 16:00:00,189,Coritiba - PR,Alex,46,Primeiro
+19,Mineirão - Belo Horizonte - MG,09/08/2013 16:00:00,188,Cruzeiro - MG,Ricardo Goulart,8,Segundo
+19,Heriberto Hulse - Criciuma - SC,09/08/2013 18:30:00,187,Criciuma - SC,Lins,3,Primeiro
+19,Heriberto Hulse - Criciuma - SC,09/08/2013 18:30:00,187,Botafogo - RJ,OCTAVIO,8,Segundo
+19,Heriberto Hulse - Criciuma - SC,09/08/2013 18:30:00,187,Botafogo - RJ,Elias,47,Segundo
+20,Durival Britto - Curitiba - PR,09/11/2013 19:30:00,199,Atlético Paranaense - PR,Ederson,17,Primeiro
+20,Durival Britto - Curitiba - PR,09/11/2013 19:30:00,199,Fluminense - RJ,Rafael Sobis,45,Primeiro
+20,Fonte Nova - Salvador - BA,09/11/2013 21:00:00,194,Bahia - BA,Fernandao,26,Segundo
+20,Fonte Nova - Salvador - BA,09/11/2013 21:00:00,194,Bahia - BA,Obina,40,Segundo
+20,Fonte Nova - Salvador - BA,09/11/2013 21:00:00,194,Criciuma - SC,Feijao,8,Primeiro
+20,Fonte Nova - Salvador - BA,09/11/2013 21:00:00,194,Criciuma - SC,Lins,35,Primeiro
+20,Serra Dourada - Goiania - GO,09/11/2013 21:00:00,196,Goiás - GO,Renan,27,Primeiro
+20,Serra Dourada - Goiania - GO,09/11/2013 21:00:00,196,Cruzeiro - MG,Willian,38,Primeiro
+20,Serra Dourada - Goiania - GO,09/11/2013 21:00:00,196,Cruzeiro - MG,Willian,26,Segundo
+20,Maracanã - Rio de Janeiro - RJ,09/11/2013 21:50:00,191,Botafogo - RJ,Hyuri,44,Segundo
+20,Arena Pernambuco - Sao Lourenco da Mata - PE,09/11/2013 21:50:00,197,Grêmio - RS,Barcos,25,Primeiro
+20,Arena Pernambuco - Sao Lourenco da Mata - PE,09/11/2013 21:50:00,197,Grêmio - RS,Paulo,36,Segundo
+20,Canindé - Sao Paulo - SP,09/11/2013 21:50:00,200,Portuguesa - SP,Correa,11,Primeiro
+20,Canindé - Sao Paulo - SP,09/11/2013 21:50:00,200,Portuguesa - SP,Gilberto,30,Segundo
+20,Estádio do Vale - Novo Hamburgo - RS,09/12/2013 19:30:00,195,Internacional - RS,Dalessandro,26,Primeiro
+20,Estádio do Vale - Novo Hamburgo - RS,09/12/2013 19:30:00,195,Internacional - RS,Dalessandro,28,Primeiro
+20,Estádio do Vale - Novo Hamburgo - RS,09/12/2013 19:30:00,195,Vitória - BA,Luis,8,Primeiro
+20,Estádio do Vale - Novo Hamburgo - RS,09/12/2013 19:30:00,195,Vitória - BA,Luis,28,Segundo
+20,Morumbi - Sao Paulo - SP,09/12/2013 21:00:00,193,São Paulo - SP,Luis Fabiano,2,Segundo
+20,Independência - Belo Horizonte - MG,09/12/2013 21:00:00,198,Atlético - MG,Jo,22,Primeiro
+20,Independência - Belo Horizonte - MG,09/12/2013 21:00:00,198,Atlético - MG,Jo,25,Primeiro
+20,Independência - Belo Horizonte - MG,09/12/2013 21:00:00,198,Atlético - MG,Jo,29,Primeiro
+20,Maracanã - Rio de Janeiro - RJ,09/12/2013 21:00:00,192,Flamengo - RJ,Leo Moura,19,Primeiro
+20,Maracanã - Rio de Janeiro - RJ,09/12/2013 21:00:00,192,Flamengo - RJ,Hernane,9,Segundo
+20,Maracanã - Rio de Janeiro - RJ,09/12/2013 21:00:00,192,Santos - SP,Cicero,11,Segundo
+21,Mineirão - Belo Horizonte - MG,09/14/2013 18:30:00,208,Cruzeiro - MG,Nilton,35,Primeiro
+21,Maracanã - Rio de Janeiro - RJ,09/14/2013 21:00:00,202,Fluminense - RJ,Rafael Sobis,15,Segundo
+21,Maracanã - Rio de Janeiro - RJ,09/14/2013 21:00:00,202,Fluminense - RJ,Wagner,27,Segundo
+21,Maracanã - Rio de Janeiro - RJ,09/14/2013 21:00:00,202,Portuguesa - SP,Diogo,34,Primeiro
+21,São Januário - Rio de Janeiro - RJ,09/15/2013 16:00:00,201,São Paulo - SP,Rodrigo Caio,30,Primeiro
+21,São Januário - Rio de Janeiro - RJ,09/15/2013 16:00:00,201,São Paulo - SP,Antonio Carlos,25,Segundo
+21,Pacaembu - Sao Paulo - SP,09/15/2013 16:00:00,203,Corinthians - SP,Alexandre Pato,33,Segundo
+21,Pacaembu - Sao Paulo - SP,09/15/2013 16:00:00,203,Goiás - GO,Hugo,11,Segundo
+21,Pacaembu - Sao Paulo - SP,09/15/2013 16:00:00,203,Goiás - GO,Amaral,39,Segundo
+21,Moisés Lucarelli - Campinas - SP,09/15/2013 16:00:00,206,Ponte Preta - SP,Artur,22,Segundo
+21,Moisés Lucarelli - Campinas - SP,09/15/2013 16:00:00,206,Flamengo - RJ,Andre Santos,41,Segundo
+21,Heriberto Hulse - Criciuma - SC,09/15/2013 16:00:00,207,Internacional - RS,Otavio,4,Segundo
+21,Couto Pereira - Curitiba - PR,09/15/2013 16:00:00,209,Coritiba - PR,Christian,19,Segundo
+21,Couto Pereira - Curitiba - PR,09/15/2013 16:00:00,209,Coritiba - PR,Alex,46,Segundo
+21,Couto Pereira - Curitiba - PR,09/15/2013 16:00:00,209,Bahia - BA,Wallyson,20,Primeiro
+21,Couto Pereira - Curitiba - PR,09/15/2013 16:00:00,209,Bahia - BA,Wiliam Barbio,7,Segundo
+21,Vila Belmiro - Santos - SP,09/15/2013 18:30:00,210,Santos - SP,Cicero,22,Segundo
+21,Vila Belmiro - Santos - SP,09/15/2013 18:30:00,210,Botafogo - RJ,Elias,39,Primeiro
+21,Vila Belmiro - Santos - SP,09/15/2013 18:30:00,210,Botafogo - RJ,Elias,11,Segundo
+21,Manoel Barradas - Salvador - BA,09/15/2013 18:30:00,204,Vitória - BA,Dinei,20,Primeiro
+21,Manoel Barradas - Salvador - BA,09/15/2013 18:30:00,204,Vitória - BA,Dinei,25,Segundo
+21,Manoel Barradas - Salvador - BA,09/15/2013 18:30:00,204,Náutico - PE,HUGO CABRAL,14,Primeiro
+21,Arena do Grêmio - Porto Alegre - RS,09/15/2013 18:30:00,205,Atlético - MG,Fernandinho,16,Segundo
+22,São Januário - Rio de Janeiro - RJ,09/18/2013 19:30:00,211,Vasco da Gama - RJ,Andre Felipe,8,Primeiro
+22,São Januário - Rio de Janeiro - RJ,09/18/2013 19:30:00,211,Vitória - BA,Alemao,35,Segundo
+22,São Januário - Rio de Janeiro - RJ,09/18/2013 19:30:00,211,Vitória - BA,Marquinhos,45,Segundo
+22,Arena do Grêmio - Porto Alegre - RS,09/18/2013 19:30:00,215,Grêmio - RS,Elano,27,Segundo
+22,Arena do Grêmio - Porto Alegre - RS,09/18/2013 19:30:00,215,Santos - SP,Willian José,40,Segundo
+22,Heriberto Hulse - Criciuma - SC,09/18/2013 21:00:00,217,Criciuma - SC,Lins,39,Primeiro
+22,Heriberto Hulse - Criciuma - SC,09/18/2013 21:00:00,217,Fluminense - RJ,Bruno,43,Primeiro
+22,Heriberto Hulse - Criciuma - SC,09/18/2013 21:00:00,217,Fluminense - RJ,Bruno,26,Segundo
+22,Couto Pereira - Curitiba - PR,09/18/2013 21:00:00,219,Coritiba - PR,Lincoln,6,Primeiro
+22,Couto Pereira - Curitiba - PR,09/18/2013 21:00:00,219,Coritiba - PR,Robinho,28,Segundo
+22,Couto Pereira - Curitiba - PR,09/18/2013 21:00:00,219,Goiás - GO,Ronei,37,Primeiro
+22,Couto Pereira - Curitiba - PR,09/18/2013 21:00:00,219,Goiás - GO,Eduardo Sasha,25,Segundo
+22,Morumbi - Sao Paulo - SP,09/18/2013 21:50:00,213,São Paulo - SP,Welliton,26,Primeiro
+22,Moisés Lucarelli - Campinas - SP,09/18/2013 21:50:00,216,Ponte Preta - SP,Fellipe,42,Segundo
+22,Moisés Lucarelli - Campinas - SP,09/18/2013 21:50:00,216,Ponte Preta - SP,Adailton,48,Segundo
+22,Mineirão - Belo Horizonte - MG,09/18/2013 21:50:00,218,Cruzeiro - MG,Nilton,46,Primeiro
+22,Mineirão - Belo Horizonte - MG,09/18/2013 21:50:00,218,Cruzeiro - MG,Julio Baptista,35,Segundo
+22,Mineirão - Belo Horizonte - MG,09/18/2013 21:50:00,218,Cruzeiro - MG,Julio Baptista,41,Segundo
+22,Maracanã - Rio de Janeiro - RJ,09/19/2013 19:30:00,212,Flamengo - RJ,Hernane,1,Primeiro
+22,Maracanã - Rio de Janeiro - RJ,09/19/2013 19:30:00,212,Flamengo - RJ,Luiz Antonio,7,Primeiro
+22,Maracanã - Rio de Janeiro - RJ,09/19/2013 19:30:00,212,Atlético Paranaense - PR,Francisco,20,Primeiro
+22,Maracanã - Rio de Janeiro - RJ,09/19/2013 19:30:00,212,Atlético Paranaense - PR,Guilherme,8,Segundo
+22,Maracanã - Rio de Janeiro - RJ,09/19/2013 19:30:00,212,Atlético Paranaense - PR,Marcelo Cirino,32,Segundo
+22,Maracanã - Rio de Janeiro - RJ,09/19/2013 19:30:00,212,Atlético Paranaense - PR,Roger,35,Segundo
+22,Canindé - Sao Paulo - SP,09/19/2013 21:00:00,220,Portuguesa - SP,Moises,7,Primeiro
+22,Canindé - Sao Paulo - SP,09/19/2013 21:00:00,220,Portuguesa - SP,Gilberto,34,Primeiro
+22,Canindé - Sao Paulo - SP,09/19/2013 21:00:00,220,Portuguesa - SP,Bruno,40,Primeiro
+22,Fonte Nova - Salvador - BA,09/19/2013 21:00:00,214,Bahia - BA,Feijao,5,Segundo
+22,Fonte Nova - Salvador - BA,09/19/2013 21:00:00,214,Bahia - BA,Fernandao,42,Segundo
+23,Maracanã - Rio de Janeiro - RJ,09/21/2013 18:30:00,222,Fluminense - RJ,Gum,6,Segundo
+23,Maracanã - Rio de Janeiro - RJ,09/21/2013 18:30:00,222,Coritiba - PR,Lincoln,30,Primeiro
+23,Estádio do Vale - Novo Hamburgo - RS,09/22/2013 16:00:00,225,Portuguesa - SP,Wanderson,40,Segundo
+23,Serra Dourada - Goiania - GO,09/22/2013 16:00:00,226,Goiás - GO,Rodrigo,44,Segundo
+23,Maracanã - Rio de Janeiro - RJ,09/22/2013 16:00:00,221,Botafogo - RJ,Edilson,30,Primeiro
+23,Maracanã - Rio de Janeiro - RJ,09/22/2013 16:00:00,221,Bahia - BA,Fernandao,36,Segundo
+23,Maracanã - Rio de Janeiro - RJ,09/22/2013 16:00:00,221,Bahia - BA,Obina,40,Segundo
+23,Vila Belmiro - Santos - SP,09/22/2013 18:30:00,230,Santos - SP,Thiago Ribeiro,19,Primeiro
+23,Vila Belmiro - Santos - SP,09/22/2013 18:30:00,230,Santos - SP,Willian José,41,Primeiro
+23,Vila Belmiro - Santos - SP,09/22/2013 18:30:00,230,Criciuma - SC,Tony,33,Segundo
+23,Independência - Belo Horizonte - MG,09/22/2013 18:30:00,228,Atlético - MG,Fernandinho,2,Primeiro
+23,Independência - Belo Horizonte - MG,09/22/2013 18:30:00,228,Atlético - MG,Rafael Vaz,18,Primeiro
+23,Independência - Belo Horizonte - MG,09/22/2013 18:30:00,228,Vasco da Gama - RJ,Dakson,27,Segundo
+23,Durival Britto - Curitiba - PR,09/22/2013 18:30:00,229,Atlético Paranaense - PR,Paulo Baier,11,Primeiro
+24,Arena Pernambuco - Sao Lourenco da Mata - PE,09/28/2013 18:30:00,237,Náutico - PE,Lopez,6,Segundo
+24,Arena Pernambuco - Sao Lourenco da Mata - PE,09/28/2013 18:30:00,237,Náutico - PE,Maikon,31,Segundo
+24,Arena Pernambuco - Sao Lourenco da Mata - PE,09/28/2013 18:30:00,237,Náutico - PE,Maikon,38,Segundo
+24,Serra Dourada - Goiania - GO,09/28/2013 18:30:00,236,Goiás - GO,W. Matheus,36,Primeiro
+24,Serra Dourada - Goiania - GO,09/28/2013 18:30:00,236,Fluminense - RJ,Jean,6,Segundo
+24,Serra Dourada - Goiania - GO,09/28/2013 18:30:00,236,Fluminense - RJ,Rafael Sobis,39,Segundo
+24,Maracanã - Rio de Janeiro - RJ,09/28/2013 21:00:00,231,Ponte Preta - SP,Elias,42,Primeiro
+24,Morenão - Campo Grande - MS,09/29/2013 16:00:00,240,Portuguesa - SP,Gilberto,7,Primeiro
+24,Morenão - Campo Grande - MS,09/29/2013 16:00:00,240,Portuguesa - SP,Gilberto,12,Primeiro
+24,Morenão - Campo Grande - MS,09/29/2013 16:00:00,240,Portuguesa - SP,Gilberto,32,Primeiro
+24,Morenão - Campo Grande - MS,09/29/2013 16:00:00,240,Portuguesa - SP,Wanderson,34,Segundo
+24,Morumbi - Sao Paulo - SP,09/29/2013 16:00:00,233,Grêmio - RS,Vargas,24,Segundo
+24,Maracanã - Rio de Janeiro - RJ,09/29/2013 16:00:00,232,Flamengo - RJ,Hernane,5,Primeiro
+24,Maracanã - Rio de Janeiro - RJ,09/29/2013 16:00:00,232,Flamengo - RJ,Wallace Reis,17,Primeiro
+24,Maracanã - Rio de Janeiro - RJ,09/29/2013 16:00:00,232,Flamengo - RJ,Hernane,23,Primeiro
+24,Maracanã - Rio de Janeiro - RJ,09/29/2013 16:00:00,232,Flamengo - RJ,Elias,32,Segundo
+24,Maracanã - Rio de Janeiro - RJ,09/29/2013 16:00:00,232,Criciuma - SC,Daniel,48,Primeiro
+24,Estádio do Vale - Novo Hamburgo - RS,09/29/2013 18:30:00,235,Internacional - RS,Otavio,5,Primeiro
+24,Estádio do Vale - Novo Hamburgo - RS,09/29/2013 18:30:00,235,Cruzeiro - MG,Nilton,4,Primeiro
+24,Estádio do Vale - Novo Hamburgo - RS,09/29/2013 18:30:00,235,Cruzeiro - MG,Willian,8,Segundo
+24,Independência - Belo Horizonte - MG,09/29/2013 18:30:00,238,Atlético - MG,Luan,17,Primeiro
+24,Independência - Belo Horizonte - MG,09/29/2013 18:30:00,238,Atlético - MG,Marcos Rocha,36,Primeiro
+24,Independência - Belo Horizonte - MG,09/29/2013 18:30:00,238,Atlético - MG,Alecsandro,43,Segundo
+24,Independência - Belo Horizonte - MG,09/29/2013 18:30:00,238,Santos - SP,Cicinho,14,Primeiro
+24,Durival Britto - Curitiba - PR,09/29/2013 18:30:00,239,Atlético Paranaense - PR,Ederson,11,Segundo
+24,Durival Britto - Curitiba - PR,09/29/2013 18:30:00,239,Atlético Paranaense - PR,Ederson,18,Segundo
+24,Durival Britto - Curitiba - PR,09/29/2013 18:30:00,239,Atlético Paranaense - PR,Roger,24,Segundo
+24,Durival Britto - Curitiba - PR,09/29/2013 18:30:00,239,Vitória - BA,Renato Caja,18,Primeiro
+24,Durival Britto - Curitiba - PR,09/29/2013 18:30:00,239,Vitória - BA,Ayrton,30,Primeiro
+24,Durival Britto - Curitiba - PR,09/29/2013 18:30:00,239,Vitória - BA,Dinei,43,Primeiro
+24,Durival Britto - Curitiba - PR,09/29/2013 18:30:00,239,Vitória - BA,William Henrique,38,Segundo
+24,Durival Britto - Curitiba - PR,09/29/2013 18:30:00,239,Vitória - BA,Ayrton,41,Segundo
+25,Heriberto Hulse - Criciuma - SC,09/25/2013 19:30:00,247,Criciuma - SC,Lins,43,Primeiro
+25,Heriberto Hulse - Criciuma - SC,09/25/2013 19:30:00,247,Atlético - MG,Luan,41,Primeiro
+25,Moisés Lucarelli - Campinas - SP,10/01/2013 19:30:00,246,Ponte Preta - SP,William,45,Primeiro
+25,Moisés Lucarelli - Campinas - SP,10/01/2013 19:30:00,246,Náutico - PE,HUGO CABRAL,35,Segundo
+25,Moisés Lucarelli - Campinas - SP,10/01/2013 19:30:00,246,Náutico - PE,Maikon,47,Segundo
+25,Arena do Grêmio - Porto Alegre - RS,10/02/2013 19:30:00,245,Grêmio - RS,Riveros,43,Primeiro
+25,Mineirão - Belo Horizonte - MG,10/02/2013 19:30:00,248,Cruzeiro - MG,Everton Ribeiro,5,Primeiro
+25,Mineirão - Belo Horizonte - MG,10/02/2013 19:30:00,248,Cruzeiro - MG,Borges,15,Primeiro
+25,Mineirão - Belo Horizonte - MG,10/02/2013 19:30:00,248,Cruzeiro - MG,Willian,27,Primeiro
+25,Mineirão - Belo Horizonte - MG,10/02/2013 19:30:00,248,Cruzeiro - MG,Borges,29,Primeiro
+25,Maracanã - Rio de Janeiro - RJ,10/02/2013 21:00:00,242,Fluminense - RJ,Diego,2,Primeiro
+25,Maracanã - Rio de Janeiro - RJ,10/02/2013 21:00:00,242,Botafogo - RJ,Bolivar,13,Primeiro
+25,Fonte Nova - Salvador - BA,10/02/2013 21:00:00,244,Vitória - BA,Escudero,15,Primeiro
+25,Fonte Nova - Salvador - BA,10/02/2013 21:00:00,244,Vitória - BA,William Henrique,42,Segundo
+25,Fonte Nova - Salvador - BA,10/02/2013 21:00:00,244,Goiás - GO,Pedro,34,Primeiro
+25,Vila Belmiro - Santos - SP,10/02/2013 21:50:00,250,Santos - SP,Edu Dracena,22,Primeiro
+25,Vila Belmiro - Santos - SP,10/02/2013 21:50:00,250,Santos - SP,Thiago Ribeiro,14,Segundo
+25,Vila Belmiro - Santos - SP,10/02/2013 21:50:00,250,Santos - SP,Leo,44,Segundo
+25,Romildão - Mogi Mirim - SP,10/02/2013 21:50:00,243,Corinthians - SP,Guerrero,20,Primeiro
+25,Romildão - Mogi Mirim - SP,10/02/2013 21:50:00,243,Corinthians - SP,Cleber,40,Primeiro
+25,Couto Pereira - Curitiba - PR,10/02/2013 21:50:00,249,Flamengo - RJ,Andre Santos,46,Primeiro
+25,Couto Pereira - Curitiba - PR,10/02/2013 21:50:00,249,Flamengo - RJ,Wallace Reis,4,Segundo
+25,Cláudio Moacyr - Macae - RJ,10/03/2013 21:00:00,241,Vasco da Gama - RJ,Edmilson dos Santos Silva,9,Primeiro
+25,Cláudio Moacyr - Macae - RJ,10/03/2013 21:00:00,241,Vasco da Gama - RJ,Andre Felipe,42,Primeiro
+25,Cláudio Moacyr - Macae - RJ,10/03/2013 21:00:00,241,Vasco da Gama - RJ,Willie,30,Segundo
+25,Cláudio Moacyr - Macae - RJ,10/03/2013 21:00:00,241,Internacional - RS,Jorge Henrique,18,Primeiro
+26,Maracanã - Rio de Janeiro - RJ,10/05/2013 18:30:00,251,Grêmio - RS,Alex Telles,37,Primeiro
+26,Morumbi - Sao Paulo - SP,10/05/2013 21:00:00,253,São Paulo - SP,Antonio Carlos,4,Primeiro
+26,Morumbi - Sao Paulo - SP,10/05/2013 21:00:00,253,São Paulo - SP,Luis Fabiano,20,Segundo
+26,Morumbi - Sao Paulo - SP,10/05/2013 21:00:00,253,São Paulo - SP,Antonio Carlos,43,Segundo
+26,Morumbi - Sao Paulo - SP,10/05/2013 21:00:00,253,Vitória - BA,Juan,32,Primeiro
+26,Morumbi - Sao Paulo - SP,10/05/2013 21:00:00,253,Vitória - BA,Dinei,23,Segundo
+26,Mané Garrincha - Brasilia - DF,10/06/2013 16:00:00,252,Flamengo - RJ,Hernane,33,Primeiro
+26,Mané Garrincha - Brasilia - DF,10/06/2013 16:00:00,252,Vasco da Gama - RJ,Willie,8,Segundo
+26,Centenário - Caxias do Sul - RS,10/06/2013 16:00:00,255,Internacional - RS,Leandro Damiao,35,Segundo
+26,Arena Pernambuco - Sao Lourenco da Mata - PE,10/06/2013 16:00:00,257,Náutico - PE,Maikon,28,Primeiro
+26,Arena Pernambuco - Sao Lourenco da Mata - PE,10/06/2013 16:00:00,257,Cruzeiro - MG,Ricardo Goulart,9,Primeiro
+26,Arena Pernambuco - Sao Lourenco da Mata - PE,10/06/2013 16:00:00,257,Cruzeiro - MG,Ricardo Goulart,7,Segundo
+26,Arena Pernambuco - Sao Lourenco da Mata - PE,10/06/2013 16:00:00,257,Cruzeiro - MG,Everton Ribeiro,13,Segundo
+26,Arena Pernambuco - Sao Lourenco da Mata - PE,10/06/2013 16:00:00,257,Cruzeiro - MG,Mayke,31,Segundo
+26,Durival Britto - Curitiba - PR,10/06/2013 16:00:00,259,Atlético Paranaense - PR,Paulo Baier,43,Primeiro
+26,Durival Britto - Curitiba - PR,10/06/2013 16:00:00,259,Atlético Paranaense - PR,Paulo Baier,45,Primeiro
+26,Durival Britto - Curitiba - PR,10/06/2013 16:00:00,259,Coritiba - PR,Julio Cesar,30,Primeiro
+26,Fonte Nova - Salvador - BA,10/06/2013 18:30:00,254,Bahia - BA,Fernandao,34,Primeiro
+26,Fonte Nova - Salvador - BA,10/06/2013 18:30:00,254,Ponte Preta - SP,William,21,Primeiro
+26,Serra Dourada - Goiania - GO,10/06/2013 18:30:00,256,Goiás - GO,Walter,29,Primeiro
+26,Serra Dourada - Goiania - GO,10/06/2013 18:30:00,256,Criciuma - SC,Lins,2,Primeiro
+26,Canindé - Sao Paulo - SP,10/06/2013 18:30:00,260,Portuguesa - SP,Luis Ricardo Silva Umbelino,15,Primeiro
+26,Canindé - Sao Paulo - SP,10/06/2013 18:30:00,260,Portuguesa - SP,Gilberto,14,Segundo
+26,Canindé - Sao Paulo - SP,10/06/2013 18:30:00,260,Portuguesa - SP,Gilberto,21,Segundo
+27,Arena do Grêmio - Porto Alegre - RS,10/09/2013 19:30:00,265,Grêmio - RS,Maxi Rodriguez,11,Segundo
+27,Arena do Grêmio - Porto Alegre - RS,10/09/2013 19:30:00,265,Criciuma - SC,Wellington Paulista,35,Primeiro
+27,Arena do Grêmio - Porto Alegre - RS,10/09/2013 19:30:00,265,Criciuma - SC,Serginho,44,Segundo
+27,Couto Pereira - Curitiba - PR,10/09/2013 19:30:00,269,Coritiba - PR,Julio Cesar,17,Segundo
+27,Moisés Lucarelli - Campinas - SP,10/09/2013 21:00:00,266,Ponte Preta - SP,William,35,Primeiro
+27,Moisés Lucarelli - Campinas - SP,10/09/2013 21:00:00,266,Ponte Preta - SP,Elias,33,Segundo
+27,Fonte Nova - Salvador - BA,10/09/2013 21:00:00,264,Bahia - BA,Rafael,16,Primeiro
+27,Fonte Nova - Salvador - BA,10/09/2013 21:00:00,264,Bahia - BA,Fernandao,25,Primeiro
+27,Arena Pernambuco - Sao Lourenco da Mata - PE,10/09/2013 21:50:00,267,Náutico - PE,Maikon,9,Primeiro
+27,Arena Pernambuco - Sao Lourenco da Mata - PE,10/09/2013 21:50:00,267,Botafogo - RJ,Rafael Marques,25,Primeiro
+27,Arena Pernambuco - Sao Lourenco da Mata - PE,10/09/2013 21:50:00,267,Botafogo - RJ,Seedorf,39,Primeiro
+27,Arena Pernambuco - Sao Lourenco da Mata - PE,10/09/2013 21:50:00,267,Botafogo - RJ,Gêge,45,Segundo
+27,Mineirão - Belo Horizonte - MG,10/09/2013 21:50:00,268,São Paulo - SP,Douglas,32,Segundo
+27,Mineirão - Belo Horizonte - MG,10/09/2013 21:50:00,268,São Paulo - SP,Reinaldo,35,Segundo
+27,Ressacada - Florianopolis - SC,10/09/2013 21:50:00,261,Vasco da Gama - RJ,Cris,11,Primeiro
+27,Canindé - Sao Paulo - SP,10/10/2013 19:30:00,270,Portuguesa - SP,Heverton,37,Segundo
+27,Canindé - Sao Paulo - SP,10/10/2013 19:30:00,270,Goiás - GO,Hugo,36,Primeiro
+27,Canindé - Sao Paulo - SP,10/10/2013 19:30:00,270,Goiás - GO,Walter,6,Segundo
+27,Maracanã - Rio de Janeiro - RJ,10/10/2013 21:00:00,262,Flamengo - RJ,Leo Moura,28,Primeiro
+27,Maracanã - Rio de Janeiro - RJ,10/10/2013 21:00:00,262,Flamengo - RJ,Hernane,26,Segundo
+27,Maracanã - Rio de Janeiro - RJ,10/10/2013 21:00:00,262,Internacional - RS,Rafael Moura,36,Segundo
+28,Maracanã - Rio de Janeiro - RJ,10/12/2013 18:30:00,272,Fluminense - RJ,Rafael Sobis,45,Segundo
+28,Maracanã - Rio de Janeiro - RJ,10/12/2013 18:30:00,272,Grêmio - RS,Bressan,38,Primeiro
+28,Manoel Barradas - Salvador - BA,10/12/2013 18:30:00,274,Vitória - BA,Marquinhos,11,Primeiro
+28,Manoel Barradas - Salvador - BA,10/12/2013 18:30:00,274,Vitória - BA,Dinei,25,Segundo
+28,Manoel Barradas - Salvador - BA,10/12/2013 18:30:00,274,Coritiba - PR,Geraldo,45,Primeiro
+28,Pacaembu - Sao Paulo - SP,10/12/2013 21:00:00,280,Santos - SP,Everton,44,Primeiro
+28,Pacaembu - Sao Paulo - SP,10/12/2013 21:00:00,280,Santos - SP,Montillo,23,Segundo
+28,Pacaembu - Sao Paulo - SP,10/12/2013 21:00:00,280,Ponte Preta - SP,Rafael,45,Segundo
+28,Independência - Belo Horizonte - MG,10/13/2013 16:00:00,278,Atlético - MG,Fernandinho,41,Segundo
+28,Heriberto Hulse - Criciuma - SC,10/13/2013 16:00:00,277,Criciuma - SC,Wellington Paulista,16,Primeiro
+28,Heriberto Hulse - Criciuma - SC,10/13/2013 16:00:00,277,Criciuma - SC,Lins,23,Primeiro
+28,Heriberto Hulse - Criciuma - SC,10/13/2013 16:00:00,277,Criciuma - SC,Wellington Paulista,8,Segundo
+28,Heriberto Hulse - Criciuma - SC,10/13/2013 16:00:00,277,Vasco da Gama - RJ,Marlone,19,Primeiro
+28,Heriberto Hulse - Criciuma - SC,10/13/2013 16:00:00,277,Vasco da Gama - RJ,Andre Felipe,4,Segundo
+28,Centenário - Caxias do Sul - RS,10/13/2013 16:00:00,275,Internacional - RS,Dalessandro,18,Primeiro
+28,Centenário - Caxias do Sul - RS,10/13/2013 16:00:00,275,Internacional - RS,Otavio,46,Primeiro
+28,Centenário - Caxias do Sul - RS,10/13/2013 16:00:00,275,Internacional - RS,Willians,24,Segundo
+28,Centenário - Caxias do Sul - RS,10/13/2013 16:00:00,275,Internacional - RS,Kleber,37,Segundo
+28,Centenário - Caxias do Sul - RS,10/13/2013 16:00:00,275,Náutico - PE,Tiago Real,27,Primeiro
+28,Maracanã - Rio de Janeiro - RJ,10/13/2013 18:30:00,271,Botafogo - RJ,Gêge,42,Primeiro
+28,Maracanã - Rio de Janeiro - RJ,10/13/2013 18:30:00,271,Botafogo - RJ,Rafael Marques,18,Segundo
+28,Maracanã - Rio de Janeiro - RJ,10/13/2013 18:30:00,271,Flamengo - RJ,Hernane,12,Primeiro
+28,Serra Dourada - Goiania - GO,10/13/2013 18:30:00,276,Goiás - GO,Hugo,4,Primeiro
+28,Serra Dourada - Goiania - GO,10/13/2013 18:30:00,276,Goiás - GO,Walter,31,Primeiro
+28,Serra Dourada - Goiania - GO,10/13/2013 18:30:00,276,Goiás - GO,Eduardo Sasha,38,Primeiro
+28,Serra Dourada - Goiania - GO,10/13/2013 18:30:00,276,Bahia - BA,Wiliam Barbio,23,Segundo
+28,Durival Britto - Curitiba - PR,10/13/2013 18:30:00,279,Atlético Paranaense - PR,Marcelo Cirino,2,Primeiro
+29,Mineirão - Belo Horizonte - MG,10/16/2013 19:30:00,288,Cruzeiro - MG,Borges,17,Primeiro
+29,Heriberto Hulse - Criciuma - SC,10/16/2013 21:00:00,287,Criciuma - SC,Matheus Ferraz,25,Segundo
+29,Heriberto Hulse - Criciuma - SC,10/16/2013 21:00:00,287,Portuguesa - SP,Gilberto,10,Primeiro
+29,Heriberto Hulse - Criciuma - SC,10/16/2013 21:00:00,287,Portuguesa - SP,Bergson,13,Primeiro
+29,Heriberto Hulse - Criciuma - SC,10/16/2013 21:00:00,287,Portuguesa - SP,Henrique Dourado,46,Segundo
+29,Morumbi - Sao Paulo - SP,10/16/2013 21:00:00,283,São Paulo - SP,Ademilson,30,Primeiro
+29,Morumbi - Sao Paulo - SP,10/16/2013 21:00:00,283,São Paulo - SP,PH GANSO,20,Segundo
+29,Morumbi - Sao Paulo - SP,10/16/2013 21:00:00,283,São Paulo - SP,Welliton,28,Segundo
+29,Moisés Lucarelli - Campinas - SP,10/16/2013 21:00:00,286,Ponte Preta - SP,Uendel,30,Primeiro
+29,Maracanã - Rio de Janeiro - RJ,10/16/2013 21:50:00,282,Flamengo - RJ,Paulinho,6,Segundo
+29,Maracanã - Rio de Janeiro - RJ,10/16/2013 21:50:00,282,Flamengo - RJ,Hernane,39,Segundo
+29,Maracanã - Rio de Janeiro - RJ,10/16/2013 21:50:00,282,Bahia - BA,Fernandao,33,Segundo
+29,Arena do Grêmio - Porto Alegre - RS,10/16/2013 21:50:00,285,Grêmio - RS,Barcos,4,Segundo
+29,Durival Britto - Curitiba - PR,10/16/2013 21:50:00,289,Atlético Paranaense - PR,Roger,40,Segundo
+29,Cláudio Moacyr - Macae - RJ,10/17/2013 19:30:00,281,Goiás - GO,Rodrigo,36,Primeiro
+29,Cláudio Moacyr - Macae - RJ,10/17/2013 19:30:00,281,Goiás - GO,Hugo,22,Segundo
+29,Manoel Barradas - Salvador - BA,10/17/2013 21:00:00,284,Vitória - BA,William Henrique,33,Segundo
+30,Maracanã - Rio de Janeiro - RJ,10/19/2013 16:00:00,292,Fluminense - RJ,Diego,39,Segundo
+30,Maracanã - Rio de Janeiro - RJ,10/19/2013 16:00:00,292,Ponte Preta - SP,Rafael,36,Segundo
+30,Arena Pernambuco - Sao Lourenco da Mata - PE,10/19/2013 18:30:00,297,Náutico - PE,Maikon,5,Segundo
+30,Arena Pernambuco - Sao Lourenco da Mata - PE,10/19/2013 18:30:00,297,Santos - SP,Thiago Ribeiro,1,Primeiro
+30,Arena Pernambuco - Sao Lourenco da Mata - PE,10/19/2013 18:30:00,297,Santos - SP,Cicero,21,Primeiro
+30,Arena Pernambuco - Sao Lourenco da Mata - PE,10/19/2013 18:30:00,297,Santos - SP,Everton,24,Primeiro
+30,Arena Pernambuco - Sao Lourenco da Mata - PE,10/19/2013 18:30:00,297,Santos - SP,Cicinho,26,Primeiro
+30,Arena Pernambuco - Sao Lourenco da Mata - PE,10/19/2013 18:30:00,297,Santos - SP,Cicero,44,Segundo
+30,Novelli Junior - Itu - SP,10/19/2013 21:00:00,293,Corinthians - SP,Alexandre Pato,14,Segundo
+30,Serra Dourada - Goiania - GO,10/20/2013 16:00:00,296,Goiás - GO,Ronei,18,Primeiro
+30,Serra Dourada - Goiania - GO,10/20/2013 16:00:00,296,Goiás - GO,Dudu Cearense,26,Primeiro
+30,Serra Dourada - Goiania - GO,10/20/2013 16:00:00,296,Goiás - GO,Walter,47,Segundo
+30,Independência - Belo Horizonte - MG,10/20/2013 16:00:00,298,Atlético - MG,Lucas Candido,12,Segundo
+30,Centenário - Caxias do Sul - RS,10/20/2013 16:00:00,295,Internacional - RS,Willians,8,Primeiro
+30,Centenário - Caxias do Sul - RS,10/20/2013 16:00:00,295,Internacional - RS,Dalessandro,15,Segundo
+30,Centenário - Caxias do Sul - RS,10/20/2013 16:00:00,295,Grêmio - RS,Jackson,20,Primeiro
+30,Centenário - Caxias do Sul - RS,10/20/2013 16:00:00,295,Grêmio - RS,Vargas,6,Segundo
+30,Fonte Nova - Salvador - BA,10/20/2013 16:00:00,294,São Paulo - SP,Aloisio,24,Primeiro
+30,Maracanã - Rio de Janeiro - RJ,10/20/2013 18:30:00,291,Botafogo - RJ,Dankler,5,Primeiro
+30,Maracanã - Rio de Janeiro - RJ,10/20/2013 18:30:00,291,Botafogo - RJ,Lodeiro,6,Primeiro
+30,Maracanã - Rio de Janeiro - RJ,10/20/2013 18:30:00,291,Vasco da Gama - RJ,Jomar,8,Segundo
+30,Maracanã - Rio de Janeiro - RJ,10/20/2013 18:30:00,291,Vasco da Gama - RJ,Pedro Ken,23,Segundo
+30,Couto Pereira - Curitiba - PR,10/20/2013 18:30:00,299,Coritiba - PR,Carlinho,41,Primeiro
+30,Couto Pereira - Curitiba - PR,10/20/2013 18:30:00,299,Coritiba - PR,Keirrison,27,Segundo
+30,Couto Pereira - Curitiba - PR,10/20/2013 18:30:00,299,Cruzeiro - MG,Dagoberto,17,Segundo
+30,Canindé - Sao Paulo - SP,10/20/2013 18:30:00,300,Portuguesa - SP,Moises,17,Segundo
+30,Canindé - Sao Paulo - SP,10/20/2013 18:30:00,300,Vitória - BA,Luis,18,Primeiro
+31,Maracanã - Rio de Janeiro - RJ,10/26/2013 18:30:00,301,Botafogo - RJ,Julio Cesar,6,Segundo
+31,Mineirão - Belo Horizonte - MG,10/26/2013 18:30:00,308,Cruzeiro - MG,Everton Ribeiro,12,Primeiro
+31,Mineirão - Belo Horizonte - MG,10/26/2013 18:30:00,308,Cruzeiro - MG,Dagoberto,19,Primeiro
+31,Mineirão - Belo Horizonte - MG,10/26/2013 18:30:00,308,Cruzeiro - MG,Borges,13,Segundo
+31,Mineirão - Belo Horizonte - MG,10/26/2013 18:30:00,308,Cruzeiro - MG,Borges,31,Segundo
+31,Mineirão - Belo Horizonte - MG,10/26/2013 18:30:00,308,Cruzeiro - MG,Dagoberto,39,Segundo
+31,Mineirão - Belo Horizonte - MG,10/26/2013 18:30:00,308,Criciuma - SC,Joao Vitor,33,Primeiro
+31,Mineirão - Belo Horizonte - MG,10/26/2013 18:30:00,308,Criciuma - SC,Lins,41,Primeiro
+31,Mineirão - Belo Horizonte - MG,10/26/2013 18:30:00,308,Criciuma - SC,Ricardinho,44,Primeiro
+31,Fonte Luminosa - Araraquara - SP,10/27/2013 16:00:00,303,Corinthians - SP,Douglas,27,Primeiro
+31,Fonte Luminosa - Araraquara - SP,10/27/2013 16:00:00,303,Santos - SP,Gustavo,16,Segundo
+31,Fonte Nova - Salvador - BA,10/27/2013 16:00:00,304,Bahia - BA,Obina,2,Segundo
+31,Fonte Nova - Salvador - BA,10/27/2013 16:00:00,304,Atlético Paranaense - PR,Ederson,12,Segundo
+31,Centenário - Caxias do Sul - RS,10/27/2013 16:00:00,305,Internacional - RS,Leandro Damiao,33,Primeiro
+31,Centenário - Caxias do Sul - RS,10/27/2013 16:00:00,305,Internacional - RS,Jorge Henrique,3,Segundo
+31,Centenário - Caxias do Sul - RS,10/27/2013 16:00:00,305,São Paulo - SP,Aloisio,10,Primeiro
+31,Centenário - Caxias do Sul - RS,10/27/2013 16:00:00,305,São Paulo - SP,Aloisio,44,Primeiro
+31,Centenário - Caxias do Sul - RS,10/27/2013 16:00:00,305,São Paulo - SP,Aloisio,8,Segundo
+31,Moisés Lucarelli - Campinas - SP,10/27/2013 16:00:00,306,Ponte Preta - SP,Adriano,34,Segundo
+31,Moisés Lucarelli - Campinas - SP,10/27/2013 16:00:00,306,Ponte Preta - SP,Uendel,44,Segundo
+31,Moisés Lucarelli - Campinas - SP,10/27/2013 16:00:00,306,Vasco da Gama - RJ,Diego,13,Primeiro
+31,Couto Pereira - Curitiba - PR,10/27/2013 18:30:00,309,Coritiba - PR,Para,1,Primeiro
+31,Couto Pereira - Curitiba - PR,10/27/2013 18:30:00,309,Coritiba - PR,Alex,4,Primeiro
+31,Couto Pereira - Curitiba - PR,10/27/2013 18:30:00,309,Coritiba - PR,Robinho,34,Primeiro
+31,Couto Pereira - Curitiba - PR,10/27/2013 18:30:00,309,Coritiba - PR,Geraldo,13,Segundo
+31,Arena Pernambuco - Sao Lourenco da Mata - PE,10/27/2013 18:30:00,307,Goiás - GO,Welinton,1,Primeiro
+31,Arena Pernambuco - Sao Lourenco da Mata - PE,10/27/2013 18:30:00,307,Goiás - GO,Amaral,41,Primeiro
+31,Maracanã - Rio de Janeiro - RJ,10/27/2013 18:30:00,302,Fluminense - RJ,Diego,28,Primeiro
+31,Maracanã - Rio de Janeiro - RJ,10/27/2013 18:30:00,302,Fluminense - RJ,Rafael Sobis,12,Segundo
+31,Maracanã - Rio de Janeiro - RJ,10/27/2013 18:30:00,302,Vitória - BA,Marquinhos,23,Primeiro
+31,Maracanã - Rio de Janeiro - RJ,10/27/2013 18:30:00,302,Vitória - BA,Juan,17,Segundo
+31,Maracanã - Rio de Janeiro - RJ,10/27/2013 18:30:00,302,Vitória - BA,William Henrique,19,Segundo
+32,Cláudio Moacyr - Macae - RJ,11/02/2013 19:30:00,311,Vasco da Gama - RJ,Edmilson dos Santos Silva,26,Primeiro
+32,Cláudio Moacyr - Macae - RJ,11/02/2013 19:30:00,311,Vasco da Gama - RJ,Edmilson dos Santos Silva,27,Segundo
+32,Cláudio Moacyr - Macae - RJ,11/02/2013 19:30:00,311,Coritiba - PR,Luccas Claro,36,Segundo
+32,Morumbi - Sao Paulo - SP,11/02/2013 19:30:00,313,São Paulo - SP,Rodrigo Caio,8,Primeiro
+32,Morumbi - Sao Paulo - SP,11/02/2013 19:30:00,313,São Paulo - SP,Aloisio,32,Segundo
+32,Morumbi - Sao Paulo - SP,11/02/2013 19:30:00,313,Portuguesa - SP,Luis Ricardo Silva Umbelino,41,Primeiro
+32,Independência - Belo Horizonte - MG,11/02/2013 21:00:00,318,Atlético - MG,Fernandinho,10,Primeiro
+32,Independência - Belo Horizonte - MG,11/02/2013 21:00:00,318,Atlético - MG,Jo,23,Primeiro
+32,Independência - Belo Horizonte - MG,11/02/2013 21:00:00,318,Atlético - MG,Guilherme,12,Segundo
+32,Independência - Belo Horizonte - MG,11/02/2013 21:00:00,318,Atlético - MG,Diego Tardelli,22,Segundo
+32,Independência - Belo Horizonte - MG,11/02/2013 21:00:00,318,Atlético - MG,Alecsandro,29,Segundo
+32,Manoel Barradas - Salvador - BA,11/03/2013 17:00:00,314,Vitória - BA,Dinei,15,Segundo
+32,Manoel Barradas - Salvador - BA,11/03/2013 17:00:00,314,Corinthians - SP,Guilherme,8,Segundo
+32,Serra Dourada - Goiania - GO,11/03/2013 17:00:00,316,Goiás - GO,Eduardo Sasha,44,Segundo
+32,Vila Belmiro - Santos - SP,11/03/2013 17:00:00,320,Cruzeiro - MG,Everton Ribeiro,9,Segundo
+32,Maracanã - Rio de Janeiro - RJ,11/03/2013 19:30:00,312,Flamengo - RJ,Gum,45,Segundo
+32,Heriberto Hulse - Criciuma - SC,11/03/2013 19:30:00,317,Criciuma - SC,Ricardinho,34,Primeiro
+32,Heriberto Hulse - Criciuma - SC,11/03/2013 19:30:00,317,Ponte Preta - SP,Leonardo,9,Segundo
+32,Durival Britto - Curitiba - PR,11/03/2013 19:30:00,319,Atlético Paranaense - PR,Guilherme,44,Primeiro
+33,Maracanã - Rio de Janeiro - RJ,11/09/2013 21:00:00,322,Flamengo - RJ,Hernane,5,Segundo
+33,Maracanã - Rio de Janeiro - RJ,11/09/2013 21:00:00,322,Goiás - GO,Rodrigo,17,Segundo
+33,Centenário - Caxias do Sul - RS,11/10/2013 17:00:00,325,Internacional - RS,Jorge Henrique,39,Primeiro
+33,Centenário - Caxias do Sul - RS,11/10/2013 17:00:00,325,Internacional - RS,Jackson,5,Segundo
+33,Centenário - Caxias do Sul - RS,11/10/2013 17:00:00,325,Botafogo - RJ,Matheus,2,Segundo
+33,Moisés Lucarelli - Campinas - SP,11/10/2013 17:00:00,326,Vitória - BA,Renato Caja,18,Primeiro
+33,Moisés Lucarelli - Campinas - SP,11/10/2013 17:00:00,326,Vitória - BA,Ayrton,29,Primeiro
+33,Moisés Lucarelli - Campinas - SP,11/10/2013 17:00:00,326,Vitória - BA,Dinei,44,Primeiro
+33,Mineirão - Belo Horizonte - MG,11/10/2013 17:00:00,328,Cruzeiro - MG,Borges,34,Primeiro
+33,Mineirão - Belo Horizonte - MG,11/10/2013 17:00:00,328,Cruzeiro - MG,Willian,33,Segundo
+33,Mineirão - Belo Horizonte - MG,11/10/2013 17:00:00,328,Cruzeiro - MG,Ricardo Goulart,41,Segundo
+33,Durival Britto - Curitiba - PR,11/10/2013 17:00:00,329,Atlético Paranaense - PR,Marcelo Cirino,12,Primeiro
+33,Durival Britto - Curitiba - PR,11/10/2013 17:00:00,329,Atlético Paranaense - PR,Luiz Alberto da Silva Oliveira,27,Primeiro
+33,Durival Britto - Curitiba - PR,11/10/2013 17:00:00,329,Atlético Paranaense - PR,Ederson,12,Segundo
+33,Maracanã - Rio de Janeiro - RJ,11/10/2013 19:30:00,321,Vasco da Gama - RJ,Edmilson dos Santos Silva,28,Primeiro
+33,Maracanã - Rio de Janeiro - RJ,11/10/2013 19:30:00,321,Vasco da Gama - RJ,Andre Felipe,32,Segundo
+33,Maracanã - Rio de Janeiro - RJ,11/10/2013 19:30:00,321,Santos - SP,Bruno,22,Primeiro
+33,Maracanã - Rio de Janeiro - RJ,11/10/2013 19:30:00,321,Santos - SP,Gustavo,26,Primeiro
+33,Fonte Luminosa - Araraquara - SP,11/10/2013 19:30:00,323,Corinthians - SP,Alexandre Pato,46,Segundo
+33,Arena Pernambuco - Sao Lourenco da Mata - PE,11/10/2013 19:30:00,327,Criciuma - SC,Wellington Paulista,25,Segundo
+34,Arena do Grêmio - Porto Alegre - RS,11/13/2013 19:30:00,335,Grêmio - RS,Rhodolfo,6,Segundo
+34,Serra Dourada - Goiania - GO,11/13/2013 19:30:00,336,Goiás - GO,Eduardo Sasha,24,Primeiro
+34,Serra Dourada - Goiania - GO,11/13/2013 19:30:00,336,Goiás - GO,Ramon,26,Primeiro
+34,Heriberto Hulse - Criciuma - SC,11/13/2013 21:00:00,337,Criciuma - SC,Fabio,6,Primeiro
+34,Heriberto Hulse - Criciuma - SC,11/13/2013 21:00:00,337,Criciuma - SC,Wellington Paulista,28,Primeiro
+34,Heriberto Hulse - Criciuma - SC,11/13/2013 21:00:00,337,Atlético Paranaense - PR,Paulo Baier,15,Segundo
+34,Couto Pereira - Curitiba - PR,11/13/2013 21:50:00,339,Corinthians - SP,Guilherme,19,Segundo
+34,Novelli Junior - Itu - SP,11/13/2013 21:50:00,333,São Paulo - SP,Rogerio,3,Segundo
+34,Novelli Junior - Itu - SP,11/13/2013 21:50:00,333,São Paulo - SP,Ademilson,18,Segundo
+34,Manoel Barradas - Salvador - BA,11/13/2013 21:50:00,334,Vitória - BA,Dinei,5,Segundo
+34,Manoel Barradas - Salvador - BA,11/13/2013 21:50:00,334,Cruzeiro - MG,Willian,36,Primeiro
+34,Manoel Barradas - Salvador - BA,11/13/2013 21:50:00,334,Cruzeiro - MG,Julio Baptista,25,Segundo
+34,Manoel Barradas - Salvador - BA,11/13/2013 21:50:00,334,Cruzeiro - MG,Ricardo Goulart,35,Segundo
+34,Pacaembu - Sao Paulo - SP,11/14/2013 19:30:00,340,Santos - SP,Montillo,36,Primeiro
+34,Pacaembu - Sao Paulo - SP,11/14/2013 19:30:00,340,Santos - SP,Cicero,20,Segundo
+34,Pacaembu - Sao Paulo - SP,11/14/2013 19:30:00,340,Santos - SP,Cicero,25,Segundo
+34,Maracanã - Rio de Janeiro - RJ,11/14/2013 21:00:00,332,Fluminense - RJ,Wagner,16,Primeiro
+34,Maracanã - Rio de Janeiro - RJ,11/14/2013 21:00:00,332,Fluminense - RJ,Samuel,5,Segundo
+34,Independência - Belo Horizonte - MG,11/14/2013 21:00:00,338,Atlético - MG,Fernandinho,37,Primeiro
+34,Independência - Belo Horizonte - MG,11/14/2013 21:00:00,338,Atlético - MG,Alecsandro,21,Segundo
+34,Independência - Belo Horizonte - MG,11/14/2013 21:00:00,338,Internacional - RS,Dalessandro,20,Segundo
+35,Maracanã - Rio de Janeiro - RJ,11/16/2013 19:30:00,341,Botafogo - RJ,Elias,27,Primeiro
+35,Maracanã - Rio de Janeiro - RJ,11/16/2013 19:30:00,341,Botafogo - RJ,Seedorf,36,Primeiro
+35,Maracanã - Rio de Janeiro - RJ,11/16/2013 19:30:00,341,Botafogo - RJ,Bruno Mendes,33,Segundo
+35,Maracanã - Rio de Janeiro - RJ,11/16/2013 19:30:00,341,Botafogo - RJ,Bruno Mendes,36,Segundo
+35,Couto Pereira - Curitiba - PR,11/16/2013 21:00:00,349,Coritiba - PR,Junior Urso,24,Segundo
+35,Couto Pereira - Curitiba - PR,11/16/2013 21:00:00,349,Criciuma - SC,Wellington Paulista,28,Primeiro
+35,Couto Pereira - Curitiba - PR,11/16/2013 21:00:00,349,Criciuma - SC,Lins,25,Segundo
+35,Manoel Barradas - Salvador - BA,11/17/2013 17:00:00,344,Vitória - BA,Dinei,20,Primeiro
+35,Manoel Barradas - Salvador - BA,11/17/2013 17:00:00,344,Vitória - BA,Max,39,Segundo
+35,João Havelange - Uberlandia - MG,11/17/2013 17:00:00,348,Cruzeiro - MG,Souza,30,Segundo
+35,João Havelange - Uberlandia - MG,11/17/2013 17:00:00,348,Cruzeiro - MG,Vinicius Araujo,38,Segundo
+35,João Havelange - Uberlandia - MG,11/17/2013 17:00:00,348,Ponte Preta - SP,Leonardo,4,Primeiro
+35,João Havelange - Uberlandia - MG,11/17/2013 17:00:00,348,Ponte Preta - SP,Leonardo,46,Segundo
+35,Maracanã - Rio de Janeiro - RJ,11/17/2013 17:00:00,342,Fluminense - RJ,Jean,24,Primeiro
+35,Maracanã - Rio de Janeiro - RJ,11/17/2013 17:00:00,342,Fluminense - RJ,Gum,44,Segundo
+35,Maracanã - Rio de Janeiro - RJ,11/17/2013 17:00:00,342,São Paulo - SP,Welliton,17,Primeiro
+35,Arena do Grêmio - Porto Alegre - RS,11/17/2013 19:30:00,345,Grêmio - RS,Maxi Rodriguez,15,Segundo
+35,Arena do Grêmio - Porto Alegre - RS,11/17/2013 19:30:00,345,Grêmio - RS,Maxi Rodriguez,42,Segundo
+35,Arena do Grêmio - Porto Alegre - RS,11/17/2013 19:30:00,345,Flamengo - RJ,Joao Paulo,40,Segundo
+35,Serra Dourada - Goiania - GO,11/17/2013 19:30:00,346,Goiás - GO,Walter,25,Primeiro
+35,Serra Dourada - Goiania - GO,11/17/2013 19:30:00,346,Goiás - GO,Hugo,27,Segundo
+35,Serra Dourada - Goiania - GO,11/17/2013 19:30:00,346,Goiás - GO,Ronei,37,Segundo
+35,Serra Dourada - Goiania - GO,11/17/2013 19:30:00,346,Internacional - RS,Otavio,19,Primeiro
+35,Arena Pernambuco - Sao Lourenco da Mata - PE,11/17/2013 19:30:00,347,Bahia - BA,Fernandao,37,Segundo
+35,Canindé - Sao Paulo - SP,11/17/2013 19:30:00,350,Portuguesa - SP,Bruno,45,Primeiro
+35,Canindé - Sao Paulo - SP,11/17/2013 19:30:00,350,Portuguesa - SP,Henrique Dourado,19,Segundo
+36,Maracanã - Rio de Janeiro - RJ,11/23/2013 19:30:00,351,Vasco da Gama - RJ,Thalles,2,Primeiro
+36,Maracanã - Rio de Janeiro - RJ,11/23/2013 19:30:00,351,Vasco da Gama - RJ,Edmilson dos Santos Silva,32,Primeiro
+36,Maracanã - Rio de Janeiro - RJ,11/23/2013 19:30:00,351,Cruzeiro - MG,Paulão,19,Segundo
+36,Heriberto Hulse - Criciuma - SC,11/23/2013 19:30:00,357,Criciuma - SC,Wellington Paulista,13,Primeiro
+36,Heriberto Hulse - Criciuma - SC,11/23/2013 19:30:00,357,Vitória - BA,Dinei,8,Segundo
+36,Independência - Belo Horizonte - MG,11/23/2013 21:00:00,358,Atlético - MG,Fernandinho,23,Primeiro
+36,Independência - Belo Horizonte - MG,11/23/2013 21:00:00,358,Atlético - MG,Diego Tardelli,33,Primeiro
+36,Independência - Belo Horizonte - MG,11/23/2013 21:00:00,358,Atlético - MG,Diego Tardelli,21,Segundo
+36,Independência - Belo Horizonte - MG,11/23/2013 21:00:00,358,Atlético - MG,Diego Tardelli,27,Segundo
+36,Independência - Belo Horizonte - MG,11/23/2013 21:00:00,358,Goiás - GO,Amaral,43,Primeiro
+36,Arena Joinville - Joinville - SC,11/24/2013 17:00:00,359,Atlético Paranaense - PR,Zezinho,26,Primeiro
+36,Arena Joinville - Joinville - SC,11/24/2013 17:00:00,359,Atlético Paranaense - PR,Paulo Baier,27,Primeiro
+36,Arena Joinville - Joinville - SC,11/24/2013 17:00:00,359,Atlético Paranaense - PR,Felipe,7,Segundo
+36,Arena Joinville - Joinville - SC,11/24/2013 17:00:00,359,Atlético Paranaense - PR,Ederson,15,Segundo
+36,Arena Joinville - Joinville - SC,11/24/2013 17:00:00,359,Atlético Paranaense - PR,Felipe,17,Segundo
+36,Arena Joinville - Joinville - SC,11/24/2013 17:00:00,359,Atlético Paranaense - PR,Cleberson,26,Segundo
+36,Arena Joinville - Joinville - SC,11/24/2013 17:00:00,359,Náutico - PE,Tiago Real,1,Segundo
+36,Paulo Constantino - Presidente Prudente - SP,11/24/2013 17:00:00,360,Santos - SP,Thiago Ribeiro,20,Segundo
+36,Moisés Lucarelli - Campinas - SP,11/24/2013 17:00:00,356,Ponte Preta - SP,Adailton,15,Primeiro
+36,Moisés Lucarelli - Campinas - SP,11/24/2013 17:00:00,356,Grêmio - RS,Vargas,9,Segundo
+36,Maracanã - Rio de Janeiro - RJ,11/24/2013 17:00:00,352,Flamengo - RJ,Paulinho,18,Primeiro
+36,Morumbi - Sao Paulo - SP,11/24/2013 19:30:00,353,São Paulo - SP,Aloisio,3,Primeiro
+36,Morumbi - Sao Paulo - SP,11/24/2013 19:30:00,353,Botafogo - RJ,Elias,28,Primeiro
+36,Fonte Nova - Salvador - BA,11/24/2013 19:30:00,354,Bahia - BA,Fernandao,44,Primeiro
+37,Maracanã - Rio de Janeiro - RJ,11/30/2013 19:30:00,362,Fluminense - RJ,Gum,36,Primeiro
+37,Maracanã - Rio de Janeiro - RJ,11/30/2013 19:30:00,362,Fluminense - RJ,Diego,8,Segundo
+37,Maracanã - Rio de Janeiro - RJ,11/30/2013 19:30:00,362,Atlético - MG,Diego Tardelli,21,Primeiro
+37,Maracanã - Rio de Janeiro - RJ,11/30/2013 19:30:00,362,Atlético - MG,Alecsandro,37,Segundo
+37,Heriberto Hulse - Criciuma - SC,12/01/2013 17:00:00,367,Criciuma - SC,Wellington Paulista,1,Primeiro
+37,Mineirão - Belo Horizonte - MG,12/01/2013 17:00:00,368,Cruzeiro - MG,Vinicius Araujo,40,Segundo
+37,Mineirão - Belo Horizonte - MG,12/01/2013 17:00:00,368,Bahia - BA,Marquinhos Gabriel,15,Primeiro
+37,Mineirão - Belo Horizonte - MG,12/01/2013 17:00:00,368,Bahia - BA,Talisca,45,Segundo
+37,Couto Pereira - Curitiba - PR,12/01/2013 17:00:00,369,Coritiba - PR,Deivid,38,Primeiro
+37,Couto Pereira - Curitiba - PR,12/01/2013 17:00:00,369,Coritiba - PR,Alex,23,Segundo
+37,Couto Pereira - Curitiba - PR,12/01/2013 17:00:00,369,Botafogo - RJ,Bruno Mendes,39,Segundo
+37,Moisés Lucarelli - Campinas - SP,12/01/2013 17:00:00,366,Portuguesa - SP,Henrique Dourado,15,Primeiro
+37,Moisés Lucarelli - Campinas - SP,12/01/2013 17:00:00,366,Portuguesa - SP,Wanderson,20,Segundo
+37,Manoel Barradas - Salvador - BA,12/01/2013 17:00:00,364,Vitória - BA,Dinei,43,Primeiro
+37,Manoel Barradas - Salvador - BA,12/01/2013 17:00:00,364,Vitória - BA,Max,2,Segundo
+37,Manoel Barradas - Salvador - BA,12/01/2013 17:00:00,364,Vitória - BA,Dinei,16,Segundo
+37,Manoel Barradas - Salvador - BA,12/01/2013 17:00:00,364,Vitória - BA,Marquinhos,34,Segundo
+37,Manoel Barradas - Salvador - BA,12/01/2013 17:00:00,364,Flamengo - RJ,Wallace Reis,45,Primeiro
+37,Manoel Barradas - Salvador - BA,12/01/2013 17:00:00,364,Flamengo - RJ,Hernane,14,Segundo
+37,Maracanã - Rio de Janeiro - RJ,12/01/2013 17:00:00,361,Vasco da Gama - RJ,Edmilson dos Santos Silva,5,Primeiro
+37,Maracanã - Rio de Janeiro - RJ,12/01/2013 17:00:00,361,Vasco da Gama - RJ,Bernardo,41,Segundo
+37,Arena do Grêmio - Porto Alegre - RS,12/01/2013 19:30:00,365,Grêmio - RS,Barcos,16,Primeiro
+37,Benedito Teixeira - Sao Jose do Rio Preto - SP,12/01/2013 19:30:00,370,Santos - SP,Cicero,33,Primeiro
+37,Benedito Teixeira - Sao Jose do Rio Preto - SP,12/01/2013 19:30:00,370,Santos - SP,Cicero,32,Segundo
+37,Benedito Teixeira - Sao Jose do Rio Preto - SP,12/01/2013 19:30:00,370,Atlético Paranaense - PR,Marcelo Cirino,28,Primeiro
+38,Maracanã - Rio de Janeiro - RJ,12/07/2013 19:00:00,372,Flamengo - RJ,Hernane,13,Primeiro
+38,Maracanã - Rio de Janeiro - RJ,12/07/2013 19:00:00,372,Cruzeiro - MG,Souza,19,Segundo
+38,Arena Pernambuco - Sao Lourenco da Mata - PE,12/07/2013 19:30:00,377,Náutico - PE,Derley,6,Segundo
+38,Maracanã - Rio de Janeiro - RJ,12/08/2013 17:00:00,371,Botafogo - RJ,Lodeiro,9,Primeiro
+38,Maracanã - Rio de Janeiro - RJ,12/08/2013 17:00:00,371,Botafogo - RJ,Elias,23,Segundo
+38,Maracanã - Rio de Janeiro - RJ,12/08/2013 17:00:00,371,Botafogo - RJ,Seedorf,42,Segundo
+38,Novelli Junior - Itu - SP,12/08/2013 17:00:00,373,Coritiba - PR,Luccas Claro,29,Primeiro
+38,Fonte Nova - Salvador - BA,12/08/2013 17:00:00,374,Bahia - BA,Wiliam Barbio,41,Primeiro
+38,Fonte Nova - Salvador - BA,12/08/2013 17:00:00,374,Fluminense - RJ,Wagner,10,Segundo
+38,Fonte Nova - Salvador - BA,12/08/2013 17:00:00,374,Fluminense - RJ,Samuel,37,Segundo
+38,Serra Dourada - Goiania - GO,12/08/2013 17:00:00,376,Santos - SP,Cicero,5,Primeiro
+38,Serra Dourada - Goiania - GO,12/08/2013 17:00:00,376,Santos - SP,Montillo,44,Primeiro
+38,Serra Dourada - Goiania - GO,12/08/2013 17:00:00,376,Santos - SP,Montillo,32,Segundo
+38,Independência - Belo Horizonte - MG,12/08/2013 17:00:00,378,Atlético - MG,Ronaldinho Gaucho,45,Primeiro
+38,Independência - Belo Horizonte - MG,12/08/2013 17:00:00,378,Atlético - MG,Ronaldinho Gaucho,44,Segundo
+38,Independência - Belo Horizonte - MG,12/08/2013 17:00:00,378,Vitória - BA,Marquinhos,3,Primeiro
+38,Independência - Belo Horizonte - MG,12/08/2013 17:00:00,378,Vitória - BA,Max,5,Primeiro
+38,Arena Joinville - Joinville - SC,12/08/2013 17:00:00,379,Atlético Paranaense - PR,Paulo Baier,4,Primeiro
+38,Arena Joinville - Joinville - SC,12/08/2013 17:00:00,379,Atlético Paranaense - PR,Ederson,44,Primeiro
+38,Arena Joinville - Joinville - SC,12/08/2013 17:00:00,379,Atlético Paranaense - PR,Marcelo Cirino,18,Segundo
+38,Arena Joinville - Joinville - SC,12/08/2013 17:00:00,379,Atlético Paranaense - PR,Ederson,36,Segundo
+38,Arena Joinville - Joinville - SC,12/08/2013 17:00:00,379,Atlético Paranaense - PR,Ederson,40,Segundo
+38,Arena Joinville - Joinville - SC,12/08/2013 17:00:00,379,Vasco da Gama - RJ,Edmilson dos Santos Silva,40,Primeiro

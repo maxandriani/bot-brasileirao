@@ -104,12 +104,12 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 2,Nabi Abi Chedid - Braganca Paulista - SP,08/12/2020 19:15:00,14,Red Bull Bragantino - SP,Botafogo - RJ,Observador de VAR,Marrubson Melo Freitas,CBF,DF
 2,Arena da Baixada - Curitiba - PR,08/12/2020 19:15:00,18,Athletico Paranaense - PR,Goiás - GO,Árbitro,Diego Pombo Lopez,AB,BA
 2,Arena da Baixada - Curitiba - PR,08/12/2020 19:15:00,18,Athletico Paranaense - PR,Goiás - GO,Árbitro Assistente 1,Alessandro Alvaro Rocha de Matos,FIFA,BA
-2,Arena da Baixada - Curitiba - PR,08/12/2020 19:15:00,18,Athletico Paranaense - PR,Goiás - GO,Árbitro Assistente 2,Jucimar dos Santos Dias,AB,BA
+2,Arena da Baixada - Curitiba - PR,08/12/2020 19:15:00,18,Athletico Paranaense - PR,Goiás - GO,Árbitro Assistente 2,Jucimar Dos Santos Dias,AB,BA
 2,Arena da Baixada - Curitiba - PR,08/12/2020 19:15:00,18,Athletico Paranaense - PR,Goiás - GO,Quarto Árbitro,Lucas Paulo Torezin,CD,PR
 2,Arena da Baixada - Curitiba - PR,08/12/2020 19:15:00,18,Athletico Paranaense - PR,Goiás - GO,Analista de Campo,Anderson Carlos Gonçalves,CBF,PR
 2,Arena da Baixada - Curitiba - PR,08/12/2020 19:15:00,18,Athletico Paranaense - PR,Goiás - GO,Árbitro de Vídeo,Wagner Reway,MTR,PB
 2,Arena da Baixada - Curitiba - PR,08/12/2020 19:15:00,18,Athletico Paranaense - PR,Goiás - GO,Assistente de Árbitro de Vídeo 1,Marielson Alves Silva,AB,BA
-2,Arena da Baixada - Curitiba - PR,08/12/2020 19:15:00,18,Athletico Paranaense - PR,Goiás - GO,Assistente de Árbitro de Vídeo 2,Elicarlos Franco de Oliveira,AB,BA
+2,Arena da Baixada - Curitiba - PR,08/12/2020 19:15:00,18,Athletico Paranaense - PR,Goiás - GO,Assistente de Árbitro de Vídeo 2,Elicarlos Franco De Oliveira,AB,BA
 2,Arena da Baixada - Curitiba - PR,08/12/2020 19:15:00,18,Athletico Paranaense - PR,Goiás - GO,Observador de VAR,Gilberto Corrale,CBF,SP
 2,Mineirão - Belo Horizonte - MG,08/12/2020 19:15:00,15,Atlético - MG,Corinthians - SP,Árbitro,Wagner do Nascimento Magalhaes,FIFA,RJ
 2,Mineirão - Belo Horizonte - MG,08/12/2020 19:15:00,15,Atlético - MG,Corinthians - SP,Árbitro Assistente 1,Luiz Claudio Regazone,AB,RJ
@@ -250,7 +250,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 3,Olímpico Pedro Ludovico - Goiania - GO,08/16/2020 19:00:00,30,Atlético - GO,Sport - PE,Observador de VAR,Vidal Cordeiro Lopes,CBF,BA
 3,Arena Castelão - Fortaleza - CE,08/16/2020 19:30:00,29,Fortaleza - CE,Botafogo - RJ,Árbitro,Marielson Alves Silva,AB,BA
 3,Arena Castelão - Fortaleza - CE,08/16/2020 19:30:00,29,Fortaleza - CE,Botafogo - RJ,Árbitro Assistente 1,Alessandro Alvaro Rocha de Matos,FIFA,BA
-3,Arena Castelão - Fortaleza - CE,08/16/2020 19:30:00,29,Fortaleza - CE,Botafogo - RJ,Árbitro Assistente 2,Elicarlos Franco de Oliveira,AB,BA
+3,Arena Castelão - Fortaleza - CE,08/16/2020 19:30:00,29,Fortaleza - CE,Botafogo - RJ,Árbitro Assistente 2,Elicarlos Franco De Oliveira,AB,BA
 3,Arena Castelão - Fortaleza - CE,08/16/2020 19:30:00,29,Fortaleza - CE,Botafogo - RJ,Quarto Árbitro,Luiz César de Oliveira Magalhães,AB,CE
 3,Arena Castelão - Fortaleza - CE,08/16/2020 19:30:00,29,Fortaleza - CE,Botafogo - RJ,Analista de Campo,Francisco José de Sousa Soares,CBF,CE
 3,Arena Castelão - Fortaleza - CE,08/16/2020 19:30:00,29,Fortaleza - CE,Botafogo - RJ,Árbitro de Vídeo,Emerson de Almeida Ferreira,AB,MG
@@ -539,12 +539,12 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 7,Arena Castelão - Fortaleza - CE,09/02/2020 19:00:00,69,Ceará - CE,Fortaleza - CE,Observador de VAR,Renato Cardoso da Conceição,CBF,MG
 7,Maracanã - Rio de Janeiro - RJ,09/02/2020 19:15:00,61,Fluminense - RJ,Atlético - GO,Árbitro,Marielson Alves Silva,AB,BA
 7,Maracanã - Rio de Janeiro - RJ,09/02/2020 19:15:00,61,Fluminense - RJ,Atlético - GO,Árbitro Assistente 1,Alessandro Alvaro Rocha de Matos,FIFA,BA
-7,Maracanã - Rio de Janeiro - RJ,09/02/2020 19:15:00,61,Fluminense - RJ,Atlético - GO,Árbitro Assistente 2,Elicarlos Franco de Oliveira,AB,BA
+7,Maracanã - Rio de Janeiro - RJ,09/02/2020 19:15:00,61,Fluminense - RJ,Atlético - GO,Árbitro Assistente 2,Elicarlos Franco De Oliveira,AB,BA
 7,Maracanã - Rio de Janeiro - RJ,09/02/2020 19:15:00,61,Fluminense - RJ,Atlético - GO,Quarto Árbitro,Philip Georg Bennett,CD,RJ
 7,Maracanã - Rio de Janeiro - RJ,09/02/2020 19:15:00,61,Fluminense - RJ,Atlético - GO,Analista de Campo,Sergio de Oliveira Santos,CBF,RJ
 7,Maracanã - Rio de Janeiro - RJ,09/02/2020 19:15:00,61,Fluminense - RJ,Atlético - GO,Árbitro de Vídeo,Rodrigo Guarizo Ferreira do Amaral,AB,SP
 7,Maracanã - Rio de Janeiro - RJ,09/02/2020 19:15:00,61,Fluminense - RJ,Atlético - GO,Assistente de Árbitro de Vídeo 1,Diego Pombo Lopez,AB,BA
-7,Maracanã - Rio de Janeiro - RJ,09/02/2020 19:15:00,61,Fluminense - RJ,Atlético - GO,Assistente de Árbitro de Vídeo 2,Jucimar dos Santos Dias,AB,BA
+7,Maracanã - Rio de Janeiro - RJ,09/02/2020 19:15:00,61,Fluminense - RJ,Atlético - GO,Assistente de Árbitro de Vídeo 2,Jucimar Dos Santos Dias,AB,BA
 7,Maracanã - Rio de Janeiro - RJ,09/02/2020 19:15:00,61,Fluminense - RJ,Atlético - GO,Observador de VAR,Jose Henrique de Carvalho,CBF,SP
 7,Hailé Pinheiro - Goiania - GO,09/02/2020 19:15:00,70,Goiás - GO,Corinthians - SP,Árbitro,José Mendonça da Silva Junior,AB,PR
 7,Hailé Pinheiro - Goiania - GO,09/02/2020 19:15:00,70,Goiás - GO,Corinthians - SP,Árbitro Assistente 1,Ivan Carlos Bohn,AB,PR
@@ -685,7 +685,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 8,Olímpico Pedro Ludovico - Goiania - GO,09/06/2020 19:00:00,80,Atlético - GO,Grêmio - RS,Observador de VAR,Roberto Perassi,CBF,SP
 8,Couto Pereira - Curitiba - PR,09/06/2020 20:30:00,78,Coritiba - PR,Atlético - MG,Árbitro,Diego Pombo Lopez,AB,BA
 8,Couto Pereira - Curitiba - PR,09/06/2020 20:30:00,78,Coritiba - PR,Atlético - MG,Árbitro Assistente 1,Alessandro Alvaro Rocha de Matos,FIFA,BA
-8,Couto Pereira - Curitiba - PR,09/06/2020 20:30:00,78,Coritiba - PR,Atlético - MG,Árbitro Assistente 2,Jucimar dos Santos Dias,AB,BA
+8,Couto Pereira - Curitiba - PR,09/06/2020 20:30:00,78,Coritiba - PR,Atlético - MG,Árbitro Assistente 2,Jucimar Dos Santos Dias,AB,BA
 8,Couto Pereira - Curitiba - PR,09/06/2020 20:30:00,78,Coritiba - PR,Atlético - MG,Quarto Árbitro,Murilo Ugolini Klein,BAS,PR
 8,Couto Pereira - Curitiba - PR,09/06/2020 20:30:00,78,Coritiba - PR,Atlético - MG,Analista de Campo,Ronaldo Parpinelli,CBF,PR
 8,Couto Pereira - Curitiba - PR,09/06/2020 20:30:00,78,Coritiba - PR,Atlético - MG,Árbitro de Vídeo,Gilberto Rodrigues Castro Junior,AB,PE
@@ -842,7 +842,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 10,Pituaçu - Salvador - BA,09/13/2020 18:00:00,97,Bahia - BA,Atlético - GO,Observador de VAR,Cláudio José de Oliveira Soares,CBF,RJ
 10,Arena Castelão - Fortaleza - CE,09/13/2020 18:00:00,99,Ceará - CE,Flamengo - RJ,Árbitro,Marielson Alves Silva,AB,BA
 10,Arena Castelão - Fortaleza - CE,09/13/2020 18:00:00,99,Ceará - CE,Flamengo - RJ,Árbitro Assistente 1,Alessandro Alvaro Rocha de Matos,FIFA,BA
-10,Arena Castelão - Fortaleza - CE,09/13/2020 18:00:00,99,Ceará - CE,Flamengo - RJ,Árbitro Assistente 2,Jucimar dos Santos Dias,AB,BA
+10,Arena Castelão - Fortaleza - CE,09/13/2020 18:00:00,99,Ceará - CE,Flamengo - RJ,Árbitro Assistente 2,Jucimar Dos Santos Dias,AB,BA
 10,Arena Castelão - Fortaleza - CE,09/13/2020 18:00:00,99,Ceará - CE,Flamengo - RJ,Quarto Árbitro,Luciano da Silva Miranda Filho,CD,CE
 10,Arena Castelão - Fortaleza - CE,09/13/2020 18:00:00,99,Ceará - CE,Flamengo - RJ,Analista de Campo,Francisco José de Sousa Soares,CBF,CE
 10,Arena Castelão - Fortaleza - CE,09/13/2020 18:00:00,99,Ceará - CE,Flamengo - RJ,Árbitro de Vídeo,Marcio Henrique de Gois,AB,SP
@@ -858,7 +858,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 10,Hailé Pinheiro - Goiania - GO,09/13/2020 18:00:00,100,Goiás - GO,Internacional - RS,Assistente de Árbitro de Vídeo 2,Vitor Carmona Metestaine,AB,SP
 10,Hailé Pinheiro - Goiania - GO,09/13/2020 18:00:00,100,Goiás - GO,Internacional - RS,Observador de VAR,Marcio Eustaquio Sousa Santiago,CBF,MG
 10,Allianz Parque - Sao Paulo - SP,09/13/2020 19:45:00,93,Palmeiras - SP,Sport - PE,Árbitro,Diego Pombo Lopez,AB,BA
-10,Allianz Parque - Sao Paulo - SP,09/13/2020 19:45:00,93,Palmeiras - SP,Sport - PE,Árbitro Assistente 1,Elicarlos Franco de Oliveira,AB,BA
+10,Allianz Parque - Sao Paulo - SP,09/13/2020 19:45:00,93,Palmeiras - SP,Sport - PE,Árbitro Assistente 1,Elicarlos Franco De Oliveira,AB,BA
 10,Allianz Parque - Sao Paulo - SP,09/13/2020 19:45:00,93,Palmeiras - SP,Sport - PE,Árbitro Assistente 2,Oberto da Silva Santos,AB,PB
 10,Allianz Parque - Sao Paulo - SP,09/13/2020 19:45:00,93,Palmeiras - SP,Sport - PE,Quarto Árbitro,Vinicius Gonçalves Dias Araujo,AB,SP
 10,Allianz Parque - Sao Paulo - SP,09/13/2020 19:45:00,93,Palmeiras - SP,Sport - PE,Árbitro de Vídeo,Carlos Eduardo Nunes Braga,AB,RJ
@@ -896,7 +896,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 11,Neo Química Arena - Sao Paulo - SP,09/16/2020 21:30:00,105,Corinthians - SP,Bahia - BA,Observador de VAR,Raimundo Nonato Lopo De Abreu,CBF,DF
 11,Arena Castelão - Fortaleza - CE,09/19/2020 19:00:00,109,Fortaleza - CE,Internacional - RS,Árbitro,Marielson Alves Silva,AB,BA
 11,Arena Castelão - Fortaleza - CE,09/19/2020 19:00:00,109,Fortaleza - CE,Internacional - RS,Árbitro Assistente 1,Alessandro Alvaro Rocha de Matos,FIFA,BA
-11,Arena Castelão - Fortaleza - CE,09/19/2020 19:00:00,109,Fortaleza - CE,Internacional - RS,Árbitro Assistente 2,Jucimar dos Santos Dias,AB,BA
+11,Arena Castelão - Fortaleza - CE,09/19/2020 19:00:00,109,Fortaleza - CE,Internacional - RS,Árbitro Assistente 2,Jucimar Dos Santos Dias,AB,BA
 11,Arena Castelão - Fortaleza - CE,09/19/2020 19:00:00,109,Fortaleza - CE,Internacional - RS,Quarto Árbitro,Luciano da Silva Miranda Filho,CD,CE
 11,Arena Castelão - Fortaleza - CE,09/19/2020 19:00:00,109,Fortaleza - CE,Internacional - RS,Delegado Local,Jairo Juliao Martins,,CE
 11,Arena Castelão - Fortaleza - CE,09/19/2020 19:00:00,109,Fortaleza - CE,Internacional - RS,Analista de Campo,Francisco de Assis Almeida Filho,CBF,CE
@@ -1005,7 +1005,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 12,São Januário - Rio de Janeiro - RJ,09/27/2020 11:00:00,112,Vasco da Gama - RJ,Red Bull Bragantino - SP,Árbitro Assistente 2,Sidmar dos Santos Meurer,AB,PR
 12,São Januário - Rio de Janeiro - RJ,09/27/2020 11:00:00,112,Vasco da Gama - RJ,Red Bull Bragantino - SP,Quarto Árbitro,Pathrice Wallace Corrêa Maia,AB,RJ
 12,São Januário - Rio de Janeiro - RJ,09/27/2020 11:00:00,112,Vasco da Gama - RJ,Red Bull Bragantino - SP,Árbitro de Vídeo,Paulo Roberto Alves Junior,AB,PR
-12,São Januário - Rio de Janeiro - RJ,09/27/2020 11:00:00,112,Vasco da Gama - RJ,Red Bull Bragantino - SP,Assistente de Árbitro de Vídeo 1,Dewson Fernando Freitas da Silva,MTR,PA
+12,São Januário - Rio de Janeiro - RJ,09/27/2020 11:00:00,112,Vasco da Gama - RJ,Red Bull Bragantino - SP,Assistente de Árbitro de Vídeo 1,Dewson Fernando Freitas Da Silva,MTR,PA
 12,São Januário - Rio de Janeiro - RJ,09/27/2020 11:00:00,112,Vasco da Gama - RJ,Red Bull Bragantino - SP,Assistente de Árbitro de Vídeo 2,Esdras Mariano de Lima Albuquerque,AB,AL
 12,São Januário - Rio de Janeiro - RJ,09/27/2020 11:00:00,112,Vasco da Gama - RJ,Red Bull Bragantino - SP,Observador de VAR,Alicio Pena Junior,CBF,MG
 12,Allianz Parque - Sao Paulo - SP,09/27/2020 16:00:00,113,Palmeiras - SP,Flamengo - RJ,Árbitro,Jean Pierre Goncalves Lima,AB,RS
@@ -1118,7 +1118,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 13,Arena Castelão - Fortaleza - CE,10/04/2020 18:15:00,129,Fortaleza - CE,Atlético - GO,Observador de VAR,Raimundo Nonato Lopo De Abreu,CBF,DF
 13,Hailé Pinheiro - Goiania - GO,10/04/2020 18:15:00,130,Goiás - GO,Santos - SP,Árbitro,Marielson Alves Silva,AB,BA
 13,Hailé Pinheiro - Goiania - GO,10/04/2020 18:15:00,130,Goiás - GO,Santos - SP,Árbitro Assistente 1,Alessandro Alvaro Rocha de Matos,FIFA,BA
-13,Hailé Pinheiro - Goiania - GO,10/04/2020 18:15:00,130,Goiás - GO,Santos - SP,Árbitro Assistente 2,Jucimar dos Santos Dias,AB,BA
+13,Hailé Pinheiro - Goiania - GO,10/04/2020 18:15:00,130,Goiás - GO,Santos - SP,Árbitro Assistente 2,Jucimar Dos Santos Dias,AB,BA
 13,Hailé Pinheiro - Goiania - GO,10/04/2020 18:15:00,130,Goiás - GO,Santos - SP,Quarto Árbitro,Anderson Ribeiro Gonçalves,CD,GO
 13,Hailé Pinheiro - Goiania - GO,10/04/2020 18:15:00,130,Goiás - GO,Santos - SP,Árbitro de Vídeo,Caio Max Augusto Vieira,AB,RN
 13,Hailé Pinheiro - Goiania - GO,10/04/2020 18:15:00,130,Goiás - GO,Santos - SP,Assistente de Árbitro de Vídeo 1,Pablo Ramon Goncalves Pinheiro,AB,RN
@@ -1172,7 +1172,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 14,Morumbi - Sao Paulo - SP,10/07/2020 20:30:00,133,São Paulo - SP,Atlético - GO,Quarto Árbitro,Vinicius Furlan,AB,SP
 14,Morumbi - Sao Paulo - SP,10/07/2020 20:30:00,133,São Paulo - SP,Atlético - GO,Analista de Campo,Carlos Augusto Nogueira Junior,CBF,SP
 14,Morumbi - Sao Paulo - SP,10/07/2020 20:30:00,133,São Paulo - SP,Atlético - GO,Árbitro de Vídeo,Daniel Nobre Bins,AB,RS
-14,Morumbi - Sao Paulo - SP,10/07/2020 20:30:00,133,São Paulo - SP,Atlético - GO,Assistente de Árbitro de Vídeo 1,Dewson Fernando Freitas da Silva,MTR,PA
+14,Morumbi - Sao Paulo - SP,10/07/2020 20:30:00,133,São Paulo - SP,Atlético - GO,Assistente de Árbitro de Vídeo 1,Dewson Fernando Freitas Da Silva,MTR,PA
 14,Morumbi - Sao Paulo - SP,10/07/2020 20:30:00,133,São Paulo - SP,Atlético - GO,Assistente de Árbitro de Vídeo 2,Mauricio Coelho Silva Penna,AB,RS
 14,Morumbi - Sao Paulo - SP,10/07/2020 20:30:00,133,São Paulo - SP,Atlético - GO,Observador de VAR,Emerson Luiz Sobral,CBF,PE
 14,Hailé Pinheiro - Goiania - GO,10/07/2020 20:30:00,140,Goiás - GO,Fluminense - RJ,Árbitro,Luiz Flavio de Oliveira,FIFA,SP
@@ -1507,7 +1507,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 18,Arena Castelão - Fortaleza - CE,10/24/2020 19:00:00,179,Ceará - CE,Coritiba - PR,Analista de Campo,Francisco José de Sousa Soares,CBF,CE
 18,Arena Castelão - Fortaleza - CE,10/24/2020 19:00:00,179,Ceará - CE,Coritiba - PR,Árbitro de Vídeo,Igor Junio Benevenuto de Oliveira,AB,MG
 18,Arena Castelão - Fortaleza - CE,10/24/2020 19:00:00,179,Ceará - CE,Coritiba - PR,Assistente de Árbitro de Vídeo 1,Marco Aurelio Augusto Fazekas Ferreira,AB,MG
-18,Arena Castelão - Fortaleza - CE,10/24/2020 19:00:00,179,Ceará - CE,Coritiba - PR,Assistente de Árbitro de Vídeo 2,Jucimar dos Santos Dias,AB,BA
+18,Arena Castelão - Fortaleza - CE,10/24/2020 19:00:00,179,Ceará - CE,Coritiba - PR,Assistente de Árbitro de Vídeo 2,Jucimar Dos Santos Dias,AB,BA
 18,Arena Castelão - Fortaleza - CE,10/24/2020 19:00:00,179,Ceará - CE,Coritiba - PR,Observador de VAR,Emerson Luiz Sobral,CBF,PE
 18,Mineirão - Belo Horizonte - MG,10/24/2020 21:00:00,175,Atlético - MG,Sport - PE,Árbitro,Paulo Roberto Alves Junior,AB,PR
 18,Mineirão - Belo Horizonte - MG,10/24/2020 21:00:00,175,Atlético - MG,Sport - PE,Árbitro Assistente 1,Rafael Trombeta,AB,PR
@@ -1571,7 +1571,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 18,Morumbi - Sao Paulo - SP,12/09/2020 21:30:00,173,São Paulo - SP,Botafogo - RJ,Observador de VAR,Vidal Cordeiro Lopes,CBF,BA
 19,Nilton Santos - Rio de Janeiro - RJ,10/31/2020 17:00:00,182,Botafogo - RJ,Ceará - CE,Árbitro,Diego Pombo Lopez,AB,BA
 19,Nilton Santos - Rio de Janeiro - RJ,10/31/2020 17:00:00,182,Botafogo - RJ,Ceará - CE,Árbitro Assistente 1,Bruno Boschilia,FIFA,PR
-19,Nilton Santos - Rio de Janeiro - RJ,10/31/2020 17:00:00,182,Botafogo - RJ,Ceará - CE,Árbitro Assistente 2,Elicarlos Franco de Oliveira,AB,BA
+19,Nilton Santos - Rio de Janeiro - RJ,10/31/2020 17:00:00,182,Botafogo - RJ,Ceará - CE,Árbitro Assistente 2,Elicarlos Franco De Oliveira,AB,BA
 19,Nilton Santos - Rio de Janeiro - RJ,10/31/2020 17:00:00,182,Botafogo - RJ,Ceará - CE,Quarto Árbitro,João Ennio Sobral,CD,RJ
 19,Nilton Santos - Rio de Janeiro - RJ,10/31/2020 17:00:00,182,Botafogo - RJ,Ceará - CE,Árbitro de Vídeo,Marcio Henrique de Gois,AB,SP
 19,Nilton Santos - Rio de Janeiro - RJ,10/31/2020 17:00:00,182,Botafogo - RJ,Ceará - CE,Assistente de Árbitro de Vídeo 1,Dyorgines Jose Padovani de Andrade,AB,ES
@@ -1694,7 +1694,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 20,São Januário - Rio de Janeiro - RJ,11/08/2020 16:00:00,192,Vasco da Gama - RJ,Palmeiras - SP,Analista de Campo,Jose Carlos Santiago Andrade,CBF,RJ
 20,São Januário - Rio de Janeiro - RJ,11/08/2020 16:00:00,192,Vasco da Gama - RJ,Palmeiras - SP,Árbitro de Vídeo,Daniel Nobre Bins,AB,RS
 20,São Januário - Rio de Janeiro - RJ,11/08/2020 16:00:00,192,Vasco da Gama - RJ,Palmeiras - SP,Assistente de Árbitro de Vídeo 1,Alisson Sidnei Furtado,AB,TO
-20,São Januário - Rio de Janeiro - RJ,11/08/2020 16:00:00,192,Vasco da Gama - RJ,Palmeiras - SP,Assistente de Árbitro de Vídeo 2,Jucimar dos Santos Dias,AB,BA
+20,São Januário - Rio de Janeiro - RJ,11/08/2020 16:00:00,192,Vasco da Gama - RJ,Palmeiras - SP,Assistente de Árbitro de Vídeo 2,Jucimar Dos Santos Dias,AB,BA
 20,São Januário - Rio de Janeiro - RJ,11/08/2020 16:00:00,192,Vasco da Gama - RJ,Palmeiras - SP,Observador de VAR,Anderson Carlos Gonçalves,CBF,PR
 20,Nabi Abi Chedid - Braganca Paulista - SP,11/08/2020 18:15:00,194,Red Bull Bragantino - SP,Santos - SP,Árbitro,Vinicius Furlan,AB,SP
 20,Nabi Abi Chedid - Braganca Paulista - SP,11/08/2020 18:15:00,194,Red Bull Bragantino - SP,Santos - SP,Árbitro Assistente 1,Neuza Ines Back,FIFA,SP
@@ -1955,7 +1955,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 23,Vila Belmiro - Santos - SP,11/28/2020 17:00:00,224,Santos - SP,Sport - PE,Delegado Local,Wilson Roberto Santoro,CBF,SP
 23,Vila Belmiro - Santos - SP,11/28/2020 17:00:00,224,Santos - SP,Sport - PE,Analista de Campo,Newton dos Reis Barreira,AB,SP
 23,Vila Belmiro - Santos - SP,11/28/2020 17:00:00,224,Santos - SP,Sport - PE,Árbitro de Vídeo,Braulio da Silva Machado,FIFA,SC
-23,Vila Belmiro - Santos - SP,11/28/2020 17:00:00,224,Santos - SP,Sport - PE,Assistente de Árbitro de Vídeo 1,Dewson Fernando Freitas da Silva,MTR,PA
+23,Vila Belmiro - Santos - SP,11/28/2020 17:00:00,224,Santos - SP,Sport - PE,Assistente de Árbitro de Vídeo 1,Dewson Fernando Freitas Da Silva,MTR,PA
 23,Vila Belmiro - Santos - SP,11/28/2020 17:00:00,224,Santos - SP,Sport - PE,Assistente de Árbitro de Vídeo 2,Oberto da Silva Santos,AB,PB
 23,Vila Belmiro - Santos - SP,11/28/2020 17:00:00,224,Santos - SP,Sport - PE,Observador de VAR,Cleidy Mary dos Santos Nunes Ribeiro,CBF,SC
 23,Arena Fonte Nova - Salvador - BA,11/28/2020 19:00:00,227,Bahia - BA,São Paulo - SP,Árbitro,Leandro Pedro Vuaden,MTR,RS
@@ -2456,7 +2456,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 29,Arena Castelão - Fortaleza - CE,01/09/2021 21:00:00,289,Fortaleza - CE,Grêmio - RS,Analista de Campo,Paulo Silvio dos Santos,CBF,CE
 29,Arena Castelão - Fortaleza - CE,01/09/2021 21:00:00,289,Fortaleza - CE,Grêmio - RS,Árbitro de Vídeo,Gilberto Rodrigues Castro Junior,AB,PE
 29,Arena Castelão - Fortaleza - CE,01/09/2021 21:00:00,289,Fortaleza - CE,Grêmio - RS,Assistente de Árbitro de Vídeo 1,Thiago Luis Scarascati,CD,SP
-29,Arena Castelão - Fortaleza - CE,01/09/2021 21:00:00,289,Fortaleza - CE,Grêmio - RS,Assistente de Árbitro de Vídeo 2,Jucimar dos Santos Dias,AB,BA
+29,Arena Castelão - Fortaleza - CE,01/09/2021 21:00:00,289,Fortaleza - CE,Grêmio - RS,Assistente de Árbitro de Vídeo 2,Jucimar Dos Santos Dias,AB,BA
 29,Arena Castelão - Fortaleza - CE,01/09/2021 21:00:00,289,Fortaleza - CE,Grêmio - RS,Observador de VAR,Jose Alexandre Barbosa Lima,CBF,RJ
 29,Maracanã - Rio de Janeiro - RJ,01/10/2021 16:00:00,281,Flamengo - RJ,Ceará - CE,Árbitro,Paulo Roberto Alves Junior,AB,PR
 29,Maracanã - Rio de Janeiro - RJ,01/10/2021 16:00:00,281,Flamengo - RJ,Ceará - CE,Árbitro Assistente 1,Bruno Boschilia,FIFA,PR
@@ -2660,7 +2660,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 31,Hailé Pinheiro - Goiania - GO,01/21/2021 19:00:00,310,Goiás - GO,Ceará - CE,Árbitro Assistente 2,Henrique Neu Ribeiro,AB,SC
 31,Hailé Pinheiro - Goiania - GO,01/21/2021 19:00:00,310,Goiás - GO,Ceará - CE,Quarto Árbitro,Anderson Ribeiro Gonçalves,CD,GO
 31,Hailé Pinheiro - Goiania - GO,01/21/2021 19:00:00,310,Goiás - GO,Ceará - CE,Árbitro de Vídeo,Rafael Traci,FIFA,SC
-31,Hailé Pinheiro - Goiania - GO,01/21/2021 19:00:00,310,Goiás - GO,Ceará - CE,Assistente de Árbitro de Vídeo 1,Dewson Fernando Freitas da Silva,MTR,PA
+31,Hailé Pinheiro - Goiania - GO,01/21/2021 19:00:00,310,Goiás - GO,Ceará - CE,Assistente de Árbitro de Vídeo 1,Dewson Fernando Freitas Da Silva,MTR,PA
 31,Hailé Pinheiro - Goiania - GO,01/21/2021 19:00:00,310,Goiás - GO,Ceará - CE,Assistente de Árbitro de Vídeo 2,Thiaggo Americano Labes,AB,SC
 31,Hailé Pinheiro - Goiania - GO,01/21/2021 19:00:00,310,Goiás - GO,Ceará - CE,Observador de VAR,Jose Henrique de Carvalho,CBF,SP
 31,Arena Castelão - Fortaleza - CE,01/21/2021 19:00:00,309,Fortaleza - CE,Santos - SP,Árbitro,Ricardo Marques Ribeiro,MTR,MG
@@ -2728,7 +2728,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 32,Beira-Rio - Porto Alegre - RS,01/24/2021 16:00:00,316,Internacional - RS,Grêmio - RS,Árbitro Assistente 2,Miguel Cataneo Ribeiro da Costa,AB,SP
 32,Beira-Rio - Porto Alegre - RS,01/24/2021 16:00:00,316,Internacional - RS,Grêmio - RS,Quarto Árbitro,Jonathan Benkenstein Pinheiro,CD,RS
 32,Beira-Rio - Porto Alegre - RS,01/24/2021 16:00:00,316,Internacional - RS,Grêmio - RS,Árbitro de Vídeo,Wagner Reway,MTR,PB
-32,Beira-Rio - Porto Alegre - RS,01/24/2021 16:00:00,316,Internacional - RS,Grêmio - RS,Assistente de Árbitro de Vídeo 1,Dewson Fernando Freitas da Silva,MTR,PA
+32,Beira-Rio - Porto Alegre - RS,01/24/2021 16:00:00,316,Internacional - RS,Grêmio - RS,Assistente de Árbitro de Vídeo 1,Dewson Fernando Freitas Da Silva,MTR,PA
 32,Beira-Rio - Porto Alegre - RS,01/24/2021 16:00:00,316,Internacional - RS,Grêmio - RS,Assistente de Árbitro de Vídeo 2,Oberto da Silva Santos,AB,PB
 32,Beira-Rio - Porto Alegre - RS,01/24/2021 16:00:00,316,Internacional - RS,Grêmio - RS,Observador de VAR,Emerson Augusto de Carvalho,CBF,SP
 32,Ilha do Retiro - Recife - PE,01/24/2021 18:15:00,317,Sport - PE,Bahia - BA,Árbitro,Raphael Claus,FIFA,SP
@@ -2792,7 +2792,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 33,Arena Castelão - Fortaleza - CE,01/31/2021 16:00:00,329,Ceará - CE,Athletico Paranaense - PR,Analista de Campo,Eveliny P de Almeida da Silva,CBF,CE
 33,Arena Castelão - Fortaleza - CE,01/31/2021 16:00:00,329,Ceará - CE,Athletico Paranaense - PR,Árbitro de Vídeo,Gilberto Rodrigues Castro Junior,AB,PE
 33,Arena Castelão - Fortaleza - CE,01/31/2021 16:00:00,329,Ceará - CE,Athletico Paranaense - PR,Assistente de Árbitro de Vídeo 1,Tiago Nascimento dos Santos,AB,PE
-33,Arena Castelão - Fortaleza - CE,01/31/2021 16:00:00,329,Ceará - CE,Athletico Paranaense - PR,Assistente de Árbitro de Vídeo 2,Jucimar dos Santos Dias,AB,BA
+33,Arena Castelão - Fortaleza - CE,01/31/2021 16:00:00,329,Ceará - CE,Athletico Paranaense - PR,Assistente de Árbitro de Vídeo 2,Jucimar Dos Santos Dias,AB,BA
 33,Arena Castelão - Fortaleza - CE,01/31/2021 16:00:00,329,Ceará - CE,Athletico Paranaense - PR,Observador de VAR,Hilton Moutinho Rodrigues,CBF,RJ
 33,Antônio Accioly - Goiania - GO,01/31/2021 16:00:00,330,Atlético - GO,São Paulo - SP,Árbitro,Braulio da Silva Machado,FIFA,SC
 33,Antônio Accioly - Goiania - GO,01/31/2021 16:00:00,330,Atlético - GO,São Paulo - SP,Árbitro Assistente 1,Alessandro Alvaro Rocha de Matos,FIFA,BA
@@ -2931,7 +2931,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 34,Arena da Baixada - Curitiba - PR,02/04/2021 21:00:00,338,Athletico Paranaense - PR,Internacional - RS,Analista de Campo,Faustino Vicente Lopes,CBF,PR
 34,Arena da Baixada - Curitiba - PR,02/04/2021 21:00:00,338,Athletico Paranaense - PR,Internacional - RS,Árbitro de Vídeo,Emerson de Almeida Ferreira,AB,MG
 34,Arena da Baixada - Curitiba - PR,02/04/2021 21:00:00,338,Athletico Paranaense - PR,Internacional - RS,Assistente de Árbitro de Vídeo 1,Diego Pombo Lopez,AB,BA
-34,Arena da Baixada - Curitiba - PR,02/04/2021 21:00:00,338,Athletico Paranaense - PR,Internacional - RS,Assistente de Árbitro de Vídeo 2,Elicarlos Franco de Oliveira,AB,BA
+34,Arena da Baixada - Curitiba - PR,02/04/2021 21:00:00,338,Athletico Paranaense - PR,Internacional - RS,Assistente de Árbitro de Vídeo 2,Elicarlos Franco De Oliveira,AB,BA
 34,Arena da Baixada - Curitiba - PR,02/04/2021 21:00:00,338,Athletico Paranaense - PR,Internacional - RS,Observador de VAR,Ednilson Corona,CBF,SP
 34,Nilton Santos - Rio de Janeiro - RJ,02/05/2021 20:00:00,332,Botafogo - RJ,Sport - PE,Árbitro,Luiz Flavio de Oliveira,FIFA,SP
 34,Nilton Santos - Rio de Janeiro - RJ,02/05/2021 20:00:00,332,Botafogo - RJ,Sport - PE,Árbitro Assistente 1,Miguel Cataneo Ribeiro da Costa,AB,SP
@@ -2999,7 +2999,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 35,Arena Castelão - Fortaleza - CE,02/10/2021 19:15:00,349,Fortaleza - CE,Vasco da Gama - RJ,Delegado Local,Ednei de Sousa Lima,,CE
 35,Arena Castelão - Fortaleza - CE,02/10/2021 19:15:00,349,Fortaleza - CE,Vasco da Gama - RJ,Analista de Campo,Francisco de Assis Almeida Filho,CBF,CE
 35,Arena Castelão - Fortaleza - CE,02/10/2021 19:15:00,349,Fortaleza - CE,Vasco da Gama - RJ,Árbitro de Vídeo,Wagner Reway,MTR,PB
-35,Arena Castelão - Fortaleza - CE,02/10/2021 19:15:00,349,Fortaleza - CE,Vasco da Gama - RJ,Assistente de Árbitro de Vídeo 1,Dewson Fernando Freitas da Silva,MTR,PA
+35,Arena Castelão - Fortaleza - CE,02/10/2021 19:15:00,349,Fortaleza - CE,Vasco da Gama - RJ,Assistente de Árbitro de Vídeo 1,Dewson Fernando Freitas Da Silva,MTR,PA
 35,Arena Castelão - Fortaleza - CE,02/10/2021 19:15:00,349,Fortaleza - CE,Vasco da Gama - RJ,Assistente de Árbitro de Vídeo 2,Thiaggo Americano Labes,AB,SC
 35,Arena Castelão - Fortaleza - CE,02/10/2021 19:15:00,349,Fortaleza - CE,Vasco da Gama - RJ,Observador de VAR,Ana Paula da Silva Oliveira,CBF,SP
 35,Morumbi - Sao Paulo - SP,02/10/2021 21:00:00,343,São Paulo - SP,Ceará - CE,Árbitro,Savio Pereira Sampaio,AB,DF
@@ -3077,7 +3077,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 36,Maracanã - Rio de Janeiro - RJ,02/14/2021 16:00:00,351,Flamengo - RJ,Corinthians - SP,Árbitro Assistente 2,Alex dos Santos,AB,SC
 36,Maracanã - Rio de Janeiro - RJ,02/14/2021 16:00:00,351,Flamengo - RJ,Corinthians - SP,Quarto Árbitro,Felipe da Silva Gonçalves Paludo,CD,RJ
 36,Maracanã - Rio de Janeiro - RJ,02/14/2021 16:00:00,351,Flamengo - RJ,Corinthians - SP,Árbitro de Vídeo,Wagner Reway,MTR,PB
-36,Maracanã - Rio de Janeiro - RJ,02/14/2021 16:00:00,351,Flamengo - RJ,Corinthians - SP,Assistente de Árbitro de Vídeo 1,Dewson Fernando Freitas da Silva,MTR,PA
+36,Maracanã - Rio de Janeiro - RJ,02/14/2021 16:00:00,351,Flamengo - RJ,Corinthians - SP,Assistente de Árbitro de Vídeo 1,Dewson Fernando Freitas Da Silva,MTR,PA
 36,Maracanã - Rio de Janeiro - RJ,02/14/2021 16:00:00,351,Flamengo - RJ,Corinthians - SP,Assistente de Árbitro de Vídeo 2,Oberto da Silva Santos,AB,PB
 36,Maracanã - Rio de Janeiro - RJ,02/14/2021 16:00:00,351,Flamengo - RJ,Corinthians - SP,Observador de VAR,Marcos Andre Gomes da Penha,CBF,ES
 36,Allianz Parque - Sao Paulo - SP,02/14/2021 18:15:00,353,Palmeiras - SP,Fortaleza - CE,Árbitro,Ricardo Marques Ribeiro,MTR,MG
@@ -3163,7 +3163,7 @@ Rodada,JogoLocal,JogoData,JogoNumero,JogoTimeA,JogoTimeB,Funcao,Nome,Categoria,F
 37,Ilha do Retiro - Recife - PE,02/21/2021 16:00:00,367,Sport - PE,Atlético - MG,Quarto Árbitro,José Woshington da Silva,AB,PE
 37,Ilha do Retiro - Recife - PE,02/21/2021 16:00:00,367,Sport - PE,Atlético - MG,Analista de Campo,Sebastiao Rufino Ribeiro Filho,CBF,PE
 37,Ilha do Retiro - Recife - PE,02/21/2021 16:00:00,367,Sport - PE,Atlético - MG,Árbitro de Vídeo,Wagner Reway,MTR,PB
-37,Ilha do Retiro - Recife - PE,02/21/2021 16:00:00,367,Sport - PE,Atlético - MG,Assistente de Árbitro de Vídeo 1,Dewson Fernando Freitas da Silva,MTR,PA
+37,Ilha do Retiro - Recife - PE,02/21/2021 16:00:00,367,Sport - PE,Atlético - MG,Assistente de Árbitro de Vídeo 1,Dewson Fernando Freitas Da Silva,MTR,PA
 37,Ilha do Retiro - Recife - PE,02/21/2021 16:00:00,367,Sport - PE,Atlético - MG,Assistente de Árbitro de Vídeo 2,Fábio Pereira,MTR,TO
 37,Ilha do Retiro - Recife - PE,02/21/2021 16:00:00,367,Sport - PE,Atlético - MG,Observador de VAR,Emerson Augusto de Carvalho,CBF,SP
 37,Vila Belmiro - Santos - SP,02/21/2021 18:15:00,364,Santos - SP,Fluminense - RJ,Árbitro,Savio Pereira Sampaio,AB,DF
